@@ -1,0 +1,55 @@
+import type { GlossierProduct } from '@/types/glossier'
+
+export const MOCK_PRODUCTS: GlossierProduct[] = [
+  {
+    id: 1,
+    brand: 'GLOSSIER',
+    name: 'Invisible Shield Daily Sunscreen',
+    price: '$35.00',
+    rating: 4.8,
+    reviews: 1240,
+    badge: 'BESTSELLER',
+    image: 'https://images.unsplash.com/photo-1629198688000-71f23e745b6e?w=800&auto=format&fit=crop&q=80',
+  },
+  {
+    id: 2,
+    brand: 'GLOSSIER',
+    name: 'Super Pure Niacinamide + Zinc Serum',
+    price: '$45.00',
+    rating: 4.6,
+    reviews: 890,
+    image: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80',
+  },
+  {
+    id: 3,
+    brand: 'GLOSSIER',
+    name: 'After Baume Moisture Barrier Recovery Cream',
+    price: '$28.00',
+    rating: 4.9,
+    reviews: 532,
+    badge: 'NEW',
+    image: 'https://images.unsplash.com/photo-1608248597279-f99d160bfbc8?w=800&auto=format&fit=crop&q=80',
+  },
+  {
+    id: 4,
+    brand: 'GLOSSIER',
+    name: 'The Skincare Edit Set',
+    price: '$65.00',
+    valueText: 'VALUED AT $88',
+    rating: 4.7,
+    reviews: 210,
+    badge: 'VALUE SET',
+    image: 'https://images.unsplash.com/photo-1596462502278-27bfdd403348?w=800&auto=format&fit=crop&q=80',
+  },
+  {
+    id: 5,
+    brand: 'GLOSSIER',
+    name: 'Milky Jelly Cleanser',
+    price: '$24.00',
+    rating: 4.8,
+    reviews: 4500,
+    badge: 'ICON',
+    image: 'https://images.unsplash.com/photo-1556228720-1987df3629e5?w=800&auto=format&fit=crop&q=80',
+  },
+]
+
