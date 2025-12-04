@@ -1,0 +1,600 @@
+{
+  "product_id": "pimprod2031401",
+  "product_url": "https://www.ulta.com/p/gloss-bomb-heat-universal-lip-luminizer-plumper-pimprod2031401",
+  "extracted_at": "2025-09-23T04:00:31.768065+00:00",
+  "product_name": "FENTY BEAUTY by RihannaGloss Bomb Heat Universal Lip Luminizer + Plumper",
+  "brand": "FENTY BEAUTY by Rihanna",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Lips",
+    "Lip Plumpers"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "lips",
+    "lip-plumpers"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "26.00",
+  "availability": "in_stock",
+  "rating_avg": "4.2",
+  "rating_count": "432",
+  "images": [
+    "https://media.ulta.com/i/ulta/2592391?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2592391?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2592391_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2592391_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2592391_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2592350cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2592350cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2592350cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2592350cm_vid01/thumbs/1eafd022-a727-44bb-9776-242546ec4ed5?w=600&h=337&fmt=auto",
+    "https://media.ulta.com/v/ulta/2592350cm_vid02/thumbs/cdcbf261-3d18-40c0-a75e-276c650b7d11?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeThe FENTY BEAUTY by Rihanna Gloss Bomb Heat is a lip luminizer and plumper hybrid that delivers a hint of tint, and fuller-looking lips. It's the O.G. Gloss Bomb you love...but a few degrees hotter.",
+  "details": "DetailsBenefitsWet-look shine, sheer colorInstant plumping effectWith Plump Job Complex, an innovative blend of ingredients, including ginger root oil and capsicum fruit extract (pepper), to gently titillate and plump lipsNon-sticky feelXXL wand applies in just one swipeLight peach scentKey IngredientsVitamin E to help lock in moistureShea butter to condition lipsFormulated WithoutPhthalatesParabensItem 2592391How To UseWear Gloss Bomb Heat alone or layer over lipstick. If irritation occurs, discontinue use.IngredientsPolybutene, Octyldodecanol, Bis-Diglyceryl Polyacyladipate-2, Tricaprylin, Cera Microcristallina/Microcrystalline Wax/Cire Microcristalline, Hydrogenated Polyisobutene, Polyethylene, Silica Dimethyl Silylate, Butyrospermum Parkii (Shea) Butter, Vp/Eicosene Copolymer, Sorbitan Oleate, Vp/Hexadecene Copolymer, Synthetic Fluorphlogopite, Silica, Ethylhexyl Palmitate, Caprylyl Glycol, Aroma/Flavor, Parfum/Fragrance, Octyldodecyl Neopentanoate, Mica, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Tribehenin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Methyl Nicotinate, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Vanillyl Butyl Ether, Capsicum Frutescens Fruit Extract, Glycine Soja (Soybean) Oil, Zingiber Officinale (Ginger) Root Oil, Tetrahexyldecyl Ascorbate, Lactic Acid, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Palmitoyl Tripeptide-1, Tin Oxide, Benzyl Benzoate, Limonene, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Wear Gloss Bomb Heat alone or layer over lipstick. If irritation occurs, discontinue use.",
+  "ingredients": [
+    "Polybutene",
+    "Octyldodecanol",
+    "Bis-Diglyceryl Polyacyladipate-2",
+    "Tricaprylin",
+    "Cera Microcristallina/Microcrystalline Wax/Cire Microcristalline",
+    "Hydrogenated Polyisobutene",
+    "Polyethylene",
+    "Silica Dimethyl Silylate",
+    "Butyrospermum Parkii (Shea) Butter",
+    "Vp/Eicosene Copolymer",
+    "Sorbitan Oleate",
+    "Vp/Hexadecene Copolymer",
+    "Synthetic Fluorphlogopite",
+    "Silica",
+    "Ethylhexyl Palmitate",
+    "Caprylyl Glycol",
+    "Aroma/Flavor",
+    "Parfum/Fragrance",
+    "Octyldodecyl Neopentanoate",
+    "Mica",
+    "Butyrospermum Parkii (Shea) Butter Unsaponifiables",
+    "Tribehenin",
+    "Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
+    "Methyl Nicotinate",
+    "Sorbitan Isostearate",
+    "Tocopherol",
+    "Tocopheryl Acetate",
+    "Vanillyl Butyl Ether",
+    "Capsicum Frutescens Fruit Extract",
+    "Glycine Soja (Soybean) Oil",
+    "Zingiber Officinale (Ginger) Root Oil",
+    "Tetrahexyldecyl Ascorbate",
+    "Lactic Acid",
+    "Calcium Sodium Borosilicate",
+    "Calcium Aluminum Borosilicate",
+    "Palmitoyl Tripeptide-1",
+    "Tin Oxide",
+    "Benzyl Benzoate",
+    "Limonene",
+    "Iron Oxides (",
+    "Titanium Dioxide ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "lips",
+      "lip",
+      "cosmetics"
+    ],
+    "product_type": [
+      "lip gloss"
+    ],
+    "skin_type": [
+      "all skin types"
+    ],
+    "finish": [
+      "sheer",
+      "oil"
+    ],
+    "color": [
+      "purple"
+    ],
+    "ingredients": [
+      "lactic-acid",
+      "peptides",
+      "synthetic",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2031401",
+    "total_reviews": 432,
+    "reviews": [
+      {
+        "review_id": 563404933,
+        "rating": 2,
+        "headline": "Disappointed sticky gloss could have been old product",
+        "comments": "I was excited to purchase this product. Once I opened it, it seemed sticky like it was drying up. There was a slight burning sensation on my lips upon application. I threw away the packaging, so I did not take it back. Check product before purchasing.",
+        "nickname": "Elana",
+        "location": "Atlanta",
+        "created_date": 1757952935669,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561344458,
+        "rating": 2,
+        "headline": "Not for me",
+        "comments": "Milky appearance when applied, not a fan. I do like the clear heat plumpers, just not with the color pigments.",
+        "nickname": "angeline",
+        "location": "TX",
+        "created_date": 1756409645843,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560057748,
+        "rating": 5,
+        "headline": "5/5",
+        "comments": "One of my go too lipglosses, smells just like pop rocks and leaves my lips luscious lol!",
+        "nickname": "kb",
+        "location": "Houston, TX",
+        "created_date": 1755058896695,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559954254,
+        "rating": 5,
+        "headline": "I've found my forever gloss",
+        "comments": "This is by far my favorite gloss. I bought a ton because i dont want to run out. The consistency is perfect and the color is fabulous dress down and dress up. I saw a few reviews that said there were leaks: I havent experienced that at all. I even leave one in the car (which gets hot) and i haven't seen a leak or consistency change. I love this line/color!!! Forgot to add: before this, I did not wear lip gloss regularly because i hadnt found a color/brand that i liked enough for everyday use. I would instead opt for chapstick. The search is over!",
+        "nickname": "Perfect Matcg",
+        "location": "Maryland",
+        "created_date": 1754940716716,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558621781,
+        "rating": 1,
+        "headline": "Taking it back",
+        "comments": "It burns my lips. I was expecting a tingle...not burning. Pretty color though",
+        "nickname": "Theresa",
+        "location": "Maryland",
+        "created_date": 1753813813753,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558388421,
+        "rating": 5,
+        "headline": "I love this lip fall is the best.I would never go to anythin",
+        "comments": "I love those lip gloss. I wouldn't change it. This is the only one I would use. It's the best that keeps your lips moistured. All day long, it's wonderful. I will not change it. Thank you, Rihanna.",
+        "nickname": "Kimberly",
+        "location": "SC",
+        "created_date": 1753657027303,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 558308638,
+        "rating": 1,
+        "headline": "WARNING!!! Do not use if you have allergies!!",
+        "comments": "So id been getting acne, itchiness & excema all around my lips for the past month, & at first i thought it was my diet, until i realized it was this. Stopped using it & the irritation and acne has went away. NEVER again! Anyway stan TRUE hypoallergenic brands! Shame on you!",
+        "nickname": "Lexi",
+        "location": "Miami, Florida",
+        "created_date": 1753492504024,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558093407,
+        "rating": 3,
+        "headline": "Bottle issues. Leaks",
+        "comments": "Love the product. HATE the packaging. Ive re bought this multiple times because i love the gloss. But it leaks!! Beware of putting in your purse/bags. I see other people have the same problem. Why havent they fixed this issue :( sooo not cute",
+        "nickname": "Addie",
+        "location": "Boston ma",
+        "created_date": 1753322217397,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555777507,
+        "rating": 5,
+        "headline": "Would absolutely buy again",
+        "comments": "Love this gloss. The heat is perfect and it makes my lips juicy and plump. My favorite part is it doesn't make your lips peel and dry like other brands of lip plumpers.",
+        "nickname": "RS",
+        "location": "Portland Oregon",
+        "created_date": 1750707410930,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555675138,
+        "rating": 5,
+        "headline": "I love Fenty glosses and always will",
+        "comments": "Long story short, get the freaking gloss! But pair it wil a deeper liner to gove u a fuller look. Thank me later😘",
+        "nickname": "Channell",
+        "location": "Virginia Beach, Va",
+        "created_date": 1750531429194,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554836227,
+        "rating": 4,
+        "headline": "I like it!",
+        "comments": "I like it I got it in the shade fussy and opted out for the fenty heat vs the original one with sparkles because I personally don't like sparkles in my lip gloss. It makes my lips a little plump and has that tingly feeling when first applied which I'm not a huge fan of so I won't be purchasing again. I do really like the color though!",
+        "nickname": "S.",
+        "location": "Washington, DC",
+        "created_date": 1749559186532,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 554568451,
+        "rating": 5,
+        "headline": "Clear lip gloss by Rihanna/Fenty Beauty",
+        "comments": "This is my FAVORITE lip gloss! I have 3 different shades. And plan on buying more.",
+        "nickname": "Janet",
+        "location": "Pittsburgh PA",
+        "created_date": 1749138582120,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553622086,
+        "rating": 5,
+        "headline": "I would buy this product again and again",
+        "comments": "A friend recommended this lip gloss to plump up your lips and I was not disappointed. Its not super sticky or thick.  I have gotten alot of compliments and feel its affordable",
+        "nickname": "Orly M",
+        "location": "New York",
+        "created_date": 1747755007291,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553115409,
+        "rating": 3,
+        "headline": "Eh",
+        "comments": "I have tried pretty much every lip plumper and I decided to try this one out. It's a great gloss and it super shiny and feels great, however zero plumping effect.",
+        "nickname": "Megan",
+        "location": "Bristol Rhode Island",
+        "created_date": 1746815065899,
+        "bottom_line": "No",
+        "helpful_votes": 10,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552165619,
+        "rating": 5,
+        "headline": "I love it",
+        "comments": "I love the color it cool",
+        "nickname": "Mya",
+        "location": "Des Moines iowa",
+        "created_date": 1745331772929,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 552145351,
+        "rating": 4,
+        "headline": "It's cute",
+        "comments": "I got the colors Hot Cherry and Hot Chocolate when they went on sale. I must say the Hot Chocolit is my favorite! I love to pair it with a nice brown lip liner, the combo looks great. I get a lot of compliments whenever I wear it. The only issue is they don't last long on the lips.",
+        "nickname": "Chantal",
+        "location": "West New York, NJ",
+        "created_date": 1745290456029,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552068483,
+        "rating": 5,
+        "headline": "perfection",
+        "comments": "my lip product journey ends here... thank goddess!",
+        "nickname": "denna",
+        "location": "Tampa, FL",
+        "created_date": 1745092177904,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551642744,
+        "rating": 5,
+        "headline": "My number 1 lipgloss",
+        "comments": "I absolutely love the plumping and the color is just gorgeous. I will literally put this on whenever, it is hands down my favorite lip gloss.",
+        "nickname": "Amili",
+        "location": "Moses Lake",
+        "created_date": 1744506202772,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550877804,
+        "rating": 5,
+        "headline": "LOVE LOVE LOVE",
+        "comments": "I love a good lip plumper, and this is just it. I love it all. The only thing I would say is a negative would be that it does leak for me, I'm not sure if it's just me, but I still love the formula and the way it leaves my lips.",
+        "nickname": "Ele",
+        "location": "New York",
+        "created_date": 1743622869909,
+        "bottom_line": "Yes",
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550876229,
+        "rating": 2,
+        "headline": "I had high hopes on this lip gloss",
+        "comments": "This is my second gloss and different scent from Fenty. Not sure what went wrong for me, but this particular gloss burns my lips really bad, I've tried it 3 times since my purchase and the burning sensation is the same and painful. So bummed out!",
+        "nickname": "Monet",
+        "location": "Las Vegas Nv",
+        "created_date": 1743619888552,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 6
+      }
+    ],
+    "paging": {
+      "total_results": 432,
+      "pages_total": 22,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2031401/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        33,
+        20,
+        45,
+        55,
+        279
+      ],
+      "review_histogram": [
+        33,
+        20,
+        45,
+        55,
+        279
+      ],
+      "rating_count": 432,
+      "review_count": 432,
+      "average_rating": 4.22,
+      "recommended_ratio": 0.8,
+      "media": [
+        {
+          "id": "563404934",
+          "review_id": 563404933,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qvoyizqbh9quadskfwsk.jpg",
+          "headline": "Disappointed sticky gloss could have been old product",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Elana",
+          "created_date": 1757952935669
+        },
+        {
+          "id": "558388422",
+          "review_id": 558388421,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/er1xktn8jahagudmobiv.jpg",
+          "headline": "I love this lip fall is the best.I would never go to anythin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Beauty at its best!!",
+          "nickname": "Kimberly",
+          "created_date": 1753657027303
+        },
+        {
+          "id": "552145352",
+          "review_id": 552145351,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/g62et2rt7ej9x9ziotwo.jpg",
+          "headline": "It's cute",
+          "rating": 4,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Chantal",
+          "created_date": 1745290456029
+        },
+        {
+          "id": "548820276",
+          "review_id": 548820267,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/v6mflmtsll9rv4nrvski.jpg",
+          "headline": "By the original Fu$$y not this one!",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Becca",
+          "created_date": 1742018271175
+        },
+        {
+          "id": "536279568",
+          "review_id": 536279567,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/iyq0vmjuaqerffdglqzg.jpg",
+          "headline": "Your lips but juicier",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rose",
+          "created_date": 1729185913012
+        },
+        {
+          "id": "489490759",
+          "review_id": 489490758,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bkh68zkwgahfak6sawen.jpg",
+          "headline": "Love, but container LEAKS constantly!",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lee",
+          "created_date": 1704907247024
+        },
+        {
+          "id": "431665598",
+          "review_id": 431665522,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/v1ru5y68tzwuzq7jzerg.jpg",
+          "headline": "No plumpin",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Tomasita",
+          "created_date": 1667010991465
+        },
+        {
+          "id": "423874623",
+          "review_id": 423874678,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ypqpxdqxul6wkplp4w7m.jpg",
+          "headline": "I will be buying this product again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love my new color.",
+          "nickname": "Saundra",
+          "created_date": 1662649916487
+        },
+        {
+          "id": "412355011",
+          "review_id": 412355047,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/uwx8yxtsgjqxvrx9t3re.jpg",
+          "headline": "pretty and smells good! but not the best for plumping.",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Michelle",
+          "created_date": 1654886247495
+        },
+        {
+          "id": "411896727",
+          "review_id": 411896695,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dntyfonzvnpntsekw4oe.jpg",
+          "headline": "Loving it !!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Lipgloss Poppin",
+          "nickname": "Tree",
+          "created_date": 1654613040940
+        },
+        {
+          "id": "411896701",
+          "review_id": 411896695,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kaeuvnxnpxyu3qycmyfc.jpg",
+          "headline": "Loving it !!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "No caption needed",
+          "nickname": "Tree",
+          "created_date": 1654613040940
+        },
+        {
+          "id": "404095417",
+          "review_id": 404095259,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/u0uh2wsp4uoh0giziwta.jpg",
+          "headline": "Everyone should buy this",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "H",
+          "created_date": 1648846591452
+        },
+        {
+          "id": "403812486",
+          "review_id": 403812424,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gfy1gi3c4u5bfkmi9sej.jpg",
+          "headline": "I would buy this again!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Tasha B",
+          "created_date": 1648661855805
+        },
+        {
+          "id": "402776250",
+          "review_id": 402776318,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/v7sr1bn1iuv6mc1esmbp.jpg",
+          "headline": "Smells/ tastes like tingle tanning lotion",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "I have 1 syringe of lip filler.",
+          "nickname": "Megagobs",
+          "created_date": 1647872669416
+        },
+        {
+          "id": "402401974",
+          "review_id": 402402008,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ymecjp1ncwl8g3zab6c2.jpg",
+          "headline": "Yess",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Shan",
+          "created_date": 1647532571341
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Let me start my review off by saying I am a plumping pro. I've been using the too faced lip injection extreme for years, and then once they introduced the maximum plump version I switched over to that. I wear that plumping product everyday before starting my makeup so my lips look nice and full when I get to my lip color. Recently (like the last month) I've also been wearing the too faced product as a gloss everyday on top of lipstick. Needless to say I'm so very used to a burning stinging sensation. Most lip plump products don't even come close to the sensation the too faced one gives. The only thing I've found that's really similar is the new Milani MAXXX lip balm. It burns like the too faced one. So trying this out after reading reviews I was expecting it to be very intense. Maybe I'm just used to a sting but this was very mild and just tingly (slightly hot) but nothing crazy. I will say I love how this smoothed out my lip lines and makes my lips look super smooth and juicy from the glossy shine. It also made them look very pillowy and well, plump. No complaints there. Also the color fenty glow is the perfect everyday Nude shade. No shimmer, just a perfect shine. This is a great everyday product if you can handle the slightly hot tingly feeling. It does give great results. I may just be so \"numb\" to the tingling feeling that I don't feel it as much as others. Give it a try",
+        "headline": "I'm a plumping pro",
+        "rating": 4,
+        "ugc_id": 432228267
+      },
+      "faceoff_negative": {
+        "comments": "Someone gifted me this product for my birthday and the color is up my alley. So I had no idea that heat meant it would spice it up aka plump your lips. The first time I applied, it burned my lips like crazy. Anyone remember Maybelline Volume XL Seduction Lip Plumper ages ago? It kind of like that. Don't get me wrong, it's the perfect brown shade for medium to darker skin tone, especially if you have dark pigmented lips. It didn't plump my lips but the gloss is amazing. I don't know why some people have mention there's a smell when I don't smell anything terrible. I definitely will purchase this for the glossy look in the future.",
+        "headline": "It Brings The Heat Alright, But Not Enough.",
+        "rating": 3,
+        "ugc_id": 444587263
+      },
+      "name": "Gloss Bomb Heat Universal Lip Luminizer + Plumper",
+      "native_review_count": 432,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,4246 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/high-impact-volumizing-mascara-xlsImpprod10791959",
+  "extracted_at": "2025-09-23T04:07:24.146710+00:00",
+  "product_name": "CliniqueHigh Impact Volumizing Mascara",
+  "brand": "Clinique",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Eyes",
+    "Mascara"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "eyes",
+    "mascara"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "27.00",
+  "availability": "in_stock",
+  "rating_avg": "4.5",
+  "rating_count": "4356",
+  "images": [
+    "https://media.ulta.com/i/ulta/2153781?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2153781?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153781cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2153781cm_vid01/thumbs/81c8302d-6a6e-4eee-9b1f-ea823bfdba3d?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingHigh Impact Mascara is Clinique's bestselling mascara. Kicks up the volume and length of each and every lash.",
+  "details": "DetailsBenefitsHigh Impact Mascara is your go-to for buildable volume and natural lashes dialed up a notch.Rich black pigments give lashes intense color, adding to the drama.Create the look you want with this lengthening and volumizing mascara, from your-lashes-but-better to lush, bold drama.The soft fiber brush was designed to comb and define every lash.The Clinique Eye Safety Promise:Safe for sensitive eyesThis mascara is also:Dermatologist testedAllergy testedFragrance freeFormulated WithoutParabensPhthalatesOilFragranceItem 2153781How To UseStart at lash roots, wiggling mascara brush up to lash tips. Repeat to build. For lower lashes, hold wand vertically. Avoid pumping the brush in the container - this adds air that can dry out mascara. To prevent clumping, let mascara dry between coats.Remove with Take The Day Off Makeup Remover For Lids, Lashes & Lips.IngredientsWater / Aqua / Eau, Copernicia Cerifera (Carnauba) Wax / Cera Carnauba / Cire De Carnauba, Stearic Acid, Glyceryl Stearate, Polyisobutene, Silica, Acrylates Copolymer, Aminomethyl Propanediol, VP / Eicosene Copolymer, Sodium Hyaluronate, Lauroyl Lysine, Pantethine, Melanin, Panthenol, Hydrolyzed Wheat Protein, Ethylhexylglycerin, Hydroxyethylcellulose, Calcium Aluminum Borosilicate, PVP, Acacia Senegal Gum, Isostearic Acid, Simethicone, Dimethicone PEG-8 Polyacrylate, Urea, Glycerin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Lauryl Sulfate, PEG-8 Dimethicone, Disodium EDTA, Chlorphenesin, Sodium Dehydroacetate, Phenoxyethanol. May Contain: Iron Oxides (CI 77491, CI 77492, CI 77499), Yellow 5 Lake (CI 19140), Chromium Oxide Greens (CI 77288), Mica, Titanium Dioxide (CI 77891), Ferric Ferrocyanide (CI 77510), Chromium Hydroxide Green (CI 77289), Carmine (CI 75470), Bismuth Oxychloride (CI 77163), Aluminum Powder (CI 77000), Bronze Powder (CI 77400), Blue 1 Lake (CI 42090), Ultramarines (CI 77007).Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Start at lash roots, wiggling mascara brush up to lash tips. Repeat to build. For lower lashes, hold wand vertically. Avoid pumping the brush in the container - this adds air that can dry out mascara. To prevent clumping, let mascara dry between coats.Remove with Take The Day Off Makeup Remover For Lids, Lashes & Lips.",
+  "ingredients": [
+    "Water / Aqua / Eau",
+    "Copernicia Cerifera (Carnauba) Wax / Cera Carnauba / Cire De Carnauba",
+    "Stearic Acid",
+    "Glyceryl Stearate",
+    "Polyisobutene",
+    "Silica",
+    "Acrylates Copolymer",
+    "Aminomethyl Propanediol",
+    "VP / Eicosene Copolymer",
+    "Sodium Hyaluronate",
+    "Lauroyl Lysine",
+    "Pantethine",
+    "Melanin",
+    "Panthenol",
+    "Hydrolyzed Wheat Protein",
+    "Ethylhexylglycerin",
+    "Hydroxyethylcellulose",
+    "Calcium Aluminum Borosilicate",
+    "PVP",
+    "Acacia Senegal Gum",
+    "Isostearic Acid",
+    "Simethicone",
+    "Dimethicone PEG-8 Polyacrylate",
+    "Urea",
+    "Glycerin",
+    "Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
+    "Sodium Lauryl Sulfate",
+    "PEG-8 Dimethicone",
+    "Disodium EDTA",
+    "Chlorphenesin",
+    "Sodium Dehydroacetate",
+    "Phenoxyethanol. May Contain: Iron Oxides (",
+    "Yellow 5 Lake (",
+    "Chromium Oxide Greens (",
+    "Mica",
+    "Titanium Dioxide (",
+    "Ferric Ferrocyanide (",
+    "Chromium Hydroxide Green (",
+    "Carmine (",
+    "Bismuth Oxychloride (",
+    "Aluminum Powder (",
+    "Bronze Powder (",
+    "Blue 1 Lake (",
+    "Ultramarines ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "eyes",
+      "eye",
+      "cosmetics"
+    ],
+    "product_type": [
+      "mascara"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "sheer",
+      "medium coverage",
+      "powdery",
+      "oil"
+    ],
+    "ingredients": [
+      "sulfate-free"
+    ],
+    "brand": [
+      "luxury",
+      "mid-range"
+    ],
+    "special_features": [
+      "natural",
+      "dermatologist-tested",
+      "hypoallergenic",
+      "fragrance-free"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod10791959",
+    "total_reviews": 4356,
+    "reviews": [
+      {
+        "review_id": 561580371,
+        "rating": 5,
+        "headline": "Been using this mascara for years!",
+        "comments": "I have tried other mascaras over the years, and Clinique High Impact Volumizing mascara is by far the best!  It wears nicely without smudging, it is easy to get off, and it makes my lashes look so much fuller!",
+        "nickname": "CBS5",
+        "location": "Ohio",
+        "created_date": 1756860475696,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560574518,
+        "rating": 5,
+        "headline": "Great mascara in a great color",
+        "comments": "This black honey color is just beautiful",
+        "nickname": "Micky",
+        "location": "NJ",
+        "created_date": 1755811202206,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560299610,
+        "rating": 5,
+        "headline": "I Love This Mascara!",
+        "comments": "I got the mini version of this mascara awhile back and just used it for the first time today. I was skeptical because the brush looked kind of generic, but once I put it on I was so impressed! This is probably my new favorite mascara. No clumping, separates my eyelashes well, no flaking at the end of the day. 10/10",
+        "nickname": "Sav",
+        "location": "Seattle, WA",
+        "created_date": 1755291791955,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560123704,
+        "rating": 3,
+        "headline": "stings",
+        "comments": "I'm so bummed i love the color and the way it applies. This mascara is not waterproof, when my eyes water this product runs into my eyes and stings",
+        "nickname": "Karri",
+        "location": "Washington",
+        "created_date": 1755115010755,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557989562,
+        "rating": 1,
+        "headline": "So flakey",
+        "comments": "I regret giving this a try. While it looked nice, it was fairly clumpy and a nightmare to take off. Flaked all over my face.",
+        "nickname": "Katie",
+        "location": "Maryland",
+        "created_date": 1753150310025,
+        "bottom_line": "No",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556423359,
+        "rating": 5,
+        "headline": "Yes",
+        "comments": "Great coverage makes lashes look long without clumping",
+        "nickname": "Laurel",
+        "location": "Tampa fl",
+        "created_date": 1751575353816,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556344564,
+        "rating": 2,
+        "headline": "A disappointment",
+        "comments": "It's just a brown mascara. There's nothing remotely black honey about this. It's also EXTREMELY natural on the lashes. The photo is after two very laborious coats. Just an utter disappointment of a cash grab if you ask me. I highly regret purchasing.",
+        "nickname": "Kayla",
+        "location": "Little Rock, AR",
+        "created_date": 1751488070530,
+        "bottom_line": "No",
+        "helpful_votes": 7,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 556077613,
+        "rating": 5,
+        "headline": "I love this mascara!",
+        "comments": "This mascara goes on without clumping and it leaves my eyelashes looking very natural.  I would highly recommend it!",
+        "nickname": "Ellen",
+        "location": "Palm Harbor, Florida",
+        "created_date": 1751317406593,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555671647,
+        "rating": 3,
+        "headline": "Fairly clumpy",
+        "comments": "I like the shade, it's dark but it comes on goopy & looks cheap",
+        "nickname": "Melissa",
+        "location": "Flagstaff",
+        "created_date": 1750525624406,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555671465,
+        "rating": 3,
+        "headline": "No",
+        "comments": "It's not the worst but definitely not the best. I find I have to really lay it on and do several layers for it to look good.",
+        "nickname": "Sierra",
+        "location": "Lenoir nc",
+        "created_date": 1750525143792,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555585591,
+        "rating": 5,
+        "headline": "Clinique Black Honey mascara",
+        "comments": "As I don't like black mascara on me I used brown for several years until I found this product. The Black Honey colour adds a softer colour to my lashes and is a touch more interesting with my brown eyes I tend to stock up on a few when I am on my holidays.",
+        "nickname": "Martha",
+        "location": "UK",
+        "created_date": 1750381698135,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555295621,
+        "rating": 5,
+        "headline": "Clinique black honey mascara",
+        "comments": "I love this product. The color is beautiful. I like the brush  in this mascara. It goes in well and last. I like that it's not waterproof. Creates bolder lashes.",
+        "nickname": "Sherry",
+        "location": "Beckley, WV",
+        "created_date": 1750261510302,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554862179,
+        "rating": 5,
+        "headline": "I love this",
+        "comments": "I absolutely love this mascara it's hard for me to find one that doesn't flake or burn my eyes and this one is perfect and doesn't do any of that and the color makes the green in my eyes pop.",
+        "nickname": "Jazalyn",
+        "location": "Arizon",
+        "created_date": 1749576394252,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554333894,
+        "rating": 5,
+        "headline": "Best",
+        "comments": "Thus is my go to. I'll give a drugstore brand a try and after one wearing it's in the garbage can",
+        "nickname": "Jan",
+        "location": "Mesa, AZ",
+        "created_date": 1748715686046,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553303157,
+        "rating": 4,
+        "headline": "It's alright",
+        "comments": "This mascara is ok for the price but i find it to be very lack luster. I have very curled up semi voluminous natural lashes and after curling my lashes more there still wasnt much that the mascara did. It didnt add any more volume or length personally so i think if you have straight or downward pointed lashes this may not work well for you at all. The color also just didnt show up for me. It just looked dark I couldn't tell there was even a tint of color. It may be better with a white base but i thought for 26 dollars it might have a better color payoff. Thats on me I guess. The prose though are that it doesnt clump your lashes together and it gives your lashes a very natural look if thats what you want. And once it's dry it doesn't go anywhere for at least a few hours. Id likely check after a couple hours just to make sure. I did have some slight smudging on the bottom but it was pretty minimal after so many hours of wear. Regardless ill stick with my nars climax mascara personally < 3",
+        "nickname": "Haylie",
+        "location": "California",
+        "created_date": 1747225458024,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553117941,
+        "rating": 5,
+        "headline": "Extremely happy",
+        "comments": "I've been using this mascara for almost half a year, and I couldn't be happier with it. The texture is great - it goes on evenly and never clumps. I love how it makes my eyes pop, and the color is absolutely amazing.",
+        "nickname": "Anastasia",
+        "location": "Tacoma, WA",
+        "created_date": 1746819538440,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 552828558,
+        "rating": 4,
+        "headline": "A great everyday mascara",
+        "comments": "This mascara has always intrigued me and I finally gave it a try. My go to is the high impact zero gravity mascara, but this seems like a cult favorite. It gives my lashes length without getting clumpy. My only negative would be that it's marketed as a tubing mascara but it doesn't behave like one. It doesn't wash off in tubes, it just smears off like any other mascara. The zero gravity version is very very clearly a tubing mascara, while this is not. I'm still happy with it though!",
+        "nickname": "Kaitlin",
+        "location": "Pennsylvania",
+        "created_date": 1746372534126,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552806618,
+        "rating": 1,
+        "headline": "So disappointing):",
+        "comments": "It's a nice color but the formula is absolutely horrible, my lashes curl easily and it brought them down horribly",
+        "nickname": "Victoria",
+        "location": "San Diego",
+        "created_date": 1746301863426,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552609207,
+        "rating": 1,
+        "headline": "No no no",
+        "comments": "This mascara is the worst. Clumps and runs down your face. Want my $$ back",
+        "nickname": "Donna",
+        "location": "Bradenton Fl",
+        "created_date": 1745942476313,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 551871150,
+        "rating": 1,
+        "headline": "Product separates from lashes.",
+        "comments": "I thought this was going to be a winner (great branding) but every time I wore it (only 4x) it smudged and collected on my eyelids. I'm going to get a store credit from Ulta, and buy YSL's brown instead.",
+        "nickname": "Susan",
+        "location": "Birmingham, MI",
+        "created_date": 1744847259428,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 950,
+      "pages_total": 48,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod10791959/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "30 Minutes",
+              "count": 3
+            },
+            {
+              "label": "10 Minutes",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Anytime",
+              "count": 261
+            },
+            {
+              "label": "Daytime",
+              "count": 98
+            },
+            {
+              "label": "Going Out",
+              "count": 58
+            },
+            {
+              "label": "Everyday",
+              "count": 4
+            },
+            {
+              "label": "Daily Use",
+              "count": 3
+            },
+            {
+              "label": "Women",
+              "count": 2
+            },
+            {
+              "label": "To color and lengthen",
+              "count": 1
+            },
+            {
+              "label": "Every Day Mascara",
+              "count": 1
+            },
+            {
+              "label": "short term wear",
+              "count": 1
+            },
+            {
+              "label": "Daily use",
+              "count": 1
+            },
+            {
+              "label": "Natural makeup",
+              "count": 1
+            },
+            {
+              "label": "Full Glam Days",
+              "count": 1
+            },
+            {
+              "label": "Natural Days",
+              "count": 1
+            },
+            {
+              "label": "Bring volume and length to lashes",
+              "count": 1
+            },
+            {
+              "label": "everyday",
+              "count": 1
+            },
+            {
+              "label": "Don't know",
+              "count": 1
+            },
+            {
+              "label": "neutral",
+              "count": 1
+            },
+            {
+              "label": "Daily mascara",
+              "count": 1
+            },
+            {
+              "label": "With a primer underneath, its AMAZING!!",
+              "count": 1
+            },
+            {
+              "label": "Everyday, Anytime",
+              "count": 1
+            },
+            {
+              "label": "Longer lashes adds to a woman's femininity.",
+              "count": 1
+            },
+            {
+              "label": "Special occasion",
+              "count": 1
+            },
+            {
+              "label": "Daily Wear",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Anytime",
+            "Bring volume and length to lashes",
+            "Daily Use",
+            "Daily Wear",
+            "Daily mascara",
+            "Daily use",
+            "Daytime",
+            "Don't know",
+            "Every Day Mascara",
+            "Everyday",
+            "Everyday, Anytime",
+            "Full Glam Days",
+            "Going Out",
+            "Longer lashes adds to a woman's femininity.",
+            "Men",
+            "Natural Days",
+            "Natural makeup",
+            "Oily Skin",
+            "On-the-go",
+            "Special occasion",
+            "To color and lengthen",
+            "Weekly Use",
+            "With a primer underneath, its AMAZING!!",
+            "Women",
+            "everyday",
+            "neutral",
+            "short term wear"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Smudges or Runs",
+              "count": 31
+            },
+            {
+              "label": "Flakes",
+              "count": 28
+            },
+            {
+              "label": "Dries Out Quickly",
+              "count": 24
+            },
+            {
+              "label": "none",
+              "count": 21
+            },
+            {
+              "label": "Difficult To Remove",
+              "count": 17
+            },
+            {
+              "label": "None",
+              "count": 9
+            },
+            {
+              "label": "Sticky Texture",
+              "count": 8
+            },
+            {
+              "label": "none!",
+              "count": 6
+            },
+            {
+              "label": "clumps",
+              "count": 5
+            },
+            {
+              "label": "Clumpy",
+              "count": 4
+            },
+            {
+              "label": "not waterproof",
+              "count": 4
+            },
+            {
+              "label": "Not waterproof",
+              "count": 3
+            },
+            {
+              "label": "clumpy",
+              "count": 3
+            },
+            {
+              "label": "price",
+              "count": 3
+            },
+            {
+              "label": "none!!",
+              "count": 3
+            },
+            {
+              "label": "Pricey",
+              "count": 2
+            },
+            {
+              "label": "Clumps",
+              "count": 2
+            },
+            {
+              "label": "Doesn't lengthen",
+              "count": 2
+            },
+            {
+              "label": "Pricey / Poor Value",
+              "count": 2
+            },
+            {
+              "label": "Heavy / Bulky",
+              "count": 2
+            },
+            {
+              "label": "nothing!",
+              "count": 2
+            },
+            {
+              "label": "brush",
+              "count": 2
+            },
+            {
+              "label": "can clump",
+              "count": 2
+            },
+            {
+              "label": "Gummy, clumps, last 3 wks tops",
+              "count": 1
+            },
+            {
+              "label": "It's hard to apply because it is so thick!",
+              "count": 1
+            },
+            {
+              "label": "It did not no anything for my lashes.",
+              "count": 1
+            },
+            {
+              "label": "No volume",
+              "count": 1
+            },
+            {
+              "label": "0",
+              "count": 1
+            },
+            {
+              "label": "dries quickly",
+              "count": 1
+            },
+            {
+              "label": "flakes off",
+              "count": 1
+            },
+            {
+              "label": "A bit of smudging throughout the day",
+              "count": 1
+            },
+            {
+              "label": "Thin at Start",
+              "count": 1
+            },
+            {
+              "label": "Smears",
+              "count": 1
+            },
+            {
+              "label": "Difficult to remove with water alone",
+              "count": 1
+            },
+            {
+              "label": "I cant speak to its ability to hold a curl",
+              "count": 1
+            },
+            {
+              "label": "Runs easily",
+              "count": 1
+            },
+            {
+              "label": "Sometimes flakey On lower lashes",
+              "count": 1
+            },
+            {
+              "label": "Takes a few seconds to dry",
+              "count": 1
+            },
+            {
+              "label": "Wand is a bit chunky",
+              "count": 1
+            },
+            {
+              "label": "Unless you already have dark lashes not ok",
+              "count": 1
+            },
+            {
+              "label": "Does not add volume or length.",
+              "count": 1
+            },
+            {
+              "label": "Minimal volume",
+              "count": 1
+            },
+            {
+              "label": "Doesn't stay on long",
+              "count": 1
+            },
+            {
+              "label": "Doesn't curl lashes",
+              "count": 1
+            },
+            {
+              "label": "brush has bad strokes",
+              "count": 1
+            },
+            {
+              "label": "Mascara under my eyes",
+              "count": 1
+            },
+            {
+              "label": "Smudges",
+              "count": 1
+            },
+            {
+              "label": "No cons! I'm obsessed",
+              "count": 1
+            },
+            {
+              "label": "Dry",
+              "count": 1
+            },
+            {
+              "label": "Not lengthening",
+              "count": 1
+            },
+            {
+              "label": "Straightens curled lashes",
+              "count": 1
+            },
+            {
+              "label": "Flaky",
+              "count": 1
+            },
+            {
+              "label": "Doesn't come off",
+              "count": 1
+            },
+            {
+              "label": "DOES NOT COME OFF",
+              "count": 1
+            },
+            {
+              "label": "Made my natural lashes fall out",
+              "count": 1
+            },
+            {
+              "label": "Very difficult to remove",
+              "count": 1
+            },
+            {
+              "label": "clumps lashes together",
+              "count": 1
+            },
+            {
+              "label": "gives no volume at all",
+              "count": 1
+            },
+            {
+              "label": "smudges under eyes",
+              "count": 1
+            },
+            {
+              "label": "Not as dark",
+              "count": 1
+            },
+            {
+              "label": "Tube doesn't last long",
+              "count": 1
+            },
+            {
+              "label": "Close the top tight or it will dry out fast",
+              "count": 1
+            },
+            {
+              "label": "It doesn't lengthen as much as other mascara",
+              "count": 1
+            },
+            {
+              "label": "Doesn't add volume",
+              "count": 1
+            },
+            {
+              "label": "Allergic, caused itchy, scratchy eyes",
+              "count": 1
+            },
+            {
+              "label": "Doesn't last",
+              "count": 1
+            },
+            {
+              "label": "Very messy",
+              "count": 1
+            },
+            {
+              "label": "Clumps lashes together",
+              "count": 1
+            },
+            {
+              "label": "Kind of clumpy",
+              "count": 1
+            },
+            {
+              "label": "Got big clumps on brush after third use",
+              "count": 1
+            },
+            {
+              "label": "Doesn't add length desired",
+              "count": 1
+            },
+            {
+              "label": "Brush",
+              "count": 1
+            },
+            {
+              "label": "no volume and does not apply well",
+              "count": 1
+            },
+            {
+              "label": "Did not produce volume like I expected.",
+              "count": 1
+            },
+            {
+              "label": "Doesn't build up",
+              "count": 1
+            },
+            {
+              "label": "Not long lasting",
+              "count": 1
+            },
+            {
+              "label": "No Volume, did'ent like the brush",
+              "count": 1
+            },
+            {
+              "label": "Drys Out",
+              "count": 1
+            },
+            {
+              "label": "Wet",
+              "count": 1
+            },
+            {
+              "label": "No volume or length",
+              "count": 1
+            },
+            {
+              "label": "not enough volumizing and lengthening",
+              "count": 1
+            },
+            {
+              "label": "not worth the price",
+              "count": 1
+            },
+            {
+              "label": "never works as advertised",
+              "count": 1
+            },
+            {
+              "label": "smelly",
+              "count": 1
+            },
+            {
+              "label": "watery",
+              "count": 1
+            },
+            {
+              "label": "way too expensive",
+              "count": 1
+            },
+            {
+              "label": "dries too quickly",
+              "count": 1
+            },
+            {
+              "label": "dries out fairly quickly",
+              "count": 1
+            },
+            {
+              "label": "dry",
+              "count": 1
+            },
+            {
+              "label": "dries out too quickly in tube.",
+              "count": 1
+            },
+            {
+              "label": "need eyelash primer too",
+              "count": 1
+            },
+            {
+              "label": "you won't want to buy any other mascara after this",
+              "count": 1
+            },
+            {
+              "label": "flakes too much",
+              "count": 1
+            },
+            {
+              "label": "very clumpy",
+              "count": 1
+            },
+            {
+              "label": "mascara bleeds after long wear.",
+              "count": 1
+            },
+            {
+              "label": "takes too much time to put on",
+              "count": 1
+            },
+            {
+              "label": "you have to take your time for no clumps",
+              "count": 1
+            },
+            {
+              "label": "the price",
+              "count": 1
+            },
+            {
+              "label": "comes out clumpy if you don't take your time",
+              "count": 1
+            },
+            {
+              "label": "can get gloppy after a while.",
+              "count": 1
+            },
+            {
+              "label": "it comes off really easy if your eyes water",
+              "count": 1
+            },
+            {
+              "label": "is a little harder to take off.",
+              "count": 1
+            },
+            {
+              "label": "takes more time to apply than expected.",
+              "count": 1
+            },
+            {
+              "label": "takes many coats for bold look",
+              "count": 1
+            },
+            {
+              "label": "eyelashes breaking",
+              "count": 1
+            },
+            {
+              "label": "i've got nothing!",
+              "count": 1
+            },
+            {
+              "label": "burns my eyes",
+              "count": 1
+            },
+            {
+              "label": "not the look i expected to get.",
+              "count": 1
+            },
+            {
+              "label": "heavy clumping",
+              "count": 1
+            },
+            {
+              "label": "overpriced for the quality",
+              "count": 1
+            },
+            {
+              "label": "can't think of one",
+              "count": 1
+            },
+            {
+              "label": "flakes a little",
+              "count": 1
+            },
+            {
+              "label": "takes a few seconds to dry",
+              "count": 1
+            },
+            {
+              "label": "clumps and smudges",
+              "count": 1
+            },
+            {
+              "label": "not as great anymore",
+              "count": 1
+            },
+            {
+              "label": "does not wash off with soap and water",
+              "count": 1
+            },
+            {
+              "label": "hard to remove all mascara from lashes",
+              "count": 1
+            },
+            {
+              "label": "a little expensive",
+              "count": 1
+            },
+            {
+              "label": "sometimes irritates eyes",
+              "count": 1
+            },
+            {
+              "label": "dries out too soon",
+              "count": 1
+            },
+            {
+              "label": "it could have a better apllicator brush.",
+              "count": 1
+            },
+            {
+              "label": "not enough color for me",
+              "count": 1
+            },
+            {
+              "label": "amount of coverage - one coat perfect for work",
+              "count": 1
+            },
+            {
+              "label": "dries out too quickly.",
+              "count": 1
+            },
+            {
+              "label": "smears easy",
+              "count": 1
+            },
+            {
+              "label": "kind of expensive but worth it",
+              "count": 1
+            },
+            {
+              "label": "dries out fast then must purch new one",
+              "count": 1
+            },
+            {
+              "label": "thick gloppy clumpy",
+              "count": 1
+            },
+            {
+              "label": "brush too bulky",
+              "count": 1
+            },
+            {
+              "label": "runs bad when wet",
+              "count": 1
+            },
+            {
+              "label": "i empty it too fast",
+              "count": 1
+            },
+            {
+              "label": "does not separate lashes",
+              "count": 1
+            },
+            {
+              "label": "have to order online",
+              "count": 1
+            },
+            {
+              "label": "sticky",
+              "count": 1
+            },
+            {
+              "label": "waxy",
+              "count": 1
+            },
+            {
+              "label": "i wish it came in a dark brown not blended with b",
+              "count": 1
+            },
+            {
+              "label": "dont make lashes long",
+              "count": 1
+            },
+            {
+              "label": "expensive for mascara",
+              "count": 1
+            },
+            {
+              "label": "it can irritate contacts for the first 2 seconds.",
+              "count": 1
+            },
+            {
+              "label": "clumpy and a bit gooey.",
+              "count": 1
+            },
+            {
+              "label": "would like a lighter shade of brown",
+              "count": 1
+            },
+            {
+              "label": "flakes after the tube has been used for 2 - 3 week",
+              "count": 1
+            },
+            {
+              "label": "dries out quicker than other clinique mascara",
+              "count": 1
+            },
+            {
+              "label": "messy",
+              "count": 1
+            },
+            {
+              "label": "too thick",
+              "count": 1
+            },
+            {
+              "label": "can by clumpy",
+              "count": 1
+            },
+            {
+              "label": "tends to clump easy. be careful!",
+              "count": 1
+            },
+            {
+              "label": "really thick to wash off",
+              "count": 1
+            },
+            {
+              "label": "i think it should be available all year long",
+              "count": 1
+            },
+            {
+              "label": "should not just be a seasonal offer",
+              "count": 1
+            },
+            {
+              "label": "does eventually smudge",
+              "count": 1
+            },
+            {
+              "label": "doesn't stay on lashes through day",
+              "count": 1
+            },
+            {
+              "label": "runs",
+              "count": 1
+            },
+            {
+              "label": "i dont really like it.",
+              "count": 1
+            },
+            {
+              "label": "dries out quick",
+              "count": 1
+            },
+            {
+              "label": "you have to buy a new tube every now and then.haha",
+              "count": 1
+            },
+            {
+              "label": "flakes a bit on removal",
+              "count": 1
+            },
+            {
+              "label": "no con's just wonderful mascara",
+              "count": 1
+            },
+            {
+              "label": "dries out too quickly",
+              "count": 1
+            },
+            {
+              "label": "can be clumpy :(",
+              "count": 1
+            },
+            {
+              "label": "if only it came in a bigger tube!",
+              "count": 1
+            },
+            {
+              "label": "kind of hard to apply",
+              "count": 1
+            },
+            {
+              "label": "flakes just a little",
+              "count": 1
+            },
+            {
+              "label": "caps always crack after a few weeks of use",
+              "count": 1
+            },
+            {
+              "label": "short life span",
+              "count": 1
+            },
+            {
+              "label": "no dramatic look",
+              "count": 1
+            },
+            {
+              "label": "flakes",
+              "count": 1
+            },
+            {
+              "label": "wet",
+              "count": 1
+            },
+            {
+              "label": "washes off too easily",
+              "count": 1
+            },
+            {
+              "label": "horrible lengthening.",
+              "count": 1
+            },
+            {
+              "label": "might be too intense for some",
+              "count": 1
+            },
+            {
+              "label": "not cryproof at all",
+              "count": 1
+            },
+            {
+              "label": "burns and makes eyes itch clumpydry looking",
+              "count": 1
+            },
+            {
+              "label": "clumps smudges and cause lashes to break off",
+              "count": 1
+            },
+            {
+              "label": "drys out too fast",
+              "count": 1
+            },
+            {
+              "label": "expensive since i throw out 1/3rd of it unused",
+              "count": 1
+            },
+            {
+              "label": "chunks",
+              "count": 1
+            },
+            {
+              "label": "can run if it gets wet",
+              "count": 1
+            },
+            {
+              "label": "de-curling",
+              "count": 1
+            },
+            {
+              "label": "clumped lashes and tended to flake",
+              "count": 1
+            },
+            {
+              "label": "didnt last very long",
+              "count": 1
+            },
+            {
+              "label": "dried up fast",
+              "count": 1
+            },
+            {
+              "label": "horrible",
+              "count": 1
+            },
+            {
+              "label": "dries out quickly",
+              "count": 1
+            },
+            {
+              "label": "nonthing",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "0",
+            "A bit of smudging throughout the day",
+            "Allergic, caused itchy, scratchy eyes",
+            "Brush",
+            "Close the top tight or it will dry out fast",
+            "Clumps",
+            "Clumps lashes together",
+            "Clumpy",
+            "Complicated To Use",
+            "DOES NOT COME OFF",
+            "Did not produce volume like I expected.",
+            "Difficult To Remove",
+            "Difficult to remove with water alone",
+            "Does not add volume or length.",
+            "Doesn't add length desired",
+            "Doesn't add volume",
+            "Doesn't build up",
+            "Doesn't come off",
+            "Doesn't curl lashes",
+            "Doesn't last",
+            "Doesn't lengthen",
+            "Doesn't stay on long",
+            "Dries Out Quickly",
+            "Dry",
+            "Drys Out",
+            "Flakes",
+            "Flaky",
+            "Got big clumps on brush after third use",
+            "Gummy, clumps, last 3 wks tops",
+            "Heavy / Bulky",
+            "I cant speak to its ability to hold a curl",
+            "It did not no anything for my lashes.",
+            "It doesn't lengthen as much as other mascara",
+            "It's hard to apply because it is so thick!",
+            "Kind of clumpy",
+            "Made my natural lashes fall out",
+            "Mascara under my eyes",
+            "Minimal volume",
+            "No Volume, did'ent like the brush",
+            "No cons! I'm obsessed",
+            "No volume",
+            "No volume or length",
+            "None",
+            "Not Effective",
+            "Not as dark",
+            "Not lengthening",
+            "Not long lasting",
+            "Not waterproof",
+            "Poor Texture",
+            "Pricey",
+            "Pricey / Poor Value",
+            "Runs easily",
+            "Smears",
+            "Smudges",
+            "Smudges or Runs",
+            "Sometimes flakey On lower lashes",
+            "Sticky Texture",
+            "Straightens curled lashes",
+            "Takes a few seconds to dry",
+            "Thin at Start",
+            "Tube doesn't last long",
+            "Unless you already have dark lashes not ok",
+            "Very difficult to remove",
+            "Very messy",
+            "Wand is a bit chunky",
+            "Wet",
+            "a little expensive",
+            "amount of coverage - one coat perfect for work",
+            "brush",
+            "brush has bad strokes",
+            "brush too bulky",
+            "burns and makes eyes itch clumpydry looking",
+            "burns my eyes",
+            "can be clumpy :(",
+            "can by clumpy",
+            "can clump",
+            "can get gloppy after a while.",
+            "can run if it gets wet",
+            "can't think of one",
+            "caps always crack after a few weeks of use",
+            "chunks",
+            "clumped lashes and tended to flake",
+            "clumps",
+            "clumps and smudges",
+            "clumps lashes together",
+            "clumps smudges and cause lashes to break off",
+            "clumpy",
+            "clumpy and a bit gooey.",
+            "comes out clumpy if you don't take your time",
+            "de-curling",
+            "didnt last very long",
+            "does eventually smudge",
+            "does not separate lashes",
+            "does not wash off with soap and water",
+            "doesn't stay on lashes through day",
+            "dont make lashes long",
+            "dried up fast",
+            "dries out fairly quickly",
+            "dries out fast then must purch new one",
+            "dries out quick",
+            "dries out quicker than other clinique mascara",
+            "dries out quickly",
+            "dries out too quickly",
+            "dries out too quickly in tube.",
+            "dries out too quickly.",
+            "dries out too soon",
+            "dries quickly",
+            "dries too quickly",
+            "dry",
+            "drys out too fast",
+            "expensive for mascara",
+            "expensive since i throw out 1/3rd of it unused",
+            "eyelashes breaking",
+            "flakes",
+            "flakes a bit on removal",
+            "flakes a little",
+            "flakes after the tube has been used for 2 - 3 week",
+            "flakes just a little",
+            "flakes off",
+            "flakes too much",
+            "gives no volume at all",
+            "hard to remove all mascara from lashes",
+            "have to order online",
+            "heavy clumping",
+            "horrible",
+            "horrible lengthening.",
+            "i dont really like it.",
+            "i empty it too fast",
+            "i think it should be available all year long",
+            "i wish it came in a dark brown not blended with b",
+            "i've got nothing!",
+            "if only it came in a bigger tube!",
+            "is a little harder to take off.",
+            "it can irritate contacts for the first 2 seconds.",
+            "it comes off really easy if your eyes water",
+            "it could have a better apllicator brush.",
+            "kind of expensive but worth it",
+            "kind of hard to apply",
+            "mascara bleeds after long wear.",
+            "messy",
+            "might be too intense for some",
+            "need eyelash primer too",
+            "never works as advertised",
+            "no con's just wonderful mascara",
+            "no dramatic look",
+            "no volume and does not apply well",
+            "none",
+            "none!",
+            "none!!",
+            "nonthing",
+            "not as great anymore",
+            "not cryproof at all",
+            "not enough color for me",
+            "not enough volumizing and lengthening",
+            "not the look i expected to get.",
+            "not waterproof",
+            "not worth the price",
+            "nothing!",
+            "overpriced for the quality",
+            "price",
+            "really thick to wash off",
+            "runs",
+            "runs bad when wet",
+            "short life span",
+            "should not just be a seasonal offer",
+            "smears easy",
+            "smelly",
+            "smudges under eyes",
+            "sometimes irritates eyes",
+            "sticky",
+            "takes a few seconds to dry",
+            "takes many coats for bold look",
+            "takes more time to apply than expected.",
+            "takes too much time to put on",
+            "tends to clump easy. be careful!",
+            "the price",
+            "thick gloppy clumpy",
+            "too thick",
+            "very clumpy",
+            "washes off too easily",
+            "watery",
+            "waxy",
+            "way too expensive",
+            "wet",
+            "would like a lighter shade of brown",
+            "you have to buy a new tube every now and then.haha",
+            "you have to take your time for no clumps",
+            "you won't want to buy any other mascara after this"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Natural Style",
+              "count": 170
+            },
+            {
+              "label": "Classic Style",
+              "count": 131
+            },
+            {
+              "label": "Trendy Style",
+              "count": 20
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 3
+            },
+            {
+              "label": "Minimalist",
+              "count": 2
+            },
+            {
+              "label": "I like to accentuate what I already have",
+              "count": 1
+            },
+            {
+              "label": "Budget shopper",
+              "count": 1
+            },
+            {
+              "label": "Quick makeup",
+              "count": 1
+            },
+            {
+              "label": "Explorer",
+              "count": 1
+            },
+            {
+              "label": "Over 40",
+              "count": 1
+            },
+            {
+              "label": "Sensitive eyes, very picky what I use",
+              "count": 1
+            },
+            {
+              "label": "open-minded",
+              "count": 1
+            },
+            {
+              "label": "simple",
+              "count": 1
+            },
+            {
+              "label": "Middle-aged mama, practical and particular",
+              "count": 1
+            },
+            {
+              "label": "18-25",
+              "count": 1
+            },
+            {
+              "label": "curled lashes",
+              "count": 1
+            },
+            {
+              "label": "long lashes",
+              "count": 1
+            },
+            {
+              "label": "white eye lashes",
+              "count": 1
+            },
+            {
+              "label": "Full Coverage everything, but not cakey",
+              "count": 1
+            },
+            {
+              "label": "Love Full Glam",
+              "count": 1
+            },
+            {
+              "label": "32 years old",
+              "count": 1
+            },
+            {
+              "label": "long, natural lashes",
+              "count": 1
+            },
+            {
+              "label": "sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Makeup Lover",
+              "count": 1
+            },
+            {
+              "label": "Not every day makeup wearer",
+              "count": 1
+            },
+            {
+              "label": "Medium length lashes.",
+              "count": 1
+            },
+            {
+              "label": "Older lady",
+              "count": 1
+            },
+            {
+              "label": "medium toned",
+              "count": 1
+            },
+            {
+              "label": "Fair combination skin",
+              "count": 1
+            },
+            {
+              "label": "Red hair, blue eyes",
+              "count": 1
+            },
+            {
+              "label": "Late 40's",
+              "count": 1
+            },
+            {
+              "label": "All i have ever wanted in a mascara",
+              "count": 1
+            },
+            {
+              "label": "Female",
+              "count": 1
+            },
+            {
+              "label": "I love to enhance my eyelashes.",
+              "count": 1
+            },
+            {
+              "label": "Bargain buyer",
+              "count": 1
+            },
+            {
+              "label": "Lightweight makeup",
+              "count": 1
+            },
+            {
+              "label": "On the go makeup",
+              "count": 1
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "18-25",
+            "32 years old",
+            "All i have ever wanted in a mascara",
+            "Bargain buyer",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Budget shopper",
+            "Casual Dresser",
+            "Classic Style",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Explorer",
+            "Fair combination skin",
+            "Female",
+            "Full Coverage everything, but not cakey",
+            "I like to accentuate what I already have",
+            "I love to enhance my eyelashes.",
+            "Late 40's",
+            "Lightweight makeup",
+            "Love Full Glam",
+            "Makeup Lover",
+            "Medium length lashes.",
+            "Middle-aged mama, practical and particular",
+            "Minimalist",
+            "Natural Style",
+            "Not every day makeup wearer",
+            "Older lady",
+            "On the go makeup",
+            "Over 40",
+            "Quick makeup",
+            "Red hair, blue eyes",
+            "Sensitive eyes, very picky what I use",
+            "Stylish/Fashionista",
+            "Trendy Style",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "curled lashes",
+            "long lashes",
+            "long, natural lashes",
+            "medium toned",
+            "open-minded",
+            "sensitive skin",
+            "simple",
+            "white eye lashes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Applies Evenly",
+              "count": 248
+            },
+            {
+              "label": "Doesn't Clump",
+              "count": 221
+            },
+            {
+              "label": "Defines & Separates",
+              "count": 220
+            },
+            {
+              "label": "Great Brush",
+              "count": 214
+            },
+            {
+              "label": "Adds Volume",
+              "count": 213
+            },
+            {
+              "label": "Lengthens",
+              "count": 210
+            },
+            {
+              "label": "volume",
+              "count": 9
+            },
+            {
+              "label": "easy to remove",
+              "count": 9
+            },
+            {
+              "label": "easy to apply",
+              "count": 8
+            },
+            {
+              "label": "doesn't clump",
+              "count": 8
+            },
+            {
+              "label": "no clumps",
+              "count": 8
+            },
+            {
+              "label": "long lasting",
+              "count": 7
+            },
+            {
+              "label": "no clumping",
+              "count": 7
+            },
+            {
+              "label": "lengthens",
+              "count": 6
+            },
+            {
+              "label": "Easy to remove",
+              "count": 5
+            },
+            {
+              "label": "doesn't flake",
+              "count": 5
+            },
+            {
+              "label": "lasts all day",
+              "count": 5
+            },
+            {
+              "label": "long-lasting",
+              "count": 5
+            },
+            {
+              "label": "adds volume",
+              "count": 5
+            },
+            {
+              "label": "Doesn't clump",
+              "count": 4
+            },
+            {
+              "label": "Easy To Use",
+              "count": 4
+            },
+            {
+              "label": "great coverage",
+              "count": 4
+            },
+            {
+              "label": "No clumps",
+              "count": 3
+            },
+            {
+              "label": "Lengthening",
+              "count": 3
+            },
+            {
+              "label": "Lightweight",
+              "count": 3
+            },
+            {
+              "label": "stays on",
+              "count": 3
+            },
+            {
+              "label": "lengthens lashes",
+              "count": 3
+            },
+            {
+              "label": "gentle",
+              "count": 3
+            },
+            {
+              "label": "looks great",
+              "count": 3
+            },
+            {
+              "label": "non-clumping",
+              "count": 3
+            },
+            {
+              "label": "washes off easily",
+              "count": 3
+            },
+            {
+              "label": "long wearing",
+              "count": 3
+            },
+            {
+              "label": "volumizing",
+              "count": 3
+            },
+            {
+              "label": "no flakes",
+              "count": 3
+            },
+            {
+              "label": "goes on smooth",
+              "count": 3
+            },
+            {
+              "label": "thickens",
+              "count": 3
+            },
+            {
+              "label": "Long lasting",
+              "count": 2
+            },
+            {
+              "label": "buildable",
+              "count": 2
+            },
+            {
+              "label": "Volumizing",
+              "count": 2
+            },
+            {
+              "label": "Great product",
+              "count": 2
+            },
+            {
+              "label": "Doesn't Flake",
+              "count": 2
+            },
+            {
+              "label": "No clumping",
+              "count": 2
+            },
+            {
+              "label": "Doesn't flake",
+              "count": 2
+            },
+            {
+              "label": "no smudges",
+              "count": 2
+            },
+            {
+              "label": "Washes off easily",
+              "count": 2
+            },
+            {
+              "label": "Effective",
+              "count": 2
+            },
+            {
+              "label": "full lashes",
+              "count": 2
+            },
+            {
+              "label": "does not smear",
+              "count": 2
+            },
+            {
+              "label": "does what it says",
+              "count": 2
+            },
+            {
+              "label": "lengthening",
+              "count": 2
+            },
+            {
+              "label": "none",
+              "count": 2
+            },
+            {
+              "label": "non-irritating",
+              "count": 2
+            },
+            {
+              "label": "wears well",
+              "count": 2
+            },
+            {
+              "label": "smooth application",
+              "count": 2
+            },
+            {
+              "label": "stays put",
+              "count": 2
+            },
+            {
+              "label": "thick brush",
+              "count": 2
+            },
+            {
+              "label": "great color",
+              "count": 2
+            },
+            {
+              "label": "easy application",
+              "count": 2
+            },
+            {
+              "label": "easy removal",
+              "count": 2
+            },
+            {
+              "label": "great volume",
+              "count": 2
+            },
+            {
+              "label": "adds length",
+              "count": 2
+            },
+            {
+              "label": "goes on smoothly",
+              "count": 2
+            },
+            {
+              "label": "long-wearing",
+              "count": 2
+            },
+            {
+              "label": "good volume",
+              "count": 2
+            },
+            {
+              "label": "no flaking",
+              "count": 2
+            },
+            {
+              "label": "good price",
+              "count": 2
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "It is one of the best mascaras that Clinique has",
+              "count": 1
+            },
+            {
+              "label": "Easy",
+              "count": 1
+            },
+            {
+              "label": "Natural",
+              "count": 1
+            },
+            {
+              "label": "Great definition!!",
+              "count": 1
+            },
+            {
+              "label": "Easy to put on and remove, not clumpy",
+              "count": 1
+            },
+            {
+              "label": "It's a nice black/brown color",
+              "count": 1
+            },
+            {
+              "label": "Clump-free",
+              "count": 1
+            },
+            {
+              "label": "Separates",
+              "count": 1
+            },
+            {
+              "label": "Does not clump",
+              "count": 1
+            },
+            {
+              "label": "Stays on but washes off so easy!",
+              "count": 1
+            },
+            {
+              "label": "Makes my eyelashes look false",
+              "count": 1
+            },
+            {
+              "label": "All day wear",
+              "count": 1
+            },
+            {
+              "label": "Easy application",
+              "count": 1
+            },
+            {
+              "label": "Natural looking",
+              "count": 1
+            },
+            {
+              "label": "Non-Clumping",
+              "count": 1
+            },
+            {
+              "label": "This is hypoallergenic which is great!",
+              "count": 1
+            },
+            {
+              "label": "Does not flake",
+              "count": 1
+            },
+            {
+              "label": "Last a long time",
+              "count": 1
+            },
+            {
+              "label": "No need for special cleaner",
+              "count": 1
+            },
+            {
+              "label": "Washes with regular face wash.",
+              "count": 1
+            },
+            {
+              "label": "covers lashes in black",
+              "count": 1
+            },
+            {
+              "label": "fluffy",
+              "count": 1
+            },
+            {
+              "label": "lashes dont fall",
+              "count": 1
+            },
+            {
+              "label": "very black",
+              "count": 1
+            },
+            {
+              "label": "Adds volume",
+              "count": 1
+            },
+            {
+              "label": "Applies evenly",
+              "count": 1
+            },
+            {
+              "label": "Defines & Seperates",
+              "count": 1
+            },
+            {
+              "label": "Great brush",
+              "count": 1
+            },
+            {
+              "label": "Light on lashes",
+              "count": 1
+            },
+            {
+              "label": "Able to build up",
+              "count": 1
+            },
+            {
+              "label": "No Clumps",
+              "count": 1
+            },
+            {
+              "label": "easy to remove but wont smear.",
+              "count": 1
+            },
+            {
+              "label": "can wear with glasses",
+              "count": 1
+            },
+            {
+              "label": "not crunchy",
+              "count": 1
+            },
+            {
+              "label": "super soft",
+              "count": 1
+            },
+            {
+              "label": "Lengthing",
+              "count": 1
+            },
+            {
+              "label": "Separates lashes just enough",
+              "count": 1
+            },
+            {
+              "label": "Color",
+              "count": 1
+            },
+            {
+              "label": "Natural look",
+              "count": 1
+            },
+            {
+              "label": "my lashes but better",
+              "count": 1
+            },
+            {
+              "label": "It doesn't make my eyes water",
+              "count": 1
+            },
+            {
+              "label": "Does Not Clump",
+              "count": 1
+            },
+            {
+              "label": "Not Flaky",
+              "count": 1
+            },
+            {
+              "label": "it does the job",
+              "count": 1
+            },
+            {
+              "label": "I love how it's looks on!!! So natural",
+              "count": 1
+            },
+            {
+              "label": "Waterproof",
+              "count": 1
+            },
+            {
+              "label": "Beautiful color",
+              "count": 1
+            },
+            {
+              "label": "Great for sensitive eyes",
+              "count": 1
+            },
+            {
+              "label": "No clumps,flaking smooth glide.",
+              "count": 1
+            },
+            {
+              "label": "Dramatic",
+              "count": 1
+            },
+            {
+              "label": "Long wearing",
+              "count": 1
+            },
+            {
+              "label": "No clumps ever!",
+              "count": 1
+            },
+            {
+              "label": "Reasonably priced",
+              "count": 1
+            },
+            {
+              "label": "Fair price!",
+              "count": 1
+            },
+            {
+              "label": "Great 'color'",
+              "count": 1
+            },
+            {
+              "label": "Perfect moisturization",
+              "count": 1
+            },
+            {
+              "label": "Staying power",
+              "count": 1
+            },
+            {
+              "label": "Gentle, no flaking, no smudging, lasts all day",
+              "count": 1
+            },
+            {
+              "label": "Love this product because it lengthens my lashes",
+              "count": 1
+            },
+            {
+              "label": "Even application",
+              "count": 1
+            },
+            {
+              "label": "Great color",
+              "count": 1
+            },
+            {
+              "label": "Stays well",
+              "count": 1
+            },
+            {
+              "label": "Builds Well",
+              "count": 1
+            },
+            {
+              "label": "Good Price / Value",
+              "count": 1
+            },
+            {
+              "label": "Easy to put on",
+              "count": 1
+            },
+            {
+              "label": "Easy to take off",
+              "count": 1
+            },
+            {
+              "label": "Very easy to remove",
+              "count": 1
+            },
+            {
+              "label": "hypoallergenic",
+              "count": 1
+            },
+            {
+              "label": "No smudges & lashes are still soft.",
+              "count": 1
+            },
+            {
+              "label": "Removes easily with my normal facial cleanser.",
+              "count": 1
+            },
+            {
+              "label": "Removes easily",
+              "count": 1
+            },
+            {
+              "label": "Wears well without flaking",
+              "count": 1
+            },
+            {
+              "label": "Lasts all day without smudging",
+              "count": 1
+            },
+            {
+              "label": "Thickens",
+              "count": 1
+            },
+            {
+              "label": "Good consistency",
+              "count": 1
+            },
+            {
+              "label": "Very dark",
+              "count": 1
+            },
+            {
+              "label": "No smudge",
+              "count": 1
+            },
+            {
+              "label": "Does not run -smudge or flake",
+              "count": 1
+            },
+            {
+              "label": "Lasts all day",
+              "count": 1
+            },
+            {
+              "label": "Doesn't irritate",
+              "count": 1
+            },
+            {
+              "label": "No irritation",
+              "count": 1
+            },
+            {
+              "label": "No smudges",
+              "count": 1
+            },
+            {
+              "label": "Washes away easily",
+              "count": 1
+            },
+            {
+              "label": "Easy to use",
+              "count": 1
+            },
+            {
+              "label": "Perfect for my sensitive eyes!!",
+              "count": 1
+            },
+            {
+              "label": "Good Value",
+              "count": 1
+            },
+            {
+              "label": "True to color",
+              "count": 1
+            },
+            {
+              "label": "Love The Brush",
+              "count": 1
+            },
+            {
+              "label": "No Smudging",
+              "count": 1
+            },
+            {
+              "label": "Jet black",
+              "count": 1
+            },
+            {
+              "label": "creamy and smooth",
+              "count": 1
+            },
+            {
+              "label": "natural volume",
+              "count": 1
+            },
+            {
+              "label": "doesn't irritate my eyes",
+              "count": 1
+            },
+            {
+              "label": "only a few swipes are needed.",
+              "count": 1
+            },
+            {
+              "label": "doesn't cause irritation like many other brands.",
+              "count": 1
+            },
+            {
+              "label": "doesn't clump like many.",
+              "count": 1
+            },
+            {
+              "label": "goes on smoothly and stays on.",
+              "count": 1
+            },
+            {
+              "label": "washes off pretty easy",
+              "count": 1
+            },
+            {
+              "label": "does what it claims to",
+              "count": 1
+            },
+            {
+              "label": "doesn't clump even after months of use",
+              "count": 1
+            },
+            {
+              "label": "lengthens and thickens but still looks natural",
+              "count": 1
+            },
+            {
+              "label": "washes off easy",
+              "count": 1
+            },
+            {
+              "label": "works well for bottom and top lashes",
+              "count": 1
+            },
+            {
+              "label": "doesn't smudge",
+              "count": 1
+            },
+            {
+              "label": "doesnt run",
+              "count": 1
+            },
+            {
+              "label": "dries fast",
+              "count": 1
+            },
+            {
+              "label": "applies smoothly",
+              "count": 1
+            },
+            {
+              "label": "defines",
+              "count": 1
+            },
+            {
+              "label": "no odor",
+              "count": 1
+            },
+            {
+              "label": "rinses clean",
+              "count": 1
+            },
+            {
+              "label": "length",
+              "count": 1
+            },
+            {
+              "label": "complements!!",
+              "count": 1
+            },
+            {
+              "label": "longer lashes",
+              "count": 1
+            },
+            {
+              "label": "thicker lashes",
+              "count": 1
+            },
+            {
+              "label": "darkens lashes",
+              "count": 1
+            },
+            {
+              "label": "lenthens",
+              "count": 1
+            },
+            {
+              "label": "voulumizes",
+              "count": 1
+            },
+            {
+              "label": "plumps up lashes",
+              "count": 1
+            },
+            {
+              "label": "extends lashes",
+              "count": 1
+            },
+            {
+              "label": "longthick lashes",
+              "count": 1
+            },
+            {
+              "label": "no smudge or running",
+              "count": 1
+            },
+            {
+              "label": "High-Volume",
+              "count": 1
+            },
+            {
+              "label": "movie star lashes!",
+              "count": 1
+            },
+            {
+              "label": "no clump",
+              "count": 1
+            },
+            {
+              "label": "easy use slim tube",
+              "count": 1
+            },
+            {
+              "label": "smooth & gentle",
+              "count": 1
+            },
+            {
+              "label": "thicker softer lashes",
+              "count": 1
+            },
+            {
+              "label": "turns wimpy lashes into lush lashes",
+              "count": 1
+            },
+            {
+              "label": "best mascara on the market hands down!",
+              "count": 1
+            },
+            {
+              "label": "no under eye smudges",
+              "count": 1
+            },
+            {
+              "label": "doesn't melt or sweat off!",
+              "count": 1
+            },
+            {
+              "label": "thick long lashes",
+              "count": 1
+            },
+            {
+              "label": "glides on",
+              "count": 1
+            },
+            {
+              "label": "non irritating",
+              "count": 1
+            },
+            {
+              "label": "it makes your lashes look full with out clumps",
+              "count": 1
+            },
+            {
+              "label": "a good consistency",
+              "count": 1
+            },
+            {
+              "label": "doesn't look fake",
+              "count": 1
+            },
+            {
+              "label": "really separates lashes",
+              "count": 1
+            },
+            {
+              "label": "does not seem to run or smudge",
+              "count": 1
+            },
+            {
+              "label": "feels great",
+              "count": 1
+            },
+            {
+              "label": "not gunky",
+              "count": 1
+            },
+            {
+              "label": "this mascara stays on all day without a problem.",
+              "count": 1
+            },
+            {
+              "label": "consistent",
+              "count": 1
+            },
+            {
+              "label": "separates and lengthens well",
+              "count": 1
+            },
+            {
+              "label": "bold and long lasting",
+              "count": 1
+            },
+            {
+              "label": "leaves long beautiful lashes",
+              "count": 1
+            },
+            {
+              "label": "separates every lash !",
+              "count": 1
+            },
+            {
+              "label": "good length too!",
+              "count": 1
+            },
+            {
+              "label": "easily removable",
+              "count": 1
+            },
+            {
+              "label": "goes on easy",
+              "count": 1
+            },
+            {
+              "label": "separates my lashes",
+              "count": 1
+            },
+            {
+              "label": "looks natural.",
+              "count": 1
+            },
+            {
+              "label": "reasonable price",
+              "count": 1
+            },
+            {
+              "label": "great volume and length",
+              "count": 1
+            },
+            {
+              "label": "adds length and colume. even the baby lashes",
+              "count": 1
+            },
+            {
+              "label": "doesn't bother eyes",
+              "count": 1
+            },
+            {
+              "label": "make eyelashes super long",
+              "count": 1
+            },
+            {
+              "label": "price is affordable",
+              "count": 1
+            },
+            {
+              "label": "firm but non-crunchy hold",
+              "count": 1
+            },
+            {
+              "label": "does not clamp lashes",
+              "count": 1
+            },
+            {
+              "label": "stays soft",
+              "count": 1
+            },
+            {
+              "label": "buildabledark pretty color gentle long lasting",
+              "count": 1
+            },
+            {
+              "label": "used to be a great mascara",
+              "count": 1
+            },
+            {
+              "label": "great mascara",
+              "count": 1
+            },
+            {
+              "label": "makes my lashes look long and thick",
+              "count": 1
+            },
+            {
+              "label": "fuller longer lashes",
+              "count": 1
+            },
+            {
+              "label": "no globs",
+              "count": 1
+            },
+            {
+              "label": "no under eye smudge",
+              "count": 1
+            },
+            {
+              "label": "gives volume",
+              "count": 1
+            },
+            {
+              "label": "doesn't clump upon application",
+              "count": 1
+            },
+            {
+              "label": "dramatic improvement to the look of your lashes",
+              "count": 1
+            },
+            {
+              "label": "lovely color",
+              "count": 1
+            },
+            {
+              "label": "thickens & lengthens",
+              "count": 1
+            },
+            {
+              "label": "formula",
+              "count": 1
+            },
+            {
+              "label": "large brush",
+              "count": 1
+            },
+            {
+              "label": "doesn't clump or flake off",
+              "count": 1
+            },
+            {
+              "label": "goes on smooth & easy - comes off the same way",
+              "count": 1
+            },
+            {
+              "label": "goes on nicely",
+              "count": 1
+            },
+            {
+              "label": "no clumps!",
+              "count": 1
+            },
+            {
+              "label": "not like other mascaras",
+              "count": 1
+            },
+            {
+              "label": "will lengthen",
+              "count": 1
+            },
+            {
+              "label": "good at separating the lashes",
+              "count": 1
+            },
+            {
+              "label": "no raccoon eyes!!",
+              "count": 1
+            },
+            {
+              "label": "adheres to lashes quickly",
+              "count": 1
+            },
+            {
+              "label": "color is dark and perfect",
+              "count": 1
+            },
+            {
+              "label": "easy application with no clumps",
+              "count": 1
+            },
+            {
+              "label": "the ultimate perfect mascara",
+              "count": 1
+            },
+            {
+              "label": "easy application/removal",
+              "count": 1
+            },
+            {
+              "label": "flakeless",
+              "count": 1
+            },
+            {
+              "label": "no run",
+              "count": 1
+            },
+            {
+              "label": "thicker fuller lashes... very dramatic look",
+              "count": 1
+            },
+            {
+              "label": "Great Color",
+              "count": 1
+            },
+            {
+              "label": "lengthening and thickening",
+              "count": 1
+            },
+            {
+              "label": "nearly clump-free",
+              "count": 1
+            },
+            {
+              "label": "seems to be a lot of product in the tube",
+              "count": 1
+            },
+            {
+              "label": "long full lashes",
+              "count": 1
+            },
+            {
+              "label": "highly pigmented",
+              "count": 1
+            },
+            {
+              "label": "great colour",
+              "count": 1
+            },
+            {
+              "label": "not too expencive",
+              "count": 1
+            },
+            {
+              "label": "works exactly like it says it will",
+              "count": 1
+            },
+            {
+              "label": "buildable length and volume",
+              "count": 1
+            },
+            {
+              "label": "great brush",
+              "count": 1
+            },
+            {
+              "label": "easy to get off",
+              "count": 1
+            },
+            {
+              "label": "long and lush",
+              "count": 1
+            },
+            {
+              "label": "sample was great",
+              "count": 1
+            },
+            {
+              "label": "excellent...it wont irritate your eyes",
+              "count": 1
+            },
+            {
+              "label": "long lashes",
+              "count": 1
+            },
+            {
+              "label": "thich lashes",
+              "count": 1
+            },
+            {
+              "label": "reasonably priced good staying power",
+              "count": 1
+            },
+            {
+              "label": "doesn't cost a fortune",
+              "count": 1
+            },
+            {
+              "label": "lengthen",
+              "count": 1
+            },
+            {
+              "label": "Great Look",
+              "count": 1
+            },
+            {
+              "label": "isn't clumpy at all",
+              "count": 1
+            },
+            {
+              "label": "makes eyelashes appear longer",
+              "count": 1
+            },
+            {
+              "label": "no clumping!",
+              "count": 1
+            },
+            {
+              "label": "immediately lengthens lashes",
+              "count": 1
+            },
+            {
+              "label": "makes lashes look longer and fuller",
+              "count": 1
+            },
+            {
+              "label": "no fragrance",
+              "count": 1
+            },
+            {
+              "label": "stays put makes longer and fuller lashes",
+              "count": 1
+            },
+            {
+              "label": "gives you that glam almost faux lashes look.",
+              "count": 1
+            },
+            {
+              "label": "lasting",
+              "count": 1
+            },
+            {
+              "label": "great product",
+              "count": 1
+            },
+            {
+              "label": "doesn't tug",
+              "count": 1
+            },
+            {
+              "label": "makes lashes fuller and longer.",
+              "count": 1
+            },
+            {
+              "label": "makes lashes longer & fuller",
+              "count": 1
+            },
+            {
+              "label": "natural looking. great brush",
+              "count": 1
+            },
+            {
+              "label": "lengthens without looking fake",
+              "count": 1
+            },
+            {
+              "label": "one coat is all that is needed",
+              "count": 1
+            },
+            {
+              "label": "Not Waterproof",
+              "count": 1
+            },
+            {
+              "label": "lashes stay curled",
+              "count": 1
+            },
+            {
+              "label": "easy to use",
+              "count": 1
+            },
+            {
+              "label": "color intense",
+              "count": 1
+            },
+            {
+              "label": "makes my lashes look much longer and thicker",
+              "count": 1
+            },
+            {
+              "label": "long dark lashes",
+              "count": 1
+            },
+            {
+              "label": "volume lengthening no clumps",
+              "count": 1
+            },
+            {
+              "label": "non iritating",
+              "count": 1
+            },
+            {
+              "label": "great coverage that lasts.",
+              "count": 1
+            },
+            {
+              "label": "awesome feel and great look",
+              "count": 1
+            },
+            {
+              "label": "not too hard to remove",
+              "count": 1
+            },
+            {
+              "label": "good for daily wear",
+              "count": 1
+            },
+            {
+              "label": "lasts all day without smudging",
+              "count": 1
+            },
+            {
+              "label": "makes lashes appear fuller",
+              "count": 1
+            },
+            {
+              "label": "super easy to remove",
+              "count": 1
+            },
+            {
+              "label": "great lengthening",
+              "count": 1
+            },
+            {
+              "label": "stayed on even after long workout",
+              "count": 1
+            },
+            {
+              "label": "stays on and looks good all day.",
+              "count": 1
+            },
+            {
+              "label": "washes off with warm water.",
+              "count": 1
+            },
+            {
+              "label": "glossy full long separating gentle",
+              "count": 1
+            },
+            {
+              "label": "brush separates lashes",
+              "count": 1
+            },
+            {
+              "label": "beautiful",
+              "count": 1
+            },
+            {
+              "label": "builds easily",
+              "count": 1
+            },
+            {
+              "label": "great price for quality",
+              "count": 1
+            },
+            {
+              "label": "does not flake or smudge",
+              "count": 1
+            },
+            {
+              "label": "doesnt flake off",
+              "count": 1
+            },
+            {
+              "label": "great definition",
+              "count": 1
+            },
+            {
+              "label": "not clumpy",
+              "count": 1
+            },
+            {
+              "label": "dramatic look",
+              "count": 1
+            },
+            {
+              "label": "volumizes",
+              "count": 1
+            },
+            {
+              "label": "extra full looking lashes",
+              "count": 1
+            },
+            {
+              "label": "no smudge",
+              "count": 1
+            },
+            {
+              "label": "lovely plush brush",
+              "count": 1
+            },
+            {
+              "label": "clean",
+              "count": 1
+            },
+            {
+              "label": "vivid color",
+              "count": 1
+            },
+            {
+              "label": "just a slight hint of blue is great",
+              "count": 1
+            },
+            {
+              "label": "the color really emphasizes your eyes",
+              "count": 1
+            },
+            {
+              "label": "best look",
+              "count": 1
+            },
+            {
+              "label": "great for sensitive eyes",
+              "count": 1
+            },
+            {
+              "label": "doesn't irritate eyes",
+              "count": 1
+            },
+            {
+              "label": "curling",
+              "count": 1
+            },
+            {
+              "label": "voluminizing",
+              "count": 1
+            },
+            {
+              "label": "makes a your lashes have lots of volume.",
+              "count": 1
+            },
+            {
+              "label": "tube lasts for a long time.",
+              "count": 1
+            },
+            {
+              "label": "does not clump",
+              "count": 1
+            },
+            {
+              "label": "goes on well",
+              "count": 1
+            },
+            {
+              "label": "High Quality",
+              "count": 1
+            },
+            {
+              "label": "does not smear.",
+              "count": 1
+            },
+            {
+              "label": "never clumps or sticks lashes together",
+              "count": 1
+            },
+            {
+              "label": "its just amazing",
+              "count": 1
+            },
+            {
+              "label": "lightweight",
+              "count": 1
+            },
+            {
+              "label": "natural looking",
+              "count": 1
+            },
+            {
+              "label": "lashes look naturally longer",
+              "count": 1
+            },
+            {
+              "label": "rich color no clumping",
+              "count": 1
+            },
+            {
+              "label": "works well for long lashes",
+              "count": 1
+            },
+            {
+              "label": "easy wash-off",
+              "count": 1
+            },
+            {
+              "label": "long and distinct lashes",
+              "count": 1
+            },
+            {
+              "label": "its black.",
+              "count": 1
+            },
+            {
+              "label": "applies easily",
+              "count": 1
+            },
+            {
+              "label": "layers well",
+              "count": 1
+            },
+            {
+              "label": "no smudges! lasts all day..",
+              "count": 1
+            },
+            {
+              "label": "results with just a few coats",
+              "count": 1
+            },
+            {
+              "label": "looks rockin!",
+              "count": 1
+            },
+            {
+              "label": "clean application",
+              "count": 1
+            },
+            {
+              "label": "good definition",
+              "count": 1
+            },
+            {
+              "label": "nice",
+              "count": 1
+            },
+            {
+              "label": "smooth rich color.",
+              "count": 1
+            },
+            {
+              "label": "performance",
+              "count": 1
+            },
+            {
+              "label": "doesn't smudge easily",
+              "count": 1
+            },
+            {
+              "label": "long lasting wear",
+              "count": 1
+            },
+            {
+              "label": "safe for sensitive eyes",
+              "count": 1
+            },
+            {
+              "label": "affordable",
+              "count": 1
+            },
+            {
+              "label": "perfect!",
+              "count": 1
+            },
+            {
+              "label": "not flakey",
+              "count": 1
+            },
+            {
+              "label": "it does not clump",
+              "count": 1
+            },
+            {
+              "label": "non-clumpy",
+              "count": 1
+            },
+            {
+              "label": "stays 24hr",
+              "count": 1
+            },
+            {
+              "label": "lengthens and volumizes",
+              "count": 1
+            },
+            {
+              "label": "thickens not clumpy dark",
+              "count": 1
+            },
+            {
+              "label": "long-lasting without smudging",
+              "count": 1
+            },
+            {
+              "label": "lengthens and volumizes well",
+              "count": 1
+            },
+            {
+              "label": "great for contact lens wearers",
+              "count": 1
+            },
+            {
+              "label": "lasts forever",
+              "count": 1
+            },
+            {
+              "label": "no caking etc.",
+              "count": 1
+            },
+            {
+              "label": "thickens without clumping.",
+              "count": 1
+            },
+            {
+              "label": "doesn't clump.",
+              "count": 1
+            },
+            {
+              "label": "volumizes well",
+              "count": 1
+            },
+            {
+              "label": "doesn't irritate",
+              "count": 1
+            },
+            {
+              "label": "builds lashes well",
+              "count": 1
+            },
+            {
+              "label": "black",
+              "count": 1
+            },
+            {
+              "label": "volumizes and lengthens",
+              "count": 1
+            },
+            {
+              "label": "clump-free",
+              "count": 1
+            },
+            {
+              "label": "doesn't run",
+              "count": 1
+            },
+            {
+              "label": "easy to take off",
+              "count": 1
+            },
+            {
+              "label": "max length",
+              "count": 1
+            },
+            {
+              "label": "max volume",
+              "count": 1
+            },
+            {
+              "label": "small wand",
+              "count": 1
+            },
+            {
+              "label": "thick",
+              "count": 1
+            },
+            {
+              "label": "covers well",
+              "count": 1
+            },
+            {
+              "label": "does not dry out fast",
+              "count": 1
+            },
+            {
+              "label": "doesn't clump like the other brands",
+              "count": 1
+            },
+            {
+              "label": "is virant",
+              "count": 1
+            },
+            {
+              "label": "lasts a long time",
+              "count": 1
+            },
+            {
+              "label": "looks very natural",
+              "count": 1
+            },
+            {
+              "label": "my eyes stand out more",
+              "count": 1
+            },
+            {
+              "label": "stays on all day",
+              "count": 1
+            },
+            {
+              "label": "does not result in eyelashes falling out",
+              "count": 1
+            },
+            {
+              "label": "easily washed off",
+              "count": 1
+            },
+            {
+              "label": "inexpensive and fabulous!",
+              "count": 1
+            },
+            {
+              "label": "makes lashes thicker",
+              "count": 1
+            },
+            {
+              "label": "long-lasting no flaking kind to sensitive eyes",
+              "count": 1
+            },
+            {
+              "label": "no clumping or flaking",
+              "count": 1
+            },
+            {
+              "label": "washes off with soap and water",
+              "count": 1
+            },
+            {
+              "label": "non clumping",
+              "count": 1
+            },
+            {
+              "label": "little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "water resistant",
+              "count": 1
+            },
+            {
+              "label": "quick",
+              "count": 1
+            },
+            {
+              "label": "no clumping or flaking lasts till you take it off",
+              "count": 1
+            },
+            {
+              "label": "thickens and lengthens jet black color",
+              "count": 1
+            },
+            {
+              "label": "love",
+              "count": 1
+            },
+            {
+              "label": "a true consistent mascara",
+              "count": 1
+            },
+            {
+              "label": "great value!",
+              "count": 1
+            },
+            {
+              "label": "perfect all around mascara",
+              "count": 1
+            },
+            {
+              "label": "works well on fine lower lashes",
+              "count": 1
+            },
+            {
+              "label": "lengthens short lashes",
+              "count": 1
+            },
+            {
+              "label": "spreads out fine lashes",
+              "count": 1
+            },
+            {
+              "label": "fullness",
+              "count": 1
+            },
+            {
+              "label": "actually does what all the others claim",
+              "count": 1
+            },
+            {
+              "label": "lengthens and adds value",
+              "count": 1
+            },
+            {
+              "label": "no clotting",
+              "count": 1
+            },
+            {
+              "label": "makes eyelashes look miles",
+              "count": 1
+            },
+            {
+              "label": "amazing volume!",
+              "count": 1
+            },
+            {
+              "label": "stays useable for a long time",
+              "count": 1
+            },
+            {
+              "label": "excelent brush shape!",
+              "count": 1
+            },
+            {
+              "label": "no clump!",
+              "count": 1
+            },
+            {
+              "label": "doesn't come off easily",
+              "count": 1
+            },
+            {
+              "label": "lashes are dark",
+              "count": 1
+            },
+            {
+              "label": "lashes are even",
+              "count": 1
+            },
+            {
+              "label": "lashes are full",
+              "count": 1
+            },
+            {
+              "label": "separates doesn't clump or flake defines well",
+              "count": 1
+            },
+            {
+              "label": "light weight formula",
+              "count": 1
+            },
+            {
+              "label": "all around great product",
+              "count": 1
+            },
+            {
+              "label": "beautiful natural look",
+              "count": 1
+            },
+            {
+              "label": "easy to clean it off with eye-makeup remover",
+              "count": 1
+            },
+            {
+              "label": "very lengthening",
+              "count": 1
+            },
+            {
+              "label": "thick full lashes",
+              "count": 1
+            },
+            {
+              "label": "black looks great on a blonde!",
+              "count": 1
+            },
+            {
+              "label": "darkens eye lashes well",
+              "count": 1
+            },
+            {
+              "label": "gives you a natural dramatic look",
+              "count": 1
+            },
+            {
+              "label": "makes lashes look fuller and longer",
+              "count": 1
+            },
+            {
+              "label": "no clumps or flakes!",
+              "count": 1
+            },
+            {
+              "label": "gives great length and volume",
+              "count": 1
+            },
+            {
+              "label": "dramatic",
+              "count": 1
+            },
+            {
+              "label": "emphasises",
+              "count": 1
+            },
+            {
+              "label": "attractive package.",
+              "count": 1
+            },
+            {
+              "label": "full volume easy clean zero fragrance",
+              "count": 1
+            },
+            {
+              "label": "easily removed",
+              "count": 1
+            },
+            {
+              "label": "intense",
+              "count": 1
+            },
+            {
+              "label": "goes above and beyond",
+              "count": 1
+            },
+            {
+              "label": "clump-free lashes",
+              "count": 1
+            },
+            {
+              "label": "lengthens and thickens beautifully",
+              "count": 1
+            },
+            {
+              "label": "great length and volume",
+              "count": 1
+            },
+            {
+              "label": "rinses away with water alone",
+              "count": 1
+            },
+            {
+              "label": "liked the color",
+              "count": 1
+            },
+            {
+              "label": "long lasting doesn't flake",
+              "count": 1
+            },
+            {
+              "label": "easy to layer",
+              "count": 1
+            },
+            {
+              "label": "perfect in the trial size",
+              "count": 1
+            },
+            {
+              "label": "comes off easily",
+              "count": 1
+            },
+            {
+              "label": "color",
+              "count": 1
+            },
+            {
+              "label": "natural looking full lashes no clumping",
+              "count": 1
+            },
+            {
+              "label": "does not smudge",
+              "count": 1
+            },
+            {
+              "label": "didn't smudge",
+              "count": 1
+            },
+            {
+              "label": "no crust or smudge",
+              "count": 1
+            },
+            {
+              "label": "big lush wand that reaches the finest eyelashes",
+              "count": 1
+            },
+            {
+              "label": "doesn't flake or smear",
+              "count": 1
+            },
+            {
+              "label": "great for everyday wear or going out at night",
+              "count": 1
+            },
+            {
+              "label": "doesn't flake off",
+              "count": 1
+            },
+            {
+              "label": "removable",
+              "count": 1
+            },
+            {
+              "label": "builds up lashes",
+              "count": 1
+            },
+            {
+              "label": "easy",
+              "count": 1
+            },
+            {
+              "label": "great color coverage",
+              "count": 1
+            },
+            {
+              "label": "one coat application",
+              "count": 1
+            },
+            {
+              "label": "buildable coverage",
+              "count": 1
+            },
+            {
+              "label": "volume length no clamp",
+              "count": 1
+            },
+            {
+              "label": "does not run",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Able to build up",
+            "Adds Volume",
+            "Adds volume",
+            "All day wear",
+            "Applies Evenly",
+            "Applies evenly",
+            "Beautiful color",
+            "Builds Well",
+            "Clump-free",
+            "Color",
+            "Defines & Separates",
+            "Defines & Seperates",
+            "Does Not Clump",
+            "Does not clump",
+            "Does not flake",
+            "Does not run -smudge or flake",
+            "Doesn't Clump",
+            "Doesn't Flake",
+            "Doesn't clump",
+            "Doesn't flake",
+            "Doesn't irritate",
+            "Dramatic",
+            "Easy",
+            "Easy To Use",
+            "Easy application",
+            "Easy to put on",
+            "Easy to put on and remove, not clumpy",
+            "Easy to remove",
+            "Easy to take off",
+            "Easy to use",
+            "Effective",
+            "Even application",
+            "Fair price!",
+            "Gentle, no flaking, no smudging, lasts all day",
+            "Good Price / Value",
+            "Good Value",
+            "Good consistency",
+            "Great 'color'",
+            "Great Brush",
+            "Great Color",
+            "Great Look",
+            "Great brush",
+            "Great color",
+            "Great definition!!",
+            "Great for sensitive eyes",
+            "Great product",
+            "High Quality",
+            "High-Volume",
+            "I love how it's looks on!!! So natural",
+            "It doesn't make my eyes water",
+            "It is one of the best mascaras that Clinique has",
+            "It's a nice black/brown color",
+            "Jet black",
+            "Last a long time",
+            "Lasts all day",
+            "Lasts all day without smudging",
+            "Lengthening",
+            "Lengthens",
+            "Lengthing",
+            "Light on lashes",
+            "Lightweight",
+            "Long lasting",
+            "Long wearing",
+            "Love The Brush",
+            "Love this product because it lengthens my lashes",
+            "Makes my eyelashes look false",
+            "Natural",
+            "Natural look",
+            "Natural looking",
+            "No Clumps",
+            "No Smudging",
+            "No clumping",
+            "No clumps",
+            "No clumps ever!",
+            "No clumps,flaking smooth glide.",
+            "No irritation",
+            "No need for special cleaner",
+            "No smudge",
+            "No smudges",
+            "No smudges & lashes are still soft.",
+            "Non-Clumping",
+            "None",
+            "Not Flaky",
+            "Not Waterproof",
+            "Perfect for my sensitive eyes!!",
+            "Perfect moisturization",
+            "Reasonably priced",
+            "Removes easily",
+            "Removes easily with my normal facial cleanser.",
+            "Separates",
+            "Separates lashes just enough",
+            "Smells Great",
+            "Staying power",
+            "Stays on but washes off so easy!",
+            "Stays well",
+            "Thickens",
+            "This is hypoallergenic which is great!",
+            "True to color",
+            "Very dark",
+            "Very easy to remove",
+            "Volumizing",
+            "Washes away easily",
+            "Washes off easily",
+            "Washes with regular face wash.",
+            "Waterproof",
+            "Wears well without flaking",
+            "a good consistency",
+            "a true consistent mascara",
+            "actually does what all the others claim",
+            "adds length",
+            "adds length and colume. even the baby lashes",
+            "adds volume",
+            "adheres to lashes quickly",
+            "affordable",
+            "all around great product",
+            "amazing volume!",
+            "applies easily",
+            "applies smoothly",
+            "attractive package.",
+            "awesome feel and great look",
+            "beautiful",
+            "beautiful natural look",
+            "best look",
+            "best mascara on the market hands down!",
+            "big lush wand that reaches the finest eyelashes",
+            "black",
+            "black looks great on a blonde!",
+            "bold and long lasting",
+            "brush separates lashes",
+            "buildable",
+            "buildable coverage",
+            "buildable length and volume",
+            "buildabledark pretty color gentle long lasting",
+            "builds easily",
+            "builds lashes well",
+            "builds up lashes",
+            "can wear with glasses",
+            "clean",
+            "clean application",
+            "clump-free",
+            "clump-free lashes",
+            "color",
+            "color intense",
+            "color is dark and perfect",
+            "comes off easily",
+            "complements!!",
+            "consistent",
+            "covers lashes in black",
+            "covers well",
+            "creamy and smooth",
+            "curling",
+            "darkens eye lashes well",
+            "darkens lashes",
+            "defines",
+            "didn't smudge",
+            "does not clamp lashes",
+            "does not clump",
+            "does not dry out fast",
+            "does not flake or smudge",
+            "does not result in eyelashes falling out",
+            "does not run",
+            "does not seem to run or smudge",
+            "does not smear",
+            "does not smear.",
+            "does not smudge",
+            "does what it claims to",
+            "does what it says",
+            "doesn't bother eyes",
+            "doesn't cause irritation like many other brands.",
+            "doesn't clump",
+            "doesn't clump even after months of use",
+            "doesn't clump like many.",
+            "doesn't clump like the other brands",
+            "doesn't clump or flake off",
+            "doesn't clump upon application",
+            "doesn't clump.",
+            "doesn't come off easily",
+            "doesn't cost a fortune",
+            "doesn't flake",
+            "doesn't flake off",
+            "doesn't flake or smear",
+            "doesn't irritate",
+            "doesn't irritate eyes",
+            "doesn't irritate my eyes",
+            "doesn't look fake",
+            "doesn't melt or sweat off!",
+            "doesn't run",
+            "doesn't smudge",
+            "doesn't smudge easily",
+            "doesn't tug",
+            "doesnt flake off",
+            "doesnt run",
+            "dramatic",
+            "dramatic improvement to the look of your lashes",
+            "dramatic look",
+            "dries fast",
+            "easily removable",
+            "easily removed",
+            "easily washed off",
+            "easy",
+            "easy application",
+            "easy application with no clumps",
+            "easy application/removal",
+            "easy removal",
+            "easy to apply",
+            "easy to clean it off with eye-makeup remover",
+            "easy to get off",
+            "easy to layer",
+            "easy to remove",
+            "easy to remove but wont smear.",
+            "easy to take off",
+            "easy to use",
+            "easy use slim tube",
+            "easy wash-off",
+            "emphasises",
+            "excelent brush shape!",
+            "excellent...it wont irritate your eyes",
+            "extends lashes",
+            "extra full looking lashes",
+            "feels great",
+            "firm but non-crunchy hold",
+            "flakeless",
+            "fluffy",
+            "formula",
+            "full lashes",
+            "full volume easy clean zero fragrance",
+            "fuller longer lashes",
+            "fullness",
+            "gentle",
+            "gives great length and volume",
+            "gives volume",
+            "gives you a natural dramatic look",
+            "gives you that glam almost faux lashes look.",
+            "glides on",
+            "glossy full long separating gentle",
+            "goes above and beyond",
+            "goes on easy",
+            "goes on nicely",
+            "goes on smooth",
+            "goes on smooth & easy - comes off the same way",
+            "goes on smoothly",
+            "goes on smoothly and stays on.",
+            "goes on well",
+            "good at separating the lashes",
+            "good definition",
+            "good for daily wear",
+            "good length too!",
+            "good price",
+            "good volume",
+            "great brush",
+            "great color",
+            "great color coverage",
+            "great colour",
+            "great coverage",
+            "great coverage that lasts.",
+            "great definition",
+            "great for contact lens wearers",
+            "great for everyday wear or going out at night",
+            "great for sensitive eyes",
+            "great length and volume",
+            "great lengthening",
+            "great mascara",
+            "great price for quality",
+            "great product",
+            "great value!",
+            "great volume",
+            "great volume and length",
+            "highly pigmented",
+            "hypoallergenic",
+            "immediately lengthens lashes",
+            "inexpensive and fabulous!",
+            "intense",
+            "is virant",
+            "isn't clumpy at all",
+            "it does not clump",
+            "it does the job",
+            "it makes your lashes look full with out clumps",
+            "its black.",
+            "its just amazing",
+            "just a slight hint of blue is great",
+            "large brush",
+            "lashes are dark",
+            "lashes are even",
+            "lashes are full",
+            "lashes dont fall",
+            "lashes look naturally longer",
+            "lashes stay curled",
+            "lasting",
+            "lasts a long time",
+            "lasts all day",
+            "lasts all day without smudging",
+            "lasts forever",
+            "layers well",
+            "leaves long beautiful lashes",
+            "length",
+            "lengthen",
+            "lengthening",
+            "lengthening and thickening",
+            "lengthens",
+            "lengthens and adds value",
+            "lengthens and thickens beautifully",
+            "lengthens and thickens but still looks natural",
+            "lengthens and volumizes",
+            "lengthens and volumizes well",
+            "lengthens lashes",
+            "lengthens short lashes",
+            "lengthens without looking fake",
+            "lenthens",
+            "light weight formula",
+            "lightweight",
+            "liked the color",
+            "little goes a long way",
+            "long and distinct lashes",
+            "long and lush",
+            "long dark lashes",
+            "long full lashes",
+            "long lashes",
+            "long lasting",
+            "long lasting doesn't flake",
+            "long lasting wear",
+            "long wearing",
+            "long-lasting",
+            "long-lasting no flaking kind to sensitive eyes",
+            "long-lasting without smudging",
+            "long-wearing",
+            "longer lashes",
+            "longthick lashes",
+            "looks great",
+            "looks natural.",
+            "looks rockin!",
+            "looks very natural",
+            "love",
+            "lovely color",
+            "lovely plush brush",
+            "make eyelashes super long",
+            "makes a your lashes have lots of volume.",
+            "makes eyelashes appear longer",
+            "makes eyelashes look miles",
+            "makes lashes appear fuller",
+            "makes lashes fuller and longer.",
+            "makes lashes longer & fuller",
+            "makes lashes look fuller and longer",
+            "makes lashes look longer and fuller",
+            "makes lashes thicker",
+            "makes my lashes look long and thick",
+            "makes my lashes look much longer and thicker",
+            "max length",
+            "max volume",
+            "movie star lashes!",
+            "my eyes stand out more",
+            "my lashes but better",
+            "natural looking",
+            "natural looking full lashes no clumping",
+            "natural looking. great brush",
+            "natural volume",
+            "nearly clump-free",
+            "never clumps or sticks lashes together",
+            "nice",
+            "no caking etc.",
+            "no clotting",
+            "no clump",
+            "no clump!",
+            "no clumping",
+            "no clumping or flaking",
+            "no clumping or flaking lasts till you take it off",
+            "no clumping!",
+            "no clumps",
+            "no clumps or flakes!",
+            "no clumps!",
+            "no crust or smudge",
+            "no flakes",
+            "no flaking",
+            "no fragrance",
+            "no globs",
+            "no odor",
+            "no raccoon eyes!!",
+            "no run",
+            "no smudge",
+            "no smudge or running",
+            "no smudges",
+            "no smudges! lasts all day..",
+            "no under eye smudge",
+            "no under eye smudges",
+            "non clumping",
+            "non iritating",
+            "non irritating",
+            "non-clumping",
+            "non-clumpy",
+            "non-irritating",
+            "none",
+            "not clumpy",
+            "not crunchy",
+            "not flakey",
+            "not gunky",
+            "not like other mascaras",
+            "not too expencive",
+            "not too hard to remove",
+            "one coat application",
+            "one coat is all that is needed",
+            "only a few swipes are needed.",
+            "perfect all around mascara",
+            "perfect in the trial size",
+            "perfect!",
+            "performance",
+            "plumps up lashes",
+            "price is affordable",
+            "quick",
+            "really separates lashes",
+            "reasonable price",
+            "reasonably priced good staying power",
+            "removable",
+            "results with just a few coats",
+            "rich color no clumping",
+            "rinses away with water alone",
+            "rinses clean",
+            "safe for sensitive eyes",
+            "sample was great",
+            "seems to be a lot of product in the tube",
+            "separates and lengthens well",
+            "separates doesn't clump or flake defines well",
+            "separates every lash !",
+            "separates my lashes",
+            "small wand",
+            "smooth & gentle",
+            "smooth application",
+            "smooth rich color.",
+            "spreads out fine lashes",
+            "stayed on even after long workout",
+            "stays 24hr",
+            "stays on",
+            "stays on all day",
+            "stays on and looks good all day.",
+            "stays put",
+            "stays put makes longer and fuller lashes",
+            "stays soft",
+            "stays useable for a long time",
+            "super easy to remove",
+            "super soft",
+            "the color really emphasizes your eyes",
+            "the ultimate perfect mascara",
+            "thich lashes",
+            "thick",
+            "thick brush",
+            "thick full lashes",
+            "thick long lashes",
+            "thickens",
+            "thickens & lengthens",
+            "thickens and lengthens jet black color",
+            "thickens not clumpy dark",
+            "thickens without clumping.",
+            "thicker fuller lashes... very dramatic look",
+            "thicker lashes",
+            "thicker softer lashes",
+            "this mascara stays on all day without a problem.",
+            "tube lasts for a long time.",
+            "turns wimpy lashes into lush lashes",
+            "used to be a great mascara",
+            "very black",
+            "very lengthening",
+            "vivid color",
+            "volume",
+            "volume length no clamp",
+            "volume lengthening no clumps",
+            "voluminizing",
+            "volumizes",
+            "volumizes and lengthens",
+            "volumizes well",
+            "volumizing",
+            "voulumizes",
+            "washes off easily",
+            "washes off easy",
+            "washes off pretty easy",
+            "washes off with soap and water",
+            "washes off with warm water.",
+            "water resistant",
+            "wears well",
+            "will lengthen",
+            "works exactly like it says it will",
+            "works well for bottom and top lashes",
+            "works well for long lashes",
+            "works well on fine lower lashes"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        199,
+        131,
+        222,
+        655,
+        3149
+      ],
+      "review_histogram": [
+        199,
+        131,
+        222,
+        655,
+        3149
+      ],
+      "rating_count": 4356,
+      "review_count": 4356,
+      "average_rating": 4.47,
+      "recommended_ratio": 0.92,
+      "media": [
+        {
+          "id": "556344557",
+          "review_id": 556344564,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/waml9cy2lew9oxveuvkf.jpg",
+          "headline": "A disappointment",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kayla",
+          "created_date": 1751488070530
+        },
+        {
+          "id": "556344542",
+          "review_id": 556344564,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/v9zqat9o0gvtmstyp8kw.jpg",
+          "headline": "A disappointment",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kayla",
+          "created_date": 1751488070530
+        },
+        {
+          "id": "554862194",
+          "review_id": 554862179,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ffxy5ziqlwhypjumo9z5.jpg",
+          "headline": "I love this",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jazalyn",
+          "created_date": 1749576394252
+        },
+        {
+          "id": "381070223",
+          "review_id": 381070222,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zzmmyjxyyfjqka4phv1k.jpg",
+          "headline": "Terrible!",
+          "rating": 1,
+          "helpful_votes": 1,
+          "not_helpful_votes": 1,
+          "type": "image",
+          "nickname": "Ellen",
+          "created_date": 1631910131042
+        },
+        {
+          "id": "249684703",
+          "review_id": 249684798,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/sze8luhdsttnwkepkb1c.jpg",
+          "headline": "Abomination",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rikki",
+          "created_date": 1567650535943
+        },
+        {
+          "id": "249684809",
+          "review_id": 249684798,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/pkku4f9crcba101zax0q.jpg",
+          "headline": "Abomination",
+          "rating": 1,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rikki",
+          "created_date": 1567650535943
+        },
+        {
+          "id": "249684817",
+          "review_id": 249684798,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kdum8538w3dwsj2yprdf.jpg",
+          "headline": "Abomination",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rikki",
+          "created_date": 1567650535943
+        },
+        {
+          "id": "239659757",
+          "review_id": 239659701,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/imzslinwxz0ac0olnkcs.jpg",
+          "headline": "Yes",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Nellie",
+          "created_date": 1560365736117
+        },
+        {
+          "id": "212276758",
+          "review_id": 212276766,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dglixvye8gv13hojvicw.jpg",
+          "headline": "Best High end",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sharaiah",
+          "created_date": 1540150398141
+        },
+        {
+          "id": "190381548",
+          "review_id": 190381507,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yhybdxqmxjpqfhvcanvi.jpg",
+          "headline": "Absolute BEST on the market",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Lauren the beauty guru",
+          "created_date": 1459720537941
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I love this mascara. It does wonders to every eye lash type (unless you use to much, of course). When using the brush correctly it volumizes, lenthens as it spreads your lashes out. If you put on a lot at once when its not dry it will clump and look bad. So,be careful with the amount you use! Wonderful product!",
+        "headline": "Best mascara!",
+        "rating": 5,
+        "ugc_id": 188804647
+      },
+      "faceoff_negative": {
+        "comments": "This is a nice mascara that does give volume. I've found that it does clump especially on my lower lashes. Half the time I'm removing the extra with a Q-tip, or trying to separate the lashes with a small eyelash brush. Even after taking off all my makeup the night before, the next morning I awake with smudges under my eyes from the mascara I didn't notice was still there. Will try another Clinque mascara to see if I find my all time favorite.",
+        "headline": "Nice, but clumps!",
+        "rating": 2,
+        "ugc_id": 188804290
+      },
+      "name": "High Impact Volumizing Mascara",
+      "native_review_count": 950,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 3406,
+      "locale": "en_US"
+    }
+  }
+}

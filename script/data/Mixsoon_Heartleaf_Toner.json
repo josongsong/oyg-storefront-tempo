@@ -1,0 +1,114 @@
+{
+  "product_id": "pimprod2052513",
+  "product_url": "https://www.ulta.com/p/heartleaf-toner-pimprod2052513",
+  "extracted_at": "2025-09-23T04:06:00.732290+00:00",
+  "product_name": "MixsoonHeartleaf Toner",
+  "brand": "Mixsoon",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Toner"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "toner"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "26.50",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2643842?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2643842?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643842_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643842_alt02?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsGive BackExperience gentle yet powerful skincare with the Mixsoon Heartleaf Toner. Infused with Heartleaf extract, known for its calming and balancing properties, this toner helps soothe irritation, control excess oil, and restore skin’s natural balance.",
+  "details": "DetailsBenefitsPerfect for daily use, it preps your skin for the next steps in your routine while promoting a clear, healthy, and radiant complexionIdeal for senstivie, acne prone skin, this formula reduces the appearance of pores and rednessThis formula improved hydration, while strengthening the skin barrier from environmental stressorsKey IngredientsHeartleaf Extract - Soothes redness and irritaiton, while treating clogged poresItem 2643842How To UseApply a moderate amount with your hands and then gently tap for better absorption.IngredientsWater, Centella Asiatica Extract, Buytlene Glycol, Bellis Perennis (Daisy) Flower Extract, Bifida Ferment Extract, Houttuynia Cordata Extract, Butylene Glycol, 1,2-Hexanediol, 2-Hexandiol, Galactomyces Ferment Filtrate.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Apply a moderate amount with your hands and then gently tap for better absorption.",
+  "ingredients": [
+    "Water",
+    "Centella Asiatica Extract",
+    "Buytlene Glycol",
+    "Bellis Perennis (Daisy) Flower Extract",
+    "Bifida Ferment Extract",
+    "Houttuynia Cordata Extract",
+    "Butylene Glycol",
+    "2-Hexanediol",
+    "2-Hexandiol",
+    "Galactomyces Ferment Filtrate"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "cleanser",
+      "toner"
+    ],
+    "skin_type": [
+      "sensitive",
+      "acne-prone"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "natural",
+      "brightening",
+      "soothing"
+    ],
+    "category": [],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2052513",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rating_count": 0,
+      "review_count": 0,
+      "average_rating": 0.0,
+      "recommended_ratio": 0.0,
+      "media": [],
+      "native_review_count": 0,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

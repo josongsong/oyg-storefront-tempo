@@ -1,0 +1,926 @@
+{
+  "product_id": "pimprod2014510",
+  "product_url": "https://www.ulta.com/p/hyaluron-bubble-pop-cleanser-pimprod2014510",
+  "extracted_at": "2025-09-23T04:09:57.970259+00:00",
+  "product_name": "HanskinHyaluron Bubble Pop Cleanser",
+  "brand": "Hanskin",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "22.00",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "117",
+  "images": [
+    "https://media.ulta.com/i/ulta/2561096?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2561096?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2561096cm_alt02?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryBubble away dirt and oil with Hanskin's Hyaluron Bubble Pop Cleanser, a sulfate-free foam cleanser that dissolves impurities without stripping skin.",
+  "details": "DetailsBenefitsDissolves dirt, oil and makeup leftover from cleansing oils and micellar watersTwo types of hyaluronic acid work together to moisturize as you cleanseSoft, sulfate-free foam with dense bubblesMaintains hydration without stripping skinThoroughly cleanses with natural soap bark extract without stripping the skin of precious moisturepH: 5.5Key IngredientsSodium Hyaluronate: A form of hyaluronic acid that draws water into the skinHydrolyzed Hyaluronic Acid: A form of hyaluronic acid that plumps, hydrates and illuminates skinSoap Bark Extract: A natural cleanser that moisturizes as it purifies skinMadecassoside: An anti-inflammatory plant extract with powerful soothing properties that calms skin irritation and breakoutsFormulated WithoutTalcSulfatesSiliconeArtificial FragranceBenzyl AlcoholItem 2561096How To UseUse it as the second step in your double cleansing routine. Dispense 3-4 pumps of cleanser and massage into damp skin, avoiding the eye area. Thoroughly rinse with lukewarm water.Precautions: For external use only.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Use it as the second step in your double cleansing routine. Dispense 3-4 pumps of cleanser and massage into damp skin, avoiding the eye area. Thoroughly rinse with lukewarm water.Precautions: For external use only.",
+  "ingredients": "",
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "sensitive",
+      "acne-prone"
+    ],
+    "finish": [
+      "oil",
+      "foam"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "natural",
+      "sulfate-free",
+      "soothing",
+      "purifying"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2014510",
+    "total_reviews": 117,
+    "reviews": [
+      {
+        "review_id": 527540831,
+        "rating": 5,
+        "headline": "Love this cleanser!",
+        "comments": "I love absolutely everything about this.  It's so gentle but effective.  I love the packaging, it's really pretty and doesn't look cheap. The cleanser itself feels really luxurious to use.  The foam feels soft and gentle on my skin, never irritates or dries my skin out.  You only need one pump.  I use it in the morning, and as a second step later in the day.  I have used it on it's own in the evening too, and it seemed to do a good job of removing makeup.  It's not strongly fragranced at all, which I appreciate.Love it!",
+        "nickname": "Annette",
+        "location": "Minnesota",
+        "created_date": 1724061960515,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 510755880,
+        "rating": 5,
+        "headline": "Absolutely Love!",
+        "comments": "I purchased this on sale because I was nervous, but I'm so glad I did, my face is super sensitive, but this works so well, and  leaves my skin so soft, it makes my skin feel really clean",
+        "nickname": "Lis",
+        "location": "Philly",
+        "created_date": 1712507260055,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 471864134,
+        "rating": 5,
+        "headline": "Gentle cleanser",
+        "comments": "This cleanser is very gentle with no added fragrance.  It works great for my sensitive skin.  FYI, I use vit C and retinol everyday and this cleanser didn't cause any reaction to my skin. Highly recommend if you are looking for a gentle but effective cleanser.",
+        "nickname": "Mi Y L",
+        "location": "Irvine",
+        "created_date": 1694474946891,
+        "bottom_line": "Yes",
+        "helpful_votes": 17,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 468666006,
+        "rating": 5,
+        "headline": "Great cleanser",
+        "comments": "I double cleanse and use this cleanser as a second step. This cleanser is very gentle with little to no fragrance.  Works perfect on my combination skin without stripping but clean enough.",
+        "nickname": "Yani C",
+        "location": "Los Angeles. CA",
+        "created_date": 1692214496494,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 439519983,
+        "rating": 1,
+        "headline": "not for me...",
+        "comments": "After using this product I broke out in tiny bumps all on jawline and nose. I had never reacted to a product this way and to say the least I was disappointed in this product.",
+        "nickname": "Heather W.",
+        "location": "Chicago",
+        "created_date": 1672873916138,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 415814616,
+        "rating": 5,
+        "headline": "So this is Glass Skin!",
+        "comments": "This is my all time favorite line from my favorite skincare brand. It all started with the PHA Cleansing Balm for me, and then I was hooked. This agreed with my skin immediately. I recently tired a new cleanser and moisturizer for my night routine that really irritated my skin and made me break out, but this stuff got my skin back on track immediately! I gently massage one pump onto my face with my fingers after exfoliating with the BHA Hanskin Cleansing Oil using my silicone sonic cleaning device. This cleanser doesn't strip my skin and it pairs beautifully with their other products. So glad I gave this a try! Thanks to Hanskin I have beautiful, healthy looking, dewy glass skin!",
+        "nickname": "Desert Miku",
+        "location": "AZ",
+        "created_date": 1657123154884,
+        "bottom_line": null,
+        "helpful_votes": 10,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 402210939,
+        "rating": 3,
+        "headline": "Don't understand good reviews",
+        "comments": "This cleanser is so drying, I don't understand all the reviews saying it's so hydrating. Everything I've tried from this brand has been so drying even though they market towards dry skin. Maybe my skin is THAT dry ??? If you have extremely dry skin I do not recommend \n\n// gave 3 stars bc it's definitely a cleanser, does it's job, foam is nice & fluffy & smells fine. But definitely not a hydrating face wash",
+        "nickname": "Mel🥀",
+        "location": "USA",
+        "created_date": 1647286572025,
+        "bottom_line": null,
+        "helpful_votes": 11,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 399864035,
+        "rating": 5,
+        "headline": "Nice foaming cleanser to keep sensitive skin moist",
+        "comments": "I use this cleanser after Hanskin oil based pore cleanser.  It leaves my skin moist after cleansing.  My skin feels good after using it.",
+        "nickname": "LA gal",
+        "location": "Los Angeles",
+        "created_date": 1645495708256,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 397882019,
+        "rating": 5,
+        "headline": "Love this cleanser!",
+        "comments": "I love this cleanser! I used this day and night for double cleansing and it's perfect! It didn't strip my skin, and left my skin feeling so clean! Mostly used this during the winter as well so I'm really impressed! Would definitely purchase again!!!! I love that the packaging is clear so I also know when Im about to run out :)",
+        "nickname": "Cat7731",
+        "location": "Bay Area",
+        "created_date": 1644301629469,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 397875556,
+        "rating": 5,
+        "headline": "Love this product!",
+        "comments": "I love this face wash!! It did not strip my skin at all so I was able to even double wash with this! My skin feels clean but not dry and that's what a cleanser should feel like! 10/10 recommend!",
+        "nickname": "cat7731",
+        "location": "Bay Area",
+        "created_date": 1644300878121,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 393073287,
+        "rating": 5,
+        "headline": "Moisturizing Easy Cleanser",
+        "comments": "I use one pump to lather on my face before I use any water. Then I wash with water, and my face feels so moisturized afterwards! This cleanser is so easy, and is a great second step after using an oil cleanser of removing makeup.",
+        "nickname": "Hannah",
+        "location": "Los Angeles, CA",
+        "created_date": 1641405752092,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 392541356,
+        "rating": 4,
+        "headline": "I would buy this again!",
+        "comments": "This is a very gentle cleanser that would be great for sensitive skin. I use it after cleansing my face with an oil cleanser. It is gentle enough to use daily, however, it doesn't remove all makeup, so using it as a 2nd cleanser is recommended!",
+        "nickname": "Christine",
+        "location": "Portland, OR",
+        "created_date": 1640912057413,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 392519366,
+        "rating": 5,
+        "headline": "Best Cleanser!",
+        "comments": "I use this cleaner everyday for about a month. This is my second cleanser after using an oil cleanser in my skincare and it leaves my face hydrated and smooth. I've noticed my pores a lot cleaner and less blackheads.  The packaging is so cute. Definitely better than Kylie Skin.",
+        "nickname": "Kimmy",
+        "location": "Los Angeles, CA",
+        "created_date": 1640890504684,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 392510619,
+        "rating": 5,
+        "headline": "Super Gentle for Winter",
+        "comments": "The perfect winter cleanser. Gentle, calming and easy to use twice a day.",
+        "nickname": "The Canuk",
+        "location": "NYC",
+        "created_date": 1640884576517,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 392470645,
+        "rating": 3,
+        "headline": "A cute & bubbly way to cleanse away light makeup.",
+        "comments": "The Hyaluron Bubble Pop Cleanser was my first experience using a cleansing foam, and I loved how it felt on my skin. I use this cleanser mainly for my skin and to remove light makeup. I recently moved from a very humid climate to a more dry one, so I usually lean towards more oil-based cleansers. But since this product is so light, it doesn't dry out my skin nor hydrate it. The packaging is adorable yet, a bit too large for my personal taste. The one major con that stops me from using it again is the overbearing chemical smell.",
+        "nickname": "syunni",
+        "location": "Austin, TX",
+        "created_date": 1640832665523,
+        "bottom_line": "No",
+        "helpful_votes": 6,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 392459120,
+        "rating": 5,
+        "headline": "Purchase it!",
+        "comments": "This cleanser gets the job done! Whether used as a single cleanse or a double cleanse, the product is effective.",
+        "nickname": "Pearly skin",
+        "location": "Riverside, CA",
+        "created_date": 1640819168408,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 392449321,
+        "rating": 5,
+        "headline": "can't live without it",
+        "comments": "This is the best gentle cleanser I've ever used! I have sensitive skin, and this is my second bottle that I have used. I have tried so many skincare products, this specific has visibly reduced wrinkles, smoothed out the texture of my skin, and brightened my face up. My skin loves this product!",
+        "nickname": "Kelly",
+        "location": "Portland, OR",
+        "created_date": 1640808184020,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 392167476,
+        "rating": 5,
+        "headline": "Nice product- works well",
+        "comments": "I use this product after removing makeup or even just to cleanse my face at the end of the day. Doesn't dry out my skin but leaves it feeling soft and fresh. Just a little goes a long way I find. Works well and would purchase again.",
+        "nickname": "MA",
+        "location": "Cleveland",
+        "created_date": 1640451999520,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 391535953,
+        "rating": 5,
+        "headline": "Good cleanser",
+        "comments": "I've been using this cleanser for 6 weeks twice a day.   This is my second step cleanser after using cleansing oil at night.  It leaves my face smooth, hydrated and clean.   After a few weeks of using this cleanser I noted less black and white heads on face.    Only complaint is that I have used up the product so quickly.   I wish the bottle is bigger for same price.",
+        "nickname": "Oops",
+        "location": "San Diego",
+        "created_date": 1639915187197,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 391434434,
+        "rating": 4,
+        "headline": "Simple and easy to use!",
+        "comments": "This product is super light and easy to use. I just use one pump each night to cleanse my face. The sent is really subtle which I prefer.",
+        "nickname": "Tiffany",
+        "location": "Austin, TX",
+        "created_date": 1639860733048,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 117,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2014510/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "After removing makeup, use it to cleanse face",
+              "count": 1
+            },
+            {
+              "label": "Daily cleanser",
+              "count": 1
+            },
+            {
+              "label": "Morning cleanser",
+              "count": 1
+            },
+            {
+              "label": "Everyday cleanser",
+              "count": 1
+            },
+            {
+              "label": "Evening",
+              "count": 1
+            },
+            {
+              "label": "Everyday",
+              "count": 1
+            },
+            {
+              "label": "Morning",
+              "count": 1
+            },
+            {
+              "label": "On the body",
+              "count": 1
+            },
+            {
+              "label": "Night time routine",
+              "count": 1
+            },
+            {
+              "label": "Once in awhile",
+              "count": 1
+            },
+            {
+              "label": "Day",
+              "count": 1
+            },
+            {
+              "label": "Night",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "After removing makeup, use it to cleanse face",
+            "Daily cleanser",
+            "Day",
+            "Evening",
+            "Everyday",
+            "Everyday cleanser",
+            "Morning",
+            "Morning cleanser",
+            "Night",
+            "Night time routine",
+            "On the body",
+            "Once in awhile"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Drying",
+              "count": 2
+            },
+            {
+              "label": "pump gets stuck A LOT!",
+              "count": 1
+            },
+            {
+              "label": "Doesn't need as much product as bottle says",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Doesn't need as much product as bottle says",
+            "Drying",
+            "pump gets stuck A LOT!"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Acne Prone",
+              "count": 2
+            },
+            {
+              "label": "Combination Skin",
+              "count": 2
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 2
+            },
+            {
+              "label": "dry skin",
+              "count": 1
+            },
+            {
+              "label": "Oily skin",
+              "count": 1
+            },
+            {
+              "label": "Sensitive",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin, allergic fragrances",
+              "count": 1
+            },
+            {
+              "label": "Combination skin",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Normal to dry",
+              "count": 1
+            },
+            {
+              "label": "I have combination skin",
+              "count": 1
+            },
+            {
+              "label": "acne prone",
+              "count": 1
+            },
+            {
+              "label": "combination skin",
+              "count": 1
+            },
+            {
+              "label": "Uneven skin texture",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne Prone",
+            "Casual Dresser",
+            "Combination Skin",
+            "Combination skin",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "I have combination skin",
+            "Normal to dry",
+            "Oily skin",
+            "Sensitive",
+            "Sensitive Skin",
+            "Sensitive skin",
+            "Sensitive skin, allergic fragrances",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Uneven skin texture",
+            "Youthful",
+            "acne prone",
+            "combination skin",
+            "dry skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Gentle",
+              "count": 4
+            },
+            {
+              "label": "Cleansing",
+              "count": 4
+            },
+            {
+              "label": "gentle",
+              "count": 4
+            },
+            {
+              "label": "cleansing",
+              "count": 2
+            },
+            {
+              "label": "Smells Great",
+              "count": 2
+            },
+            {
+              "label": "Hydrating",
+              "count": 2
+            },
+            {
+              "label": "Moisturizing",
+              "count": 2
+            },
+            {
+              "label": "Not drying",
+              "count": 2
+            },
+            {
+              "label": "Removes makeup",
+              "count": 2
+            },
+            {
+              "label": "Clean",
+              "count": 1
+            },
+            {
+              "label": "A little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "No harsh chemicals or smells",
+              "count": 1
+            },
+            {
+              "label": "no acne",
+              "count": 1
+            },
+            {
+              "label": "Nice packaging",
+              "count": 1
+            },
+            {
+              "label": "Good Bottle",
+              "count": 1
+            },
+            {
+              "label": "Long Lasting",
+              "count": 1
+            },
+            {
+              "label": "Removes Make Up",
+              "count": 1
+            },
+            {
+              "label": "Foamy",
+              "count": 1
+            },
+            {
+              "label": "Light",
+              "count": 1
+            },
+            {
+              "label": "Non scented",
+              "count": 1
+            },
+            {
+              "label": "pH balanced",
+              "count": 1
+            },
+            {
+              "label": "Non drying",
+              "count": 1
+            },
+            {
+              "label": "Smells great",
+              "count": 1
+            },
+            {
+              "label": "foamy",
+              "count": 1
+            },
+            {
+              "label": "fragrance-free",
+              "count": 1
+            },
+            {
+              "label": "rich",
+              "count": 1
+            },
+            {
+              "label": "sleek packaging",
+              "count": 1
+            },
+            {
+              "label": "Good for Sensitive Skin",
+              "count": 1
+            },
+            {
+              "label": "Softening",
+              "count": 1
+            },
+            {
+              "label": "not drying",
+              "count": 1
+            },
+            {
+              "label": "Cleans",
+              "count": 1
+            },
+            {
+              "label": "Doesn't leave residue",
+              "count": 1
+            },
+            {
+              "label": "Easy to use",
+              "count": 1
+            },
+            {
+              "label": "Little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "Long lasting",
+              "count": 1
+            },
+            {
+              "label": "Leaves skin soft",
+              "count": 1
+            },
+            {
+              "label": "Pleasant scent",
+              "count": 1
+            },
+            {
+              "label": "Thoroughly cleans",
+              "count": 1
+            },
+            {
+              "label": "Acne Fix",
+              "count": 1
+            },
+            {
+              "label": "Removes Makeup",
+              "count": 1
+            },
+            {
+              "label": "Toning",
+              "count": 1
+            },
+            {
+              "label": "No smell",
+              "count": 1
+            },
+            {
+              "label": "Soothes",
+              "count": 1
+            },
+            {
+              "label": "Felt nice and hydrating on my skin.",
+              "count": 1
+            },
+            {
+              "label": "great texture",
+              "count": 1
+            },
+            {
+              "label": "lightweight",
+              "count": 1
+            },
+            {
+              "label": "no smell",
+              "count": 1
+            },
+            {
+              "label": "Delicate on sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Fast working",
+              "count": 1
+            },
+            {
+              "label": "Makes skin super soft",
+              "count": 1
+            },
+            {
+              "label": "No more pores",
+              "count": 1
+            },
+            {
+              "label": "Feels gentle and moisturizing and smells clean",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A little goes a long way",
+            "Acne Fix",
+            "Clean",
+            "Cleans",
+            "Cleansing",
+            "Delicate on sensitive skin",
+            "Doesn't leave residue",
+            "Easy to use",
+            "Fast working",
+            "Feels gentle and moisturizing and smells clean",
+            "Felt nice and hydrating on my skin.",
+            "Foamy",
+            "Gentle",
+            "Good Bottle",
+            "Good for Sensitive Skin",
+            "Hydrating",
+            "Leaves skin soft",
+            "Light",
+            "Little goes a long way",
+            "Long Lasting",
+            "Long lasting",
+            "Makes skin super soft",
+            "Moisturizing",
+            "Nice packaging",
+            "No harsh chemicals or smells",
+            "No more pores",
+            "No smell",
+            "Non drying",
+            "Non scented",
+            "Not drying",
+            "Pleasant scent",
+            "Removes Make Up",
+            "Removes Makeup",
+            "Removes makeup",
+            "Smells Great",
+            "Smells great",
+            "Softening",
+            "Soothes",
+            "Thoroughly cleans",
+            "Toning",
+            "cleansing",
+            "foamy",
+            "fragrance-free",
+            "gentle",
+            "great texture",
+            "lightweight",
+            "no acne",
+            "no smell",
+            "not drying",
+            "pH balanced",
+            "rich",
+            "sleek packaging"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 1
+            },
+            {
+              "label": "Dry",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        3,
+        1,
+        12,
+        26,
+        75
+      ],
+      "review_histogram": [
+        3,
+        1,
+        12,
+        26,
+        75
+      ],
+      "rating_count": 117,
+      "review_count": 117,
+      "average_rating": 4.44,
+      "recommended_ratio": 0.96,
+      "media": [
+        {
+          "id": "397881999",
+          "review_id": 397882019,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xhbjy9jloqbsxiqie73b.jpg",
+          "headline": "Love this cleanser!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "cute packaging!",
+          "nickname": "Cat7731",
+          "created_date": 1644301629469
+        },
+        {
+          "id": "274423390",
+          "review_id": 274423396,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mwxtucdwvegjrysf5mtr.jpg",
+          "headline": "Good Product",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Angela the Healthy Skin Enthusiast",
+          "created_date": 1588331684233
+        },
+        {
+          "id": "274421388",
+          "review_id": 274421397,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/nyisqjzt5zkiyohjgyn1.jpg",
+          "headline": "Good product! Very light on the face.",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Angela the skin enthusiast",
+          "created_date": 1588331385111
+        },
+        {
+          "id": "272363292",
+          "review_id": 272363314,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xarapyqvdgbzvkwwbcpj.jpg",
+          "headline": "The perfect foam face wash?!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sammi",
+          "created_date": 1587333348028
+        },
+        {
+          "id": "272363291",
+          "review_id": 272363314,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rmolexqdrbiv510zpzg0.jpg",
+          "headline": "The perfect foam face wash?!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sammi",
+          "created_date": 1587333348028
+        },
+        {
+          "id": "272265760",
+          "review_id": 272265755,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/evfm3gdfomi6wspiiml2.jpg",
+          "headline": "I would buy again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Michelle",
+          "created_date": 1587225804194
+        },
+        {
+          "id": "269034862",
+          "review_id": 269034955,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/k93kpvjtbfxftuizrwuu.jpg",
+          "headline": "I",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Super clean face!",
+          "nickname": "Nance",
+          "created_date": 1585263036099
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "This is the perfect cleanser to follow up a cleansing balm/oil (after removing makeup/sunscreen). I never buy any product before thoroughly going through the ingredient list, which Ulta did not provide on the website. I took the risk anyway and bought it, which I do not regret because the ingredients are great! I make sure there's no harsh surfactants, pore clogging ingredients, and no fragrance/essential oils. This cleanser has none of those terrible ingredients, therefore perfect for sensitive skin! This does not remove makeup, so it's important to use a cleansing balm or oil beforehand. This cleanser can be used in the morning on a bare face as well. After use, your skin feels clean but not tight like most foaming cleansers. And even though this has many types of hyaluronic acid, your face does not feel like you put on a hydrating toner/lotion instead of actually cleansing your skin, which is a problem I had with the CeraVe Hydrating Cleanser.  With that cleanser, you are left with a film on your face and your skin doesn't feel like it's been cleansed. With the Hanskin cleanser, you don't have that problem at all!",
+        "headline": "The Perfect 2nd Cleanser for Sensitive Skin!",
+        "rating": 5,
+        "ugc_id": 274000852
+      },
+      "faceoff_negative": {
+        "comments": "I have very sensitive skin that's more on the dry side. I loveee using this product. I wanted a foam cleanser and found that this has a lower pH than other cleansers I've used. I've been using cetaphil for years but wanted to try something new. With my sensitive skin, I was afraid this would give me a reaction but it didn't. It worked really well with my skin and my skin felt really healthy but I know it's a combo of all the skin products that I also use to help out.  I didn't really notice the smell. It definitely did not bother me at all. One pump was enough to cover my whole face and wash thoroughly but I love the foam so I do 2 sometimes. \n\nOverall, I really do love this product. My face cleared up and it just felt really clean after washing it. It didn't feel too dry. The quality would be a 5. However, because of the pump, I'd have to rate it a 3. The pump kept getting stuck about every 10 pumps. When it did get stuck, I'd have to press down very fast and a lot to get the product out. Unless I just have a defective pump.....",
+        "headline": "Great product but poor packaging",
+        "rating": 3,
+        "ugc_id": 330363628
+      },
+      "name": "Hyaluron Bubble Pop Cleanser",
+      "native_review_count": 117,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,1827 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/renewing-sa-cleanser-xlsImpprod13531041",
+  "extracted_at": "2025-09-23T05:01:13.150584+00:00",
+  "product_name": "CeraVeRenewing SA Cleanser",
+  "brand": "CeraVe",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "15.99",
+  "sale_price": "11.99",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "2969",
+  "images": [
+    "https://media.ulta.com/i/ulta/2283676?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2283676?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283676cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283676cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283676cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283676cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283676cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283676cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283676cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2283676cm_vid01/thumbs/a7fccd1a-0a86-4a78-97e8-a47aad396688?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsHSA/FSA eligibleCeraVe Renewing SA Cleanser, Salicylic Acid Face Wash for Balanced Skin cleanses, exfoliates and removes excess oil while reinforcing the skin's protective barrier with ceramides.",
+  "details": "DetailsBenefitsEffective face wash formula removes dirt and oil while softening and smoothing skinGentle cleanser formulation exfoliates the skin with salicylic acidNo harsh microbeads that can irritate skin or damage the environmentHelps restore the protective skin barrier with three essential ceramidesHelps attract moisture to the skin with hyaluronic acidHelps soothe the skin with niacinamideEnriched with antioxidant Vitamin DSuitable for face and body, as well as acne-prone skinNon-comedogenicFragrance FreeAllergy-testedDeveloped with dermatologistsKey IngredientsSalicylic acid gently exfoliates for soft, smooth skinCeramides help restore and maintain the skin's natural barrierHyaluronic acid attracts hydration to the skin's surface and helps dry skin retain moistureNiacinamide helps calm the skinVitamin D provides antioxidant benefitsMVE Technology, a patented delivery system, continually releases moisturizing ingredientsFormulated WithoutFragranceMicrobeadsItem 2283676How To UseWet skin with lukewarm water. Massage cleanser into skin in a gentle, circular motion. Rinse.IngredientsPurified Water, Cocamidopropyl Hydroxysultaine, Glycerin, Sodium Lauroyl Sarcosinate, Niacinamide, Gluconolactone, Sodium Methylcocoyl Taurate, PEG-150 Pentaerythrityl Tetrastearate, Salicylic Acid, Ceramide 6-11, Ceramide 3, Ceramide 1, Hyaluronic Acid, Cholesterol Sodium Benzoate, Zea Mays (Corn) Oil, Disodium EDTA, Sodium Lauroyl Lactylate, Cholecalciferol, Phytosphingosine, Xanthan Gum, Carbomer, Sodium Hydroxide.",
+  "how_to_use": "Wet skin with lukewarm water. Massage cleanser into skin in a gentle, circular motion. Rinse.",
+  "ingredients": [
+    "Purified Water",
+    "Cocamidopropyl Hydroxysultaine",
+    "Glycerin",
+    "Sodium Lauroyl Sarcosinate",
+    "Niacinamide",
+    "Gluconolactone",
+    "Sodium Methylcocoyl Taurate",
+    "PEG-150 Pentaerythrityl Tetrastearate",
+    "Salicylic Acid",
+    "Ceramide 6-11",
+    "Ceramide 3",
+    "Ceramide 1",
+    "Hyaluronic Acid",
+    "Cholesterol Sodium Benzoate",
+    "Zea Mays (Corn) Oil",
+    "Disodium EDTA",
+    "Sodium Lauroyl Lactylate",
+    "Cholecalciferol",
+    "Phytosphingosine",
+    "Xanthan Gum",
+    "Carbomer",
+    "Sodium Hydroxide"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/1b38c9ea-2742-4555-98e5-9ab2179075c6/480.webp",
+      "https://content.syndigo.com/asset/a6070a32-7489-4004-9036-0865cc60b9f2/480.webp",
+      "https://content.syndigo.com/asset/d1fcf6d8-41ef-4d10-beda-cdb5a1878c63/220.webp",
+      "https://content.syndigo.com/asset/248c0ab9-3950-42d9-a5c0-256a7dcc502b/220.webp",
+      "https://content.syndigo.com/asset/481813e4-9d55-4188-a584-039e69f228d2/220.webp",
+      "https://content.syndigo.com/asset/a38c12fc-cd55-49c2-92d0-46b803259f8d/220.webp",
+      "https://content.syndigo.com/asset/f425d54b-0755-499a-b8f3-4ae5faf087e3/150.jpeg",
+      "https://content.syndigo.com/asset/f3ad6078-e007-4b49-86e3-8d4fb931ef3c/150.jpeg",
+      "https://content.syndigo.com/asset/21119215-2a89-4ba1-aeb4-a64a824dff40/150.jpg",
+      "https://content.syndigo.com/asset/d543ca53-c2b0-4428-9e27-c3cd08bf0d78/150.jpeg",
+      "https://content.syndigo.com/asset/ec9d40ef-1116-40dd-b2de-65d36e8774f8/150.jpeg",
+      "https://content.syndigo.com/asset/587aee4d-c853-479a-a565-93379ed2787b/150.jpg",
+      "https://content.syndigo.com/asset/4dd89d4f-50b6-4b3a-85f5-c37ac47186ae/150.jpeg",
+      "https://content.syndigo.com/asset/2c3de84d-8bd7-422c-a799-0abaa472bae4/150.jpeg",
+      "https://content.syndigo.com/asset/5df90993-3309-46d2-9a79-fe67d773a670/150.jpg"
+    ]
+  },
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive",
+      "acne-prone",
+      "normal"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "hyaluronic-acid",
+      "niacinamide",
+      "salicylic-acid",
+      "ceramides"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "natural",
+      "non-comedogenic",
+      "fragrance-free",
+      "hydrating",
+      "soothing",
+      "repairing"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod13531041",
+    "total_reviews": 2969,
+    "reviews": [
+      {
+        "review_id": 561483768,
+        "rating": 5,
+        "headline": "Only thing that works",
+        "comments": "I have tried every product from the 1970s on, as my skin was very oily.  Now, my post-menopausal skin includes clogged sebaceous glands.  This product is the only one that has helped with that issue.",
+        "nickname": "Marcy",
+        "location": "Charlottesville, VA",
+        "created_date": 1756746990360,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561414983,
+        "rating": 2,
+        "headline": "I wouldn't buy",
+        "comments": "My skin is pretty much great but I'm unsure this made it worst",
+        "nickname": "Sherry",
+        "location": "Ohio",
+        "created_date": 1756567841796,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 559971568,
+        "rating": 5,
+        "headline": "My favorite cleanser and I'll never stray",
+        "comments": "Ive tried other stuff for oily skin, which i do have on some days especially around my cycle. This stuff helps so much with texture in ways that other cleansers by the same brand havent. Its so fast, ill finish washing my face and itll have improved the texture by the time ive dried off",
+        "nickname": "Ash",
+        "location": "Euless, TX",
+        "created_date": 1754984524223,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 558787227,
+        "rating": 5,
+        "headline": "I would buy this product again.",
+        "comments": "I always come to Ulta to buy this product as I can always get the bigger bottle of Cerave cleanser for cheaper than other stores. Sometimes, I catch on sale and get two bottles.",
+        "nickname": "",
+        "location": "Washington, DC",
+        "created_date": 1753923801140,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 557237734,
+        "rating": 5,
+        "headline": "IMPROVES MY ACNE A LOT",
+        "comments": "This cleasner has improved my acne so much. Ive been using in the morning and at night and I am seeing crazy results. My acne breakouts are controlled and this cleanser is clearing my skin up so much.",
+        "nickname": "Lila",
+        "location": "Michigan",
+        "created_date": 1752600991399,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556005244,
+        "rating": 5,
+        "headline": "Try for yourself",
+        "comments": "It's odd to see so many telling others NOT to buy this product because of their personal experience. Skincare is subjective and personal  and how one's skin reacts to this is highly dependent on skin type and skin care routine.\n\nAt one time, I used the SA cleanser along with a kitchen sink approach toward getting rid of my acne to include Benzoyl Peroxide cream, retinol etc. So, yeah, I got the expected result: burning, inflamed skin. I got what I deserved because you can't do that and expect a prize.\n\nAnyway, I now use this AM & PM, and let me tell you: it's been the missing link to my routine. My skin has never been more vibrant and supple, and my pores are now clear and appear smaller. My skin texture went from orange peel to newborn baby's rear end in two weeks with zero irritation.\n\nSo, moral of this review is try these products for yourself to see what your skin can tolerate. Do start slowly, perhaps use once per day, and avoid other exfoliating ingredients initially. You can add one back in once your skin acclimates to the SA. I now can use retinol after this at night, vitamin C after this in the morning and I have DRY, SENSITIVE skin. So, success is possible.",
+        "nickname": "Quel",
+        "location": "Savannah GA",
+        "created_date": 1751146648659,
+        "bottom_line": null,
+        "helpful_votes": 13,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554306990,
+        "rating": 5,
+        "headline": "My daily PM face wash",
+        "comments": "I love ysing this as a double cleanser at night paired with their hydrating face wash. It is a great deep cleanser that doesn't dry out my face. Consistently helps control my breakouts.",
+        "nickname": "Nora",
+        "location": "Oklahoma City, OK",
+        "created_date": 1748666773964,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552668964,
+        "rating": 1,
+        "headline": "No! Burns skin",
+        "comments": "I've tried so many different cerave face washes, and I have never had an issue before in my life. I used this stuff and the first night it felt like someone ripped the first layer of my skin off. I've tried to use it twice since and the same thing has happened both times…. dooooo notttttt buy thhs",
+        "nickname": "Courtney",
+        "location": "Ohio",
+        "created_date": 1746069048488,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 551116608,
+        "rating": 5,
+        "headline": "Product leaks",
+        "comments": "This is a good product but I've noticed that I don't know if its the product but it leaks after i use it",
+        "nickname": "Nadia",
+        "location": "Los Angeles, CA",
+        "created_date": 1743980437823,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 549485248,
+        "rating": 1,
+        "headline": "Not what I expected at all",
+        "comments": "I wish this wouldve worked for me. Im in my 30s and still breaking out like a teenager. Ive been dealing wirh cystic/hormonal acne for about 3 years now and remember this brand worked for me in HS. Saw a lot of reviews and tiktoks raving about it, but unfortunately it just made me break out more and i tried for about a month to see if maybe it was just purging but no it was non stop cystic, and painful.",
+        "nickname": "Cassie",
+        "location": "San Diego, Ca",
+        "created_date": 1742393599766,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 544247468,
+        "rating": 5,
+        "headline": "I love this product!",
+        "comments": "The CeraVe Renewing SA Cleanser, Salicylic Acid Face Wash for Balanced Skin is an excellent product. It has helped my facial acne so much and completely changed the texture of my skin to soft and supple.",
+        "nickname": "",
+        "location": "Chicago IL",
+        "created_date": 1737855813196,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542144691,
+        "rating": 5,
+        "headline": "Cleared skin",
+        "comments": "First product to noticeably clear my breakouts. When I go without it my skin is more prone to a pimple or two.",
+        "nickname": "Pam",
+        "location": "San Diego",
+        "created_date": 1735844819288,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542142881,
+        "rating": 1,
+        "headline": "I will but I will check it better.",
+        "comments": "Got it home at it is discolored compared to my almost empty bottle and smells weird.",
+        "nickname": "Jennie",
+        "location": "Topeka Kansas",
+        "created_date": 1735843190838,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 542088694,
+        "rating": 4,
+        "headline": "Good to Gently Even Out Skin Texture",
+        "comments": "I try to avoid mechanical exfoliants (looking at you, St. Ives Apricot Scrub....) as much as possible as they're just too aggressive for me. I live in Michigan and, in the winter, my combination skin gets dry patches (especially between my brows and around my nose!). This takes off any dry/rough/flaky skin without any harsh scrubbing and does not leave any redness or patches. I follow it with Thayer's Witch Hazel toner for extra refreshing!",
+        "nickname": "Alyse",
+        "location": "MI",
+        "created_date": 1735742171131,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541471567,
+        "rating": 1,
+        "headline": "Ick",
+        "comments": "I have dry, insanely sensitive skin. I tried this because it has both Ceramides and Salicylic Acid. CeraVe has a good reputation for those with sensitive skin, but I still had a reaction to this and it dried out my skin.",
+        "nickname": "KATHLEEN",
+        "location": "Georgia",
+        "created_date": 1734633192792,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 541388126,
+        "rating": 5,
+        "headline": "Awesome every day cleanser",
+        "comments": "This is my tried and true for combo skin. Leaves my skin feel fresh and clean and not stripped.",
+        "nickname": "Abbey",
+        "location": "Chicago, IL",
+        "created_date": 1734501244783,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541156903,
+        "rating": 5,
+        "headline": "Works so well over time for sensitive skin.",
+        "comments": "This cleanser has been lifechanging for me, BUT you have to have patience! It took months and months to fully notice the changes this cleanser has brought in my skin. I have dry, sensitive skin, and when I used to get breakouts, they would be painful and longlasting, taking several weeks to go fully through each pimple's life cycle. Benzoyl peroxide is really drying for me so I hated having to use that constantly. I started using this cleanser (which doesn't dry me out at all), and now when i have breakouts, the pimples last a literal FRACTION of the time they used to! They cycle through in about 3 days now and I rarely have to use spot treatments anymore. \n\nI can't say enough about how well this has worked for me. Again, just remember you have to be patient and use this consistently over time! I do occasionally have sensitive skin flareups that this cleanser is too much for, so on those days, I switch to a gentle cleanser, but largely I've had zero issues with this one being too strong.",
+        "nickname": "RSC_90",
+        "location": "Ohio",
+        "created_date": 1734362805400,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541153931,
+        "rating": 4,
+        "headline": "Good but not great",
+        "comments": "I have super sentsitive combo skin. This cleanser removes makeup well without causing excessive dryness or breaking me out, but it doesnt really help prevent breakouts or exfoliate the way a stronger salicylic cleanser would.",
+        "nickname": "Lo",
+        "location": "San Antonio, TX",
+        "created_date": 1734359351856,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539134689,
+        "rating": 1,
+        "headline": "Supposed to be an exfoliating CLEANSER right?",
+        "comments": "Been using this product for about a month and seen no changes in my skin. I honestly feel like it doesnt do anything because ill use it emulsify it, lather for about two minutes and still when I use my toner after you wouldnt even believe that i washed my face. Will be returning",
+        "nickname": "Liv",
+        "location": "Orlando, FL",
+        "created_date": 1733535105922,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 539134688,
+        "rating": 1,
+        "headline": "Supposed to be an exfoliating CLEANSER right?",
+        "comments": "Been using this product for about a month and seen no changes in my skin. I honestly feel like it doesnt do anything because ill use it emulsify it, lather for about two minutes and still when I use my toner after you wouldnt even believe that i washed my face. Will be returning",
+        "nickname": "Liv",
+        "location": "Orlando, FL",
+        "created_date": 1733535105508,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 3
+      }
+    ],
+    "paging": {
+      "total_results": 701,
+      "pages_total": 36,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod13531041/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "30 Minutes",
+              "count": 5
+            },
+            {
+              "label": "10 Minutes",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 46
+            },
+            {
+              "label": "Combination Skin",
+              "count": 36
+            },
+            {
+              "label": "Acne-Prone Skin",
+              "count": 32
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 32
+            },
+            {
+              "label": "Oily Skin",
+              "count": 26
+            },
+            {
+              "label": "All Skin Types",
+              "count": 23
+            },
+            {
+              "label": "Dry Skin",
+              "count": 18
+            },
+            {
+              "label": "Women",
+              "count": 4
+            },
+            {
+              "label": "Men",
+              "count": 3
+            },
+            {
+              "label": "Everyday cleanser",
+              "count": 1
+            },
+            {
+              "label": "Clogged Pores",
+              "count": 1
+            },
+            {
+              "label": "Combat bumpy skin all over!",
+              "count": 1
+            },
+            {
+              "label": "acne",
+              "count": 1
+            },
+            {
+              "label": "Use at first signs of congestion",
+              "count": 1
+            },
+            {
+              "label": "DAY AND NIGHT",
+              "count": 1
+            },
+            {
+              "label": "daily",
+              "count": 1
+            },
+            {
+              "label": "wash face",
+              "count": 1
+            },
+            {
+              "label": "Daily cleanser",
+              "count": 1
+            },
+            {
+              "label": "Smooth bumps, clear acne without over drying.",
+              "count": 1
+            },
+            {
+              "label": "Everyday",
+              "count": 1
+            },
+            {
+              "label": "NONE",
+              "count": 1
+            },
+            {
+              "label": "Clogged pores, dull/discolored skin, congestion",
+              "count": 1
+            },
+            {
+              "label": "Hyperpigmentation",
+              "count": 1
+            },
+            {
+              "label": "Mature skin",
+              "count": 1
+            },
+            {
+              "label": "On-the-go",
+              "count": 1
+            },
+            {
+              "label": "Weekly Use",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne-Prone Skin",
+            "All Skin Types",
+            "Clogged Pores",
+            "Clogged pores, dull/discolored skin, congestion",
+            "Combat bumpy skin all over!",
+            "Combination Skin",
+            "DAY AND NIGHT",
+            "Daily Use",
+            "Daily cleanser",
+            "Dry Skin",
+            "Everyday",
+            "Everyday cleanser",
+            "Hyperpigmentation",
+            "Infants",
+            "Mature skin",
+            "Men",
+            "NONE",
+            "Newborns",
+            "Oily Skin",
+            "On-the-go",
+            "Preemies",
+            "Sensitive Skin",
+            "Smooth bumps, clear acne without over drying.",
+            "To Keep On Hand",
+            "Toddler",
+            "Use at first signs of congestion",
+            "Weekly Use",
+            "Women",
+            "acne",
+            "daily",
+            "wash face"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Irritates Skin",
+              "count": 10
+            },
+            {
+              "label": "Dries Out Skin",
+              "count": 6
+            },
+            {
+              "label": "Doesn't Remove Makeup",
+              "count": 4
+            },
+            {
+              "label": "Drying",
+              "count": 3
+            },
+            {
+              "label": "Bad Smell",
+              "count": 2
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 2
+            },
+            {
+              "label": "dries out skin",
+              "count": 1
+            },
+            {
+              "label": "flakey, red skin",
+              "count": 1
+            },
+            {
+              "label": "worsens acne",
+              "count": 1
+            },
+            {
+              "label": "Acne",
+              "count": 1
+            },
+            {
+              "label": "Ingredients",
+              "count": 1
+            },
+            {
+              "label": "you can't use with certain other ingredients",
+              "count": 1
+            },
+            {
+              "label": "Red bumps all over face",
+              "count": 1
+            },
+            {
+              "label": "Breaks out doesn't help with pores",
+              "count": 1
+            },
+            {
+              "label": "States fragrance free but smells weird",
+              "count": 1
+            },
+            {
+              "label": "It gets worse before it gets better",
+              "count": 1
+            },
+            {
+              "label": "Takes about 1-2 weeks to see results",
+              "count": 1
+            },
+            {
+              "label": "Daily use will dry out skin",
+              "count": 1
+            },
+            {
+              "label": "Daily use will irritate sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Can be drying in cold months",
+              "count": 1
+            },
+            {
+              "label": "Will have to deal with a person of congestion",
+              "count": 1
+            },
+            {
+              "label": "drying",
+              "count": 1
+            },
+            {
+              "label": "irritating",
+              "count": 1
+            },
+            {
+              "label": "might cause skin to purge or breakout",
+              "count": 1
+            },
+            {
+              "label": "breaks you out badly !",
+              "count": 1
+            },
+            {
+              "label": "leaves your face red after use",
+              "count": 1
+            },
+            {
+              "label": "Broken pump on packaging",
+              "count": 1
+            },
+            {
+              "label": "Not for extremly dry skin",
+              "count": 1
+            },
+            {
+              "label": "Causes Breakouts",
+              "count": 1
+            },
+            {
+              "label": "Didn't do much",
+              "count": 1
+            },
+            {
+              "label": "Thick gel consistency.",
+              "count": 1
+            },
+            {
+              "label": "Redness",
+              "count": 1
+            },
+            {
+              "label": "Skin irritation",
+              "count": 1
+            },
+            {
+              "label": "Thick consistency",
+              "count": 1
+            },
+            {
+              "label": "Purge Period",
+              "count": 1
+            },
+            {
+              "label": "Doesn't do anything",
+              "count": 1
+            },
+            {
+              "label": "Not effective",
+              "count": 1
+            },
+            {
+              "label": "Damaged my skin badly",
+              "count": 1
+            },
+            {
+              "label": "Flakey skin",
+              "count": 1
+            },
+            {
+              "label": "Pump should be improved",
+              "count": 1
+            },
+            {
+              "label": "Doesn't remove waterproof liner",
+              "count": 1
+            },
+            {
+              "label": "Small size",
+              "count": 1
+            },
+            {
+              "label": "Need More Than One Pump",
+              "count": 1
+            },
+            {
+              "label": "No Exfoliating Effect",
+              "count": 1
+            },
+            {
+              "label": "causes blemishes",
+              "count": 1
+            },
+            {
+              "label": "Daughter couldn't use this cleanser with retin A",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne",
+            "Bad Smell",
+            "Breaks out doesn't help with pores",
+            "Broken pump on packaging",
+            "Can be drying in cold months",
+            "Causes Breakouts",
+            "Complicated To Use",
+            "Daily use will dry out skin",
+            "Daily use will irritate sensitive skin",
+            "Damaged my skin badly",
+            "Daughter couldn't use this cleanser with retin A",
+            "Didn't do much",
+            "Doesn't Remove Makeup",
+            "Doesn't Work",
+            "Doesn't do anything",
+            "Doesn't remove waterproof liner",
+            "Dries Out Skin",
+            "Drying",
+            "Flakey skin",
+            "Greasy",
+            "Ingredients",
+            "Irritates Skin",
+            "It gets worse before it gets better",
+            "Messy",
+            "Need More Than One Pump",
+            "No Exfoliating Effect",
+            "Not Effective",
+            "Not effective",
+            "Not for extremly dry skin",
+            "Poor Texture",
+            "Pump should be improved",
+            "Purge Period",
+            "Red bumps all over face",
+            "Redness",
+            "Skin irritation",
+            "Small size",
+            "States fragrance free but smells weird",
+            "Takes about 1-2 weeks to see results",
+            "Thick consistency",
+            "Thick gel consistency.",
+            "Will have to deal with a person of congestion",
+            "breaks you out badly !",
+            "causes blemishes",
+            "dries out skin",
+            "drying",
+            "flakey, red skin",
+            "irritating",
+            "leaves your face red after use",
+            "might cause skin to purge or breakout",
+            "worsens acne",
+            "you can't use with certain other ingredients"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Budget Shopper",
+              "count": 36
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 34
+            },
+            {
+              "label": "acne",
+              "count": 4
+            },
+            {
+              "label": "Acne prone",
+              "count": 3
+            },
+            {
+              "label": "Oily",
+              "count": 2
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 2
+            },
+            {
+              "label": "oily skin",
+              "count": 2
+            },
+            {
+              "label": "Combination skin",
+              "count": 2
+            },
+            {
+              "label": "teen",
+              "count": 2
+            },
+            {
+              "label": "Acne",
+              "count": 1
+            },
+            {
+              "label": "22 year old with some milk acne, cystic acne",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin, very acne prone",
+              "count": 1
+            },
+            {
+              "label": "KP on legs and arms",
+              "count": 1
+            },
+            {
+              "label": "Skin and hair care enthusiast",
+              "count": 1
+            },
+            {
+              "label": "21 yo woman sensitive, acne-prone skin",
+              "count": 1
+            },
+            {
+              "label": "Skin is fair, sensitive, acne prone, combination",
+              "count": 1
+            },
+            {
+              "label": "Oily/combo skin",
+              "count": 1
+            },
+            {
+              "label": "Acne prone skin",
+              "count": 1
+            },
+            {
+              "label": "Over 40 & NORMAL-SKIN",
+              "count": 1
+            },
+            {
+              "label": "combination/normal skin",
+              "count": 1
+            },
+            {
+              "label": "Sensitive",
+              "count": 1
+            },
+            {
+              "label": "Oily & Acne Prone",
+              "count": 1
+            },
+            {
+              "label": "hyperpigmentation",
+              "count": 1
+            },
+            {
+              "label": "teenager",
+              "count": 1
+            },
+            {
+              "label": "Oily combo skin",
+              "count": 1
+            },
+            {
+              "label": "22years old",
+              "count": 1
+            },
+            {
+              "label": "Female",
+              "count": 1
+            },
+            {
+              "label": "Normal to dry skin",
+              "count": 1
+            },
+            {
+              "label": "Combination and sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "16 years old with acne prone combination skin.",
+              "count": 1
+            },
+            {
+              "label": "Normal/Dry acne prone skin",
+              "count": 1
+            },
+            {
+              "label": "acne prone",
+              "count": 1
+            },
+            {
+              "label": "combo skin",
+              "count": 1
+            },
+            {
+              "label": "large pores",
+              "count": 1
+            },
+            {
+              "label": "sensitive",
+              "count": 1
+            },
+            {
+              "label": "young adult",
+              "count": 1
+            },
+            {
+              "label": "20's, acne prone skin, oily skin",
+              "count": 1
+            },
+            {
+              "label": "Acne-prone",
+              "count": 1
+            },
+            {
+              "label": "Parent of Two or More Children",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "16 years old with acne prone combination skin.",
+            "20's, acne prone skin, oily skin",
+            "21 yo woman sensitive, acne-prone skin",
+            "22 year old with some milk acne, cystic acne",
+            "22years old",
+            "Acne",
+            "Acne prone",
+            "Acne prone skin",
+            "Acne-prone",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Child Care Professional",
+            "Combination and sensitive skin",
+            "Combination skin",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Female",
+            "First Time Parent",
+            "Grandparent",
+            "KP on legs and arms",
+            "Medical Professional",
+            "Normal to dry skin",
+            "Normal/Dry acne prone skin",
+            "Oily",
+            "Oily & Acne Prone",
+            "Oily combo skin",
+            "Oily/combo skin",
+            "Over 40 & NORMAL-SKIN",
+            "Parent of Multiples (Twins etc)",
+            "Parent of Two or More Children",
+            "Sensitive",
+            "Sensitive skin",
+            "Sensitive skin, very acne prone",
+            "Skin and hair care enthusiast",
+            "Skin is fair, sensitive, acne prone, combination",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "acne",
+            "acne prone",
+            "combination/normal skin",
+            "combo skin",
+            "hyperpigmentation",
+            "large pores",
+            "oily skin",
+            "sensitive",
+            "teen",
+            "teenager",
+            "young adult"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Gentle",
+              "count": 61
+            },
+            {
+              "label": "Leaves Clean Feel",
+              "count": 61
+            },
+            {
+              "label": "Improves Skin Texture",
+              "count": 54
+            },
+            {
+              "label": "Balances Skin",
+              "count": 43
+            },
+            {
+              "label": "Not Greasy",
+              "count": 42
+            },
+            {
+              "label": "Moisturizing",
+              "count": 25
+            },
+            {
+              "label": "Effective",
+              "count": 11
+            },
+            {
+              "label": "Smells Great",
+              "count": 6
+            },
+            {
+              "label": "Easy To Use",
+              "count": 6
+            },
+            {
+              "label": "Good Price / Value",
+              "count": 3
+            },
+            {
+              "label": "Helps with acne",
+              "count": 2
+            },
+            {
+              "label": "No Scent",
+              "count": 2
+            },
+            {
+              "label": "gentle",
+              "count": 2
+            },
+            {
+              "label": "Not drying",
+              "count": 2
+            },
+            {
+              "label": "Fragrance free",
+              "count": 2
+            },
+            {
+              "label": "Good Value",
+              "count": 2
+            },
+            {
+              "label": "Lightweight",
+              "count": 2
+            },
+            {
+              "label": "Doesn't have a smell",
+              "count": 1
+            },
+            {
+              "label": "Foams well",
+              "count": 1
+            },
+            {
+              "label": "Lasts for a long time",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Clears blackheads",
+              "count": 1
+            },
+            {
+              "label": "Clears skin texture",
+              "count": 1
+            },
+            {
+              "label": "Everything",
+              "count": 1
+            },
+            {
+              "label": "hypo-allergenic",
+              "count": 1
+            },
+            {
+              "label": "Makes skin feel clean",
+              "count": 1
+            },
+            {
+              "label": "cleaned skin and made acne go away",
+              "count": 1
+            },
+            {
+              "label": "Exfoliates without drying",
+              "count": 1
+            },
+            {
+              "label": "Erases pores",
+              "count": 1
+            },
+            {
+              "label": "no breakouts!",
+              "count": 1
+            },
+            {
+              "label": "sensitive skin friendly",
+              "count": 1
+            },
+            {
+              "label": "It's gentle",
+              "count": 1
+            },
+            {
+              "label": "No fragrance",
+              "count": 1
+            },
+            {
+              "label": "You can choose a size",
+              "count": 1
+            },
+            {
+              "label": "Good for acne prone skin",
+              "count": 1
+            },
+            {
+              "label": "Good for skin of color",
+              "count": 1
+            },
+            {
+              "label": "Helps control oil",
+              "count": 1
+            },
+            {
+              "label": "Cleared my skin up",
+              "count": 1
+            },
+            {
+              "label": "Really helping my scarring",
+              "count": 1
+            },
+            {
+              "label": "Lasts a long time",
+              "count": 1
+            },
+            {
+              "label": "fragrance free",
+              "count": 1
+            },
+            {
+              "label": "skin feels clean",
+              "count": 1
+            },
+            {
+              "label": "Good ingredients",
+              "count": 1
+            },
+            {
+              "label": "Deep Cleansing",
+              "count": 1
+            },
+            {
+              "label": "Exfoliating",
+              "count": 1
+            },
+            {
+              "label": "Foamy",
+              "count": 1
+            },
+            {
+              "label": "Refreshing",
+              "count": 1
+            },
+            {
+              "label": "cleansing",
+              "count": 1
+            },
+            {
+              "label": "clears up skin",
+              "count": 1
+            },
+            {
+              "label": "feels clean",
+              "count": 1
+            },
+            {
+              "label": "foams up",
+              "count": 1
+            },
+            {
+              "label": "minimizes pores",
+              "count": 1
+            },
+            {
+              "label": "removes black and white heads",
+              "count": 1
+            },
+            {
+              "label": "Foaming",
+              "count": 1
+            },
+            {
+              "label": "helps bacne",
+              "count": 1
+            },
+            {
+              "label": "Gets oils off my face helps acne",
+              "count": 1
+            },
+            {
+              "label": "Cleansing",
+              "count": 1
+            },
+            {
+              "label": "Gentile",
+              "count": 1
+            },
+            {
+              "label": "@Skincarebyhryam was right",
+              "count": 1
+            },
+            {
+              "label": "feels so much hydrated",
+              "count": 1
+            },
+            {
+              "label": "good for acne prone skin",
+              "count": 1
+            },
+            {
+              "label": "great for combination skin",
+              "count": 1
+            },
+            {
+              "label": "affordable",
+              "count": 1
+            },
+            {
+              "label": "clear skins",
+              "count": 1
+            },
+            {
+              "label": "compatable for most skin types",
+              "count": 1
+            },
+            {
+              "label": "gental exfoliant",
+              "count": 1
+            },
+            {
+              "label": "Non-irritating",
+              "count": 1
+            },
+            {
+              "label": "Deep Cleans",
+              "count": 1
+            },
+            {
+              "label": "Long Lasting",
+              "count": 1
+            },
+            {
+              "label": "Reduces Appearance of Pores",
+              "count": 1
+            },
+            {
+              "label": "Smooths Skin",
+              "count": 1
+            },
+            {
+              "label": "Ok to use on sensitive areas",
+              "count": 1
+            },
+            {
+              "label": "Unscented",
+              "count": 1
+            },
+            {
+              "label": "gel",
+              "count": 1
+            },
+            {
+              "label": "My skin is dramatically smoother and clear",
+              "count": 1
+            },
+            {
+              "label": "Good cleanser",
+              "count": 1
+            },
+            {
+              "label": "Good exfoliator",
+              "count": 1
+            },
+            {
+              "label": "Smooths texture",
+              "count": 1
+            },
+            {
+              "label": "doesnt strip skin",
+              "count": 1
+            },
+            {
+              "label": "lathers",
+              "count": 1
+            },
+            {
+              "label": "no smell",
+              "count": 1
+            },
+            {
+              "label": "results",
+              "count": 1
+            },
+            {
+              "label": "Doesn't dry skin out",
+              "count": 1
+            },
+            {
+              "label": "Helps clear acne and prevent new acne",
+              "count": 1
+            },
+            {
+              "label": "Texture of wash",
+              "count": 1
+            },
+            {
+              "label": "Salicylic acid",
+              "count": 1
+            },
+            {
+              "label": "Cleanses",
+              "count": 1
+            },
+            {
+              "label": "Good for blemish-prone skin",
+              "count": 1
+            },
+            {
+              "label": "Good for oily skin",
+              "count": 1
+            },
+            {
+              "label": "Clears Acne",
+              "count": 1
+            },
+            {
+              "label": "Non scented",
+              "count": 1
+            },
+            {
+              "label": "no fragrance",
+              "count": 1
+            },
+            {
+              "label": "Lathers Perfectly",
+              "count": 1
+            },
+            {
+              "label": "Lathers",
+              "count": 1
+            },
+            {
+              "label": "Removes Makeup",
+              "count": 1
+            },
+            {
+              "label": "Gently exfoliates",
+              "count": 1
+            },
+            {
+              "label": "Removes eye makeup",
+              "count": 1
+            },
+            {
+              "label": "Controls Breakouts",
+              "count": 1
+            },
+            {
+              "label": "Rinses Clean",
+              "count": 1
+            },
+            {
+              "label": "Shrinks Pores",
+              "count": 1
+            },
+            {
+              "label": "Smooths And Softens",
+              "count": 1
+            },
+            {
+              "label": "Doesn't irritate my skin",
+              "count": 1
+            },
+            {
+              "label": "Removes makeup",
+              "count": 1
+            },
+            {
+              "label": "Acts Quickly",
+              "count": 1
+            },
+            {
+              "label": "Clearer skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "@Skincarebyhryam was right",
+            "Acts Quickly",
+            "Balances Skin",
+            "Cleanses",
+            "Cleansing",
+            "Cleared my skin up",
+            "Clearer skin",
+            "Clears Acne",
+            "Clears blackheads",
+            "Clears skin texture",
+            "Controls Breakouts",
+            "Deep Cleans",
+            "Deep Cleansing",
+            "Doesn't dry skin out",
+            "Doesn't have a smell",
+            "Doesn't irritate my skin",
+            "Easy To Use",
+            "Effective",
+            "Erases pores",
+            "Everything",
+            "Exfoliates without drying",
+            "Exfoliating",
+            "Foaming",
+            "Foams well",
+            "Foamy",
+            "Fragrance free",
+            "Gentile",
+            "Gentle",
+            "Gently exfoliates",
+            "Gets oils off my face helps acne",
+            "Good Price / Value",
+            "Good Value",
+            "Good cleanser",
+            "Good exfoliator",
+            "Good for acne prone skin",
+            "Good for blemish-prone skin",
+            "Good for oily skin",
+            "Good for skin of color",
+            "Good ingredients",
+            "Helps clear acne and prevent new acne",
+            "Helps control oil",
+            "Helps with acne",
+            "Hydrating",
+            "Improves Skin Texture",
+            "It's gentle",
+            "Lasts a long time",
+            "Lasts for a long time",
+            "Lathers",
+            "Lathers Perfectly",
+            "Leaves Clean Feel",
+            "Lightweight",
+            "Long Lasting",
+            "Makes skin feel clean",
+            "Moisturizing",
+            "My skin is dramatically smoother and clear",
+            "No Scent",
+            "No fragrance",
+            "Non scented",
+            "Non-irritating",
+            "Not Greasy",
+            "Not drying",
+            "Ok to use on sensitive areas",
+            "Really helping my scarring",
+            "Reduces Appearance of Pores",
+            "Refreshing",
+            "Removes Makeup",
+            "Removes eye makeup",
+            "Removes makeup",
+            "Rinses Clean",
+            "Salicylic acid",
+            "Shrinks Pores",
+            "Smells Great",
+            "Smooths And Softens",
+            "Smooths Skin",
+            "Smooths texture",
+            "Texture of wash",
+            "Unscented",
+            "You can choose a size",
+            "affordable",
+            "cleaned skin and made acne go away",
+            "cleansing",
+            "clear skins",
+            "clears up skin",
+            "compatable for most skin types",
+            "doesnt strip skin",
+            "feels clean",
+            "feels so much hydrated",
+            "foams up",
+            "fragrance free",
+            "gel",
+            "gental exfoliant",
+            "gentle",
+            "good for acne prone skin",
+            "great for combination skin",
+            "helps bacne",
+            "hypo-allergenic",
+            "lathers",
+            "minimizes pores",
+            "no breakouts!",
+            "no fragrance",
+            "no smell",
+            "removes black and white heads",
+            "results",
+            "sensitive skin friendly",
+            "skin feels clean"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 15
+            },
+            {
+              "label": "Normal",
+              "count": 5
+            },
+            {
+              "label": "Oily",
+              "count": 2
+            },
+            {
+              "label": "Dry",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        142,
+        72,
+        203,
+        463,
+        2089
+      ],
+      "review_histogram": [
+        142,
+        72,
+        203,
+        463,
+        2089
+      ],
+      "rating_count": 2969,
+      "review_count": 2969,
+      "average_rating": 4.44,
+      "recommended_ratio": 0.79,
+      "media": [
+        {
+          "id": "506057387",
+          "review_id": 506057404,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/buq2mqmccp935emjovar.jpg",
+          "headline": "My whole face was red and burning!",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 1,
+          "type": "image",
+          "caption": "My burnt face",
+          "nickname": "Zeebaby 2",
+          "created_date": 1707001749000
+        },
+        {
+          "id": "486815784",
+          "review_id": 486815851,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/pj5gsdzaxnle107ttfof.jpg",
+          "headline": "IT AMAZING",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "IT GOOD TOO",
+          "nickname": "EUNIC678",
+          "created_date": 1703561554000
+        },
+        {
+          "id": "483690165",
+          "review_id": 483690144,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/m2bz45myh1fjcvmlmrmo.jpg",
+          "headline": "Not repurchasing",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "It's not as red in the picture but it shows that my skin did turn red",
+          "nickname": "Maddie",
+          "created_date": 1700896253000
+        },
+        {
+          "id": "464761023",
+          "review_id": 464760574,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/uxaqxqwb0ivs73ejgssa.jpg",
+          "headline": "don't recommend",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "the bleached forehead in question",
+          "nickname": "autumn",
+          "created_date": 1688418717000
+        },
+        {
+          "id": "402265033",
+          "review_id": 402265032,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/d5avxri5zp7lvik7vnsn.jpg",
+          "headline": "Proceed with caution",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Never using it again",
+          "nickname": "Lu",
+          "created_date": 1647368007513
+        },
+        {
+          "id": "399177877",
+          "review_id": 399177858,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jkxvhl3tnagg0fx4kzgo.jpg",
+          "headline": "Cleared my skin",
+          "rating": 5,
+          "helpful_votes": 2,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Now",
+          "nickname": "Monse",
+          "created_date": 1643980869000
+        },
+        {
+          "id": "399177859",
+          "review_id": 399177858,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gp3yidmplvfzljaerqmr.jpg",
+          "headline": "Cleared my skin",
+          "rating": 5,
+          "helpful_votes": 2,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "This was before",
+          "nickname": "Monse",
+          "created_date": 1643980869000
+        },
+        {
+          "id": "395021509",
+          "review_id": 395021508,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yxms95oh0c7nloyqiprb.jpg",
+          "headline": "BEST CLEANSER OUT THERE...",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "We are hard-core Cerave fans now,my collection is growing...",
+          "nickname": "Adrienne Smith",
+          "created_date": 1642267891000
+        },
+        {
+          "id": "322998602",
+          "review_id": 322998549,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/j06pm3sjlifl3qth7ndb.jpg",
+          "headline": "Awful",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "after",
+          "nickname": "Britney",
+          "created_date": 1609760514591
+        },
+        {
+          "id": "322998601",
+          "review_id": 322998549,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lqpgflr5obhbjacnm7bo.jpg",
+          "headline": "Awful",
+          "rating": 1,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "before",
+          "nickname": "Britney",
+          "created_date": 1609760514591
+        },
+        {
+          "id": "322998616",
+          "review_id": 322998549,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fibspmvq9xyumnwrbvzt.jpg",
+          "headline": "Awful",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "after",
+          "nickname": "Britney",
+          "created_date": 1609760514591
+        },
+        {
+          "id": "322998600",
+          "review_id": 322998549,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/emedlv5ss1xfjujk3rwe.jpg",
+          "headline": "Awful",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "after",
+          "nickname": "Britney",
+          "created_date": 1609760514591
+        },
+        {
+          "id": "298939722",
+          "review_id": 298939711,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dtnry8eiwuyw3iemcufj.jpg",
+          "headline": "I would not repurchase this !",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mariyah",
+          "created_date": 1599495988675
+        },
+        {
+          "id": "280875867",
+          "review_id": 280875833,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qlc5fw6upgxlutbl117r.jpg",
+          "headline": "The FIRST non-drying Salicylic Acid cleanser Ive come across",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Cerave Renewing SA cleanser",
+          "nickname": "Selena",
+          "created_date": 1592661722327
+        },
+        {
+          "id": "278458727",
+          "review_id": 278458716,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qhb99blyb7qjr7huzdus.jpg",
+          "headline": "If I Could Give it 0 Stars I would. TikTok Made Me Do It",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Angry at CeraVe",
+          "created_date": 1591143576440
+        },
+        {
+          "id": "278458726",
+          "review_id": 278458716,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rtfnxnypspki6uirrpnt.jpg",
+          "headline": "If I Could Give it 0 Stars I would. TikTok Made Me Do It",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Angry at CeraVe",
+          "created_date": 1591143576440
+        },
+        {
+          "id": "231636999",
+          "review_id": 231637075,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fyxnpkdh20o4cfesf3be.jpg",
+          "headline": "BEWARE OF THIS CLEANSER",
+          "rating": 1,
+          "helpful_votes": 2,
+          "not_helpful_votes": 5,
+          "type": "image",
+          "nickname": "Samantha",
+          "created_date": 1551729612315
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I started using this cleanser 3 weeks ago and I can tell a difference with my enlarged pores and combination skin.  I break out sometimes with those nasty big zits underneath your skin, but since using Cerave SA Cleanser, I have not had any of those!  I love how my skin feels and looks after washing with this.  I sometimes us a Clarasonic brush, and other times, just a Buff Puff pad.  The pores in my T zone area actually look smaller.  I believe this is the salacylic acid working to deep clean the pores, which in turn, makes them appear smaller since they are not clogged up.   I also use the Cerave SA lotion underneath my makeup now as my moisturizer and so far so good.  In addition to using the SA lotion on my face,I slather it on my legs after shaving and it has been helping with ingrown hairs on legs too. For the price, an 8 oz bottle lasts a long time so it's a great value.  Even better is how much I like it.  I'm hooked on Cerave now for life.  Excellent products that work for much less than those commercial brands, so what more could you ask for?",
+        "headline": "Shrinks pores and smooths skin",
+        "rating": 5,
+        "ugc_id": 190806327
+      },
+      "faceoff_negative": {
+        "comments": "i heard such great things about this and i was trying anything to help clear up my acne so i figured i'd give it a shot. i used it for roughly a month as directed on the bottle and over time i realized that it was bleaching a patch of skin on my forehead. i have no clue why it did this and to make matters worse it didn't even clear up my acne. it's been roughly a year since i've used this product and the lighter patch is still very obvious.",
+        "headline": "don't recommend",
+        "rating": 1,
+        "ugc_id": 464760574
+      },
+      "name": "Renewing SA Cleanser",
+      "native_review_count": 701,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 2268,
+      "locale": "en_US"
+    }
+  }
+}

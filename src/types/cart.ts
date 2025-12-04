@@ -7,6 +7,8 @@ export interface CartItem extends BaseEntity {
   quantity: number
   product: Product
   variant?: ProductVariant
+  price: number
+  originalPrice?: number
 }
 
 export interface Cart extends BaseEntity {
@@ -15,7 +17,12 @@ export interface Cart extends BaseEntity {
   subtotal: number
   discount: number
   shipping: number
+  tax: number
   total: number
+  promoCode?: string
+  shippingCountry: string
+  freeShippingThreshold: number
+  remainingForFreeShipping: number
 }
 
 export interface AddToCartRequest {
@@ -28,3 +35,8 @@ export interface UpdateCartItemRequest {
   quantity: number
 }
 
+export interface PromoCode {
+  code: string
+  discount: number
+  type: 'percentage' | 'fixed'
+}

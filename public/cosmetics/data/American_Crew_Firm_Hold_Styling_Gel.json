@@ -1,0 +1,735 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/firm-hold-styling-gel-xlsImpprod10271100",
+  "extracted_at": "2025-09-23T03:55:06.265255+00:00",
+  "product_name": "American CrewFirm Hold Styling Gel",
+  "brand": "American Crew",
+  "categories": [
+    "Home",
+    "Hair",
+    "Styling Products",
+    "Gloss & Shine"
+  ],
+  "category_keys": [
+    "home",
+    "hair",
+    "styling-products",
+    "gloss--shine"
+  ],
+  "currency": "USD",
+  "list_price": "27.00",
+  "sale_price": "18.90",
+  "availability": "in_stock",
+  "rating_avg": "4.7",
+  "rating_count": "119",
+  "images": [
+    "https://media.ulta.com/i/ulta/2264815?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2264815?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6025243cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6025243cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6025243cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6025243cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/6025243cm_vid01/thumbs/375a0523-9b85-4203-8249-c3950f3a9b43?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryAmerican Crew Firm Hold Styling Gel provides very high hold with a high shine, prevents flaking, avoids drying the hair and scalp, allows for easier distribution through hair.",
+  "details": "DetailsBenefitsProvides very high hold with a high shine.Alcohol Free: Prevents flaking.Avoids drying the hair and scalp.Allows for easier distribution through hair.Item 2264815How To UseApply to towel-dried hair. Work from scalp to ends and push hair into place. Leave it alone.IngredientsWater (Aqua) (Eau), VP/VA Copolymer, Polysorbate-20, PVP, Quillaja Saponaria Bark Extract (Panama Bark), Panax Ginseng Root Extract (Ginseng Root), Salvia Officinalis (Sage) Leaf Extract (Sage Leaves), Allantoin, Panthenol (Provitamin B5), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propylene Glycol, Triethanolamine, Tetrasodium EDTA, Fragrance (Parfum), Benzyl Salicylate, Butylphenyl Methylpropional, Limonene, Linalool, Phenoxyethanol, Potassium Sorbate, Methylparaben, Propylparaben.",
+  "how_to_use": "Apply to towel-dried hair. Work from scalp to ends and push hair into place. Leave it alone.",
+  "ingredients": [
+    "Water (Aqua) (Eau)",
+    "VP/VA Copolymer",
+    "Polysorbate-20",
+    "PVP",
+    "Quillaja Saponaria Bark Extract (Panama Bark)",
+    "Panax Ginseng Root Extract (Ginseng Root)",
+    "Salvia Officinalis (Sage) Leaf Extract (Sage Leaves)",
+    "Allantoin",
+    "Panthenol (Provitamin B5)",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Propylene Glycol",
+    "Triethanolamine",
+    "Tetrasodium EDTA",
+    "Fragrance (Parfum)",
+    "Benzyl Salicylate",
+    "Butylphenyl Methylpropional",
+    "Limonene",
+    "Linalool",
+    "Phenoxyethanol",
+    "Potassium Sorbate",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/9c07dd55-9101-4537-834f-cf728203aa86/480.webp",
+      "https://content.syndigo.com/asset/33b966c4-8b63-49da-b0ca-040deda67b73/480.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "hair",
+      "haircare"
+    ],
+    "product_type": [
+      "cleanser",
+      "lip gloss"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "gel"
+    ],
+    "ingredients": [
+      "fragrance",
+      "paraben-free"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "alcohol-free"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod10271100",
+    "total_reviews": 119,
+    "reviews": [
+      {
+        "review_id": 563066910,
+        "rating": 5,
+        "headline": "Great Product!",
+        "comments": "This hair gel works great and lasts all day.",
+        "nickname": "Linda",
+        "location": "Gulfport, MS",
+        "created_date": 1757431116464,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552500333,
+        "rating": 5,
+        "headline": "I will buy online next time. Too expensive in store.",
+        "comments": "The same item is offered for a lot less from other online retailers. Will not purchase at Ulta again.",
+        "nickname": "Frank",
+        "location": "Ocala, Florida",
+        "created_date": 1745681394816,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 552146171,
+        "rating": 5,
+        "headline": "Very comfy",
+        "comments": "Good product I am using since long time",
+        "nickname": "Anil",
+        "location": "Richmond Texas 77469",
+        "created_date": 1745293993416,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547585263,
+        "rating": 5,
+        "headline": "Great product",
+        "comments": "American Crew is a great product. I am very unhappy with the inflated price at Ulta . It is my fault but I'll know better next time",
+        "nickname": "Scott",
+        "location": "Columbus Ohio",
+        "created_date": 1740932269109,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 526739379,
+        "rating": 5,
+        "headline": "Good for military styles",
+        "comments": "No flaking",
+        "nickname": "Paul",
+        "location": "Macomb Michigan",
+        "created_date": 1723130317770,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 483161028,
+        "rating": 5,
+        "headline": "My husband's only use this !",
+        "comments": "every year on his Birthday, he appreciates this....easy peachy. I don't need to figure out what to get him lol 😆!",
+        "nickname": "Zara",
+        "location": "California",
+        "created_date": 1701633730586,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 471077552,
+        "rating": 1,
+        "headline": "I would not buy it again",
+        "comments": "I don't like it, it says it's firm fixation and it's not",
+        "nickname": "Mary",
+        "location": "College Station Texas",
+        "created_date": 1693842988149,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 448116990,
+        "rating": 5,
+        "headline": "I will buy this again",
+        "comments": "Great stuff, I've been using American Crew for years.",
+        "nickname": "Scott",
+        "location": "Bridgewater, NJ",
+        "created_date": 1678499680124,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 437983327,
+        "rating": 5,
+        "headline": "Awesome product.",
+        "comments": "This is a top quality hair gel.",
+        "nickname": "Niall",
+        "location": "Hurst, Texas",
+        "created_date": 1671463393384,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 435035566,
+        "rating": 5,
+        "headline": "Yes, I would buy it again",
+        "comments": "Works great on my short spiky hair",
+        "nickname": "Jeannine",
+        "location": "Michigan",
+        "created_date": 1669240128849,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 433436183,
+        "rating": 5,
+        "headline": "great stuff I would buy it every time",
+        "comments": "this stuff works great and no flakes",
+        "nickname": "tom",
+        "location": "ky",
+        "created_date": 1668272225535,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 428490524,
+        "rating": 1,
+        "headline": "American crew for men",
+        "comments": "The hold wasn't great,I returned the product back to ulta",
+        "nickname": "Matthew",
+        "location": "La Habra,California",
+        "created_date": 1665261866349,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 428028052,
+        "rating": 5,
+        "headline": "Great for a picky kiddo",
+        "comments": "I use this for my young kid who is really picky.  He likes his hair just so, and our other gel was not cutting it.  He's super active and this gel lasts through out the day for him.  It has good hold, doesn't flake, and works on wet hair (I have to wet his hair in the morning to comb the bed head).  Minimal scent and works in nicely.  I also got the Fiber but haven't tried it yet.",
+        "nickname": "Yessie",
+        "location": "Vacaville, CA",
+        "created_date": 1664990278260,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 423182636,
+        "rating": 4,
+        "headline": "I might buy it again.",
+        "comments": "It seems to work, but I've only tried it a couple times.",
+        "nickname": "Jeannine",
+        "location": "Michigan",
+        "created_date": 1662255074582,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 421845004,
+        "rating": 5,
+        "headline": "Absolutely!!!",
+        "comments": "It's my go to product for hold, clean feeling and fresh look!",
+        "nickname": "Sylvia",
+        "location": "Long Beach",
+        "created_date": 1661363810478,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 405585141,
+        "rating": 5,
+        "headline": "It's my go-to hair gel. Love it!",
+        "comments": "It's my go-to hair gel. Love it!",
+        "nickname": "Bri",
+        "location": "IL",
+        "created_date": 1650332796654,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 400382511,
+        "rating": 5,
+        "headline": "High Quality Product",
+        "comments": "It is a high quality product. Minimal buildup on the scalp. Best hair product I have used.",
+        "nickname": "Shudog88",
+        "location": "Hurst, TX",
+        "created_date": 1645893659460,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 357549843,
+        "rating": 5,
+        "headline": "Yes",
+        "comments": "I bought this for my husband. He has been using it for years. I was able to use a $10 coupon which was great.",
+        "nickname": "None",
+        "location": "Simi Valley, California",
+        "created_date": 1625027047510,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 327762426,
+        "rating": 5,
+        "headline": "Perfect",
+        "comments": "Bought it for my dad, I had bought him a travel size and he loved it so I decided to get the bigger one.!",
+        "nickname": "Kim",
+        "location": "Keizer",
+        "created_date": 1612540000637,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 322445754,
+        "rating": 5,
+        "headline": "I always use this gel and I have no issue",
+        "comments": "One great gel to use",
+        "nickname": "Tony",
+        "location": "Downey",
+        "created_date": 1609365018883,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      }
+    ],
+    "paging": {
+      "total_results": 119,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod10271100/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "10 Minutes",
+              "count": 7
+            },
+            {
+              "label": "30 Minutes",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 41
+            },
+            {
+              "label": "Straight Hair",
+              "count": 24
+            },
+            {
+              "label": "Fine Hair",
+              "count": 11
+            },
+            {
+              "label": "Thick Hair",
+              "count": 11
+            },
+            {
+              "label": "Curly Hair",
+              "count": 8
+            },
+            {
+              "label": "Travel",
+              "count": 8
+            },
+            {
+              "label": "Men",
+              "count": 6
+            },
+            {
+              "label": "Women",
+              "count": 2
+            },
+            {
+              "label": "For soft, think hair",
+              "count": 1
+            },
+            {
+              "label": "for thin hair, gives it more body",
+              "count": 1
+            },
+            {
+              "label": "Dry or wet",
+              "count": 1
+            },
+            {
+              "label": "On-the-go",
+              "count": 1
+            },
+            {
+              "label": "Children",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Children",
+            "Curly Hair",
+            "Daily Use",
+            "Dry or wet",
+            "Fine Hair",
+            "For soft, think hair",
+            "Men",
+            "Oily Skin",
+            "On-the-go",
+            "Straight Hair",
+            "Thick Hair",
+            "Travel",
+            "Weekly Use",
+            "Women",
+            "for thin hair, gives it more body"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dries-Out Hair",
+              "count": 3
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 2
+            },
+            {
+              "label": "Not for course hair",
+              "count": 1
+            },
+            {
+              "label": "Not much hold. Def a light/med hold",
+              "count": 1
+            },
+            {
+              "label": "Could be too greasy for some people",
+              "count": 1
+            },
+            {
+              "label": "Heavy",
+              "count": 1
+            },
+            {
+              "label": "Strong Odor",
+              "count": 1
+            },
+            {
+              "label": "Sometimes flaky",
+              "count": 1
+            },
+            {
+              "label": "Pricy",
+              "count": 1
+            },
+            {
+              "label": "Too Expensive",
+              "count": 1
+            },
+            {
+              "label": "Not as strong (more of a Medium Hold)",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Complicated To Use",
+            "Could be too greasy for some people",
+            "Doesn't Work",
+            "Dries-Out Hair",
+            "Greasy",
+            "Heavy",
+            "Not Effective",
+            "Not as strong (more of a Medium Hold)",
+            "Not for course hair",
+            "Not much hold. Def a light/med hold",
+            "Poor Texture",
+            "Pricy",
+            "Sometimes flaky",
+            "Sticky",
+            "Strong Odor",
+            "Too Expensive"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 26
+            },
+            {
+              "label": "Beauty Conscious",
+              "count": 11
+            },
+            {
+              "label": "Product Junkie",
+              "count": 7
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 4
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 4
+            },
+            {
+              "label": "Professional Stylist",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Beauty Conscious",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Product Junkie",
+            "Professional Stylist",
+            "Survivalist / Minimalist"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "gender",
+          "name": "Gender",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Male",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Female",
+            "Male"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "hairtype",
+          "name": "Hair Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Straight Hair",
+              "count": 38
+            },
+            {
+              "label": "Wavy Hair",
+              "count": 16
+            },
+            {
+              "label": "Very Curly Hair",
+              "count": 4
+            }
+          ],
+          "display_values": [
+            "Straight Hair",
+            "Very Curly Hair",
+            "Wavy Hair"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Easy To Use",
+              "count": 49
+            },
+            {
+              "label": "Strong Hold",
+              "count": 38
+            },
+            {
+              "label": "Smells Great",
+              "count": 31
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 30
+            },
+            {
+              "label": "Lightweight",
+              "count": 29
+            },
+            {
+              "label": "Controls Frizz",
+              "count": 11
+            },
+            {
+              "label": "Effective",
+              "count": 5
+            },
+            {
+              "label": "Good Value",
+              "count": 3
+            },
+            {
+              "label": "Good firm hold",
+              "count": 1
+            },
+            {
+              "label": "Large container",
+              "count": 1
+            },
+            {
+              "label": "No flacks",
+              "count": 1
+            },
+            {
+              "label": "No greasy residue next day",
+              "count": 1
+            },
+            {
+              "label": "Doesn't flake",
+              "count": 1
+            },
+            {
+              "label": "No gel fakes on hubby's head!!!",
+              "count": 1
+            },
+            {
+              "label": "Great Hold Without The Stiffness",
+              "count": 1
+            },
+            {
+              "label": "Not White Residue",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Flake",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Controls Frizz",
+            "Doesn't Flake",
+            "Doesn't flake",
+            "Easy To Use",
+            "Effective",
+            "Good Value",
+            "Good firm hold",
+            "Great Hold Without The Stiffness",
+            "Large container",
+            "Lightweight",
+            "No flacks",
+            "No gel fakes on hubby's head!!!",
+            "No greasy residue next day",
+            "Non-Greasy",
+            "Not White Residue",
+            "Smells Great",
+            "Strong Hold"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        3,
+        1,
+        2,
+        17,
+        96
+      ],
+      "review_histogram": [
+        3,
+        1,
+        2,
+        17,
+        96
+      ],
+      "rating_count": 119,
+      "review_count": 119,
+      "average_rating": 4.7,
+      "recommended_ratio": 0.94,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I have very thick-fine hair, I'm told. No body. Does nothing but there's a lot of those tiny suckers. Finding a good mousse or gel that holds is nearly impossible, and then add in the smell issue and I'm never happy. I found this just after a fresh haircut and I was astonished how well it worked and how un-girly it smelt.  It just smelled clean and nice.  Wait, did I mention I'm female? I didn't know this was for men until I found it at a large chain store in the men's section.  I just laughed because who cares if the product works? I wear so many smells between lilac perfume, maximum hold hairspray, swee peony and cream body wash, that a more \"neutral\" odor is welcomed.  And did I mention it works?",
+        "headline": "It Really Works... Oops, it's for Men?",
+        "rating": 5,
+        "ugc_id": 190337347
+      },
+      "faceoff_negative": {
+        "comments": "Sadly this doesn't work for my boyfriend.  His hair is straight and about 3 inches long.  He enjoys the spike look, but this left his hair flat.",
+        "headline": "Not for him",
+        "rating": 2,
+        "ugc_id": 190337392
+      },
+      "name": "Firm Hold Styling Gel",
+      "native_review_count": 119,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/natural-mineral-water-facial-spray-prod350059",
+  "extracted_at": "2025-09-23T04:41:10.850194+00:00",
+  "product_name": "Evian Mineral SprayNatural Mineral Water Facial Spray",
+  "brand": "Evian Mineral Spray",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Face Mists & Essences"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "14.00",
+  "availability": "in_stock",
+  "rating_avg": "4.7",
+  "rating_count": "397",
+  "images": [
+    "https://media.ulta.com/i/ulta/5021589?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/5021589?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/5021589_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/5021589_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/5021589_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/5021589_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/5021589_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/5021589_alt07?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackEvian Natural Mineral Water Facial Spray hydrates, tones, and refreshes skin throughout the day. A favorite of skin care professionals, compatible with all skin types, and can enhance all skin care and makeup routines.",
+  "details": "DetailsBenefitsBoost skin's hydration with the unique mineral balance found only in Evian waterExpertly blend & finish makeup with its ultra-fine micro-droplet mistInstantly refresh makeup & soothe skinHypo-allergenic & neutral pHLeak-proof & recyclable canisterWorks with all skin typesResearch ResultsA consumer research panel of women using this product twice daily for 30 days felt improved hydration, relieved tightness, and a softer overall feel of skin.Formulated WithoutSulfatesParabensFormaldehydesPhthalatesMineral OilSynthetic fragranceItem 5021589How To UseMist generously after cleansing and before applying moisturizer to improve skin's hydration.Spray brushes and sponges while applying makeup for bolder color and smoother blending.Spray lightly after applying makeup to set powder cosmetics for a more natural, dewy look.Spray as desired throughout the day to instantly refresh makeup and soothe skin.Precautions: Pressurized container. Protect from sunlight and do not expose to temperatures exceeding 122 degrees F. Do not pierce or burn, even after use.IngredientsEvian Water, Nitrogen.Shipping & Coupon RestrictionsShipping Restrictions : This item cannot be shipped via air.",
+  "how_to_use": "Mist generously after cleansing and before applying moisturizer to improve skin's hydration.Spray brushes and sponges while applying makeup for bolder color and smoother blending.Spray lightly after applying makeup to set powder cosmetics for a more natural, dewy look.Spray as desired throughout the day to instantly refresh makeup and soothe skin.Precautions: Pressurized container. Protect from sunlight and do not expose to temperatures exceeding 122 degrees F. Do not pierce or burn, even after use.",
+  "ingredients": [
+    "Evian Water",
+    "Nitrogen"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "moisturizer",
+      "serum",
+      "toner"
+    ],
+    "skin_type": [
+      "all skin types"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "creamy",
+      "powdery",
+      "oil"
+    ],
+    "color": [
+      "nude"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "purifying"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprodnatural-mineral-water-facial-spray-prod350059",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

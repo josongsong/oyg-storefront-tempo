@@ -1,0 +1,770 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/even-better-brightening-moisturizer-spf-20-xlsImpprod10791803",
+  "extracted_at": "2025-09-23T03:51:05.380628+00:00",
+  "product_name": "CliniqueEven Better Brightening Moisturizer SPF 20",
+  "brand": "Clinique",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Face Moisturizer"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "65.00",
+  "availability": "in_stock",
+  "rating_avg": "4.2",
+  "rating_count": "75",
+  "images": [
+    "https://media.ulta.com/i/ulta/2211496?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2211496?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2211496cm_alt06?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingHSA/FSA eligibleClinique Even Better Brightening Moisturizer SPF 20 is a daily oil-free moisturizer that hydrates, brightens, clarifies, and helps uncover more even-looking skin.",
+  "details": "DetailsBenefitsSkin Types: Very Dry to Dry, Dry Combination, Combination OilySoothing oil-free cream has specialized ingredients that help visibly reduce dark spots and discolorationSPF helps prevent new damageSkin looks instantly more radiantWear daily to see a more even skin toneDermatologist testedNon-acnegenicAllergy testedBuilt on Dermatological Science: As a dermatologist-guided brand, Clinique's commitment to safety starts with skincare science. Clinique partners with the best minds in dermatology and formulate for all skin types, tones, concerns - in service of all skin.Formulated WithoutParabensPhthalatesOilDenatured alcoholSynthetic colorsSulfatesFragranceItem 2211496How To UseApply to face daily following Even Better Clinical Dark Spot Corrector. See visible results in about 4 to 6 weeks.IngredientsActive: Octisalate 5.00%, Avobenzone 3.00%, Octocrylene 2.70%. Inactive: Water / Aqua / Eau, Butyloctyl Salicylate, Nylon-12, Octyldodecyl Neopentanoate, Behenyl Alcohol, Myristyl Myristate, Saccharomyces Cerevisiae Extract, Ascorbyl Glucoside, Cetyl Esters, Butylene Glycol, Polyethylene, Ammonium Acryloyldimethyltaurate / VP Copolymer, Yeast Extract / Faex / Extrait De Levure, Betula Alba (Birch) Bark Extract, Cucumis Sativus (Cucumber) Fruit Extract, Scutellaria Baicalensis Root Extract, Pyrus Malus (Apple) Fruit Extract, Trametes Versicolor Extract, Triticum Vulgare (Wheat Bran) Extract, Saccharomyces Lysate Extract, Punica Granatum (Pomegranate) Juice Extract, Olea Europaea (Olive) Fruit Extract, Curcuma Longa (Turmeric) Root Extract, Oryza Sativa (Rice) Bran Extract, Citrus Grandis (Grapefruit) Peel Extract, PEG-6, Cholesterol, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Glycerin, Di-PPG-2 Myreth-10 Adipate, Steareth-21, Caffeine, Sodium Rna, Cellulose, Acetyl Glucosamine, Simethicone, Tromethamine, Sucrose, Di-C12-18 Alkyl Dimonium Chloride, Salicylic Acid, Sodium Hyaluronate, Tocopheryl Acetate, Trisiloxane, Linoleic Acid, Caprylyl Glycol, Sodium Sulfite, Sodium Metabisulfite, Magnesium Ascorbyl Phosphate, Betaine, Trehalose, Hexylene Glycol, Dipotassium Glycyrrhizate, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Disodium EDTA, Phenoxyethanol, Polyaminopropyl Biguanide.Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Apply to face daily following Even Better Clinical Dark Spot Corrector. See visible results in about 4 to 6 weeks.",
+  "ingredients": [
+    "Active: Octisalate 5.00%",
+    "Avobenzone 3.00%",
+    "Octocrylene 2.70%. Inactive: Water / Aqua / Eau",
+    "Butyloctyl Salicylate",
+    "Nylon-12",
+    "Octyldodecyl Neopentanoate",
+    "Behenyl Alcohol",
+    "Myristyl Myristate",
+    "Saccharomyces Cerevisiae Extract",
+    "Ascorbyl Glucoside",
+    "Cetyl Esters",
+    "Butylene Glycol",
+    "Polyethylene",
+    "Ammonium Acryloyldimethyltaurate / VP Copolymer",
+    "Yeast Extract / Faex / Extrait De Levure",
+    "Betula Alba (Birch) Bark Extract",
+    "Cucumis Sativus (Cucumber) Fruit Extract",
+    "Scutellaria Baicalensis Root Extract",
+    "Pyrus Malus (Apple) Fruit Extract",
+    "Trametes Versicolor Extract",
+    "Triticum Vulgare (Wheat Bran) Extract",
+    "Saccharomyces Lysate Extract",
+    "Punica Granatum (Pomegranate) Juice Extract",
+    "Olea Europaea (Olive) Fruit Extract",
+    "Curcuma Longa (Turmeric) Root Extract",
+    "Oryza Sativa (Rice) Bran Extract",
+    "Citrus Grandis (Grapefruit) Peel Extract",
+    "PEG-6",
+    "Cholesterol",
+    "Dimethicone",
+    "Glyceryl Stearate",
+    "PEG-100 Stearate",
+    "Glycerin",
+    "Di-PPG-2 Myreth-10 Adipate",
+    "Steareth-21",
+    "Caffeine",
+    "Sodium Rna",
+    "Cellulose",
+    "Acetyl Glucosamine",
+    "Simethicone",
+    "Tromethamine",
+    "Sucrose",
+    "Di-C12-18 Alkyl Dimonium Chloride",
+    "Salicylic Acid",
+    "Sodium Hyaluronate",
+    "Tocopheryl Acetate",
+    "Trisiloxane",
+    "Linoleic Acid",
+    "Caprylyl Glycol",
+    "Sodium Sulfite",
+    "Sodium Metabisulfite",
+    "Magnesium Ascorbyl Phosphate",
+    "Betaine",
+    "Trehalose",
+    "Hexylene Glycol",
+    "Dipotassium Glycyrrhizate",
+    "Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone",
+    "Disodium EDTA",
+    "Phenoxyethanol",
+    "Polyaminopropyl Biguanide.Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "moisturizer",
+      "sunscreen"
+    ],
+    "skin_type": [
+      "oily",
+      "dry",
+      "combination",
+      "sensitive",
+      "acne-prone",
+      "all skin types"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "salicylic-acid"
+    ],
+    "brand": [
+      "luxury",
+      "premium"
+    ],
+    "special_features": [
+      "dermatologist-tested",
+      "hypoallergenic",
+      "oil-free",
+      "spf",
+      "brightening",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod10791803",
+    "total_reviews": 75,
+    "reviews": [
+      {
+        "review_id": 560927884,
+        "rating": 5,
+        "headline": "Really does fade dark spots",
+        "comments": "This really works. I can tell a difference in a week",
+        "nickname": "Tammy",
+        "location": "Georgia",
+        "created_date": 1755904684357,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551227039,
+        "rating": 5,
+        "headline": "Great day moisturizer",
+        "comments": "I have used this product for a long time and am happy with its use.",
+        "nickname": "Theresa",
+        "location": "Syracuse, NY",
+        "created_date": 1744134310869,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 540536282,
+        "rating": 5,
+        "headline": "The Best",
+        "comments": "I have been using Clinique moisturizer for years. Everyone comments on my skin.",
+        "nickname": "Livia",
+        "location": "Camillus NY",
+        "created_date": 1734125740779,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 476642791,
+        "rating": 5,
+        "headline": "LOVE IT!",
+        "comments": "love that it is so light and so effective.  has done wonders for my combination skin.",
+        "nickname": "vanessa",
+        "location": "brea, ca",
+        "created_date": 1697296751064,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 470853320,
+        "rating": 5,
+        "headline": "I would buy the product again",
+        "comments": "Goes on smooth and so far it seems to be working with my dry skin only time will tail.",
+        "nickname": "Tammie",
+        "location": "Orange Texas",
+        "created_date": 1693580619134,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 434627313,
+        "rating": 1,
+        "headline": "leaves chalky feeling",
+        "comments": "I was happy to try this being a combo moisturizer, but it didn't moisturize. it started drying up before I could spread it over my face well. It left behind a chalky feel, and had a subtle bad smell. I'll be returning this.",
+        "nickname": "whitemouse",
+        "location": "Texas",
+        "created_date": 1668902237386,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 434251032,
+        "rating": 2,
+        "headline": "Not their best formula",
+        "comments": "I have been completely loyal to Clinique for years now. This formula although recommended by the Ulta Clinique girl is not it though. It's heavy, I didn't see much of a difference for the last 7 weeks I used it. I went back to their moisture surge formula.",
+        "nickname": "Stef",
+        "location": "Goshen, NY",
+        "created_date": 1668700954706,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 421518477,
+        "rating": 5,
+        "headline": "Really love this dual action SPF moisturizer",
+        "comments": "I have melisma and really need to wear SPF on my face as much as possible. I have tried some other brands but if I rub my eyes the sunscreen stings my eyes and very irritating. \nI work from home so this works well sitting by my office window and watering my plants outside.  This Clinique moisturizer w SPF is great. Little goes a long way and absorbs quickly with no stinging!",
+        "nickname": "JBC91",
+        "location": "Dallas, TX",
+        "created_date": 1661011696553,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 420204831,
+        "rating": 5,
+        "headline": "One of the best products out there",
+        "comments": "I love this product so much during pandemic when we first had to wear the mask my face dried up so bad and wrinkles was around my nose area and cheeks and I had bad hyperpigmentation around my mouth area and when I went to ulta and I had to take my mask off so the young lady can see what I'm going through she recommended me this product and in 3 days I seen a difference and my skin was back to normal…..  I been this buying this product ever since and I highly recommend for people with dried skin and hyperpigmentation",
+        "nickname": "Noemi",
+        "location": "Gainesville",
+        "created_date": 1659882253729,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 399382711,
+        "rating": 5,
+        "headline": "Ulta Order",
+        "comments": "Great product",
+        "nickname": "Ang",
+        "location": "Alabama",
+        "created_date": 1645058234845,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 372683066,
+        "rating": 5,
+        "headline": "The Only SPF For Your Face",
+        "comments": "This is the only moisturizer with SPF I use for my face.  I won't step outside without it.",
+        "nickname": "Anon",
+        "location": "UT",
+        "created_date": 1627224607105,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 354031620,
+        "rating": 5,
+        "headline": "I will visit this store again",
+        "comments": "the store manager helped me make this selection and she was wonderful.",
+        "nickname": "las",
+        "location": "GA",
+        "created_date": 1624645757150,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 327028146,
+        "rating": 5,
+        "headline": "My favorite moisturizer",
+        "comments": "I use this everyday.",
+        "nickname": "RC",
+        "location": "Morrisville, PA",
+        "created_date": 1612194240645,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 322938776,
+        "rating": 5,
+        "headline": "Clinique moisturizer",
+        "comments": "Dailey facial moisturizer",
+        "nickname": "Cjab",
+        "location": "New England",
+        "created_date": 1609690725500,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 281191803,
+        "rating": 1,
+        "headline": "was not for my skin.....",
+        "comments": "i bought this from clinique website , i used it for almost 10 days my face started to breakout , redness around my cheeks, it clogged my pores. i have dry/normal skin. fine in the cheeks oily in t-zone.  i use all of clinique products but this one isnt a winner in my book. i will go back to using clinique smart spectrum spf15 it worked wonders on my skin.",
+        "nickname": "mars",
+        "location": "michigan",
+        "created_date": 1592935481046,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 280922596,
+        "rating": 1,
+        "headline": "Not what I was expecting",
+        "comments": "I've been using this moisturizer for months and didn't help my skin tone at all. My dark spots are more visible. Maybe it works for others, but this was a total waste of money. I have oily, acne prone skin and this product did not help one bit with my dark spots. Quite disappointing",
+        "nickname": "Vjay",
+        "location": "FL",
+        "created_date": 1592756071018,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 255210684,
+        "rating": 5,
+        "headline": "Great for sensitive skin!",
+        "comments": "I have extremely sensitive skin and am always hesitant to try new products, but this is fantastic! It's not oily and a little goes a long way. It didn't break out my skin, but made it look and feel better!",
+        "nickname": "Melissa",
+        "location": "Muncie, Indiana",
+        "created_date": 1569682758752,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 244703801,
+        "rating": 5,
+        "headline": "Moisture without oiliness",
+        "comments": "Have used product for many years",
+        "nickname": "Rickie020",
+        "location": "Roseville MN",
+        "created_date": 1564942206284,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 244549699,
+        "rating": 5,
+        "headline": "Love it",
+        "comments": "I use this after I apply moisturizer both morning and night. It does not feel like too much, and doesn't leave me feeling too oily. It blends in wonderfully/easily. It isn't going to get rid of my hyper pigmentation permanently, but as long as I use this it drastically lightens it to almost being unnoticeable. That is a win in my book.  Plus it has SPF and doesn't feel like other products I tried with SPF, that don't blend in well, are thick, and leave you feeling oily.",
+        "nickname": "Emily",
+        "location": "Wyoming",
+        "created_date": 1564602153660,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 243561220,
+        "rating": 5,
+        "headline": "It Really Does Work",
+        "comments": "I started using Even Better Moisturizer years ago when a small scar I had on my cheek from a riding accident as a teenager started to look darker as I got older. The scar is still visible but not much darker from when I first started using this moisturizer. What got my attention was a few days ago I noticed that my right hand was getting the dreaded age spots. But my left hand had only one very faint spot. I wondered what I might be doing to cause this-I then realized that after I put my Even Better Moisturizer on my face-with my right hand-I would rub the excess on the top of my left hand. I don't know if it is the sunscreen in this product or the moisturizer itself but I can now see that this stuff really works. I don't usually write reviews about a product I use but I just had to share this.",
+        "nickname": "Laurie",
+        "location": "Washington State",
+        "created_date": 1563132566725,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 61,
+      "pages_total": 4,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod10791803/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 29
+            },
+            {
+              "label": "After Shower/Bath",
+              "count": 10
+            },
+            {
+              "label": "Deep Moisturization",
+              "count": 10
+            },
+            {
+              "label": "Dryness",
+              "count": 6
+            },
+            {
+              "label": "Combination Skin",
+              "count": 2
+            },
+            {
+              "label": "Dry Skin",
+              "count": 2
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 2
+            },
+            {
+              "label": "Daily facial moisturizer",
+              "count": 1
+            },
+            {
+              "label": "Under makeup for protection everyday",
+              "count": 1
+            },
+            {
+              "label": "First thing in the morning",
+              "count": 1
+            },
+            {
+              "label": "Use in the morning and before bed",
+              "count": 1
+            },
+            {
+              "label": "Allergic to a ingredient in the sunscreen",
+              "count": 1
+            },
+            {
+              "label": "Morning",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne-Prone Skin",
+            "After Shower/Bath",
+            "All Skin Types",
+            "Allergic to a ingredient in the sunscreen",
+            "Combination Skin",
+            "Daily Use",
+            "Daily facial moisturizer",
+            "Deep Moisturization",
+            "Dry Skin",
+            "Dryness",
+            "First thing in the morning",
+            "Morning",
+            "Oily Skin",
+            "Sensitive Skin",
+            "Under makeup for protection everyday",
+            "Use in the morning and before bed"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Bad Smell",
+              "count": 2
+            },
+            {
+              "label": "Too Greasy Or Heavy",
+              "count": 2
+            },
+            {
+              "label": "Doesn't Absorb Well",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Doesn't Absorb Well",
+            "Not Long-Lasting",
+            "Too Greasy Or Heavy"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 13
+            },
+            {
+              "label": "Beauty Conscious",
+              "count": 12
+            },
+            {
+              "label": "Minimalist",
+              "count": 4
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 4
+            },
+            {
+              "label": "Skin Care Professional",
+              "count": 3
+            },
+            {
+              "label": "55+",
+              "count": 2
+            },
+            {
+              "label": "Beauty Expert",
+              "count": 2
+            },
+            {
+              "label": "Early 50's",
+              "count": 1
+            },
+            {
+              "label": "67 years old, active and outdoors a lot",
+              "count": 1
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "55+",
+            "67 years old, active and outdoors a lot",
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Early 50's",
+            "Energetic/Active",
+            "Minimalist",
+            "Skin Care Professional",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Goes On Smoothly",
+              "count": 26
+            },
+            {
+              "label": "Moisturizes Well",
+              "count": 24
+            },
+            {
+              "label": "Absorbs Quickly",
+              "count": 21
+            },
+            {
+              "label": "Effective Sun Protection",
+              "count": 19
+            },
+            {
+              "label": "Not Greasy",
+              "count": 18
+            },
+            {
+              "label": "Long Lasting",
+              "count": 15
+            },
+            {
+              "label": "Smells Great",
+              "count": 9
+            },
+            {
+              "label": "Moisturizing",
+              "count": 4
+            },
+            {
+              "label": "Gentle",
+              "count": 3
+            },
+            {
+              "label": "Improves Skin Texture",
+              "count": 3
+            },
+            {
+              "label": "Balances Skin",
+              "count": 2
+            },
+            {
+              "label": "I love that this moisturizer also has SPF",
+              "count": 1
+            },
+            {
+              "label": "Compared to other moisturizers, not cheap but re",
+              "count": 1
+            },
+            {
+              "label": "effective",
+              "count": 1
+            },
+            {
+              "label": "gentle",
+              "count": 1
+            },
+            {
+              "label": "lightweight",
+              "count": 1
+            },
+            {
+              "label": "nice smell",
+              "count": 1
+            },
+            {
+              "label": "sensitive skin friendly",
+              "count": 1
+            },
+            {
+              "label": "Smooth application",
+              "count": 1
+            },
+            {
+              "label": "It works, not heavy!",
+              "count": 1
+            },
+            {
+              "label": "Lightweight",
+              "count": 1
+            },
+            {
+              "label": "Sunscreen",
+              "count": 1
+            },
+            {
+              "label": "Did not feel greasy; a little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "Leaves Clean Feel",
+              "count": 1
+            },
+            {
+              "label": "Helped clear scarring on face",
+              "count": 1
+            },
+            {
+              "label": "Fades dark spots :)",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Absorbs Quickly",
+            "Balances Skin",
+            "Compared to other moisturizers, not cheap but re",
+            "Did not feel greasy; a little goes a long way",
+            "Effective Sun Protection",
+            "Fades dark spots :)",
+            "Gentle",
+            "Goes On Smoothly",
+            "Helped clear scarring on face",
+            "I love that this moisturizer also has SPF",
+            "Improves Skin Texture",
+            "It works, not heavy!",
+            "Leaves Clean Feel",
+            "Lightweight",
+            "Long Lasting",
+            "Moisturizes Well",
+            "Moisturizing",
+            "Not Greasy",
+            "Smells Great",
+            "Smooth application",
+            "Sunscreen",
+            "effective",
+            "gentle",
+            "lightweight",
+            "nice smell",
+            "sensitive skin friendly"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 1
+            },
+            {
+              "label": "Dry",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        11,
+        4,
+        1,
+        4,
+        55
+      ],
+      "review_histogram": [
+        11,
+        4,
+        1,
+        4,
+        55
+      ],
+      "rating_count": 75,
+      "review_count": 75,
+      "average_rating": 4.17,
+      "recommended_ratio": 0.8,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I originally got a sample size of this product and have been using it for months. Just bought this bottle and it's safe to say I love this product. My skin scars extremely easily and I've battled with acne scars for years. I've tried other blemish removers and nothing has worked as well as this product. \n\nI use it every morning as soon as I get up, wait a few minutes and then apply makeup as usual. Over the last couple months I've noticed I don't need as much concealer, and what would be new scars are fading away almost as soon as they happen. I'm not extremely into makeup-I use it mostly as cover up-and this product is giving me some confidence back with my clearer skin.",
+        "headline": "Love this product",
+        "rating": 5,
+        "ugc_id": 190374869
+      },
+      "faceoff_negative": {
+        "comments": "I love Clinique products but this moisturizer was too thick not sure because of the spf.  I've noticed it made my foundation looked cakey after I sweat and I solemnly do not wear a lot of it and it never looked cakey until the moisturizer. That's why I returned it maybe it worked well on others but didn't for me",
+        "headline": "I wouldn't buy it again",
+        "rating": 1,
+        "ugc_id": 190374855
+      },
+      "name": "Even Better Brightening Moisturizer SPF 20",
+      "native_review_count": 61,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 14,
+      "locale": "en_US"
+    }
+  }
+}

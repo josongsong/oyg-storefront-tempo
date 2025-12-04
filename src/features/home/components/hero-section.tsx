@@ -8,12 +8,12 @@ export function HeroSection() {
       />
       <div className="absolute inset-0 bg-black/10" />
       <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white p-4">
-        <h2 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight drop-shadow-md">
+        <h2 className="text-[3.5rem] md:text-[5rem] font-bold mb-4 tracking-tight drop-shadow-md leading-tight">
           Spoil Them With
           <br />
           Every Spritz
         </h2>
-        <p className="text-lg md:text-xl font-medium mb-8 max-w-lg drop-shadow-sm">
+        <p className="text-[1.1rem] md:text-[1.3rem] font-medium mb-8 max-w-lg drop-shadow-sm">
           Treat them to an iconic fragrance and compliments will follow everywhere they go.
         </p>
         <button className="bg-black text-white px-8 py-3 text-base font-medium hover:bg-gray-800 transition-colors">

@@ -1,0 +1,133 @@
+{
+  "product_id": "pimprod2051776",
+  "product_url": "https://www.ulta.com/p/rice-toner-pad-pimprod2051776",
+  "extracted_at": "2025-09-23T05:04:36.821622+00:00",
+  "product_name": "I'm FromRice Toner Pad",
+  "brand": "I'm From",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Toner"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "toner"
+  ],
+  "currency": "USD",
+  "list_price": "26.00",
+  "sale_price": "18.20",
+  "availability": "in_stock",
+  "rating_avg": "5",
+  "rating_count": "19",
+  "images": [
+    "https://media.ulta.com/i/ulta/2642154?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2642154?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642154_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642154_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642154_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642154_alt04?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeGive BackThe Rice Toner Pad from I'm From comes in a 60-piece pack designed to deliver deep hydration, boost elasticity, and refine skin texture for a radiant, glowing complexion. Infused with rice extract, these pads gently nourish and smooth the skin while locking in moisture.",
+  "details": "DetailsBenefitsReduces dark spots and hyperpigmentation, resulting in a radiant and glowing complexionIdeal for dry, dull, and rough skin, these pads are your go-to for smooth and glowing skinKey IngredientsYeoju Rice Extract - rich in nutrients that promote moisture levels in the skin, helping to prevent water loss and keep the skin hydratedRice Bran Extracts - rich in antioxidants, which help protect the skin from damage caused by free radicals and environmental stressorsItem 2642154How To UseGently put the pad onto your skin and leave it for a while for deep nourishment and moisture.Swipe your face with the toner pad to smooth your skin.Stretch the toner pad to fit areas like forehead, cheeks, chin, and neck.IngredientsWater, Methylpropanediol, Dipropylene Glycol, Glycerin, Niacinamide, Olea Europaea (Olive) Fruit Oil, Hydroxyacetophenone, Caprylyl Glycol, C12-14 Alketh-12, Polyglyceryl-3 Methylglucose Distearate, 1, 2-Hexanedio, Carbomer, Betaine, Arginine, Sodium Citrate, Glyceryl Stearate SE, Ethylhexylglycerin, Methyl Glucose Sesquistearate, Adenosine, Citric Acid, Xanthan Gum, Oryza Sativa (Rice) Bran Extract, Oryza Sativa (Rice) Extract, Dipotassium Glycyrrhizate, Disodium EDTA.",
+  "how_to_use": "Gently put the pad onto your skin and leave it for a while for deep nourishment and moisture.Swipe your face with the toner pad to smooth your skin.Stretch the toner pad to fit areas like forehead, cheeks, chin, and neck.",
+  "ingredients": [
+    "Water",
+    "Methylpropanediol",
+    "Dipropylene Glycol",
+    "Glycerin",
+    "Niacinamide",
+    "Olea Europaea (Olive) Fruit Oil",
+    "Hydroxyacetophenone",
+    "Caprylyl Glycol",
+    "C12-14 Alketh-12",
+    "Polyglyceryl-3 Methylglucose Distearate",
+    "2-Hexanedio",
+    "Carbomer",
+    "Betaine",
+    "Arginine",
+    "Sodium Citrate",
+    "Glyceryl Stearate SE",
+    "Ethylhexylglycerin",
+    "Methyl Glucose Sesquistearate",
+    "Adenosine",
+    "Citric Acid",
+    "Xanthan Gum",
+    "Oryza Sativa (Rice) Bran Extract",
+    "Oryza Sativa (Rice) Extract",
+    "Dipotassium Glycyrrhizate",
+    "Disodium EDTA"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "cleanser",
+      "toner"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "matte",
+      "dewy",
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "niacinamide"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "brightening"
+    ],
+    "category": []
+  },
+  "reviews": {
+    "product_id": "pimprod2051776",
+    "total_reviews": 19,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        0,
+        19
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        0,
+        19
+      ],
+      "rating_count": 19,
+      "review_count": 19,
+      "average_rating": 5.0,
+      "recommended_ratio": 0.0,
+      "media": [],
+      "native_review_count": 0,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 19,
+      "locale": "en_US"
+    }
+  }
+}

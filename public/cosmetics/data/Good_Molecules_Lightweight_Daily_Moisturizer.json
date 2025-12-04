@@ -1,0 +1,734 @@
+{
+  "product_id": "pimprod2023937",
+  "product_url": "https://www.ulta.com/p/lightweight-daily-moisturizer-pimprod2023937",
+  "extracted_at": "2025-09-23T04:22:48.873833+00:00",
+  "product_name": "Good MoleculesLightweight Daily Moisturizer",
+  "brand": "Good Molecules",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Face Moisturizer"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "12.00",
+  "availability": "in_stock",
+  "rating_avg": "4.3",
+  "rating_count": "652",
+  "images": [
+    "https://media.ulta.com/i/ulta/2582316?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2582316?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2582316cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2582316cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2582316cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2582316cm_alt04?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackSmooth, hydrate, and prep your skin for makeup with Good Molecules Lightweight Daily Moisturizer formulated with a natural silicone alternative.",
+  "details": "DetailsKey IngredientsPlant-based, naturally derived alternative to silicone helps smooth skin texture and plump up fine lines with a lightweight, breathable feel.Macadamia seed oil nourishes the skin.Shea butter helps soothe with antioxidant vitamin E.Item 2582316How To UseApply a pea-sized amount to clean skin. Let absorb for a few moments before applying sunscreen or makeup. Suitable for daily use.IngredientsWater, Propanediol, Neopentyl Glycol Diheptanoate, Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, 1,2-Hexanediol, Persea Gratissima (Avocado) Oil, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetyl Ethylhexanoate, Carbomer, Tromethamine, Sodium Hyaluronate, Tocopheryl Acetate, Ethylhexylglycerin, Trisodium Ethylenediamine, Disuccinate, Camellia Sinensis Leaf Water.",
+  "how_to_use": "Apply a pea-sized amount to clean skin. Let absorb for a few moments before applying sunscreen or makeup. Suitable for daily use.",
+  "ingredients": [
+    "Water",
+    "Propanediol",
+    "Neopentyl Glycol Diheptanoate",
+    "Butyrospermum Parkii (Shea) Butter",
+    "Cetearyl Alcohol",
+    "2-Hexanediol",
+    "Persea Gratissima (Avocado) Oil",
+    "Cetearyl Olivate",
+    "Sorbitan Olivate",
+    "Glyceryl Stearate",
+    "Cetyl Ethylhexanoate",
+    "Carbomer",
+    "Tromethamine",
+    "Sodium Hyaluronate",
+    "Tocopheryl Acetate",
+    "Ethylhexylglycerin",
+    "Trisodium Ethylenediamine",
+    "Disuccinate",
+    "Camellia Sinensis Leaf Water"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "moisturizer"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural"
+    ],
+    "skin_type": [],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2023937",
+    "total_reviews": 652,
+    "reviews": [
+      {
+        "review_id": 563232075,
+        "rating": 5,
+        "headline": "This is such a hydrating moisturizer",
+        "comments": "I loved the way this feels on my skin. Makes it look like glass.",
+        "nickname": "Abby",
+        "location": "Lawrence, Ks",
+        "created_date": 1757629888308,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563208904,
+        "rating": 5,
+        "headline": "Such a light and moisturizing lotion!",
+        "comments": "I struggle a lot with oily skin so a lot of times moisturizers make my skin feel too oily, but the lightweight moisturizer helps the dryness without being overly thick and oily, makes my skin feel light and clean!",
+        "nickname": "Lily",
+        "location": "Virginia",
+        "created_date": 1757592474685,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 562922309,
+        "rating": 5,
+        "headline": "I'm impressed - it's awesome!",
+        "comments": "I've tried a few other Good Molecules products and really liked them.  This is no exception - it's lightweight, as the name says, but very hydrating, in my opinion. It absorbs nicely, too, and didn't break me out.  For the price, it's amazing. I got the travel size, but I'll be getting the large one.",
+        "nickname": "Deena",
+        "location": "Wesley Chapel, FL",
+        "created_date": 1757196364952,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 562916068,
+        "rating": 5,
+        "headline": "Love this!",
+        "comments": "Does not pill, very hydrating",
+        "nickname": "Natalie",
+        "location": "IL",
+        "created_date": 1757183427749,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 562246916,
+        "rating": 5,
+        "headline": "Very effective, not at all greasy",
+        "comments": "I feel like with so many moisturizers now a days it is all grease and no moisture. With this product that is not the case. It is moisturizing without feeling oily for a great price!",
+        "nickname": "Sydney",
+        "location": "Charlotte, NC",
+        "created_date": 1756941774061,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 562073755,
+        "rating": 4,
+        "headline": "I like how light it is",
+        "comments": "I do wish the scent was a little better. It helps with my oily skin tremendously!",
+        "nickname": "Lorena",
+        "location": "Tn",
+        "created_date": 1756929076232,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561516012,
+        "rating": 1,
+        "headline": "Wanted to love it but it just sucks",
+        "comments": "I started using this product and wanted to believe the hype, but this product, as much as it claims to be \"lightweight,\" was not. Upon application, my pores instantly felt clogged, and I ended up with more acne than when I started. Save your money!!!!",
+        "nickname": "Gabrielle",
+        "location": "GA",
+        "created_date": 1756822370427,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561401017,
+        "rating": 5,
+        "headline": "Would buy again!!!",
+        "comments": "This product keeps my skin moisturized. I like it's creamy, smooth texture, and it doesn't leave a greasy finish at least not for me. It's been just what my skin needed!",
+        "nickname": "Neyla",
+        "location": "Ann Arbor, MI",
+        "created_date": 1756526705894,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560451053,
+        "rating": 2,
+        "headline": "good for the right person",
+        "comments": "underestimated how lightweight this product is, leaves me skin feeling dry after i use it. i don't recommend if you have dry skin.",
+        "nickname": "xoxo",
+        "location": "las vegas",
+        "created_date": 1755618070182,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560378039,
+        "rating": 1,
+        "headline": "DONT BUY IF YOU HAVE DRY SKIN",
+        "comments": "This is the worst moisturizer I have ever used. I have very dry skin and this dried me out even more. It also left my skin feeling tight. What works for me is the Peach Lily Matcha Cream. It's worth your money.",
+        "nickname": "Juliette",
+        "location": "Las Vegas, NV",
+        "created_date": 1755475489138,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560137783,
+        "rating": 5,
+        "headline": "Love this moisturizer",
+        "comments": "I have bought this product several times. Use it as my daytime moisturizer. Very lightweight. Only need a a bit. Goes a long way.",
+        "nickname": "LH",
+        "location": "NY",
+        "created_date": 1755136974500,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559962975,
+        "rating": 4,
+        "headline": "Very hydrating but not enough to get oily",
+        "comments": "Perfect for me I never get oily but my skin is always hydrated",
+        "nickname": "Liyah",
+        "location": "San Jose, CA",
+        "created_date": 1754954948583,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559627169,
+        "rating": 5,
+        "headline": "amazing",
+        "comments": "love it changed my skin to no flaking all the time to smooth and hydrated.",
+        "nickname": "user",
+        "location": "california",
+        "created_date": 1754540408383,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559488771,
+        "rating": 3,
+        "headline": "Not for oily skin",
+        "comments": "I asked an associate for a recommendation and she pointed me to this. Personally, I hate it. This would be great for someone with dry skin, but if you have oily skin like me, don't get it. It's marketed as for all skin types but it's really not. It's very heavy.",
+        "nickname": "AW",
+        "location": "GA",
+        "created_date": 1754516711714,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 558788794,
+        "rating": 5,
+        "headline": "My holy grail product",
+        "comments": "This product is one of the best purchases I have ever made. It absorbs so quickly and nicely into the skin, all while leaving your skin extremely moisturized. I have used this product for over 2 years and never had an issue with it. It's also right in that good amount price range for an effective and moisturizing product!",
+        "nickname": "555",
+        "location": "Atlanta",
+        "created_date": 1753928365393,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558510338,
+        "rating": 5,
+        "headline": "Dreamy",
+        "comments": "I really love this moisturizer! Its super lightweight and blendable and really moisturizes my skin. I would definitely recommend this for anyone.",
+        "nickname": "Penny",
+        "location": "Berrien Springs MI",
+        "created_date": 1753746352744,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558386989,
+        "rating": 5,
+        "headline": "Great moisturizer for a great price",
+        "comments": "I use this as a daily moisturizer to layer with my serums. Initially it feels a little heavy, but it absorbs nicely and doesn't leave an oily cast. Good for\nAging skin, but may not be the best for oily skin.",
+        "nickname": "Nomi",
+        "location": "Michigan",
+        "created_date": 1753653715623,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558352017,
+        "rating": 5,
+        "headline": "Good",
+        "comments": "Very good",
+        "nickname": "Luz",
+        "location": "Texas",
+        "created_date": 1753562260928,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 558122391,
+        "rating": 5,
+        "headline": "Very hydrating",
+        "comments": "I have somewhat sensitive skin, and the moisturizer didn't break my skin out at all. I also have combination skin, and it only works well wirh areas tgat are oily and dry.",
+        "nickname": "Lie",
+        "location": "Cincinnati Ohio",
+        "created_date": 1753370584573,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556931221,
+        "rating": 5,
+        "headline": "Amazing product!",
+        "comments": "I bought this moisturizer after my mom suggested it to me. I have other Good Molecules products, as well. This moisturizer is amazing! It keeps my face feeling moisturized all day long, I love it. I also bought the facial oil which I use afterwards.",
+        "nickname": "Arielle",
+        "location": "Alabama, USA",
+        "created_date": 1752186637393,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 394,
+      "pages_total": 20,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2023937/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Last step of morning skincare",
+              "count": 1
+            },
+            {
+              "label": "Moisturizer",
+              "count": 1
+            },
+            {
+              "label": "Primer",
+              "count": 1
+            },
+            {
+              "label": "Moisturizes",
+              "count": 1
+            },
+            {
+              "label": "Under makeup",
+              "count": 1
+            },
+            {
+              "label": "I use morning and night",
+              "count": 1
+            },
+            {
+              "label": "Moisturizer for am and under the makeup",
+              "count": 1
+            },
+            {
+              "label": "by itself",
+              "count": 1
+            },
+            {
+              "label": "everyday",
+              "count": 1
+            },
+            {
+              "label": "under makeup",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "I use morning and night",
+            "Last step of morning skincare",
+            "Moisturizer",
+            "Moisturizer for am and under the makeup",
+            "Moisturizes",
+            "Primer",
+            "Under makeup",
+            "by itself",
+            "everyday",
+            "under makeup"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "No SPF",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "No SPF"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination skin",
+              "count": 2
+            },
+            {
+              "label": "Acne prone",
+              "count": 1
+            },
+            {
+              "label": "Dehydrated skin",
+              "count": 1
+            },
+            {
+              "label": "age 30+",
+              "count": 1
+            },
+            {
+              "label": "dry skin",
+              "count": 1
+            },
+            {
+              "label": "I love makeup so I always love a light moisture",
+              "count": 1
+            },
+            {
+              "label": "40+ dry aging skin",
+              "count": 1
+            },
+            {
+              "label": "makeup lover",
+              "count": 1
+            },
+            {
+              "label": "skincare lover",
+              "count": 1
+            },
+            {
+              "label": "oily skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "40+ dry aging skin",
+            "Acne prone",
+            "Casual Dresser",
+            "Combination skin",
+            "Comfort-seeking",
+            "Dehydrated skin",
+            "Energetic/Active",
+            "I love makeup so I always love a light moisture",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "age 30+",
+            "dry skin",
+            "makeup lover",
+            "oily skin",
+            "skincare lover"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "moisturizing",
+              "count": 2
+            },
+            {
+              "label": "non greasy",
+              "count": 2
+            },
+            {
+              "label": "Lightweight",
+              "count": 2
+            },
+            {
+              "label": "Blends easily",
+              "count": 1
+            },
+            {
+              "label": "Moisturizes dehydrated skin",
+              "count": 1
+            },
+            {
+              "label": "Good Price / Value",
+              "count": 1
+            },
+            {
+              "label": "Light",
+              "count": 1
+            },
+            {
+              "label": "lightweight formula",
+              "count": 1
+            },
+            {
+              "label": "no fragrence",
+              "count": 1
+            },
+            {
+              "label": "non-greasy",
+              "count": 1
+            },
+            {
+              "label": "pump",
+              "count": 1
+            },
+            {
+              "label": "Moisturizer",
+              "count": 1
+            },
+            {
+              "label": "hydrating, dewy, inexpensive",
+              "count": 1
+            },
+            {
+              "label": "smooth and beautiful finish",
+              "count": 1
+            },
+            {
+              "label": "Safe for sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Absorbs quickly",
+              "count": 1
+            },
+            {
+              "label": "Not oily",
+              "count": 1
+            },
+            {
+              "label": "Smooth",
+              "count": 1
+            },
+            {
+              "label": "Works as a primer for makeup",
+              "count": 1
+            },
+            {
+              "label": "Leaves skin tight, smooth and moisturized!",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Most affordable moisturizer in the market",
+              "count": 1
+            },
+            {
+              "label": "It's creamy!",
+              "count": 1
+            },
+            {
+              "label": "easy",
+              "count": 1
+            },
+            {
+              "label": "lightweight",
+              "count": 1
+            },
+            {
+              "label": "doesn't leave my face looking oily at all!",
+              "count": 1
+            },
+            {
+              "label": "the price is so good for the amount of product",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Absorbs quickly",
+            "Blends easily",
+            "Good Price / Value",
+            "Hydrating",
+            "It's creamy!",
+            "Leaves skin tight, smooth and moisturized!",
+            "Light",
+            "Lightweight",
+            "Moisturizer",
+            "Moisturizes dehydrated skin",
+            "Most affordable moisturizer in the market",
+            "Not oily",
+            "Safe for sensitive skin",
+            "Smooth",
+            "Works as a primer for makeup",
+            "doesn't leave my face looking oily at all!",
+            "easy",
+            "hydrating, dewy, inexpensive",
+            "lightweight",
+            "lightweight formula",
+            "moisturizing",
+            "no fragrence",
+            "non greasy",
+            "non-greasy",
+            "pump",
+            "smooth and beautiful finish",
+            "the price is so good for the amount of product"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 18
+            },
+            {
+              "label": "Dry",
+              "count": 11
+            },
+            {
+              "label": "Normal",
+              "count": 7
+            },
+            {
+              "label": "Oily",
+              "count": 5
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        45,
+        26,
+        53,
+        71,
+        457
+      ],
+      "review_histogram": [
+        45,
+        26,
+        53,
+        71,
+        457
+      ],
+      "rating_count": 652,
+      "review_count": 652,
+      "average_rating": 4.33,
+      "recommended_ratio": 0.4,
+      "media": [
+        {
+          "id": "418889311",
+          "review_id": 418889327,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fjgheqvoicdg4btxeu9m.jpg",
+          "headline": "Two in One",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Silicone-free!!!",
+          "nickname": "Paige",
+          "created_date": 1659056425298
+        },
+        {
+          "id": "418889337",
+          "review_id": 418889327,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gklzwouwr0mpcenh7ggo.jpg",
+          "headline": "Two in One",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love the sustainable and cute packing",
+          "nickname": "Paige",
+          "created_date": 1659056425298
+        },
+        {
+          "id": "399379046",
+          "review_id": 399378995,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tf9ricf8a6hhv4fkbiw7.jpg",
+          "headline": "really hydrates even the driest skin i love it !",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Cristal",
+          "created_date": 1645052780358
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I escaped my teens and early adulthood with enviously flawless skin but then, my skin simply started badly misbehaving. For a few years, I experienced moderate cystic acne (it seemed more severe to me than my diagnosis indicated). I couldn't get the acne under control no matter what I tried and I tried it ALL. I even submitted myself to a series of painful laser treatments in an attempt to get it under control. The more medications and treatments I tried, the drier my skin became and the more I relied on lotions and moisturizers which only seemed to further exacerbate my underlying condition. The more acne and subsequent scarring I experienced, the more makeup products I used to cover and conceal. I finally figured out the culprit: silicones! Silicones were in absolutely everything I had been putting on my face for years; sheet masks, moisturizes, lotions, primers, foundation, powder, etc. It took some time but once I switched to a completely silicone-free skincare regime and makeup routine, including the Good Molecules Priming Moisturizer, I no longer experience cystic acne. The Good Molecules Priming Moisturizer has been working absolutely wonderfully for me. It's difficult to find a decent silicone-free moisturizer that isn't too heavy/rich in emollients for my slightly oily skin and the other silicone-free primers seemed so sticky and icky to me. This duo product is perfect for me.",
+        "headline": "Excellent Silicone-free Priming Moisturizer",
+        "rating": 5,
+        "ugc_id": 443915150
+      },
+      "faceoff_negative": {
+        "comments": "I have been on the hunt for a new moisturizer & since all the other good molecules products i have tried (which have been quite a few), have been amazing for me, i decided to give their moisturizer a try. \nI struggle with acne but within the past few years my skin has made some improvement. I never break out on my forehead, only on my cheeks/jawline area… but after using this 3 times i have found that my forehead and other spots on my face where i dont get the most breakouts (nose, chin, hairline,) suddenly have have a bunch of small bumps and a few large pimples that actually hurt. \nSince this is the only new product i have introduced into my routine, and i have had the same routine for about the past 4 months, I know the cause is this moisturizer. I feel that it is probably the shea butter in this cream, so if you have acne prone skin i wouldnt try this out. But it is a really good price and if you have normal to dry skin i think it would be a great fit for you, however my acne girlies try to stay away. giving 2 stars because the formula is really nice i just wish it would have worked out with my skin. i know you have to give skin products some time before they work but since this is a moisturizer,  and with all my experience with different skin products… my face is saying otherwise. sorry good molecules i still love you!",
+        "headline": "wanted to love but broke me out",
+        "rating": 2,
+        "ugc_id": 506476832
+      },
+      "name": "Lightweight Daily Moisturizer",
+      "native_review_count": 394,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 258,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "product_id": "pimprod2045652",
+  "product_url": "https://www.ulta.com/p/multi-peptide-moisturizer-pimprod2045652",
+  "extracted_at": "2025-09-23T04:39:36.224222+00:00",
+  "product_name": "NaturiumMulti-Peptide Moisturizer",
+  "brand": "Naturium",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Face Moisturizer"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "19.99",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "365",
+  "images": [
+    "https://media.ulta.com/i/ulta/2627353?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2627353?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627353_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627353_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627353_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627353_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627353_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627353_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2627353_vid01/thumbs/9f2631b0-a73b-42ed-8226-58db28695294?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganThe Multi-Peptide Moisturizer is formulated with Naturium's multi-peptide blend, encapsulated ethylated vitamin C and panthenol to target the look of fine lines and wrinkles for a more youthful looking complexion.",
+  "details": "DetailsBenefitsMoisturizes, leaving skin feeling soft and suppleHelps improve appearance of texture, for smoother feeling skinFragrance freeVegan, paraben & cruelty freeKey IngredientsMulti-Peptide Blend: improves the look of fine lines & wrinklesEncapsulated Ethylated Vitamin C: provides anti-oxidant protection from free radicals and helps brighten appearance of skinPanthenol: moisturizes the skin and helps reduce inflammationResearch ResultsCLINICALLY PROVEN RESULTS*100% of subjects showed improvement in the look of fine lines & wrinkles in 8 weeks100% of subjects showed doubled hydration levels instantly*In an 8-week clinical study on subjects (women & men), representation across all skin types & self-perceived sensitive skinItem 2627353How To UseUsing upward motions, massage gently onto face, neck and chest. Wear SPF during the day. Patch test prior to use is advised.IngredientsAqua, Glycerin, Dimethicone, Simmondsia Chinensis (Jojoba) Seed Oil, Squalane, Glyceryl Stearate, Cetyl Alcohol, Niacinamide, Stearyl Alcohol, Palmitoyl Tripeptide-5, Pantolactone, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Hydrolyzed Plukenetia Volubilis Seed Extract, Dunaliella Salina Extract, Sodium Hyaluronate, 3-O-Ethyl Ascorbic Acid, Panthenol, Caryodendron Orinocense Seed Oil, Honokiol, Magnolol, Palmitic Acid, Sorbitan Oleate, Aluminum Starch Octenylsuccinate, Hydroxyacetophenone, Stearic Acid, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Polyglyceryl-6 Laurate, 1,2-Hexanediol, Boron Nitride, Caprylyl Glycol, Polyglyceryl-10 Oleate, Isohexadecane, Butylene Glycol, Chlorphenesin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Polysorbate 80, Sorbitan Palmitate, Sodium Hydroxide, Sodium Benzoate, Carbomer, Sodium Lactate, Phenoxyethanol, Polysorbate 20, Citric Acid, Ethylhexylglycerin, Potassium Sorbate.",
+  "how_to_use": "Using upward motions, massage gently onto face, neck and chest. Wear SPF during the day. Patch test prior to use is advised.",
+  "ingredients": [
+    "Aqua",
+    "Glycerin",
+    "Dimethicone",
+    "Simmondsia Chinensis (Jojoba) Seed Oil",
+    "Squalane",
+    "Glyceryl Stearate",
+    "Cetyl Alcohol",
+    "Niacinamide",
+    "Stearyl Alcohol",
+    "Palmitoyl Tripeptide-5",
+    "Pantolactone",
+    "Palmitoyl Tripeptide-1",
+    "Palmitoyl Tetrapeptide-7",
+    "Hydrolyzed Plukenetia Volubilis Seed Extract",
+    "Dunaliella Salina Extract",
+    "Sodium Hyaluronate",
+    "3-O-Ethyl Ascorbic Acid",
+    "Panthenol",
+    "Caryodendron Orinocense Seed Oil",
+    "Honokiol",
+    "Magnolol",
+    "Palmitic Acid",
+    "Sorbitan Oleate",
+    "Aluminum Starch Octenylsuccinate",
+    "Hydroxyacetophenone",
+    "Stearic Acid",
+    "Acrylamide/Sodium Acryloyldimethyltaurate Copolymer",
+    "Polyglyceryl-6 Laurate",
+    "2-Hexanediol",
+    "Boron Nitride",
+    "Caprylyl Glycol",
+    "Polyglyceryl-10 Oleate",
+    "Isohexadecane",
+    "Butylene Glycol",
+    "Chlorphenesin",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Tocopheryl Acetate",
+    "Polysorbate 80",
+    "Sorbitan Palmitate",
+    "Sodium Hydroxide",
+    "Sodium Benzoate",
+    "Carbomer",
+    "Sodium Lactate",
+    "Phenoxyethanol",
+    "Polysorbate 20",
+    "Citric Acid",
+    "Ethylhexylglycerin",
+    "Potassium Sorbate"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "moisturizer"
+    ],
+    "skin_type": [
+      "sensitive",
+      "mature",
+      "all skin types"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "niacinamide",
+      "peptides"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "fragrance-free",
+      "spf",
+      "anti-aging"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2045652",
+    "total_reviews": 365,
+    "reviews": [
+      {
+        "review_id": 563504985,
+        "rating": 5,
+        "headline": "It is exactly what everyone says about it",
+        "comments": "I like this very much.. It's very hydrating.. doesn't break me out. Not overly greasy.. no irritating scents.",
+        "nickname": "sj",
+        "location": "Kentucky",
+        "created_date": 1758052219814,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560381607,
+        "rating": 5,
+        "headline": "Amazing, even for my picky skin",
+        "comments": "Lovely moisturizer and the texture is so luxurious. I have combo sensirice skin and this is one of the few that have made my soin so happy",
+        "nickname": "Lennie",
+        "location": "Denver",
+        "created_date": 1755487047441,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 559956090,
+        "rating": 1,
+        "headline": "Unfortunately made me break out",
+        "comments": "First time I've used this moisturizer, I noticed a big pimple the next day, I didn't associate it with trying a new product, but after I used it again a week later, same thing happened. At this point I'm deciding that this product is not for me. I can't speak to if the product is actually a good moisturizer or not, due to discontinuing use to not risk more reactions, but just wanted to share my experience. Everyone's skin is different tho, so just like with everything, do your research, look at multiple sources, and consider the reliability of source and quality of information.",
+        "nickname": "Leah",
+        "location": "Maryland",
+        "created_date": 1754943308008,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 559898903,
+        "rating": 5,
+        "headline": "I have repurchased this product again & again",
+        "comments": "I purchased this the first time after seeing a recommendation from Nikki LaRose on her you tube channel. Works extremely well under makeup, absorbs quickly. The packaging insures that you are able to use all of the product easily.",
+        "nickname": "Susan",
+        "location": "Horsham, PA",
+        "created_date": 1754853215511,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558345414,
+        "rating": 1,
+        "headline": "Wouldn't recommend for sensitive skin",
+        "comments": "I did a test patch on my forearm before I used this on my face and didn't have a reaction within the next 24 hours. I was excited to try it because the texture reminded me of Dieux's Air Angel moisturizer and that's one of my all time favorites. For some reason when I applied to my face after washing it, no other skincare added, it burned my skin so badly and caused immediate redness and irritation. It started flaring up my PD around my chin and nose badly. It also dries out my face SO badly. I have sensitive normal to dry skin. Bummed I had this reaction to it but it does seem to work for other people, just maybe not for sensitive skin.",
+        "nickname": "Bree",
+        "location": "Dallas, TX",
+        "created_date": 1753549543098,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 556970287,
+        "rating": 5,
+        "headline": "Just buy it, you wont regret this purchase :D",
+        "comments": "I dont typically write reviews but I have to say this is one of the only drugstore moisturizers that has actually made me see a difference in my skin and with the small amount of fine lines I have (still in my mid-20s lol). I was starting to break out using my heavier moisturizers due to the changing weather and wanted a lightweight moisturizer that still has an efficacious ingredient deck. Came across the Naturium peptide moisturizer and it exceeded my expectations! No harsh or artificial fragrance and the perfect lightweight moisturizer for summer",
+        "nickname": "Donna",
+        "location": "Las Vegas NV",
+        "created_date": 1752276103959,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556081958,
+        "rating": 4,
+        "headline": "Lightweight moisturizer!!",
+        "comments": "I have dry skin, so I find this to be a lightweight moisturizer on my skin. The texture is lovely, and I love the pump too!! My skin did not breakout after using it for 2 weeks, and it sits well under makeup! I only give it 4 stars because I would've liked it to be slightly more moisturizing for my dry skin, so I might just try the rich cream from this multi-peptide line.",
+        "nickname": "Layla",
+        "location": "FL",
+        "created_date": 1751326722245,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556000372,
+        "rating": 5,
+        "headline": "Great moisturizer",
+        "comments": "Perfect moisturizer for mature skin. You don't need much!",
+        "nickname": "Lou",
+        "location": "Hudson NH",
+        "created_date": 1751134744087,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555894077,
+        "rating": 5,
+        "headline": "JUST GET IT",
+        "comments": "I'm on my 5th tube of this moisturizer! I have dry skin, but this hydrates it so well. No issues with pilling under makeup. My skin drinks this up!!",
+        "nickname": "Ragan",
+        "location": "Mississippi",
+        "created_date": 1750894906073,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555882671,
+        "rating": 4,
+        "headline": "I'm not sure if I would buy it again.",
+        "comments": "I don't know if it help my face because I need more moisturizer.",
+        "nickname": "Sheryl",
+        "location": "Cincinnati, Oh",
+        "created_date": 1750874799414,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 552976321,
+        "rating": 5,
+        "headline": "It's a yes for me",
+        "comments": "I was hesitant to buy this as I can have sensitive skin. In their instrucitons they say to try it on the inside of your elbow or a spot on your neck overnight before applying to your whole face which I did (having no reaction). So far I am loving it paired with a heavier moisturizer over top (Im dry and need the extra moisture). If your sensitive doing a toner/serum before would probably help too. I have noticed my skin looking more plump!",
+        "nickname": "Mel",
+        "location": "Denver",
+        "created_date": 1746584688176,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552685287,
+        "rating": 5,
+        "headline": "Got rid of my flaky areas",
+        "comments": "I really like how this moisturizer makes my skin feel. After using it at night, I wake up with super soft skin. Doesn't feel too greasy either and my face is naturally oily.",
+        "nickname": "Marie",
+        "location": "California",
+        "created_date": 1746111015552,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552669349,
+        "rating": 5,
+        "headline": "Amazing",
+        "comments": "1. I have no idea what people are talking about with smell. There is verh little smell. 2. She's a thick girl. I'm in my 40's and my skin has really changed. I was getting dry flaky spots and all the sudden, eczema on my eye lids and between my eyebrows?! I'd use hydrocortisone and it would go away, only to come back a while later. Since I've been using this for the last five months, I've not had it come back once. My skin is juicy and glowy. Dry patches gone. I WILL NEVER not use this. I'm so happy I tried it. My guess is the couple of reviews that said it irritated their skin, probably allergic to an ingredient. Always patch test a new product guys.",
+        "nickname": "Al",
+        "location": "Chicago",
+        "created_date": 1746070903103,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552533394,
+        "rating": 3,
+        "headline": "didn't notice any differences",
+        "comments": "3 stars since i didn't notice any big differences at all. re bought 3 times as the texture feels great and i like to use it at night but i think i just need something richer due to my dry skin. never caused any issues and has good ingredients but didn't do much for me, so looking for a new alternative...",
+        "nickname": "gracie",
+        "location": "CA",
+        "created_date": 1745776891845,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 551384792,
+        "rating": 1,
+        "headline": "Disappointed",
+        "comments": "I had seen a few great reviews on this product. Unfortunately, after trying it for a week it left my skin red & flared up with bumps. My cheeks basically looked like a Nestlé crunch bar. I also didn't think my skin felt very moisturized after I had applied it. So I will be returning it.",
+        "nickname": "Ness",
+        "location": "Allen,TX",
+        "created_date": 1744326681648,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551238514,
+        "rating": 2,
+        "headline": "It made me brake out and burned",
+        "comments": "I wanted to love this moisturizer…. I loved it for the first teo days then i got horable acne and my gace burned. I had to stop using it and I switched back to my ushual",
+        "nickname": "Madds",
+        "location": "Pa",
+        "created_date": 1744151796070,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 5
+      },
+      {
+        "review_id": 548017379,
+        "rating": 2,
+        "headline": "NOT FOR SENSITIVE SKIN",
+        "comments": "I should've read the reviews before buying this moisturizer but I was in the store and needed something asap, im happy I did a patch test because it burned so bad, I realized it has Vit C maybe that's what caused my skin to burn? Just one extra star because it's unscented but beware if you have sensitive dry skin!",
+        "nickname": "Beware",
+        "location": "Phoenix, AZ",
+        "created_date": 1741501802267,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547861524,
+        "rating": 5,
+        "headline": "Absolutely love!!",
+        "comments": "I've been using this moisturizer for at least a year, and my oily (with surface dryness) acne prone skin does NOT break out!  My dry patches feel moisturized and I don't look like an oil-slick by the end of the day.  I love that everything is formulated without parabens and cruelty-free.  I use the peptide serum with this as well and my skin has never looked better.  Please don't stop making this!",
+        "nickname": "Mandi",
+        "location": "VA",
+        "created_date": 1741279466019,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546590784,
+        "rating": 5,
+        "headline": "Perfect for Combination Skin",
+        "comments": "Absolutely love this moisturizer and the packaging. I have combination skin and it's the perfect amount of hydration. Makes my skin look plump and hydrated",
+        "nickname": "",
+        "location": "Missouri",
+        "created_date": 1739463031815,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546583150,
+        "rating": 1,
+        "headline": "Very Drying",
+        "comments": "I have normal to oily skin and this product is very drying to my skin to the point my skin flakes even when applying a moisturizer over it.  Most of the reviews are positive not sure why it doesn't agree with my skin.",
+        "nickname": "Jenn9671",
+        "location": "Philadelphia",
+        "created_date": 1739445296289,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 39,
+      "pages_total": 2,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2045652/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        17,
+        17,
+        29,
+        53,
+        249
+      ],
+      "review_histogram": [
+        17,
+        17,
+        29,
+        53,
+        249
+      ],
+      "rating_count": 365,
+      "review_count": 365,
+      "average_rating": 4.37,
+      "recommended_ratio": 0.77,
+      "media": [
+        {
+          "id": "535335203",
+          "review_id": 535335222,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gencgsgyrtvqltqlrupy.jpg",
+          "headline": "EXCELLENT PRODUCT & PACKAGING",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The engineering of this pump/packaging is phenomenal! As you can see, the bottle is completed squeezed empty. That is from the PUMP ONLY!! No wasted product here! Aside from the phenomal design, this product has done wonders for my skin. Highly recommend!",
+          "nickname": "My new fav moisturizer!!",
+          "created_date": 1703219646000
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I am not one to write reviews but as I was finishing my nighttime skincare routine, I noticed how the pump in this tube is squeezing every last bit of product out of the tool. The tube is really this flat on its OWN with only the pump! No wasted products here. Aside from the amazing engineering of the tube, it has done wonders for my skin. I was on medical grade skincare for years and recently switched to more affordable products.. because.. well, this stuff gets expensive! After watching Sam on TikTok, I decided to give naturium a go and I noticed no difference (thus far, 3-4 months in) in the quality between naturium & other popular medical skincare brands. \n\nPurchasing more now!!",
+        "headline": "EXCELLENT PRODUCT & PACKAGING",
+        "rating": 5,
+        "ugc_id": 535335222
+      },
+      "faceoff_negative": {
+        "comments": "I received this product the other day with other products i ordered & I was really excited. For some reason after i apply my Retinaldehyde serum, then the multi-peptide advanced serum, & lastly the Multi-Peptide Moisturizer I had really bad peeling when it dried. A lot of peeling not just a tiny bit, it gets in my hair all around my hairline, in my eyebrows, falls into my eye lashes, & my neck in chest peels. I let each product dry in between, before adding another product & I put on a thin layer. I read most reviews & didn't see anyone complaining about this product peeling, I don't understand why mine is. I am Very disappointed, I feel my serums I applied was such a waste bc of this product peeling so bad. It was delivered US mail so I don't know if the cold weather affected it or all 3 of my products from sitting in my mailbox for hours. Is anyone else having this issue?? I hope I can get some answers, my otc drug store brands never peeled. Thank you.",
+        "headline": "A lot of Peeling after Product dries",
+        "rating": 1,
+        "ugc_id": 547179036
+      },
+      "name": "Multi-Peptide Moisturizer",
+      "native_review_count": 39,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 326,
+      "locale": "en_US"
+    }
+  }
+}

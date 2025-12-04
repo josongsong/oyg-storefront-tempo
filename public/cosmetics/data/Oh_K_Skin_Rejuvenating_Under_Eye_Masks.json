@@ -1,0 +1,460 @@
+{
+  "product_id": "pimprod2021566",
+  "product_url": "https://www.ulta.com/p/skin-rejuvenating-under-eye-masks-pimprod2021566",
+  "extracted_at": "2025-09-23T05:10:05.710570+00:00",
+  "product_name": "Oh K!Skin Rejuvenating Under Eye Masks",
+  "brand": "Oh K!",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Masks"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "masks"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "10.00",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "38",
+  "images": [
+    "https://media.ulta.com/i/ulta/2576278?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2576278?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2576278cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2576278cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2576278cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2576278cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2576278cm_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackTreat peepers to a rejuvenating and hydrating under eye experience with the Oh K! Rejuvenating Under Eye Masks. A multi-pack of 7, one for everyday of the week!",
+  "details": "DetailsBenefitsHydratesGently smooths the appearance of fine linesKey IngredientsBakuchiol - Known as the natural alternative to Vitamin A. It has similar retinol-like skin benefits and has been known to be more gentle on the skin. Can increase cell turnover, reduce hyperpigmentation and improve the look of fine lines and wrinkles.Squalane - 100% plant derived ingredient that locks in moisture, calms and protects skin.Formulated WithoutParabensSulfatesPhthalatesItem 2576278How To UseCleanse face. Remove one set and peel apart. Apply to under eye area & leave on for 20-30 minutes. Remove mask & massage remaining essence into skin.Precautions: In the rare event of an adverse reaction discontinue use. For external use only. Please retain all information for future reference.IngredientsAqua (Water, Eau), Glycerin, Ethylhexyl Palmitate, Propanediol, Niacinamide, Caprylyl Methicone, Butylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, Sorbitol, Polyglyceryl-3 Methylglucose Distearate, Squalane, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, Bakuchiol, Diphenylsiloxy Phenyl Trimethicone, Glyceryl Stearate Citrate, Cetearyl Alcohol, Dipropylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Tromethamine, Hydroxypropyl Starch Phosphate, Cetearyl Glucoside, Caprylyl Glycol, Trehalose, Allantoin, Disodium EDTA, Adenosine, Ethylhexylglycerin, 1,2-Hexanediol, Sodium Hyaluronate, Carnitine, Xylitylglucoside, Glucose, Anhydroxylitol, Xylitol, Dipotassium Glycyrrhizate, Limnanthes Alba (Meadowfoam) Seed Oil, Silk Amino Acids, Hydrolyzed Hyaluronic Acid, Schisandra Sphenanthera Fruit Extract, Maltodextrin, Beta-Glucan, Hydrogenated Lecithin, Tocopherol, Acetyl Hexapeptide-1, Methyl Glucose Sesquistearate, Polyglyceryl-10 Oleate, Soluble Collagen, Magnesium Chloride, Glutathione, Madecassic Acid, Asiaticoside, Asiatic Acid, Centella Asiatica Extract, Madecassoside.",
+  "how_to_use": "Cleanse face. Remove one set and peel apart. Apply to under eye area & leave on for 20-30 minutes. Remove mask & massage remaining essence into skin.Precautions: In the rare event of an adverse reaction discontinue use. For external use only. Please retain all information for future reference.",
+  "ingredients": [
+    "Aqua (Water",
+    "Eau)",
+    "Glycerin",
+    "Ethylhexyl Palmitate",
+    "Propanediol",
+    "Niacinamide",
+    "Caprylyl Methicone",
+    "Butylene Glycol",
+    "Caprylic/Capric/Myristic/Stearic Triglyceride",
+    "Sorbitol",
+    "Polyglyceryl-3 Methylglucose Distearate",
+    "Squalane",
+    "Cetyl Ethylhexanoate",
+    "Caprylic/Capric Triglyceride",
+    "Bakuchiol",
+    "Diphenylsiloxy Phenyl Trimethicone",
+    "Glyceryl Stearate Citrate",
+    "Cetearyl Alcohol",
+    "Dipropylene Glycol",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Hydroxyacetophenone",
+    "Tromethamine",
+    "Hydroxypropyl Starch Phosphate",
+    "Cetearyl Glucoside",
+    "Caprylyl Glycol",
+    "Trehalose",
+    "Allantoin",
+    "Disodium EDTA",
+    "Adenosine",
+    "Ethylhexylglycerin",
+    "2-Hexanediol",
+    "Sodium Hyaluronate",
+    "Carnitine",
+    "Xylitylglucoside",
+    "Glucose",
+    "Anhydroxylitol",
+    "Xylitol",
+    "Dipotassium Glycyrrhizate",
+    "Limnanthes Alba (Meadowfoam) Seed Oil",
+    "Silk Amino Acids",
+    "Hydrolyzed Hyaluronic Acid",
+    "Schisandra Sphenanthera Fruit Extract",
+    "Maltodextrin",
+    "Beta-Glucan",
+    "Hydrogenated Lecithin",
+    "Tocopherol",
+    "Acetyl Hexapeptide-1",
+    "Methyl Glucose Sesquistearate",
+    "Polyglyceryl-10 Oleate",
+    "Soluble Collagen",
+    "Magnesium Chloride",
+    "Glutathione",
+    "Madecassic Acid",
+    "Asiaticoside",
+    "Asiatic Acid",
+    "Centella Asiatica Extract",
+    "Madecassoside"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive",
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "oil",
+      "foam"
+    ],
+    "ingredients": [
+      "hyaluronic-acid",
+      "niacinamide",
+      "peptides",
+      "collagen"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "anti-aging",
+      "hydrating",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2021566",
+    "total_reviews": 38,
+    "reviews": [
+      {
+        "review_id": 548629859,
+        "rating": 5,
+        "headline": "Love",
+        "comments": "I love these eye masks! I have very sensitive skin and they don't irritated my skin. They provide lots of moisture and helps my concealer go on like butter! Please put this moisturizer into a tub form!",
+        "nickname": "",
+        "location": "Ca",
+        "created_date": 1741793881533,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 544964542,
+        "rating": 5,
+        "headline": "Truly works",
+        "comments": "Ive used these for years and I can say with consistency i have noticed a difference in my under eyes. I have used other products with similar ingredients but these are great.",
+        "nickname": "Maddie",
+        "location": "Bay Area",
+        "created_date": 1738216824415,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542454315,
+        "rating": 1,
+        "headline": "Caused puffiness, redness, and irritation",
+        "comments": "Used these eye patches after my shower one night, noticed the next morning that the texture of my under eye skin was much smoother, however that night started experiencing some reactions. Began with tenderness under my eyes, then the next morning woke up to my under eyes being swollen, having irritation with some clusters of small raised bumps in several areas and splotchy redness surrounding both eyes. Didn't itch but was tender to touch.",
+        "nickname": "Megan",
+        "location": "Hutchinson, KS",
+        "created_date": 1736310632181,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 538360479,
+        "rating": 5,
+        "headline": "Very nice, stay on!",
+        "comments": "These do not budge once placed and I like the resealable package. A satisfying experience that won't break the bank. Would repurchase to use or gift.",
+        "nickname": "Mary",
+        "location": "Seattle",
+        "created_date": 1732246327195,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 528022060,
+        "rating": 5,
+        "headline": "Wonderful",
+        "comments": "I wasn't expecting much from these, as they were on the more affordable side, and I just wanted a quick pick-me-up. They are fantastic. I love how thick the formula on the patches is. They didn't budge once I placed them. I also love the fact that they had one case for all of the patches, saving me from adding to my pile of waste.",
+        "nickname": "Lemonjuice",
+        "location": "Washington",
+        "created_date": 1724391926563,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 509167960,
+        "rating": 1,
+        "headline": "Irritated and itchy",
+        "comments": "These irritated my under eyes and only made them dry and itchy :( i have sensitive skin so maybe they just werent for me",
+        "nickname": "Lis",
+        "location": "Philadelphia",
+        "created_date": 1710992342443,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 492730753,
+        "rating": 5,
+        "headline": "yesss!",
+        "comments": "love these eye patches! got them for xmas and use them all the time! left my under eyes feeling super smooth!",
+        "nickname": "j",
+        "location": "maryland",
+        "created_date": 1705460798251,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 486921771,
+        "rating": 5,
+        "headline": "I would buy this product again!",
+        "comments": "My first time trying these and I love them.",
+        "nickname": "Beth",
+        "location": "McBee, SC",
+        "created_date": 1704646620837,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 486267285,
+        "rating": 5,
+        "headline": "So Hydrating!!!",
+        "comments": "These are absolutely my favorite eye patches of all time. They don't slide around while on my face & they leave my under-eye area very hydrated.  I have tried all the others, these are superior",
+        "nickname": "STG",
+        "location": "Oregon",
+        "created_date": 1704136578652,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 482622653,
+        "rating": 5,
+        "headline": "I love these eye masks!",
+        "comments": "I bought on a whim at an Ulta store and mostly like them because they're not gel masks. It's more of a fabric smothered with product. It doesn't move and feels good. I have used them in the mornings after a rough night and it helped with puffiness. I've used them at night as part of self care and go to bed feeling fresh. No discernable scent and it's in a resealable package. I took them on a plane without issue. I just bought 3 more packages for cyber Monday. Highly recommend.",
+        "nickname": "Cecili",
+        "location": "NWA",
+        "created_date": 1701139030334,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 477307290,
+        "rating": 2,
+        "headline": "They are very  dry patches ! Not worth.",
+        "comments": "Not worth trying",
+        "nickname": "Sun",
+        "location": "Illinois",
+        "created_date": 1697819560205,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 475011100,
+        "rating": 5,
+        "headline": "I have purchased several times",
+        "comments": "Stays on. Doesn't dry out quickly. Plenty of product on each pad. \nI have gifted it in several care packages. Each person has liked them.",
+        "nickname": "Sheri",
+        "location": "Arizona",
+        "created_date": 1696432816973,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 473299509,
+        "rating": 5,
+        "headline": "Amazing Eye Masks!",
+        "comments": "I was hesitant when i realized these werent the gel type of eye masks but i was pleasantly surprised after using them. They dont slide down the face like gel masks and still felt equally as refreshing after putting them in the fridge before use. Definitely brightened under my eyes! Think i found my new favorite eye masks! Plus added bonus that it comes with multiple masks per kit!",
+        "nickname": "Liz",
+        "location": "Atlanta, GA",
+        "created_date": 1695647617626,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 472158488,
+        "rating": 5,
+        "headline": "Brightend me up completely!",
+        "comments": "Perfect product to use to prepare for a night out after a long week. It really perks you up and makes you look completely refreshed. I've purchased this product a few times now and it's becoming a staple in my routine.",
+        "nickname": "Shay",
+        "location": "New York, NY",
+        "created_date": 1694635540505,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 472066375,
+        "rating": 5,
+        "headline": "Have to buy again!",
+        "comments": "Absolutely love these masks, my eye area was so hydrated and felt so fresh the next morning and the fact that you get 7 pairs in a pack is fab! I'll definitely be getting these again!!",
+        "nickname": "Jen",
+        "location": "Ohio",
+        "created_date": 1694610808652,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 462448376,
+        "rating": 3,
+        "headline": "Caused swelling and made wrinkles more apparent",
+        "comments": "I'm 34 and have yet to discover any allergies or skincare ingredients that are bad for my skin but something in these patches did it on the second time using them. My undereyes were swollen and irritated the following morning and my wrinkles looked more deep set. I'm so sad they didn't work out for me. Otherwise, they are hydrating and I loved them the first night.",
+        "nickname": "Stephanie",
+        "location": "San Diego, CA",
+        "created_date": 1687601008479,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 448570953,
+        "rating": 5,
+        "headline": "What a deal!",
+        "comments": "Not only are these eye masks miracle workers, they come with 7 eye masks in one pack! So much product on each mask making every single pair perfect! Love these so much!",
+        "nickname": "Harley",
+        "location": "PA",
+        "created_date": 1678810127604,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 445061285,
+        "rating": 5,
+        "headline": "Amazing product!",
+        "comments": "I love these eye masks! I used them for a week straight (perfect that 7 come in one package might I add!) and I already started to see results after the first pair! I feel amazing and look even better.",
+        "nickname": "",
+        "location": "Middletown!",
+        "created_date": 1677017213827,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 444512705,
+        "rating": 5,
+        "headline": "100% recommend!",
+        "comments": "Not only was this such a good under eye mask but having a whole pack of them in one!? I was so impressed with how much product was on each mask as well, and every single pair moisturized the same amount! Loved it!",
+        "nickname": "Whitney",
+        "location": "Norfolk, VA",
+        "created_date": 1676579898006,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 443801280,
+        "rating": 5,
+        "headline": "Love these so much!",
+        "comments": "I have been buying these under eye masks for a couple months now so I figured it was time to write a review. These are my absolute fav go to under eye masks. I use them every morning after leaving them in the fridge over night. They are super refreshing and love how they come with 7 in a pack. Def would recommend these.",
+        "nickname": "Shayna",
+        "location": "Florida",
+        "created_date": 1676407902488,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 38,
+      "pages_total": 2,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2021566/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dry",
+              "count": 6
+            },
+            {
+              "label": "Normal",
+              "count": 3
+            },
+            {
+              "label": "Combination",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        4,
+        1,
+        1,
+        2,
+        30
+      ],
+      "review_histogram": [
+        4,
+        1,
+        1,
+        2,
+        30
+      ],
+      "rating_count": 38,
+      "review_count": 38,
+      "average_rating": 4.39,
+      "recommended_ratio": 0.87,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I bought on a whim at an Ulta store and mostly like them because they're not gel masks. It's more of a fabric smothered with product. It doesn't move and feels good. I have used them in the mornings after a rough night and it helped with puffiness. I've used them at night as part of self care and go to bed feeling fresh. No discernable scent and it's in a resealable package. I took them on a plane without issue. I just bought 3 more packages for cyber Monday. Highly recommend.",
+        "headline": "I love these eye masks!",
+        "rating": 5,
+        "ugc_id": 482622653
+      },
+      "faceoff_negative": {
+        "comments": "Used these eye patches after my shower one night, noticed the next morning that the texture of my under eye skin was much smoother, however that night started experiencing some reactions. Began with tenderness under my eyes, then the next morning woke up to my under eyes being swollen, having irritation with some clusters of small raised bumps in several areas and splotchy redness surrounding both eyes. Didn't itch but was tender to touch.",
+        "headline": "Caused puffiness, redness, and irritation",
+        "rating": 1,
+        "ugc_id": 542454315
+      },
+      "name": "Skin Rejuvenating Under Eye Masks",
+      "native_review_count": 38,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/stem-cell-eye-lifting-treatment-with-copper-peptides-xlsImpprod12041685",
+  "extracted_at": "2025-09-23T05:16:19.940117+00:00",
+  "product_name": "DERMA EStem Cell Eye Lifting Treatment with Copper Peptides",
+  "brand": "DERMA E",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Dermatologist Recommended"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "men"
+  ],
+  "currency": "USD",
+  "list_price": "25.00",
+  "sale_price": "17.50",
+  "availability": "in_stock",
+  "rating_avg": "4",
+  "rating_count": "125",
+  "images": [
+    "https://media.ulta.com/i/ulta/2283811?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2283811?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283811_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283811_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283811_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283811_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2283811_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2283811_vid01/thumbs/29ec3443-9b2b-48c3-85f5-63d0e516de90?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeVeganSustainable PackagingGive BackDerma E's Stem Cell Eye Lifting Treatment with Copper Peptides is a multi-action eye cream that helps to visibly lift, firm and tighten the delicate eye area while smoothing the appearance of laughter lines.",
+  "details": "DetailsBenefitsDermatologist recommendedA multi-action eye cream formulated with firming Copper Peptides and protecting ResveratrolWorks to visibly lift, firm, and tighten the delicate eye area while smoothing the appearance of laughter lines for a more lifted complexionFeaturesRecyclable & wind energy certifiedFormulated without GMOs, gluten, or soyKey IngredientsCopper and Copper Peptides: Work to increase skin's firmness and suppleness over timeKakadu Plum: Works to improve skin texture and elasticityPlant Stem cells: Help to further protect against sun damage as it prevents wrinklesItem 2283811How To UseGently squeeze a small amount of product out of applicator tip. Apply around the eye area, including lids. Use finger to pat any excess until absorbed.IngredientsPurified Water, Caprylic/Capric Triglyceride (Plant Derived), Glycerin (Vegetable Derived), Niacinamide (Vitamin B3), Stearyl Alcohol (Plant Derived), Coco-Caprylate (Coconut Derived), Glyceryl Stearate (Vegetable Derived), Capryloyl Glycerin/Sebacic Acid Copolymer, Diheptyl Succinate, Dimethyl MEA (DMAE), Lycium Barbarum (InstaLift Goji) Fruit Extract, Hamamelis Virginiana (Witch Hazel) Extract, Copernicia Cerifera (Carnauba) Wax, Camellia Sinensis (Green Tea) Leaf Extract*, Centella Asiatica Meristem Cell Culture, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Medica Limonum (Lemon) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Terminalia Ferdinandiana Fruit Extract, Hydroxypropyl Cyclodextrin, Palmitoyl Tripeptide-38 (Matrixyl synthe'6), Acetyl Hexapeptide-8 (ArgirelineNP), Sodium Hyaluronate (Hyaluronic Acid; ActimoistBio-1), Thioctic (Alpha-Lipoic) Acid, Panthenol (Provitamin B5), Ascorbyl Palmitate (Vitamin C Ester), Organic Simmondsia Chinensis (Jojoba) Seed Oil*, Resveratrol, Copper PCA, Tetrahexyldecyl Ascorbate, Caffeine, Butylene Glycol, Allantoin, Xanthan Gum, Glyceryl Stearate Citrate (Vegetable Derived), Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin.*Certified Organic.",
+  "how_to_use": "Gently squeeze a small amount of product out of applicator tip. Apply around the eye area, including lids. Use finger to pat any excess until absorbed.",
+  "ingredients": [
+    "Purified Water",
+    "Caprylic/Capric Triglyceride (Plant Derived)",
+    "Glycerin (Vegetable Derived)",
+    "Niacinamide (Vitamin B3)",
+    "Stearyl Alcohol (Plant Derived)",
+    "Coco-Caprylate (Coconut Derived)",
+    "Glyceryl Stearate (Vegetable Derived)",
+    "Capryloyl Glycerin/Sebacic Acid Copolymer",
+    "Diheptyl Succinate",
+    "Dimethyl MEA (DMAE)",
+    "Lycium Barbarum (InstaLift Goji) Fruit Extract",
+    "Hamamelis Virginiana (Witch Hazel) Extract",
+    "Copernicia Cerifera (Carnauba) Wax",
+    "Camellia Sinensis (Green Tea) Leaf Extract*",
+    "Centella Asiatica Meristem Cell Culture",
+    "Citrus Aurantium Dulcis (Orange) Fruit Extract",
+    "Citrus Medica Limonum (Lemon) Fruit Extract",
+    "Pyrus Malus (Apple) Fruit Extract",
+    "Saccharum Officinarum (Sugar Cane) Extract",
+    "Terminalia Ferdinandiana Fruit Extract",
+    "Hydroxypropyl Cyclodextrin",
+    "Palmitoyl Tripeptide-38 (Matrixyl synthe'6)",
+    "Acetyl Hexapeptide-8 (ArgirelineNP)",
+    "Sodium Hyaluronate (Hyaluronic Acid; ActimoistBio-1)",
+    "Thioctic (Alpha-Lipoic) Acid",
+    "Panthenol (Provitamin B5)",
+    "Ascorbyl Palmitate (Vitamin C Ester)",
+    "Organic Simmondsia Chinensis (Jojoba) Seed Oil*",
+    "Resveratrol",
+    "Copper PCA",
+    "Tetrahexyldecyl Ascorbate",
+    "Caffeine",
+    "Butylene Glycol",
+    "Allantoin",
+    "Xanthan Gum",
+    "Glyceryl Stearate Citrate (Vegetable Derived)",
+    "Sodium Hydroxide",
+    "Phenoxyethanol",
+    "Ethylhexylglycerin.*Certified Organic"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "men",
+      "mens"
+    ],
+    "product_type": [
+      "mask",
+      "treatment"
+    ],
+    "skin_type": [
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "hyaluronic-acid",
+      "niacinamide",
+      "vitamin-c",
+      "peptides",
+      "organic"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "organic",
+      "anti-aging"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod12041685",
+    "total_reviews": 125,
+    "reviews": [
+      {
+        "review_id": 555202149,
+        "rating": 2,
+        "headline": "causes milia",
+        "comments": "I really wanted to love this eye cream but it gives me milia literally overnight. I've stopped and restarted using it and since this is the only thing I'm changing in my routine, and since it's exclusively by my eyes I know it's this product. please beware as milia are not trivial to remove/have removed especially by the eyes.",
+        "nickname": "libby",
+        "location": "atx",
+        "created_date": 1750079364769,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553111873,
+        "rating": 5,
+        "headline": "Excellent",
+        "comments": "Remember YMMV and please patch test. Redness on your arm is better than by your eyes. Any ingredient could provoke an allergy. I'm 76. Not high expectations, esp since I've tried virtually every UHE eye cream. This checks all the boxes. Moisture without heavy oil. Absorption.  Fine lines and wrinkles almost gone. Mildly lighter circles. Plays well with UHE and DS concealers. Does not fight with primer or shadow. Let it fully dry, liner and mascara stay true. It's not quite as effective periorally. Best stuff in 30 years!",
+        "nickname": "Erika Mustermann",
+        "location": "Boston",
+        "created_date": 1746809985504,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 525846705,
+        "rating": 5,
+        "headline": "I would purchase this product again",
+        "comments": "I love the product",
+        "nickname": "Smiley",
+        "location": "PA",
+        "created_date": 1722300757863,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 509629826,
+        "rating": 3,
+        "headline": "Great but beware",
+        "comments": "This stuff really does work which is a bummer bc I have hooded eyes and it was helping. I developed a red, scaly dry patch at the corner of one eye. The inflammation did not go down until i stopped using this. When i started using it again, the spot got worse. It has taken weeks to get rid of the spot.",
+        "nickname": "Mir",
+        "location": "Little Rock, AR",
+        "created_date": 1711292028408,
+        "bottom_line": null,
+        "helpful_votes": 27,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 509526198,
+        "rating": 4,
+        "headline": "Up lifting",
+        "comments": "This eye cream is good for sensitive eyes.  It doesn't sting or make my eyes watery. I do see a slight lift in my upper eyelids and the skin around my eyes are moisturized.",
+        "nickname": "PurpleDaisy",
+        "location": "East Coast",
+        "created_date": 1711141350790,
+        "bottom_line": "Yes",
+        "helpful_votes": 18,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 470415732,
+        "rating": 5,
+        "headline": "I've notice a difference in a week",
+        "comments": "My eyes have become super puffy over the last little bit, yay for hitting the mid 30s, and I wanted to find something to minimize puffiness before i go the surgical route or something. I've been using every night for a week and have seen a noticeable difference. My eyes a less puffy all around.",
+        "nickname": "Miranda",
+        "location": "West Virginia",
+        "created_date": 1693184818522,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 470018065,
+        "rating": 1,
+        "headline": "made my eyes burn",
+        "comments": "I've never had this happen before. As soon as I put this on, my eyes just felt dry and burned a bit. It didn't irritate my under-eye skin though. I looked at the ingredients again and saw witch hazel. Perhaps that was the cause. Unfortunately I'll have to return this.",
+        "nickname": "Lori",
+        "location": "san francisco",
+        "created_date": 1693007893091,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 466092850,
+        "rating": 1,
+        "headline": "Sorry,  I would not buy again.",
+        "comments": "Used only once. Right after using this product it made the skin around my eyes itch.  This is something that has never happened before.  Sorry but can not recommend.",
+        "nickname": "",
+        "location": "Kendallville,  In",
+        "created_date": 1690170698059,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 463579811,
+        "rating": 4,
+        "headline": "Good product",
+        "comments": "I've been using for a few months now and have seen noticeable results.  Good price.  I would definitely recommend a try!",
+        "nickname": "Tootie Lee Bop Bop",
+        "location": "Westfield IN",
+        "created_date": 1688744433526,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 461935144,
+        "rating": 5,
+        "headline": "Great",
+        "comments": "Hydrating and great at reducing puffiness",
+        "nickname": "Rye",
+        "location": "California",
+        "created_date": 1687157789740,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 456072990,
+        "rating": 5,
+        "headline": "Great",
+        "comments": "I have sensitive skin around my eyes that gets dry. This product was a great moisturizer. It only slightly burned one time when I had cracked skin but it helped heal the skin by the next day",
+        "nickname": "Rye",
+        "location": "Los angeles",
+        "created_date": 1683005093687,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 455895156,
+        "rating": 5,
+        "headline": "Healthy feeling",
+        "comments": "My skin feels and looks better and moisturized. I have wrinkling eyes and this feels good.",
+        "nickname": "Diane",
+        "location": "The Villages, Fl",
+        "created_date": 1682823124247,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 450800960,
+        "rating": 5,
+        "headline": "I enjoy this product!!! Works great for me :)",
+        "comments": "I use this product at night (only for a few weeks now) and it works great! One of my eyes lids was a bit saggier than the other (lol if you know, you know), and they are even now!! I use it for wrinkle prevention as well.",
+        "nickname": "Erin",
+        "location": "Maine",
+        "created_date": 1680482037508,
+        "bottom_line": null,
+        "helpful_votes": 28,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 448704135,
+        "rating": 4,
+        "headline": "50/50",
+        "comments": "I've been using it for a month and there's little difference. To be fair, I am looking for something to de-puff/ firm my eyes. but it's smells good and keeps my eyes hydrated and is good for sensitive skin! (No irritation that I've experienced, huge plus )",
+        "nickname": "LM",
+        "location": "Detroit, Michigan",
+        "created_date": 1678920843974,
+        "bottom_line": null,
+        "helpful_votes": 11,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 447170968,
+        "rating": 5,
+        "headline": "Actually worked!",
+        "comments": "First eye cream I've ever seen visible results with! Really firms up my upper lids.",
+        "nickname": "Kara",
+        "location": "Nj",
+        "created_date": 1678278061448,
+        "bottom_line": null,
+        "helpful_votes": 16,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 445928427,
+        "rating": 5,
+        "headline": "impressed but not instant",
+        "comments": "I have dark circles and some new lines under my eyes. my skin is sensitive and I had been using no. 7 protect and perfect and it was just not doing much for me. I tried this on a whim and was impressed to see some firmness come back and lightening on my dark circles without irritating my sensitive skin. it's not instant but it worked for me and was not overly expensive",
+        "nickname": "K",
+        "location": "Ohio",
+        "created_date": 1677676694880,
+        "bottom_line": null,
+        "helpful_votes": 12,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 444287611,
+        "rating": 5,
+        "headline": "Rivals High End",
+        "comments": "A new favorite of mine. I have dry eyes and this always moisturizes and plumps fine lines and wrinkles. A staple under makeup. \nI'm 42, combo skin and live in a humid climate.",
+        "nickname": "WBWEARABLEMAKEUP",
+        "location": "Fischer, TX",
+        "created_date": 1676555192084,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 440423961,
+        "rating": 5,
+        "headline": "I would buy this product again and again",
+        "comments": "Love it \nBest eye cream for me. Works great ❤️",
+        "nickname": "Judith",
+        "location": "Hanson",
+        "created_date": 1673721624551,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 438639171,
+        "rating": 5,
+        "headline": "This actually works",
+        "comments": "I don't have hooded eyelids, but my left eyelid has always been \"puffier\" and the crease was not defined. It has been like this my entire life, Doing my makeup was irritating because one eye had a defined crease, and one eye didn't. This cream really works and literately tightened up my eyelid. Both eyes now have a visible crease.",
+        "nickname": "Michelle",
+        "location": "NJ",
+        "created_date": 1672034960790,
+        "bottom_line": "Yes",
+        "helpful_votes": 32,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 438203331,
+        "rating": 2,
+        "headline": "Disappointed; didn't do anything for me",
+        "comments": "I have nasty bags and dark circles under my eyes, and the skin is also excessively dry all the time. I have loved almost every Derma-e product I've ever tried, so I thought I would give this a shot to try to help with hydration and to do a little something to minimize the appearance of the undereye sagging. Sadly, this eye cream didn't do either. The texture is great and it never irritated my eyes or skin, but it just did...nothing. I used it at night and in the morning as the instructions say, and I didn't notice any difference in either the bags or fine lines around/under my eyes, nor did I notice any improvement in hydration. I get more benefit from my regular day and night moisturizers. I'm really disappointed that this product, at least for me, was a huge flop.",
+        "nickname": "Sasha",
+        "location": "Lexington, KY",
+        "created_date": 1671655919018,
+        "bottom_line": "No",
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 125,
+      "pages_total": 7,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod12041685/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "10 Minutes",
+              "count": 3
+            },
+            {
+              "label": "30 Minutes",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 29
+            },
+            {
+              "label": "Fine Lines/Wrinkles",
+              "count": 19
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 5
+            },
+            {
+              "label": "Puffiness",
+              "count": 4
+            },
+            {
+              "label": "Dark Circles",
+              "count": 3
+            },
+            {
+              "label": "Tired Eyes",
+              "count": 3
+            },
+            {
+              "label": "Wrinkles",
+              "count": 3
+            },
+            {
+              "label": "Redness/ Blotchiness",
+              "count": 3
+            },
+            {
+              "label": "Uneven Skin Tone",
+              "count": 3
+            },
+            {
+              "label": "Women",
+              "count": 2
+            },
+            {
+              "label": "Loose Skin",
+              "count": 2
+            },
+            {
+              "label": "eye cream for night/day",
+              "count": 1
+            },
+            {
+              "label": "Men",
+              "count": 1
+            },
+            {
+              "label": "Oily Skin",
+              "count": 1
+            },
+            {
+              "label": "On-the-go",
+              "count": 1
+            },
+            {
+              "label": "Enlarged Pores",
+              "count": 1
+            },
+            {
+              "label": "Eye bags",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Daily Use",
+            "Dark Circles",
+            "Enlarged Pores",
+            "Eye bags",
+            "Fine Lines/Wrinkles",
+            "Loose Skin",
+            "Men",
+            "Oily Skin",
+            "On-the-go",
+            "Puffiness",
+            "Redness/ Blotchiness",
+            "Sensitive Skin",
+            "Tired Eyes",
+            "Uneven Skin Tone",
+            "Weekly Use",
+            "Women",
+            "Wrinkles",
+            "eye cream for night/day"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Not Effective",
+              "count": 5
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 2
+            },
+            {
+              "label": "Caused redness",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "doesn't absorb quickly",
+              "count": 1
+            },
+            {
+              "label": "No difference in eye appearance",
+              "count": 1
+            },
+            {
+              "label": "Not absorbed easily",
+              "count": 1
+            },
+            {
+              "label": "Too early to tell",
+              "count": 1
+            },
+            {
+              "label": "Greasy",
+              "count": 1
+            },
+            {
+              "label": "Heavy",
+              "count": 1
+            },
+            {
+              "label": "Piles",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Caused redness",
+            "Complicated To Use",
+            "Greasy",
+            "Heavy",
+            "Irritates Skin",
+            "No difference in eye appearance",
+            "None",
+            "Not Effective",
+            "Not absorbed easily",
+            "Piles",
+            "Poor Texture",
+            "Too early to tell",
+            "doesn't absorb quickly"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Beauty Conscious",
+              "count": 15
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 6
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 5
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 4
+            },
+            {
+              "label": "Minimalist",
+              "count": 3
+            },
+            {
+              "label": "Skin Care Professional",
+              "count": 2
+            },
+            {
+              "label": "sensitive and combo skin",
+              "count": 1
+            },
+            {
+              "label": "40's - African-American - Skin Care Obsessed",
+              "count": 1
+            },
+            {
+              "label": "Beauty Expert",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "40's - African-American - Skin Care Obsessed",
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Minimalist",
+            "Skin Care Professional",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "sensitive and combo skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Lightweight",
+              "count": 29
+            },
+            {
+              "label": "Moisturizes",
+              "count": 23
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 20
+            },
+            {
+              "label": "Softens Skin",
+              "count": 15
+            },
+            {
+              "label": "Soothes Skin",
+              "count": 10
+            },
+            {
+              "label": "Effective",
+              "count": 7
+            },
+            {
+              "label": "Smells Great",
+              "count": 7
+            },
+            {
+              "label": "Easy To Use",
+              "count": 6
+            },
+            {
+              "label": "Good Value",
+              "count": 4
+            },
+            {
+              "label": "Gentle",
+              "count": 2
+            },
+            {
+              "label": "Soothing",
+              "count": 2
+            },
+            {
+              "label": "No Fragrance",
+              "count": 1
+            },
+            {
+              "label": "cruelty free/vegan",
+              "count": 1
+            },
+            {
+              "label": "good for sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Great under makeup",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Non-greasy",
+              "count": 1
+            },
+            {
+              "label": "Really helps with fine lines",
+              "count": 1
+            },
+            {
+              "label": "tightens and smooths skin, non-irritating,",
+              "count": 1
+            },
+            {
+              "label": "Good Price / Value",
+              "count": 1
+            },
+            {
+              "label": "Product Works",
+              "count": 1
+            },
+            {
+              "label": "I like the results I've seen after just one use",
+              "count": 1
+            },
+            {
+              "label": "Lifts and Firms",
+              "count": 1
+            },
+            {
+              "label": "Firms eye area",
+              "count": 1
+            },
+            {
+              "label": "Firming",
+              "count": 1
+            },
+            {
+              "label": "Got Rid of Dark Circles",
+              "count": 1
+            },
+            {
+              "label": "A Little Goes a Long Way",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A Little Goes a Long Way",
+            "Easy To Use",
+            "Effective",
+            "Firming",
+            "Firms eye area",
+            "Gentle",
+            "Good Price / Value",
+            "Good Value",
+            "Got Rid of Dark Circles",
+            "Great under makeup",
+            "I like the results I've seen after just one use",
+            "Lifts and Firms",
+            "Lightweight",
+            "Moisturizes",
+            "Moisturizing",
+            "No Fragrance",
+            "Non-Greasy",
+            "Non-greasy",
+            "Organic",
+            "Product Works",
+            "Really helps with fine lines",
+            "Smells Great",
+            "Softens Skin",
+            "Soothes Skin",
+            "Soothing",
+            "cruelty free/vegan",
+            "good for sensitive skin",
+            "tightens and smooths skin, non-irritating,"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 16
+            },
+            {
+              "label": "Normal",
+              "count": 8
+            },
+            {
+              "label": "Dry",
+              "count": 5
+            },
+            {
+              "label": "Oily",
+              "count": 4
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        9,
+        14,
+        14,
+        19,
+        69
+      ],
+      "review_histogram": [
+        9,
+        14,
+        14,
+        19,
+        69
+      ],
+      "rating_count": 125,
+      "review_count": 125,
+      "average_rating": 4.0,
+      "recommended_ratio": 0.79,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I used this eye lift a couple of years ago and I noticed an actual difference, this is the first skincare product I have seen results, doing what it said it would do. I have used other skincare from Derma e as well. But when I went to other eye creams, my skin started to droop towards my eyelashes again. I recently read all the good ingredients that will help eyelids become firm and lifting again and the ingredients in this eye cream are on the list. So I went back to this one and lo and behold, I can see my eyelids again! Even though pricey, it is worth every penny.  It does work for me and please Derma e, do NOT discontinue this! NOTE: The package logo has recently changed but the ingredients are still the same.",
+        "headline": "This Eye Cream Works!",
+        "rating": 5,
+        "ugc_id": 190582257
+      },
+      "faceoff_negative": {
+        "comments": "I'm in my late 30's and just started seeing some changes in my inner corners and under eyes. I read the reviews and thought I'd give this product a chance. I've tried it for 2 months and saw no change. It is hydrating but that's about all it does. Even so, it is light hydration and no firming power at all. Underwhelmed with the results.",
+        "headline": "No lifting",
+        "rating": 3,
+        "ugc_id": 190582230
+      },
+      "name": "Stem Cell Eye Lifting Treatment with Copper Peptides",
+      "native_review_count": 125,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,8 +1,49 @@
 @import "tailwindcss";
 
+@theme {
+  --font-size-xs: var(--asc-text-font-size-xs);
+  --font-size-sm: var(--asc-text-font-size-sm);
+  --font-size-md: var(--asc-text-font-size-md);
+  --font-size-lg: var(--asc-text-font-size-lg);
+  --font-size-xl: var(--asc-text-font-size-xl);
+  --font-size-xxl: var(--asc-text-font-size-xxl);
+  --font-size-3xl: var(--asc-text-font-size-3xl);
+  
+  /* 히어로 & 로고 커스텀 크기 */
+  --font-size-hero-title: 4rem;
+  --font-size-hero-title-md: 6rem;
+  --font-size-hero-desc: 1.25rem;
+  --font-size-hero-desc-md: 1.5rem;
+  --font-size-logo: 2.5rem;
+  --font-size-logo-md: 2.75rem;
+}
+
+:root {
+  --asc-text-global-font-style: normal;
+  
+  --asc-text-font-size-xs: 0.75rem;
+  --asc-text-font-size-sm: 0.875rem;
+  --asc-text-font-size-md: 1rem;
+  --asc-text-font-size-lg: 1.125rem;
+  --asc-text-font-size-xl: 1.25rem;
+  --asc-text-font-size-xxl: 1.5rem;
+  --asc-text-font-size-3xl: 1.875rem;
+  
+  /* Oliveyoung Brand Colors Palette */
+  --oliveyoung-green: #00C73C;
+  --oliveyoung-green-hover: #00B035;
+  --oliveyoung-green-light: #E6F9ED;
+  --oliveyoung-green-dark: #009B2E;
+  --oliveyoung-green-bright: #00E844;
+  --oliveyoung-lime: #7DD321;
+  --oliveyoung-mint: #00D98F;
+}
+
 body {
   margin: 0;
   min-width: 320px;
+  font-style: var(--asc-text-global-font-style);
+  font-size: var(--asc-text-font-size-md);
 }
 
 .hide-scrollbar::-webkit-scrollbar {
@@ -30,3 +71,69 @@ body {
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
   background: #9ca3af;
 }
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes sparkle {
+  0%, 100% {
+    opacity: 1;
+    transform: rotate(0deg) scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: rotate(-5deg) scale(1.05);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-slideInRight {
+  animation: slideInRight 0.1s ease-out;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.1s ease-out;
+}
+
+.animate-slideInUp {
+  animation: slideInUp 0.2s ease-out;
+}
+
+.animate-sparkle {
+  animation: sparkle 2s ease-in-out infinite;
+}
+

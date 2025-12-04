@@ -1,0 +1,957 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/repairwear-intensive-lip-treatment-xlsImpprod10791791",
+  "extracted_at": "2025-09-23T05:01:28.526317+00:00",
+  "product_name": "CliniqueRepairwear Intensive Lip Treatment",
+  "brand": "Clinique",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Lips",
+    "Lip Balms & Treatments"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "lips",
+    "men"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "36.00",
+  "availability": "in_stock",
+  "rating_avg": "4.5",
+  "rating_count": "135",
+  "images": [
+    "https://media.ulta.com/i/ulta/2153900?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2153900?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153900cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2153900cm_alt02?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingClinique Repairwear Intensive Lip Treatment is a de-aging lip treatment that helps repair the look of lines on and around the lips.",
+  "details": "DetailsBenefitsAntioxidant-infused formula replenishes moisture so lips stay soft and hydrated.Dermatologist tested.Allergy tested.Formulated WithoutParabensPhthalatesDenatured alcoholSLSSLESFragranceItem 2153900How To UseUse twice daily, morning and night. In the morning, use before applying your lip color.IngredientsOctyldodecanol, Pentaerythrityl Adipate/ Caprate/ Caprylate/ Heptanoate, Petrolatum, Bis-Diglyceryl Polyacyladipate-2, Polyethylene, Hydrogenated Dilinoleyl Alcohol, Stearoxy Dimethicone, Silica, Polybutene, Microcrystalline Wax\\Cera Microcristallina\\Cire Microcristalline, Water\\Aqua\\Eau, Triticum Vulgare (Wheat) Germ Extract, Polygonum Cuspidatum Root Extract, Theobroma Grandiflorum Seed Butter, Coffea Arabica (Coffee) Seed Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopheryl Acetate, Coffea Robusta Seed Extract, Betula Alba (Birch) Extract, Astrocaryum Murumuru Seed Butter, Hordeum Vulgare (Barley) Extract\\Extrait D'Orge, Butyrospermum Parkii (Shea Butter), Glycerin, Poria Cocos Sclerotium Extract, Linolenic Acid, Sodium Dna, Saccharomyces Lysate Extract, Linoleic Acid, Cholesterol, Sodium Rna, Ascorbyl Tocopheryl Maleate, Methyl Glucose Sesquistearate, Lauryl Pca, C20-40 Pareth-10, Squalane, Ethylhexylglycerin, Polyglyceryl-4 Isostearate, Hexyl Laurate, Cetyl PEG/PPG-10/1 Dimethicone, Allyl Methacrylates Crosspolymer, Propylene Glycol Dicaprate, Nordihydroguaiaretic Acid, Glycine Soja (Soybean) Protein, Phytosphingosine, Oleic Acid, Acetyl Carnitine Hcl, Caprylic/Capric Triglyceride, Triethoxycaprylylsilane, Ethylhexyl Stearate, Lecithin, Hydrogenated Lecithin, Hexylene Glycol, Ethylhexyl Palmitate, Potassium Sulfate, Hydroxyethylcellulose, Ethylcellulose, BHT, Phenoxyethanol, Mica, Red 7 Lake (CI 15850), Yellow 5 Lake (CI 19140), Red 22 Lake (CI 45380), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Red 6 (CI 15850), Red 30 Lake (CI 73360), Carmine (CI 75470), Red 33 Lake (CI 17200), Red 28 Lake (CI 45410), Blue 1 Lake (CI 42090), Yellow 6 Lake (CI 15985).Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Use twice daily, morning and night. In the morning, use before applying your lip color.",
+  "ingredients": [
+    "Octyldodecanol",
+    "Pentaerythrityl Adipate/ Caprate/ Caprylate/ Heptanoate",
+    "Petrolatum",
+    "Bis-Diglyceryl Polyacyladipate-2",
+    "Polyethylene",
+    "Hydrogenated Dilinoleyl Alcohol",
+    "Stearoxy Dimethicone",
+    "Silica",
+    "Polybutene",
+    "Microcrystalline Wax\\Cera Microcristallina\\Cire Microcristalline",
+    "Water\\Aqua\\Eau",
+    "Triticum Vulgare (Wheat) Germ Extract",
+    "Polygonum Cuspidatum Root Extract",
+    "Theobroma Grandiflorum Seed Butter",
+    "Coffea Arabica (Coffee) Seed Extract",
+    "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+    "Tocopheryl Acetate",
+    "Coffea Robusta Seed Extract",
+    "Betula Alba (Birch) Extract",
+    "Astrocaryum Murumuru Seed Butter",
+    "Hordeum Vulgare (Barley) Extract\\Extrait D'Orge",
+    "Butyrospermum Parkii (Shea Butter)",
+    "Glycerin",
+    "Poria Cocos Sclerotium Extract",
+    "Linolenic Acid",
+    "Sodium Dna",
+    "Saccharomyces Lysate Extract",
+    "Linoleic Acid",
+    "Cholesterol",
+    "Sodium Rna",
+    "Ascorbyl Tocopheryl Maleate",
+    "Methyl Glucose Sesquistearate",
+    "Lauryl Pca",
+    "C20-40 Pareth-10",
+    "Squalane",
+    "Ethylhexylglycerin",
+    "Polyglyceryl-4 Isostearate",
+    "Hexyl Laurate",
+    "Cetyl PEG/PPG-10/1 Dimethicone",
+    "Allyl Methacrylates Crosspolymer",
+    "Propylene Glycol Dicaprate",
+    "Nordihydroguaiaretic Acid",
+    "Glycine Soja (Soybean) Protein",
+    "Phytosphingosine",
+    "Oleic Acid",
+    "Acetyl Carnitine Hcl",
+    "Caprylic/Capric Triglyceride",
+    "Triethoxycaprylylsilane",
+    "Ethylhexyl Stearate",
+    "Lecithin",
+    "Hydrogenated Lecithin",
+    "Hexylene Glycol",
+    "Ethylhexyl Palmitate",
+    "Potassium Sulfate",
+    "Hydroxyethylcellulose",
+    "Ethylcellulose",
+    "BHT",
+    "Phenoxyethanol",
+    "Mica",
+    "Red 7 Lake (",
+    "Yellow 5 Lake (",
+    "Red 22 Lake (",
+    "Titanium Dioxide (",
+    "Iron Oxides (",
+    "Red 6 (",
+    "Red 30 Lake (",
+    "Carmine (",
+    "Red 33 Lake (",
+    "Red 28 Lake (",
+    "Blue 1 Lake (",
+    "Yellow 6 Lake ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "lips",
+      "lip",
+      "cosmetics"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "lip gloss",
+      "treatment",
+      "lip balm"
+    ],
+    "finish": [
+      "sheer"
+    ],
+    "ingredients": [
+      "sulfate-free"
+    ],
+    "brand": [
+      "luxury",
+      "mid-range"
+    ],
+    "special_features": [
+      "dermatologist-tested",
+      "hypoallergenic"
+    ],
+    "skin_type": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod10791791",
+    "total_reviews": 135,
+    "reviews": [
+      {
+        "review_id": 553156395,
+        "rating": 4,
+        "headline": "Good, but cannot get all the product",
+        "comments": "There is a previous rating I agree with. I thought the product was finished, but then bc I hadn't bought more I started digging scraping out the product. There is over half of it below where you can apply it to your lips. So in the process of getting it out you waste it. It runs out way to fast. I love using it, but I feel that they intentionally package it that way to get more money from people. They can say it weighs a certain amount but its bery difficult to get it out. Additionally, the product is out of stock online and every store I tried to get it from.",
+        "nickname": "Shelly",
+        "location": "Phoenix, Arizona",
+        "created_date": 1746908272430,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552142086,
+        "rating": 5,
+        "headline": "I need an extra one to carry in my purse.",
+        "comments": "This product rescued my lips.",
+        "nickname": "Deyanna",
+        "location": "Cleveland Ohio",
+        "created_date": 1745281357831,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551691725,
+        "rating": 2,
+        "headline": "Mid",
+        "comments": "I personally used the whole rube before writing, its okay, not worth the money. Love the texture, love packaging, but i feel like it only does so much, my lips always need something on after this.",
+        "nickname": "Darcey",
+        "location": "Destin, Fl",
+        "created_date": 1744634865815,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550749704,
+        "rating": 5,
+        "headline": "Keeps my lips hydrated and smooth feeling",
+        "comments": "I'm very happy with the sales associate and product",
+        "nickname": "Katheryn",
+        "location": "Lucedale ma",
+        "created_date": 1743368271625,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548834234,
+        "rating": 5,
+        "headline": "I like it",
+        "comments": "Leaves your  lips soft without be sticky",
+        "nickname": "Helena",
+        "location": "Houston",
+        "created_date": 1742052745457,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548027890,
+        "rating": 5,
+        "headline": "i would definite buy this again",
+        "comments": "Love this!! Best product it absolutely works great!!",
+        "nickname": "Norma",
+        "location": "Phoenix, AZ",
+        "created_date": 1741534946650,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547859007,
+        "rating": 5,
+        "headline": "BEST LIP REPAIR EVER!!",
+        "comments": "Absolutely nourishing lip TREATMENT! Ladies, it is a treatment, not a chapstick to be used 15,000 times a day! Use it at night, morning, and maybe once in the afternoon as needed. This is skin care for your lips, not to be used like the cheaper lip balms which can be used throughout the day. Hense, the cost. I too would like it to be cheaper but this is totally worth it and the tube lasts longer when used as such. My lips are instantly relieved after applying, it nourishes and repaired my chapped and peeling lips. I was an avid lip peeler, but no more!",
+        "nickname": "✨️Glow Gal✨️",
+        "location": "Las Vegas, NV",
+        "created_date": 1741275599770,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541875498,
+        "rating": 5,
+        "headline": "A must have in the winter!",
+        "comments": "I always have this on hand because this helps prevent dryness caused by the winter cold. My lips are smooth and not overly greasy. It adds a pretty sheen and enhances my natural lip color. It also works well under lipstick. It keeps lipstick from bleeding into the fine lines.",
+        "nickname": "Sarah",
+        "location": "Cincinnati, Ohio",
+        "created_date": 1735337344601,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541648703,
+        "rating": 5,
+        "headline": "I would buy this product over and over again.",
+        "comments": "This product works very well. It is a little on the expensive side but I wait for my coupon and then stock up. It works well during the day and even better overnight.",
+        "nickname": "Donna",
+        "location": "Pittsburgh PA",
+        "created_date": 1734887220693,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536236962,
+        "rating": 5,
+        "headline": "Expensive but it works!",
+        "comments": "This is the only product I have ever used that keeps my lips from chapping, cracking, and peeling in the winter. Period. It is also very soothing on sunburned lips. When it was difficult (or imossible) to find for a few years I kept my lips slathered with Burt's Bees or something similar and they still chapped anyway. This definitely costs more, but it is worth it to not have my lips chap, peel, and crack. During very cold, below zero winter weather I still wear a waxy lip balm outdoors as a protectant, and I wear sunscreen in the sun. Repairwear keeps my lips healthy, and it does that like nothing else.",
+        "nickname": "Older granola girl",
+        "location": "South Dakota",
+        "created_date": 1729142469846,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 518545582,
+        "rating": 5,
+        "headline": "Nothing else compares",
+        "comments": "Dont buy this unless you are prepared to buy it for the rest of your life - once you try it, nothing else compares!! Makes lips feel like satin",
+        "nickname": "Syd",
+        "location": "Colorado",
+        "created_date": 1716787042053,
+        "bottom_line": null,
+        "helpful_votes": 13,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 513339928,
+        "rating": 5,
+        "headline": "Love this lip treatment!",
+        "comments": "This product keeps my lips moisturized and gives me a hint of color!  Been using this product for years! Love it",
+        "nickname": "Gina",
+        "location": "New York",
+        "created_date": 1715207327312,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 506493503,
+        "rating": 5,
+        "headline": "Repeat purchase",
+        "comments": "I have used this product after a recommendation from a consultant.\nSlight color but softening. Much better than ordinary lip waxy, sticky treatments from drug store, or grocery store",
+        "nickname": "Linda",
+        "location": "Iowa",
+        "created_date": 1708359823460,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 486005118,
+        "rating": 4,
+        "headline": "A nice surprise",
+        "comments": "Works well. I do like Clinique products but probably would not have tried this without the 20% coupon. But would purchase again.",
+        "nickname": "Donna",
+        "location": "Pittsburgh PA",
+        "created_date": 1703803777463,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 450706498,
+        "rating": 3,
+        "headline": "Going back to Clinique moisture surge lip",
+        "comments": "I have been using the clinique moisture surge lip in a tube.  I love this product.  It lasts all day.  When I apply right before bed it is still on in the morning.  It definitely gives moisture and slight plumping effect.  I tried this repairware intense treatment.  I was hoping it would work since I like the idea it being in a tube.  Unfortunately for the extra money it was not as moisturizing as the moisture surge.  I returned and bought another tube of moisture surge.",
+        "nickname": "",
+        "location": "NJ",
+        "created_date": 1680361385246,
+        "bottom_line": "No",
+        "helpful_votes": 6,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 449006416,
+        "rating": 5,
+        "headline": "OBSESSED",
+        "comments": "I absolutely love this! I still wear a mask at work, and my lips are so dry and chapped. This has rescued my lips and returned them back to normal.",
+        "nickname": "Ashley",
+        "location": "Petaluma, CA",
+        "created_date": 1679238552824,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 448697499,
+        "rating": 1,
+        "headline": "Nothing special",
+        "comments": "Didn't notice any difference between this and any other lip balm. Not worth the extra cost in my opinion.",
+        "nickname": "Ali",
+        "location": "Columbus, OH",
+        "created_date": 1678914763649,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 445487198,
+        "rating": 5,
+        "headline": "A Savior in Winter!!",
+        "comments": "In December of 2022, that icy storm moving across the country gave me a serious chap spot/windburn above and around my left cupid's bow. I'm in my 40's so do some good moisturizing, but upped my game to include more moisturizing (Paula's Choice BOOST Hyaluronic Acid + Peptide Lip Booster), using ceramide lip masks at night (Burt's Bees Overnight Intensive Lip Treatment), serums (The Ordinary Amino Acids + B5), Neosporin, and even washing my face with more moisturizing products. It just stayed - like an icicle kiss that would never heal fully. UNTIL THIS. I kid you not, after more than 2 months fighting this dry spot, and 3 days with this and it's almost fully healed and gone. I'll be stocking up on this every Chicago winter for the rest of my days and maybe even the summer too. Has a pretty shine, nice tone (but not so much color that you can't get it outside of your lip line without looking wonky), is lightweight. No smell or taste to speak of. An absolute savior.",
+        "nickname": "JessieEK",
+        "location": "Chicago",
+        "created_date": 1677456164875,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 443138744,
+        "rating": 2,
+        "headline": "Glorified Chapstick",
+        "comments": "I'm Clinique faithful (thanks, Mom) but this just isn't it. O'Keefe's and Plamer's chapstick are my go-to's but I decided to treat myself to this based off of the reviews. While it does feel very moisturizing, it doesn't last more than 40 minutes. I don't notice any shade change after application and my lips don't feel any less dry once it wears off. Save the money and buy an spf chapstick.",
+        "nickname": "ACD",
+        "location": "Pittsburgh, PA",
+        "created_date": 1675867589556,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 442675890,
+        "rating": 5,
+        "headline": "Clinique repairwear",
+        "comments": "Trying for the first time..already makes lips smooth",
+        "nickname": "Angelica",
+        "location": "Houston Texas",
+        "created_date": 1675438156794,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 135,
+      "pages_total": 7,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod10791791/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 56
+            },
+            {
+              "label": "Treat Chapped Lips",
+              "count": 47
+            },
+            {
+              "label": "Prevent Wind Burn",
+              "count": 18
+            },
+            {
+              "label": "Sun Protection",
+              "count": 17
+            },
+            {
+              "label": "Anytime",
+              "count": 9
+            },
+            {
+              "label": "Dry Lips",
+              "count": 8
+            },
+            {
+              "label": "Everyday Use",
+              "count": 7
+            },
+            {
+              "label": "Cold Sores/Fever Blisters",
+              "count": 2
+            },
+            {
+              "label": "Daytime",
+              "count": 2
+            },
+            {
+              "label": "Use everyday",
+              "count": 1
+            },
+            {
+              "label": "Day",
+              "count": 1
+            },
+            {
+              "label": "Night",
+              "count": 1
+            },
+            {
+              "label": "Before bed as a lip sleep mask",
+              "count": 1
+            },
+            {
+              "label": "Right after washing face",
+              "count": 1
+            },
+            {
+              "label": "Right when wake up",
+              "count": 1
+            },
+            {
+              "label": "Under lipstick as a primer/ smooths lines",
+              "count": 1
+            },
+            {
+              "label": "Moisturizer and conditioner for the lips",
+              "count": 1
+            },
+            {
+              "label": "Anytime. I leave beside my bed too.",
+              "count": 1
+            },
+            {
+              "label": "Younger looking lips",
+              "count": 1
+            },
+            {
+              "label": "Exfoliating",
+              "count": 1
+            },
+            {
+              "label": "Plumping",
+              "count": 1
+            },
+            {
+              "label": "Going Out",
+              "count": 1
+            },
+            {
+              "label": "Deep Moisturization",
+              "count": 1
+            },
+            {
+              "label": "Dry/Chapped Skin",
+              "count": 1
+            },
+            {
+              "label": "Give moisture to dry lips!  I'm 65 it works!",
+              "count": 1
+            },
+            {
+              "label": "Nighttime treatment",
+              "count": 1
+            },
+            {
+              "label": "Helps a bit with lip lines",
+              "count": 1
+            },
+            {
+              "label": "Anti aging lip treatment",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "After Shower/Bath",
+            "Anti aging lip treatment",
+            "Anytime",
+            "Anytime. I leave beside my bed too.",
+            "Before bed as a lip sleep mask",
+            "Cold Sores/Fever Blisters",
+            "Daily Use",
+            "Day",
+            "Daytime",
+            "Deep Moisturization",
+            "Dry Lips",
+            "Dry/Chapped Skin",
+            "Dryness",
+            "Everyday Use",
+            "Exfoliating",
+            "Give moisture to dry lips!  I'm 65 it works!",
+            "Going Out",
+            "Helps a bit with lip lines",
+            "Moisturizer and conditioner for the lips",
+            "Night",
+            "Nighttime treatment",
+            "Plumping",
+            "Prevent Wind Burn",
+            "Right after washing face",
+            "Right when wake up",
+            "Special Occasions",
+            "Sun Protection",
+            "Treat Chapped Lips",
+            "Under lipstick as a primer/ smooths lines",
+            "Use everyday",
+            "Younger looking lips"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Not Long-Lasting",
+              "count": 9
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 3
+            },
+            {
+              "label": "Greasy",
+              "count": 3
+            },
+            {
+              "label": "Price",
+              "count": 2
+            },
+            {
+              "label": "Bad Taste",
+              "count": 2
+            },
+            {
+              "label": "Wears Off Easily",
+              "count": 2
+            },
+            {
+              "label": "Goes fast no matter how sparse you put it on..",
+              "count": 1
+            },
+            {
+              "label": "Bad Smell",
+              "count": 1
+            },
+            {
+              "label": "Pricey / Poor Value",
+              "count": 1
+            },
+            {
+              "label": "Over priced",
+              "count": 1
+            },
+            {
+              "label": "Cost",
+              "count": 1
+            },
+            {
+              "label": "Too expensive",
+              "count": 1
+            },
+            {
+              "label": "Wasn't true lip stick size",
+              "count": 1
+            },
+            {
+              "label": "Pricr",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Bad Taste",
+            "Bad Tasting",
+            "Clumpy Application",
+            "Cost",
+            "Doesn't Work",
+            "Drying",
+            "Goes fast no matter how sparse you put it on..",
+            "Greasy",
+            "Not Long-Lasting",
+            "Not True To Color",
+            "Over priced",
+            "Poor Color Selection",
+            "Price",
+            "Pricey / Poor Value",
+            "Pricr",
+            "Smells Bad",
+            "Sticky",
+            "Too expensive",
+            "Wasn't true lip stick size",
+            "Wears Off Easily"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brand Buyer",
+              "count": 38
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 20
+            },
+            {
+              "label": "Natural Style",
+              "count": 8
+            },
+            {
+              "label": "I am an Artist, designing jewelry",
+              "count": 1
+            },
+            {
+              "label": "I wear minimal makeup. I have a lot of allergies",
+              "count": 1
+            },
+            {
+              "label": "Keep it simple",
+              "count": 1
+            },
+            {
+              "label": "Take care of my skin",
+              "count": 1
+            },
+            {
+              "label": "Chapstick/ lip balm and treatment connoisseur",
+              "count": 1
+            },
+            {
+              "label": "Lip picker and biter",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "I'm 67 and tend to be dry as I'm fair skinned",
+              "count": 1
+            },
+            {
+              "label": "Classic Style",
+              "count": 1
+            },
+            {
+              "label": "Trendy Style",
+              "count": 1
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Chapstick/ lip balm and treatment connoisseur",
+            "Classic Style",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "I am an Artist, designing jewelry",
+            "I wear minimal makeup. I have a lot of allergies",
+            "I'm 67 and tend to be dry as I'm fair skinned",
+            "Keep it simple",
+            "Lip picker and biter",
+            "Minimalist",
+            "Natural Style",
+            "Sensitive skin",
+            "Skin Care Professional",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Take care of my skin",
+            "Trendy Style",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Effective",
+              "count": 52
+            },
+            {
+              "label": "Soothing",
+              "count": 51
+            },
+            {
+              "label": "Healing",
+              "count": 48
+            },
+            {
+              "label": "Long Lasting",
+              "count": 36
+            },
+            {
+              "label": "Smells/Tastes Great",
+              "count": 13
+            },
+            {
+              "label": "Even Application",
+              "count": 9
+            },
+            {
+              "label": "Convenient Container",
+              "count": 8
+            },
+            {
+              "label": "Moisturizing",
+              "count": 8
+            },
+            {
+              "label": "Glossy Finish",
+              "count": 5
+            },
+            {
+              "label": "Pleasant Tasting",
+              "count": 3
+            },
+            {
+              "label": "True To Color",
+              "count": 2
+            },
+            {
+              "label": "Lips feel better in days",
+              "count": 1
+            },
+            {
+              "label": "Lips feel nourished",
+              "count": 1
+            },
+            {
+              "label": "Smooth but not sticky.",
+              "count": 1
+            },
+            {
+              "label": "I love this product it keeps my lips kissable!",
+              "count": 1
+            },
+            {
+              "label": "Feels great",
+              "count": 1
+            },
+            {
+              "label": "Goes on smoothly",
+              "count": 1
+            },
+            {
+              "label": "Stays on longer",
+              "count": 1
+            },
+            {
+              "label": "Hydration for hours",
+              "count": 1
+            },
+            {
+              "label": "Moisturizes and smooths",
+              "count": 1
+            },
+            {
+              "label": "No harsh chemicals or fragrance",
+              "count": 1
+            },
+            {
+              "label": "No irritants",
+              "count": 1
+            },
+            {
+              "label": "No more chapped, peeling, bleeding lips!",
+              "count": 1
+            },
+            {
+              "label": "Repairs my dry lips",
+              "count": 1
+            },
+            {
+              "label": "Smooths out the lines in my lips",
+              "count": 1
+            },
+            {
+              "label": "Not sticky",
+              "count": 1
+            },
+            {
+              "label": "Clean",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Lubricating",
+              "count": 1
+            },
+            {
+              "label": "Great Color Selection",
+              "count": 1
+            },
+            {
+              "label": "Absorbs Quickly",
+              "count": 1
+            },
+            {
+              "label": "Goes On Smoothly",
+              "count": 1
+            },
+            {
+              "label": "Moisturizes Well",
+              "count": 1
+            },
+            {
+              "label": "Not Greasy",
+              "count": 1
+            },
+            {
+              "label": "No smell/No taste",
+              "count": 1
+            },
+            {
+              "label": "Plumping",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Absorbs Quickly",
+            "Clean",
+            "Convenient Container",
+            "Effective",
+            "Effective Sun Protection",
+            "Even Application",
+            "Feels great",
+            "Glossy Finish",
+            "Goes On Smoothly",
+            "Goes on smoothly",
+            "Great Color Selection",
+            "Healing",
+            "Hydrating",
+            "Hydration for hours",
+            "I love this product it keeps my lips kissable!",
+            "Lips feel better in days",
+            "Lips feel nourished",
+            "Long Lasting",
+            "Lubricating",
+            "Moisturizes Well",
+            "Moisturizes and smooths",
+            "Moisturizing",
+            "No harsh chemicals or fragrance",
+            "No irritants",
+            "No more chapped, peeling, bleeding lips!",
+            "No smell/No taste",
+            "Not Greasy",
+            "Not sticky",
+            "Pleasant Tasting",
+            "Plumping",
+            "Repairs my dry lips",
+            "Smells Great",
+            "Smells/Tastes Great",
+            "Smooth but not sticky.",
+            "Smooths out the lines in my lips",
+            "Soothing",
+            "Stays on longer",
+            "True To Color"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        4,
+        8,
+        5,
+        17,
+        101
+      ],
+      "review_histogram": [
+        4,
+        8,
+        5,
+        17,
+        101
+      ],
+      "rating_count": 135,
+      "review_count": 135,
+      "average_rating": 4.5,
+      "recommended_ratio": 0.92,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I've used this lip product for probably 20 years.  It's a desert island must have.  If I have no money for anything else, I buy this.  For those who use it only for chapped lips, you're missing the point...this is daily skincare at its finest, and I haven't found a replacement for it ever.\n\nThis lippie keeps my lips exfoliated...no need for lip scrub.  It also keeps my lips plumped all day and night.  I even think it makes my lips slightly larger without all the menthol nonsense found in lipsticks these days.  In short, my aged lips are comfortable and in perfect condition...no crepines, and no little lines on the outside lipline for lipstick to feather into.\n\nI use this lip treatment everytime I brush my teeth.  After using at night, my lips are still moist and wet in the morning.  I remember once recently I didn't wear sunscreen on my lips, so my lips got terribly burned after being outside in horrendous sun and wind and cold all day.  My lips hurt and started cracking and peeling...but after applying this multiple times a day, they healed quickly.  Thank god for this treatment.  If I hadn't been using this for so many years resulting in healthy lips, I'm pretty sure the recovery time would have been much longer.\n\nI don't use a ton of expensive products on my face...only the ones guaranteed to work...Retin-A, Vit C, Niacinamide, and some exfoliant to keep the peeling under control.  But this is truly a must have for me...my little indulgence.",
+        "headline": "The BEST lip treatment for keeping lips young and plumped.",
+        "rating": 5,
+        "ugc_id": 190374835
+      },
+      "faceoff_negative": {
+        "comments": "I decided to try something new.  The product corrected the chapped lips but so does the other product I use.  The other product is a 1/8 of the price but I could not find it anywhere.  As with all Clinique products it was great.  I just received the same effects with the less expensive brand.  I had one issue and that was when I was using it if I didn't re-apply, as it wore off, my lips got dry, they burned.  Never had that experience before.  Also, the tube does not last long.  Not sure why that is.",
+        "headline": "The product did what I needed it to",
+        "rating": 3,
+        "ugc_id": 190374834
+      },
+      "name": "Repairwear Intensive Lip Treatment",
+      "native_review_count": 135,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

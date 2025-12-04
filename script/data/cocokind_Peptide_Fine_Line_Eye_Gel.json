@@ -1,0 +1,437 @@
+{
+  "product_id": "pimprod2047683",
+  "product_url": "https://www.ulta.com/p/peptide-fine-line-eye-gel-pimprod2047683",
+  "extracted_at": "2025-09-23T04:46:59.470094+00:00",
+  "product_name": "cocokindPeptide Fine Line Eye Gel",
+  "brand": "cocokind",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Serums"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "serums"
+  ],
+  "currency": "USD",
+  "list_price": "21.99",
+  "sale_price": "15.39",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "104",
+  "images": [
+    "https://media.ulta.com/i/ulta/2629995?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2629995?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629995_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629995_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629995_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629995_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629995_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629995_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629995_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2629995_vid01/thumbs/ebb16576-f449-4a02-b0e8-ce4a92d46873?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackCocokind's Peptide Fine Line Gel treatment powered by firming peptides improves the appearance of lines and wrinkles for a smoother looking eye area. A hydrating blend of ceramides and squalane locks in moisture to support supple and plump skin.",
+  "details": "DetailsBenefitsUniversal sheer pink tint subtly brightens and illuminates the eye areaFirming peptide complex encourages skin’s collagen production to smooth the look of linesWears seamlessly under makeup or on its ownLightweight hydration for sensitive skin and the delicate eye areaDesigned and clinically tested for sensitive skinKey IngredientsPeptide Complex (palmitoyl tripeptide-5 + cyclotetrapeptide-24 aminocyclohexane carboxylate) supports the skin’s natural collagen to help firm and smooth the appearance of fine lines and wrinklesSqualane - helps support the skin barrier while preventing moisture loss, sustainably sourced from sugar caneCeramide NP, AP, EOP, NG, & AG + Cholesterol - A 5-ceramide & lipid blend that mimics skin's natural hydrators to help strengthen the skin barrier, support moisture retention, and reduce the appearance of irritation.Item 2629995How To UseDispense one pump onto fingertip and gently dot around the under-eye and orbital area. Use in the morning and/or night to firm, smooth, and hydrate the skin.IngredientsWater/Eau, Glycerin, Propanediol, Capryloyl Glycerin/Sebacic Acid Copolymer, Squalane, Octyldodecyl Stearoyl Stearate, C15-19 Alkane, Silica, Sodium Acrylates Copolymer, Glyceryl Caprylate, Hydrogenated Polyfarnesene, Palmitoyl Tripeptide-5, Cyclotetrapeptide-24 Aminocyclohexane Carboxylate, Beta-Glucan, Ectoin, Fucus Vesiculosus Extract *, Hordeum Vulgare Seed Extract**, Tocopherol, Ceramide Np, Ceramide Ap, Ceramide Eop, Ceramide Ng, Ceramide Ag, Sodium Hyaluronate, Ricinus Communis (Castor) Seed Oil, Lecithin, Hydrogenated Lecithin, Xanthan Gum, Caprylyl Glycol, Cholesterol, Trehalose, Isopropyl Titanium Triisostearate, Glyceryl Stearate, Maltodextrin, Citric Acid, Pentylene Glycol, Hexylene Glycol, Caprylhydroxamic Acid, 2,3-Butanediol, 1,2-Hexanediol, Sodium Benzoate, Tetrasodium Glutamate Diacetate, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77499).* Bladderwrack Seaweed.** Barley Extract.",
+  "how_to_use": "Dispense one pump onto fingertip and gently dot around the under-eye and orbital area. Use in the morning and/or night to firm, smooth, and hydrate the skin.",
+  "ingredients": [
+    "Water/Eau",
+    "Glycerin",
+    "Propanediol",
+    "Capryloyl Glycerin/Sebacic Acid Copolymer",
+    "Squalane",
+    "Octyldodecyl Stearoyl Stearate",
+    "C15-19 Alkane",
+    "Silica",
+    "Sodium Acrylates Copolymer",
+    "Glyceryl Caprylate",
+    "Hydrogenated Polyfarnesene",
+    "Palmitoyl Tripeptide-5",
+    "Cyclotetrapeptide-24 Aminocyclohexane Carboxylate",
+    "Beta-Glucan",
+    "Ectoin",
+    "Fucus Vesiculosus Extract *",
+    "Hordeum Vulgare Seed Extract**",
+    "Tocopherol",
+    "Ceramide Np",
+    "Ceramide Ap",
+    "Ceramide Eop",
+    "Ceramide Ng",
+    "Ceramide Ag",
+    "Sodium Hyaluronate",
+    "Ricinus Communis (Castor) Seed Oil",
+    "Lecithin",
+    "Hydrogenated Lecithin",
+    "Xanthan Gum",
+    "Caprylyl Glycol",
+    "Cholesterol",
+    "Trehalose",
+    "Isopropyl Titanium Triisostearate",
+    "Glyceryl Stearate",
+    "Maltodextrin",
+    "Citric Acid",
+    "Pentylene Glycol",
+    "Hexylene Glycol",
+    "Caprylhydroxamic Acid",
+    "3-Butanediol",
+    "2-Hexanediol",
+    "Sodium Benzoate",
+    "Tetrasodium Glutamate Diacetate",
+    "Titanium Dioxide (",
+    "Iron Oxides (",
+    "77499).* Bladderwrack Seaweed.** Barley Extract"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "cleanser",
+      "serum",
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive",
+      "mature",
+      "all skin types"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "gel",
+      "oil"
+    ],
+    "ingredients": [
+      "peptides",
+      "ceramides"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "anti-aging",
+      "hydrating"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2047683",
+    "total_reviews": 104,
+    "reviews": [
+      {
+        "review_id": 560563857,
+        "rating": 1,
+        "headline": "Back to the lab!!!",
+        "comments": "It does help with puffiness and give brightness for your under eye. \n\nBack to the lab because it causes irrtation to the eye. It also caused my eyelashes to fall out!! \n\nThis product can not cause that kind of cons.",
+        "nickname": "Lucystarfire",
+        "location": "Chicago, IL",
+        "created_date": 1755795893590,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560530433,
+        "rating": 2,
+        "headline": "Stings my eyes!",
+        "comments": "First off, this is more of a gel-cream than a gel. Its not that hydrating and really stings my eyes. I end up wiping it off a lot.",
+        "nickname": "SS",
+        "location": "Los Angeles",
+        "created_date": 1755746045188,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559892431,
+        "rating": 5,
+        "headline": "Does NOT give me milia!!!",
+        "comments": "I will forever get this because its the only thing so far that has not given me milia around my eyes.",
+        "nickname": "Kristina",
+        "location": "Las Vegas",
+        "created_date": 1754838410295,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559239827,
+        "rating": 5,
+        "headline": "I am definitely buying this again",
+        "comments": "So far I have loved this eye cream. It's been one of my favorites to use",
+        "nickname": "Erin",
+        "location": "Washington, IL",
+        "created_date": 1754321221492,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 559188160,
+        "rating": 5,
+        "headline": "Exceptional Eye Gel",
+        "comments": "Ive been looking for a loghtweight yet hydrating eye cream & this has done just that. It looks good under makeup & my under eyes look less dry. Found a new staple!",
+        "nickname": "Lex",
+        "location": "Sacramento, CA",
+        "created_date": 1754206603492,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557885906,
+        "rating": 5,
+        "headline": "Great Product!",
+        "comments": "I bought this about two weeks ago, so I cant say if my lines have diminished yet, however, the consistency of this eye cream is great. The pink color helps with darkness and brightens the undereye area. I love the feel of it, it's so hydrating and doesnt sting or irritate my eyes (I have oily skin but dry undereyes). I would definitely recommend this product!",
+        "nickname": "M",
+        "location": "Los Angeles",
+        "created_date": 1753077403609,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556936958,
+        "rating": 4,
+        "headline": "Great eye gel cream",
+        "comments": "I found it absorbs easily. Nicely brightens my eyes does a great job without burning a hole in the wallet. Im 38 and this does great to improve and keep at bay. Use this religiously.",
+        "nickname": "Kcp",
+        "location": "Lancaster Pa",
+        "created_date": 1752199184882,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 556864165,
+        "rating": 5,
+        "headline": "Unbeatable performance for the price point!",
+        "comments": "I got this product when I started to notice fine lines around my eyes (30 is coming for me and I am not okay) but could bring myself to shell out the kind of money needed for most of the products that came with the highest recommendations. After just under 2 months of daily use, with well over half the product remaining, I decided to do a side by side comparison and I was BLOWN AWAY. I can't believe how much of a difference I see in the fine lines around my eyes. I was kind of convinced all firming skincare was a gimmick and only fillers would fix my wrinkles one day, so I can't believe the results I got. And for this price point?? Absolutely unbelievable and unbeatable.\n\nI currently use this product 2x a day, once in the morning and once in the evening. I apply it after my serums but before my moisturizer.",
+        "nickname": "Samantha",
+        "location": "Kansas",
+        "created_date": 1752077342856,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556703706,
+        "rating": 5,
+        "headline": "I'm 48 and I use it religiously",
+        "comments": "Look, I am 48. I tend to invest in the more serious (read $$) anti-aging skincare products, but I crossover to cocokind for this product because it works that well. I keep one in my bag and dab it on my eye area all day while using serious actives at night. Better day eye cream than StriVectin and Perricone. I'm serious.",
+        "nickname": "MoeMoe",
+        "location": "NYC",
+        "created_date": 1751758759001,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556664718,
+        "rating": 1,
+        "headline": "chemical burn",
+        "comments": "wanted to like the product but it gave me a chemical burn around my eyes and eyelids",
+        "nickname": "atm",
+        "location": "dallas, tx",
+        "created_date": 1751659516754,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552487278,
+        "rating": 5,
+        "headline": "My new favorite eye product",
+        "comments": "I've been using this eye gel for a few months now and I can confidently say I love it! I like the thinner consistency and how it absorbs very nicely. I can't say that I've seen much visual improvement, but I can say my under-eyes feel hydrated and smoother. It sits nicely under my sunscreen as well as my makeup, which I cannot say for every eye product in my collection! And I've had no rash or adverse reactions to this product. Adding another tube to my cart right now!!",
+        "nickname": "Alex",
+        "location": "Boise, ID",
+        "created_date": 1745643690774,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551623261,
+        "rating": 5,
+        "headline": "Love this product",
+        "comments": "I've been using this for like a year now and it is so good!!! Really does brighten under the eyes & helps fine lines.",
+        "nickname": "Brianna",
+        "location": "PA",
+        "created_date": 1744471217673,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551339171,
+        "rating": 5,
+        "headline": "WOW!",
+        "comments": "I typically don't leave reviews, but I have to for this product because its THAT good! I struggle with fine lines under my eyes that my makeup settles into, and dark circles. I've tried multiple under eye products, and this is the best one by far. I use it in the morning before makeup and my undereyes are bright with minimal creasing! (I'm still working on perfecting the creasing situation) But I highly recommend this eye cream!",
+        "nickname": "Tori",
+        "location": "Connecticut",
+        "created_date": 1744287522879,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551320086,
+        "rating": 2,
+        "headline": "Wanted to like this",
+        "comments": "I liked this at first, but after about a week of use it has caused a red spots under my eyes, some discoloration and stings",
+        "nickname": "Nickname",
+        "location": "Las Vegas",
+        "created_date": 1744236013053,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551123829,
+        "rating": 5,
+        "headline": "Blind Buy",
+        "comments": "I blindly bought this as I was looking for an eye cream that could maybe help with the creasing and settling I experienced with my concealer. Now obviously the creasing did not magically disappear because my eye does have natural creases but it helped so much with settling and smoothing the concealer. I have no stopped using it since I bought it (a week) I think if you were looking at any expensive eye cream to help with wrinkles under makeup, you should take this one into consideration because I was very impressed by it.",
+        "nickname": "kim",
+        "location": "Denton, Tx",
+        "created_date": 1744006553216,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550098952,
+        "rating": 1,
+        "headline": "caused rash",
+        "comments": "this gave me a rash around my eyes after a couple of uses",
+        "nickname": "kayla",
+        "location": "Sanford, FL",
+        "created_date": 1743147337106,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 549917407,
+        "rating": 1,
+        "headline": "Chemical burn",
+        "comments": "I love cocokind and the revitalizing eye cream, so I wanted to give this a try. It burned the skin around my eyes and left it red and bumpy. Looked like i had a horrible sunburn. Do yourself a favor and buy the revitalizing eye cream instead",
+        "nickname": "Sarah",
+        "location": "Appleton WI",
+        "created_date": 1743091615457,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548457757,
+        "rating": 2,
+        "headline": "not for me",
+        "comments": "I have reactive skin and my skin broke out around my eyes bad",
+        "nickname": "Laura",
+        "location": "opelika, AL",
+        "created_date": 1741677843546,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 548048199,
+        "rating": 5,
+        "headline": "Most hydrating eye cream ever!",
+        "comments": "Honestly just the best, started using it 2 months ago and it's one of the best I've ever used. Helps with both puffiness and darkness. Recommended to friends already!",
+        "nickname": "Megan",
+        "location": "Seattle, WA",
+        "created_date": 1741583474818,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546612193,
+        "rating": 3,
+        "headline": "Really wanted to love this!",
+        "comments": "The ingredients looked great and I loved the luminous finish with that very subtle pink tint! Unfortunately, the formula caused my eyes to turn red, water, and sting all day and night anytime I applied it. I gave it a try for a few days thinking maybe it was just allergies or something but the day I stopped using it the burning and tears stopped immediately. Still giving 3 stars because the formula felt nice, my eyes just happened to hate it.\n\nToo bad, will have to return!",
+        "nickname": "SB",
+        "location": "Oakland, CA",
+        "created_date": 1739491231722,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      }
+    ],
+    "paging": {
+      "total_results": 25,
+      "pages_total": 2,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2047683/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        7,
+        6,
+        5,
+        9,
+        77
+      ],
+      "review_histogram": [
+        7,
+        6,
+        5,
+        9,
+        77
+      ],
+      "rating_count": 104,
+      "review_count": 104,
+      "average_rating": 4.38,
+      "recommended_ratio": 1.0,
+      "media": [
+        {
+          "id": "556864145",
+          "review_id": 556864165,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zeiargk2nipkyserrso0.jpg",
+          "headline": "Unbeatable performance for the price point!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Side by side comparison of the day I started using this product and two months later.",
+          "nickname": "Samantha",
+          "created_date": 1752077342856
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "So, firstly I can say that I truly appreciate that this is a pump dispenser. I HATE digging my finger in a jar! Second, this formula is quite nice. There's no prevalent scent so there shouldn't be any sensitivities with it, and it's made with clean ingredients.. DOUBLE plus! I have pretty finicky skin, so I can also attest to no breakouts wile using this! ...TRIPLE PLUS! One thing I REALLY appreciate about this eye gel is that it glides on smooth/silky and soaks in super quickly. I have eyelash extensions, and I find that if my eye cream just sits on top of my skin, it affects my retention.. No bueno. As for the performance, I feel like this is very hydrating and with consistent usage, I do notice that my under eye appears visibly more hydrated and \"awake,\" leaving my under eye creases are pretty minimal. & As for the under eye creases, I can truly appreciate this when it comes to makeup application. (I'm an oily girl so I have to powder it DOWN.. so this can get rough if my eye bags aren't Gucci.) In conclusion, you can't really beat the price on this especially for the performance. I really enjoy this eye cream and I'll be replenishing when I'm out!",
+        "headline": "I'm impressed!",
+        "rating": 5,
+        "ugc_id": 537055644
+      },
+      "faceoff_negative": {
+        "comments": "So i actually used this on my neck wrinkles, not on my eyes. But so far, it seems to have helped a little bit. Consistency seems to be key. Seems like you need to use it every day. It definitely isnt a \"miracle\" product, it wont completely erase wrinkles, but for me, it did make them slightly less noticeable / prominent, so that was nice. I would say for that result, the price is a little high for me, so thats why i didnt give it 5 stars. I would probably switch to something else once this runs out (hopefully something that can work better?)",
+        "headline": "Pretty good",
+        "rating": 3,
+        "ugc_id": 559989664
+      },
+      "native_review_count": 25,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 79,
+      "locale": "en_US"
+    }
+  }
+}

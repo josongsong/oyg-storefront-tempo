@@ -1,0 +1,740 @@
+{
+  "product_id": "pimprod2041945",
+  "product_url": "https://www.ulta.com/p/extra-repair-eye-cream-intense-pimprod2041945",
+  "extracted_at": "2025-09-23T03:52:14.751537+00:00",
+  "product_name": "BOBBI BROWNExtra Repair Eye Cream Intense",
+  "brand": "BOBBI BROWN",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "100.00",
+  "availability": "in_stock",
+  "rating_avg": "3.8",
+  "rating_count": "169",
+  "images": [
+    "https://media.ulta.com/i/ulta/2617552?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2617552?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2617552cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2617552cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2617552cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2617552cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2617552cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2617552cm_vid01/thumbs/eead1f2b-77a6-40a5-8509-c6889c355599?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingBobbi Brown Extra Repair Eye Cream Intense is a balmy, revitalizing eye cream helps replenish, brighten, and reduce the look of dark circles. NEW-and-infused formula features 3x more Hyaluronic Acid and 5x more Argireline Peptide to help soften the appearance of fine lines and wrinkles around eyes.",
+  "details": "DetailsBenefitsWAKES UP YOUR LOOKCaffeine helps reduce the appearance of dark undereye circles.Extra Repair Complex helps soften the look of fine lines and wrinkles.FeaturesOlive Extract, Glycerin, and Shea Butter work together to intensely hydrate, moisturize, and condition.Hyaluronic Acid helps moisturize and plump skin naturally.TrehaloseFormulated WithoutParabens, Phthalates, SulfatesItem 2617552How To UseWarm up between fingertips then use your ring finger to gently swipe under the eyes, going from inner to outer corners. Lightly massage for full absorption, making sure not to pull or tug on this delicate area.Use with: Extra Repair Moisture Cream IntenseIngredientsWater\\Aqua\\Eau, Petrolatum, Dimethicone, Butyrospermum Parkii (Shea) Butter, Glycerin, Butylene Glycol, Ceresin, Phenyl Trimethicone, Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone, Lanolin Alcohol, Sorbitol, Sodium Hyaluronate, Scutellaria Baicalensis Root Extract, Morus Bombycis (Mulberry) Root Extract, Ascophyllum Nodosum Extract, Asparagopsis Armata Extract, Camellia Sinensis (Green Tea) Leaf Extract, Olea Europaea (Olive) Fruit Extract, Salvia Sclarea (Clary) Extract, Pyrus Malus (Apple) Fruit Extract, Acetyl Hexapeptide-8, Limnanthes Alba (Meadowfoam) Seed Oil, Oenothera Biennis (Evening Primrose) Oil, Tocopheryl Acetate, Acetyl Glucosamine, Linoleic Acid, Caffeine, Micrococcus Lysate, Di-C12-15 Alkyl Fumarate, Vitis Vinifera (Grape) Seed Oil, Triticum Vulgare (Wheat) Bran Extract, Trehalose, Cholesterol, Pinanediol, Camphanediol, Sucrose, Stearic Acid, Palmitic Acid, Lecithin, Potassium Hydroxide, Silica, Pentylene Glycol, Peg-30 Dipolyhydroxystearate, Sodium Chloride, Hydroxystearic Acid, Peg-8 Distearate, Behenyl Alcohol, Fragrance (Parfum), Benzyl Salicylate, Sodium Sulfite, Sodium Metabisulfite, Disodium Edta, Tetrasodium Edta, Chlorphenesin, Potassium Sorbate, PhenoxyethanolPlease be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Warm up between fingertips then use your ring finger to gently swipe under the eyes, going from inner to outer corners. Lightly massage for full absorption, making sure not to pull or tug on this delicate area.Use with: Extra Repair Moisture Cream Intense",
+  "ingredients": [
+    "Water\\Aqua\\Eau",
+    "Petrolatum",
+    "Dimethicone",
+    "Butyrospermum Parkii (Shea) Butter",
+    "Glycerin",
+    "Butylene Glycol",
+    "Ceresin",
+    "Phenyl Trimethicone",
+    "Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone",
+    "Lanolin Alcohol",
+    "Sorbitol",
+    "Sodium Hyaluronate",
+    "Scutellaria Baicalensis Root Extract",
+    "Morus Bombycis (Mulberry) Root Extract",
+    "Ascophyllum Nodosum Extract",
+    "Asparagopsis Armata Extract",
+    "Camellia Sinensis (Green Tea) Leaf Extract",
+    "Olea Europaea (Olive) Fruit Extract",
+    "Salvia Sclarea (Clary) Extract",
+    "Pyrus Malus (Apple) Fruit Extract",
+    "Acetyl Hexapeptide-8",
+    "Limnanthes Alba (Meadowfoam) Seed Oil",
+    "Oenothera Biennis (Evening Primrose) Oil",
+    "Tocopheryl Acetate",
+    "Acetyl Glucosamine",
+    "Linoleic Acid",
+    "Caffeine",
+    "Micrococcus Lysate",
+    "Di-C12-15 Alkyl Fumarate",
+    "Vitis Vinifera (Grape) Seed Oil",
+    "Triticum Vulgare (Wheat) Bran Extract",
+    "Trehalose",
+    "Cholesterol",
+    "Pinanediol",
+    "Camphanediol",
+    "Sucrose",
+    "Stearic Acid",
+    "Palmitic Acid",
+    "Lecithin",
+    "Potassium Hydroxide",
+    "Silica",
+    "Pentylene Glycol",
+    "Peg-30 Dipolyhydroxystearate",
+    "Sodium Chloride",
+    "Hydroxystearic Acid",
+    "Peg-8 Distearate",
+    "Behenyl Alcohol",
+    "Fragrance (Parfum)",
+    "Benzyl Salicylate",
+    "Sodium Sulfite",
+    "Sodium Metabisulfite",
+    "Disodium Edta",
+    "Tetrasodium Edta",
+    "Chlorphenesin",
+    "Potassium Sorbate",
+    "PhenoxyethanolPlease be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "cream",
+      "oil",
+      "foam"
+    ],
+    "color": [
+      "brown"
+    ],
+    "ingredients": [
+      "peptides",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "special_features": [
+      "natural",
+      "anti-aging"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2041945",
+    "total_reviews": 169,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "I really enjoyed this product! It is a little bi",
+              "count": 1
+            },
+            {
+              "label": "Thirty years old",
+              "count": 1
+            },
+            {
+              "label": "Beauty & Fashion blogger",
+              "count": 1
+            },
+            {
+              "label": "Combination skin",
+              "count": 1
+            },
+            {
+              "label": "Fine lines",
+              "count": 1
+            },
+            {
+              "label": "Hyperpigmentation",
+              "count": 1
+            },
+            {
+              "label": "Late 30s",
+              "count": 1
+            },
+            {
+              "label": "Usually love Bobbe products",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Beauty & Fashion blogger",
+            "Casual Dresser",
+            "Combination skin",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Fine lines",
+            "Hyperpigmentation",
+            "I really enjoyed this product! It is a little bi",
+            "Late 30s",
+            "Stylish/Fashionista",
+            "Thirty years old",
+            "Trendy/Stylish Dresser",
+            "Usually love Bobbe products",
+            "Youthful"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        36,
+        8,
+        5,
+        25,
+        95
+      ],
+      "review_histogram": [
+        36,
+        8,
+        5,
+        25,
+        95
+      ],
+      "rating_count": 169,
+      "review_count": 169,
+      "average_rating": 3.8,
+      "recommended_ratio": 0.71,
+      "media": [
+        {
+          "id": "428123289",
+          "review_id": 428123172,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dyrkhcyxds8ijqkcfpc1.jpg",
+          "headline": "Damaged didn't repair",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lauren1983",
+          "created_date": 1665059532103
+        },
+        {
+          "id": "428123280",
+          "review_id": 428123172,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/anmhtoq0gz17itszhnjj.jpg",
+          "headline": "Damaged didn't repair",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lauren1983",
+          "created_date": 1665059532103
+        },
+        {
+          "id": "417875046",
+          "review_id": 417875036,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jncw1ddwvnrxl62oqkka.jpg",
+          "headline": "Morning Dew in a sexy little jar.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "blaizeykay",
+          "created_date": 1658425388840
+        },
+        {
+          "id": "417875037",
+          "review_id": 417875036,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dtxlv5jugpiamdsrtcis.jpg",
+          "headline": "Morning Dew in a sexy little jar.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "blaizeykay",
+          "created_date": 1658425388840
+        },
+        {
+          "id": "413947267",
+          "review_id": 413947237,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tgj7ti8dyrcawdezgiju.jpg",
+          "headline": "Great Eye Cream",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Eve30skincare",
+          "created_date": 1655595878672
+        },
+        {
+          "id": "412582619",
+          "review_id": 412582667,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dahxorttv4ff96cgaje4.jpg",
+          "headline": "Extra Repair Eye Cream",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Emily",
+          "created_date": 1654921215792
+        },
+        {
+          "id": "412578550",
+          "review_id": 412578540,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/i8dsqidvrovupxj0qkip.jpg",
+          "headline": "Nice product but misleading bottle!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lisa",
+          "created_date": 1654916525508
+        },
+        {
+          "id": "412578541",
+          "review_id": 412578540,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cwl5a1pifjekkks903f5.jpg",
+          "headline": "Nice product but misleading bottle!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lisa",
+          "created_date": 1654916525508
+        },
+        {
+          "id": "412578557",
+          "review_id": 412578556,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ytjfgymjjfv9kj4sl29n.jpg",
+          "headline": "Very hydrating and nourishing.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 1,
+          "type": "image",
+          "nickname": "Bryan",
+          "created_date": 1654916496797
+        },
+        {
+          "id": "412300004",
+          "review_id": 412300057,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ut4diq81wjr5mgzchffx.jpg",
+          "headline": "Great for Eye Make Up Wear",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 1,
+          "type": "image",
+          "nickname": "Sasharosebuzz",
+          "created_date": 1654871628468
+        },
+        {
+          "id": "412261420",
+          "review_id": 412261419,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/riavhrfszg0fbgl5fnmp.jpg",
+          "headline": "Good",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ann",
+          "created_date": 1654830863959
+        },
+        {
+          "id": "412250468",
+          "review_id": 412250357,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/itzdiyp9zlcs1vgi0svn.jpg",
+          "headline": "Love it. Very pleased",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great consistency",
+          "nickname": "Wilspascal",
+          "created_date": 1654825277101
+        },
+        {
+          "id": "412169169",
+          "review_id": 412169150,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ccqevsuw975ycrz07s3j.jpg",
+          "headline": "Revitalizing for your under-eye!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "sarahleanh",
+          "created_date": 1654781129460
+        },
+        {
+          "id": "412169202",
+          "review_id": 412169150,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qdrqub8qyd9gnot5zgbb.jpg",
+          "headline": "Revitalizing for your under-eye!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "sarahleanh",
+          "created_date": 1654781129460
+        },
+        {
+          "id": "411934677",
+          "review_id": 411934676,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fk2lxmdzyrc1gkgnwfas.jpg",
+          "headline": "Difficult texture",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "yabeaut",
+          "created_date": 1654651130801
+        },
+        {
+          "id": "411897316",
+          "review_id": 411897263,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ivw3zs6ab8rdnspmn1ib.jpg",
+          "headline": "Very moisturizing",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "alwaystired",
+          "created_date": 1654613689925
+        },
+        {
+          "id": "411892537",
+          "review_id": 411892505,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mheab2pjw6h6i5tcxccx.jpg",
+          "headline": "Smooth and silky leaving me refreshed!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ash",
+          "created_date": 1654606201801
+        },
+        {
+          "id": "411716721",
+          "review_id": 411716619,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/o3pasaixoqdix3ppkec2.jpg",
+          "headline": "Love it",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love",
+          "nickname": "Nbelle",
+          "created_date": 1654572483258
+        },
+        {
+          "id": "411706563",
+          "review_id": 411706562,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/r3wfhdmitkcgnwdl9cxg.jpg",
+          "headline": "Not for me",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "DaisyP",
+          "created_date": 1654570158855
+        },
+        {
+          "id": "411706495",
+          "review_id": 411706562,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ogndodu7kmvpkocgz1mq.jpg",
+          "headline": "Not for me",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "DaisyP",
+          "created_date": 1654570158855
+        },
+        {
+          "id": "411672910",
+          "review_id": 411672865,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/liynpilrjrstwbpfp1de.jpg",
+          "headline": "Such a refreshing firm cream!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "deannanrg",
+          "created_date": 1654563771623
+        },
+        {
+          "id": "411672923",
+          "review_id": 411672865,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dhymczzwheatyplaebsz.jpg",
+          "headline": "Such a refreshing firm cream!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "deannanrg",
+          "created_date": 1654563771623
+        },
+        {
+          "id": "411654617",
+          "review_id": 411654580,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/we16eiqnpxlgoalic6eo.jpg",
+          "headline": "Eh.",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AvantBasic",
+          "created_date": 1654545793797
+        },
+        {
+          "id": "411654616",
+          "review_id": 411654580,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/n8xewjhksw9keszrnuee.jpg",
+          "headline": "Eh.",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AvantBasic",
+          "created_date": 1654545793797
+        },
+        {
+          "id": "411516775",
+          "review_id": 411516751,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lahjbjmr5abai7qgrkzf.jpg",
+          "headline": "Dark circles be gone!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "MMark",
+          "created_date": 1654363717618
+        },
+        {
+          "id": "411516752",
+          "review_id": 411516751,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/pkfxsbhalfhvmluomirn.jpg",
+          "headline": "Dark circles be gone!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "MMark",
+          "created_date": 1654363717618
+        },
+        {
+          "id": "411516165",
+          "review_id": 411516192,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lhb6gue38liua44pyuo5.jpg",
+          "headline": "Love at first use!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Victoria",
+          "created_date": 1654363129364
+        },
+        {
+          "id": "411483387",
+          "review_id": 411483353,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/do5wlke117ivvw8husbg.jpg",
+          "headline": "LOVE LOVE LOVE",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Amazing product !",
+          "nickname": "HayleyP",
+          "created_date": 1654318487892
+        },
+        {
+          "id": "411388407",
+          "review_id": 411388397,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zgd13zpktdl9hvqjvfhk.jpg",
+          "headline": "Amazing and hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kam",
+          "created_date": 1654278695057
+        },
+        {
+          "id": "411331807",
+          "review_id": 411331827,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/whatpjngsks92ikyh4nz.jpg",
+          "headline": "The best eye cream I've ever used!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AlinaJo",
+          "created_date": 1654269684319
+        },
+        {
+          "id": "411331742",
+          "review_id": 411331827,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/soxxz66g8axf7hkg8vhe.jpg",
+          "headline": "The best eye cream I've ever used!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AlinaJo",
+          "created_date": 1654269684319
+        },
+        {
+          "id": "411307376",
+          "review_id": 411307308,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ocnzzg3dknh2zo08shhw.jpg",
+          "headline": "Magic in a Jar",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "LisaA",
+          "created_date": 1654226102690
+        },
+        {
+          "id": "411116109",
+          "review_id": 411116117,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/uqh0qqaut2jipxv26x0q.jpg",
+          "headline": "Moisturizing Balm",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jsmith",
+          "created_date": 1653962900650
+        },
+        {
+          "id": "411084354",
+          "review_id": 411084335,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/nek9p5goqp6rghgmyqy4.jpg",
+          "headline": "Super Hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dylbob0125",
+          "created_date": 1653924197225
+        },
+        {
+          "id": "411084409",
+          "review_id": 411084335,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/oms7tvzetjkkzs5b2vni.jpg",
+          "headline": "Super Hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dylbob0125",
+          "created_date": 1653924197225
+        },
+        {
+          "id": "410991584",
+          "review_id": 410991631,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hgy2r9axglm6amkhj0mq.jpg",
+          "headline": "The best night eye repair cream",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kat33",
+          "created_date": 1653773493070
+        },
+        {
+          "id": "410962168",
+          "review_id": 410962207,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/n5oncglzrgmudv0goxhg.jpg",
+          "headline": "Super great",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Muna",
+          "created_date": 1653742509945
+        },
+        {
+          "id": "410710666",
+          "review_id": 410710551,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bltekoxjzh7xulkomb1e.jpg",
+          "headline": "So hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Petty",
+          "created_date": 1653592515914
+        },
+        {
+          "id": "410622704",
+          "review_id": 410622767,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yagvuc0iu5zmx3qfl5lp.jpg",
+          "headline": "Favorite eye cream! So hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Okam",
+          "created_date": 1653498678167
+        },
+        {
+          "id": "410622709",
+          "review_id": 410622767,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ls44hjgckq5vbtvc29pi.jpg",
+          "headline": "Favorite eye cream! So hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Okam",
+          "created_date": 1653498678167
+        },
+        {
+          "id": "410492549",
+          "review_id": 410492568,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lggvmd5xzjrvpxram6gh.jpg",
+          "headline": "Nice and thick eye cream!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Goodhealth",
+          "created_date": 1653371074931
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Oh this is so lux and intense in the best way! First this cream goes a very long way. If you wanted to use this during day I would use just the tiniest amount. That's how thick and ulta hydrating it is. At night you could use a little bit more but again you don't need that much. It does leave a thick moisturized feeling on the skin but it doesn't feel like it's just sitting there but instead being slowly absorbed, which is exactly what I would expect from an intense repair cream that claims to soften fine lines and crow's feet. Honestly I see this as a night cream. This is so good! I don't have crow's feet but I do have fine lines on the inner corner that bunch up. After applying the moisturizer they appeared slightly softer. I'll keep using this as a night cream and I love that when I finish this I can just purchase a refill. This product was gifted by Bobbi Brown.",
+        "headline": "The best night eye repair cream",
+        "rating": 5,
+        "ugc_id": 410991631
+      },
+      "faceoff_negative": {
+        "comments": "This product was gifted by Bobbi Brown Cosmetics, free of charge, in exchange for a review. All thoughts and opinions expressed are my own.\n\nAs I understand it, this is a reformulation of the original Extra Repair Eye Cream Intense. I haven't tried the previous formula, so I'm basing this review on what is currently available. \n\nThis has got to be the absolute thickest eye cream I've come across. It can be a bit of a chore to warm and spread around the eyes, but it gets there eventually. It's VERY emollient and takes a while to fully sink into the skin. \n\nI found this to be hydrating, more so than my normal eye cream that is much more liquid. Fine lines and textures that are exaggerated by dryness were initially lessened, but the usual crepe of my under eyes came back within a few hours. \n\nI did not notice any difference to my hereditary dark circles beyond the light refraction the cream provided while still sinking in. \n\nIt's an eye cream. I'm not particularly wowed and I don't think I'd drop nearly $90 on something that's just satisfactory. \n\nOh. It smells of cucumbers, if you were wondering",
+        "headline": "Eh.",
+        "rating": 3,
+        "ugc_id": 411654580
+      },
+      "name": "Extra Repair Eye Cream Intense",
+      "native_review_count": 0,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 169,
+      "locale": "en_US"
+    }
+  }
+}

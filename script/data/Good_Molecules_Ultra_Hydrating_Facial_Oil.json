@@ -1,0 +1,449 @@
+{
+  "product_id": "pimprod2024576",
+  "product_url": "https://www.ulta.com/p/ultra-hydrating-facial-oil-pimprod2024576",
+  "extracted_at": "2025-09-23T05:35:11.625167+00:00",
+  "product_name": "Good MoleculesUltra-Hydrating Facial Oil",
+  "brand": "Good Molecules",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Face Oils"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "103",
+  "sale_price": "10.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "183",
+  "images": [
+    "https://media.ulta.com/i/ulta/2583062?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2583062?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583062cm_alt01?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackHydrate, nourish, and protect your skin with Ultra-Hydrating Facial Oil from Good Molecules.",
+  "details": "DetailsItem 2583062How To UseWarm a few drops between palms and gently press into skin. Use as the last step in your routine or under moisturizer. Suitable for daily use.Note: High-quality sea buckthorn oil is rich in natural pigment, which may cause a temporary yellow tint on skin. For this reason, we recommend using this product at night only.IngredientsCamellia Oleifera Seed Oil, Hippophae Rhamnoides Oil.",
+  "how_to_use": "Warm a few drops between palms and gently press into skin. Use as the last step in your routine or under moisturizer. Suitable for daily use.Note: High-quality sea buckthorn oil is rich in natural pigment, which may cause a temporary yellow tint on skin. For this reason, we recommend using this product at night only.",
+  "ingredients": [
+    "Camellia Oleifera Seed Oil",
+    "Hippophae Rhamnoides Oil"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "moisturizer",
+      "oil",
+      "face oil"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "sheer",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "hydrating"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2024576",
+    "total_reviews": 183,
+    "reviews": [
+      {
+        "review_id": 556932124,
+        "rating": 5,
+        "headline": "Awesome product!",
+        "comments": "I bought this facial oil along with the daily moisturizer from Good Molecules. The combination together works really well and keeps my face feeling refreshed and moisturized all day long. Definitely recommend!",
+        "nickname": "Arielle",
+        "location": "Alabama, USA",
+        "created_date": 1752186747973,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555713235,
+        "rating": 5,
+        "headline": "This oil is incredible!",
+        "comments": "Good Molicules facial oil is really impressive!\nVery hydrating without feeling heavy.\nBig plus is that it didn't cause acne on my sensitive skin.\nPerfect nighttime skin oil!\nPlease make a larger bottle!",
+        "nickname": "Jill",
+        "location": "Minnesota",
+        "created_date": 1750630974436,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555303202,
+        "rating": 5,
+        "headline": "Wow!",
+        "comments": "I was looking to replace my expensive facial oil and came across this little gem. It's a small bottle but it truly packs a punch, especially for the price. I would compare it to a very expensive brand that I had been using in that it's very hydrating and doesn't feel heavy on the skin. Gives a beautiful glow that's just enough.\nDefinitely my new favorite!\nYou won't be disappointed.",
+        "nickname": "JJS",
+        "location": "MN",
+        "created_date": 1750273752164,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554102485,
+        "rating": 5,
+        "headline": "LOVE THIS",
+        "comments": "I love this product. It helps my face stay hydrated all day long and gives me a glow. I've been using this for over a year and haven't found anything better. Highly recommend",
+        "nickname": "Ondrea",
+        "location": "Pittsburgh",
+        "created_date": 1748446235779,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548028097,
+        "rating": 5,
+        "headline": "Favorite face oil",
+        "comments": "This is my holy grail face oil when I need some extra moisture or nourishment. I use it at night a few times a week and always wake up with healthier looking skin. I also notice it helps speed up the healing of blemishes if I've picked at them.",
+        "nickname": "Jessie",
+        "location": "Ohio",
+        "created_date": 1741535501967,
+        "bottom_line": null,
+        "helpful_votes": 17,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547215758,
+        "rating": 5,
+        "headline": "Budget Friendly Oils 10/10",
+        "comments": "I've been using this product for over a year now and I can say that it works for me. Especially during winter time, my face and hands experience dry areas. I like to mix a drop or two into any lotion I'm using and I quickly see a difference. I could not find a lotion that worked for my hands this winter and this solved my issue. Highly recommend if you're looking for an affordable multi use product.",
+        "nickname": "Jay",
+        "location": "Seattle, WA",
+        "created_date": 1740414971251,
+        "bottom_line": null,
+        "helpful_votes": 12,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543629998,
+        "rating": 2,
+        "headline": "Don't like it",
+        "comments": "This irritated my sensitive skin.. i was hoping it would help calm my skin but it did the opposite .. it turned my cheeks red. Another thing.. it leaves a yellow color on your face too..",
+        "nickname": "Kp",
+        "location": "Colorado",
+        "created_date": 1737340222684,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 8
+      },
+      {
+        "review_id": 543003063,
+        "rating": 5,
+        "headline": "Incredible",
+        "comments": "I've been using Good Molecules for the last 8 months and this brand has been nothing but good to me. I have sensitive, combo, acne prone skin and it's been so hard finding products that don't upset my skin one way or another, but they've made it very easy for me. Their products are extremely clean which I think allows my skin to handle them so well, ESPECIALLY the oil! Any type of oil ever has always broken me out so I was very nervous to try this and ruin any progress on my skin, but it truly blew me away with how it made my skin even CLEARER! This oil is extremely lightweight despite how hydrating it is, it was the extra push my skin needed to fully heal my skin barrier. My skin has genuinely never looked more beautiful and I'm so extremely pleased with this brand. I will alway recommend this brand to people, and now this product has made it to those recommendations!",
+        "nickname": "Ash",
+        "location": "Dallas",
+        "created_date": 1736961739790,
+        "bottom_line": null,
+        "helpful_votes": 19,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542136493,
+        "rating": 5,
+        "headline": "This has helped with winter dehydration",
+        "comments": "A few drops of this layered on top of my reg moisturizer has been a nice addition to my evening skincare. Gentle enough to even apply around my eyes. Skin feels so soft and smooth and even firmer when I wake.",
+        "nickname": "Diane",
+        "location": "Massachusetts",
+        "created_date": 1735835358974,
+        "bottom_line": "Yes",
+        "helpful_votes": 12,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542058862,
+        "rating": 3,
+        "headline": "Not the greatest oil",
+        "comments": "This oil for me, who has very dry skin, I found it to be mediocre. I typically use an Ayurveda brand which I find way better than this. I needed something in a pinch but I wouldn't buy again.",
+        "nickname": "Jill",
+        "location": "Tn",
+        "created_date": 1735667466545,
+        "bottom_line": "No",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539230239,
+        "rating": 5,
+        "headline": "So Hydrating!",
+        "comments": "Adding this to my moisturizer at night has made a huge difference in my skin! I usually get dry flaky pieces between my eyebrows and on my nose and ever since I've started using this it's decreased so much. They last me a while but i'm at my 4th one and i wish they came in bigger bottles.",
+        "nickname": "Emily",
+        "location": "Connecticut",
+        "created_date": 1733715395003,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538027786,
+        "rating": 5,
+        "headline": "Best glow ever",
+        "comments": "Immediate results. Left my face hydrated and an instant glow. A little goes a long way",
+        "nickname": "Teyanna",
+        "location": "Philadelphia",
+        "created_date": 1731946188386,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537562357,
+        "rating": 5,
+        "headline": "Works really well without being overpowering",
+        "comments": "I have combination/dry skin and this helps so much prior to putting on moisturizer by patting it and searing it into your skin. It keeps it moisturized the whole day while also looking clean",
+        "nickname": "Andrea",
+        "location": "Frederick, MD",
+        "created_date": 1731170810231,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536022092,
+        "rating": 5,
+        "headline": "I will be buying again!",
+        "comments": "I love how hydrating this oil is! Definitely will be continuing to use in my skincare routine!",
+        "nickname": "Trista",
+        "location": "Athens, Georgia",
+        "created_date": 1728924211900,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 535401325,
+        "rating": 5,
+        "headline": "Lovveeeeeeeeeee",
+        "comments": "Love it! Great facial oil folloeing moisturizer. 2/3 drops massage in hand and pressonyo the skin..Just do not overuse as you dont need that much… otherwise youll look like a grease monkey",
+        "nickname": "Mmp",
+        "location": "Newport News",
+        "created_date": 1728023235931,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 534982167,
+        "rating": 5,
+        "headline": "I am buying this product again!",
+        "comments": "Never been in love with a face oil before, this is the best! I had never purchased any Good molecules product before, but now i am looking into other products as well. \nI use this oil in all - my moisturizer, my sunscreen and in my foundation too! its just so nice!\nmade my skin feel soft, bright and acne free.",
+        "nickname": "Ro",
+        "location": "Los Angeles",
+        "created_date": 1727741637003,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533974371,
+        "rating": 5,
+        "headline": "Amazing product",
+        "comments": "This product is perfect for my combination skin, adds moisture to dry areas but does not saturate oily spots.  The bottle super cute but it is tiny. I wish Good Molecules offered a larger size. \n10/10 would recommend!",
+        "nickname": "Lilie",
+        "location": "Az",
+        "created_date": 1727060386715,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 527748419,
+        "rating": 5,
+        "headline": "Oil",
+        "comments": "So, I had purchased this when all of the suddent I became super dry. Like peeling dry. I used this every morning and night. It worked WONDERS! I love it. I still use it, but only at night time. I highly recommend if you have dry skin",
+        "nickname": "Stephanie",
+        "location": "TEXAS",
+        "created_date": 1724266973094,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 527389635,
+        "rating": 5,
+        "headline": "A Gift",
+        "comments": "I got this as a gift and i'm shocked by how well this works. My makeup looks smooth and my skin looks healthy after using it overnight. I have senesitive skin and my pores clog easily, yet i've had no issues with this product. I'm super happy with the outcomes. Also no scent (for those senesitive to fragrance)!",
+        "nickname": "h",
+        "location": "Schaumburg, IL",
+        "created_date": 1723761347818,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 526706661,
+        "rating": 4,
+        "headline": "Nice Serum",
+        "comments": "Nice Serum, absorbs very well . The product is only 1/2 ounce so not that great of a bargain",
+        "nickname": "Brenda",
+        "location": "North Carolina",
+        "created_date": 1723069976920,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 86,
+      "pages_total": 5,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2024576/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Small bottle",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Small bottle"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Absorbs quickly",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Light weight",
+              "count": 1
+            },
+            {
+              "label": "Little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "Lightweight",
+              "count": 1
+            },
+            {
+              "label": "hydrating",
+              "count": 1
+            },
+            {
+              "label": "price",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Absorbs quickly",
+            "Hydrating",
+            "Light weight",
+            "Lightweight",
+            "Little goes a long way",
+            "hydrating",
+            "price"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dry",
+              "count": 7
+            },
+            {
+              "label": "Combination",
+              "count": 3
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        5,
+        3,
+        13,
+        14,
+        148
+      ],
+      "review_histogram": [
+        5,
+        3,
+        13,
+        14,
+        148
+      ],
+      "rating_count": 183,
+      "review_count": 183,
+      "average_rating": 4.62,
+      "recommended_ratio": 0.31,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I freaking love this oil. I went to Tucson when it was 103 degrees outside with what felt like negative humidity somehow (joke). It was so freaking dry that every time I'd go outside I felt like the moisture in my skin was instantly gone. It made my skin tight and uncomfortable. So I went into an Ulta and found this and bought it because it was the most affordable product that emphasized it was \"ULTRA HYDRATING.\" \nI took it back to my hotel and put it on immediately. The rest of my trip I had no more problems with the atmosphere sucking my face dry. It was love at first use. \n\nHOWEVER, I CAN MAKE THIS MYSELF FOR 1/20th THE PRICE\n\nIt's 98% camellia oil, which is relatively affordable and 2% sea buckthorn oil, which also very affordable for a quality cold pressed oil. You don't even need to use a special technique to mix them together or keep the two oils from separating. Just add them together, shake and boom. Oil mixture is perfected. \n\nBut I love this product so much that I still buy it from Good Molecules every so often because I want to show my support for introducing me to the combo. \n\nFREAKING LOVE IT!",
+        "headline": "Love it, but I can make it myself waaaay cheaper",
+        "rating": 5,
+        "ugc_id": 476429619
+      },
+      "faceoff_negative": {
+        "comments": "I have sensitive dehydrated skin, I thought this would be great because the price was right, and I've used products with camellia and sea buckthorn without any adverse reaction. Unfortunately my skin gets pink and feels irritated when I use this. I'm wondering if it actually only has just two oils in the product",
+        "headline": "Not for sensitive skin",
+        "rating": 2,
+        "ugc_id": 482324850
+      },
+      "name": "Ultra-Hydrating Facial Oil",
+      "native_review_count": 86,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 97,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "product_id": "pimprod2054876",
+  "product_url": "https://www.ulta.com/p/daywear-moisturizer-holiday-skincare-set-pimprod2054876",
+  "extracted_at": "2025-09-23T03:44:15.008097+00:00",
+  "product_name": "Estee LauderDayWear Moisturizer Holiday Skincare Set",
+  "brand": "Estee Lauder",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "68.00",
+  "availability": "in_stock",
+  "rating_avg": "5",
+  "rating_count": "2",
+  "images": [
+    "https://media.ulta.com/i/ulta/2643394?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2643394?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643394_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643394_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643394_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643394_alt04?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryEstée Lauder DayWear Moisturizer Holiday Skincare Set is a great gift set including a full-size DayWear Moisturizer. This daily regimen helps skin look fresher, smoother, with a healthy glow.",
+  "details": "DetailsIncludesDayWear Multi-Protection Anti-Oxidant 24HMoisture Creme SPF 15, full-size (1.7 oz)Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask, deluxe travel size (1.0 oz)DayWear Eye Cooling Anti-Oxidant Moisture GelCreme, deluxe travel size (0.17)Advanced Night Repair Synchronized Multi-Recovery Complex, deluxe travel size (0.5 oz)BenefitsPowerful protection. Intense, refreshing 24hour hydration.Elevate your glow with these formulas to help defend against signs of premature aging and diminish their appearance. Skin looks fresher, smoother, with a healthy glow.Treat your skin with this refreshing foam that cleanses gently, yet thoroughly. Perfectly Clean Cleanser/Mask leaves skin looking healthy and fresh.An instant refresh for eyes. DayWear Eye Cooling GelCreme helps visibly brighten, depuff and minimize the look of dark circles with continued use.Over time, Advanced Night Repair Serum helps skin look smoother and less lined, younger, healthier - more radiant and even toned.So hydrating, DayWear Moisturizer SPF 15 infuses skin with an intense surge of moisture that lasts - 24 hours.Item 2643394How To UseStep 1: Cleanse skin with Perfectly Clean Cleanser/Mask AM and PM.Step 2: Apply DayWear Eye Cooling GelCreme AM and PM around eye area.Step 3: Apply Advanced Night Repair Serum AM and PM on clean skin before your moisturizer.Step 4: Apply DayWear Moisturizer SPF15 on clean skin after your serum.IngredientsSee packaging for details.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Step 1: Cleanse skin with Perfectly Clean Cleanser/Mask AM and PM.Step 2: Apply DayWear Eye Cooling GelCreme AM and PM around eye area.Step 3: Apply Advanced Night Repair Serum AM and PM on clean skin before your moisturizer.Step 4: Apply DayWear Moisturizer SPF15 on clean skin after your serum.",
+  "ingredients": [
+    "See packaging for details"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "treatment",
+      "day cream",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "mature"
+    ],
+    "finish": [
+      "dewy",
+      "long-wear",
+      "creamy",
+      "gel",
+      "foam"
+    ],
+    "brand": [
+      "luxury",
+      "premium"
+    ],
+    "special_features": [
+      "spf",
+      "hydrating",
+      "brightening",
+      "purifying"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2054876",
+    "total_reviews": 2,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "rating_count": 2,
+      "review_count": 2,
+      "average_rating": 5.0,
+      "recommended_ratio": 1.0,
+      "media": [
+        {
+          "id": "563613466",
+          "review_id": 563613445,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/l58rltwrktsvlt1ojtor.jpg",
+          "headline": "A taste of luxury",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The perfect gift for the one you want to pamper",
+          "nickname": "LeahPiaE",
+          "created_date": 1758230005397
+        }
+      ],
+      "name": "DayWear Moisturizer Holiday Skincare Set",
+      "native_review_count": 0,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 2,
+      "locale": "en_US"
+    }
+  }
+}

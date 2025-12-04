@@ -1,0 +1,91 @@
+{
+  "product_id": "pimprod2043333",
+  "product_url": "https://www.ulta.com/p/travel-size-take-it-all-off-pimprod2043333",
+  "extracted_at": "2025-09-23T05:32:00.997310+00:00",
+  "product_name": "Charlotte TilburyTravel Size Take It All Off",
+  "brand": "Charlotte Tilbury",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Travel Size Makeup"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "travel-size-makeup"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "16.00",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2619519?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2619519?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2619519_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2619519_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2619519_alt03?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryCharlotte Tilbury's Take It All Off is a gentle, bi-phase formula for eyes, lashes, and lips that effortlessly removes long-wear and waterproof makeup.",
+  "details": "DetailsBenefitsLiquid FormulaFragrance FreeWithout ParabensBest for Oily, Combo, Normal SkinKey IngredientsEyebright Extracts: Reduce the look of eye fatigue.Chamomile: Soothes and conditions lashes and lips.Corn Sugar: Removes long-wear makeup.Research ResultsIn a test on 30 people, over 8 days:It was suitable for sensitive eyes and contact-lens wearersIn a test on 100 people, over 8 days:Over 94% agreed skin felt replenished and hydratedOver 94% agreed it gently removed every trace of long-wear makeupItem 2619519How To UseShake well before use.Apply to eyes and lips with a with a cotton pad.IngredientsAqua/Water/Eau, Isohexadecane, Caprylic/Capric Triglyceride, Propanediol, Maltodextrin, Chamomilla Recutita (Matricaria) Flower Extract, Sodium Chloride, Sodium Gluconate, Polyaminopropyl Biguanide, Citric Acid, Euphrasia Officinalis Extract, Phenoxyethanol, Sodium Hydroxide.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Shake well before use.Apply to eyes and lips with a with a cotton pad.",
+  "ingredients": [
+    "Aqua/Water/Eau",
+    "Isohexadecane",
+    "Caprylic/Capric Triglyceride",
+    "Propanediol",
+    "Maltodextrin",
+    "Chamomilla Recutita (Matricaria) Flower Extract",
+    "Sodium Chloride",
+    "Sodium Gluconate",
+    "Polyaminopropyl Biguanide",
+    "Citric Acid",
+    "Euphrasia Officinalis Extract",
+    "Phenoxyethanol",
+    "Sodium Hydroxide"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "cosmetics"
+    ],
+    "skin_type": [
+      "oily",
+      "combination",
+      "sensitive",
+      "normal"
+    ],
+    "finish": [
+      "long-wear",
+      "waterproof",
+      "liquid",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "fragrance-free",
+      "soothing"
+    ],
+    "product_type": [],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2043333",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

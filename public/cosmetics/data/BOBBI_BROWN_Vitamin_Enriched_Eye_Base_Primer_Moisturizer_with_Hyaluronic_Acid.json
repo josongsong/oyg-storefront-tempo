@@ -1,0 +1,600 @@
+{
+  "product_id": "pimprod2025027",
+  "product_url": "https://www.ulta.com/p/vitamin-enriched-eye-base-primer-moisturizer-with-hyaluronic-acid-pimprod2025027",
+  "extracted_at": "2025-09-23T05:39:03.858976+00:00",
+  "product_name": "BOBBI BROWNVitamin Enriched Eye Base Primer & Moisturizer with Hyaluronic Acid",
+  "brand": "BOBBI BROWN",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "66.00",
+  "availability": "in_stock",
+  "rating_avg": "4.1",
+  "rating_count": "66",
+  "images": [
+    "https://media.ulta.com/i/ulta/2583726?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2583726?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583726_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583726_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583726_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583726_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583726_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2583726cm_vid01/thumbs/46be7491-7848-4052-a390-90b25ec815fe?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingBobbi Brown Vitamin Enriched Eye Base Primer & Moisturizer all-in-one eye cream wakes up makeup by hydrating, nourishing, plumping, and softening the look of fine, dry lines. Eye primer and moisturizer creates a smooth base for seamless corrector and concealer application.",
+  "details": "DetailsBenefitsHyaluronic Acid and Shea Butter help to provide immediate, all-day, and long-term moisture, protecting the delicate eye skin barrierThe lightweight, fast-absorbing texture perfectly primes for corrector and concealer applicationThe nutrient-rich formula creates a cushiony, concealer-gripping finish that's never heavyVitamins B3 and C help to brighten undereyes instantly and reduce the look of dark circles over timeVitamin A helps to smooth fine lines around the eyes, while Caffeine de-puffs the undereye area over timeKey IngredientsHyaluronic AcidVitamins A, B3, B12 & CShea ButterCaffeineFormulated WithoutParabensPhthalatesSulfatesGlutenSulfitesItem 2583726How To UseAfter your morning cleansing routine, gently apply eye primer and moisturizer to undereyes with fingers using a gentle patting motion.IngredientsWater\\Aqua\\Eau, Dimethicone, Bis-Diglyceryl Polyacyladipate-2, Butylene Glycol, Ppg-2 Myristyl Ether Propionate, Cetyl Alcohol, Peg-40 Stearate, Butyrospermum Parkii (Shea) Butter, Rhodochrosite Extract, Ascorbyl Glucoside, Squalane, Trisiloxane, Glyceryl Stearate, Sorbitan Stearate, Epilobium Angustifolium Flower\\Leaf\\Stem Extract, Yeast Extract\\Faex\\Extrait De Levure, Daucus Carota Sativa (Carrot) Root Extract, Spinacia Oleracea (Spinach) Leaf Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Brassica Oleracea Italica (Broccoli) Extract, Algae Extract, Beta-Carotene, Sodium Hyaluronate, Tocopheryl Acetate, Panthenol, Magnesium Ascorbyl Phosphate, Caffeine, Folic Acid, Pyridoxine Dipalmitate, Cyanocobalamin, Niacinamide, Retinyl Palmitate, Phytosphingosine, Fragrance (Parfum), Glycerin, Caprylyl Glycol, Methyl Glucose Sesquistearate, Dimethicone Crosspolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Peg-20 Methyl Glucose Sesquistearate, C12-15 Alkyl Ethylhexanoate, Tetrasodium Edta, Sodium Hydroxide, Limonene, Citronellol, Geraniol, Linalool, Bht, Sorbic Acid, Chlorphenesin, Phenoxyethanol.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "After your morning cleansing routine, gently apply eye primer and moisturizer to undereyes with fingers using a gentle patting motion.",
+  "ingredients": [
+    "Water\\Aqua\\Eau",
+    "Dimethicone",
+    "Bis-Diglyceryl Polyacyladipate-2",
+    "Butylene Glycol",
+    "Ppg-2 Myristyl Ether Propionate",
+    "Cetyl Alcohol",
+    "Peg-40 Stearate",
+    "Butyrospermum Parkii (Shea) Butter",
+    "Rhodochrosite Extract",
+    "Ascorbyl Glucoside",
+    "Squalane",
+    "Trisiloxane",
+    "Glyceryl Stearate",
+    "Sorbitan Stearate",
+    "Epilobium Angustifolium Flower\\Leaf\\Stem Extract",
+    "Yeast Extract\\Faex\\Extrait De Levure",
+    "Daucus Carota Sativa (Carrot) Root Extract",
+    "Spinacia Oleracea (Spinach) Leaf Extract",
+    "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+    "Brassica Oleracea Italica (Broccoli) Extract",
+    "Algae Extract",
+    "Beta-Carotene",
+    "Sodium Hyaluronate",
+    "Tocopheryl Acetate",
+    "Panthenol",
+    "Magnesium Ascorbyl Phosphate",
+    "Caffeine",
+    "Folic Acid",
+    "Pyridoxine Dipalmitate",
+    "Cyanocobalamin",
+    "Niacinamide",
+    "Retinyl Palmitate",
+    "Phytosphingosine",
+    "Fragrance (Parfum)",
+    "Glycerin",
+    "Caprylyl Glycol",
+    "Methyl Glucose Sesquistearate",
+    "Dimethicone Crosspolymer",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Carbomer",
+    "Peg-20 Methyl Glucose Sesquistearate",
+    "C12-15 Alkyl Ethylhexanoate",
+    "Tetrasodium Edta",
+    "Sodium Hydroxide",
+    "Limonene",
+    "Citronellol",
+    "Geraniol",
+    "Linalool",
+    "Bht",
+    "Sorbic Acid",
+    "Chlorphenesin",
+    "Phenoxyethanol"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "foundation",
+      "primer",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "cream"
+    ],
+    "color": [
+      "brown"
+    ],
+    "ingredients": [
+      "niacinamide",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "special_features": [
+      "hydrating",
+      "soothing",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2025027",
+    "total_reviews": 66,
+    "reviews": [
+      {
+        "review_id": 552651198,
+        "rating": 5,
+        "headline": "I will use this product FOREVER...",
+        "comments": "I have been using this product for about 1 1/2 years. It is the only thing in my many years that has diminished puffiness and deep circles enough that I can let it absorb in and wear makeup over it flawlessly. Thank you Bobbi Brown. Please don't ever change or stop making this Eye Base.",
+        "nickname": "Ellen",
+        "location": "West Hills, CA",
+        "created_date": 1746029940936,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546796599,
+        "rating": 5,
+        "headline": "My Holy grail",
+        "comments": "This is, hands down, the best under eye primer i have  ever used. None if my concealer creases when inuse it. I will buy this over and over.",
+        "nickname": "Shyann",
+        "location": "Quincy, Ma",
+        "created_date": 1739726232672,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 544377810,
+        "rating": 2,
+        "headline": "Smells like citronella",
+        "comments": "It feels like any nice moisturizer, but it smells very strongly to me like a citronella candle. Also, it's pretty expensive for what it is. You're paying for the brand name.",
+        "nickname": "Laura",
+        "location": "MA",
+        "created_date": 1738031528038,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 543912210,
+        "rating": 5,
+        "headline": "Hydrates and concealer lasts all day.",
+        "comments": "I first purchased the face base, and wasn't sure if I needed the eye primer. The eye primer is very different from the face base and completes my makeup. I read some of the negative reviews and I disagree. Maybe they applied too much, you only need a very small amount. I also am an avid fan of One Size setting spray for it's matte finish and LONG LASTING WEAR.",
+        "nickname": "Dnice",
+        "location": "Phoenix",
+        "created_date": 1737675636848,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542654582,
+        "rating": 5,
+        "headline": "Very nice",
+        "comments": "This is lightweight and moisturizing. My concealer and powders lay nicely over top. This is my second purchase!",
+        "nickname": "Melissa",
+        "location": "Ca",
+        "created_date": 1736614073646,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542475434,
+        "rating": 1,
+        "headline": "Where's the product???",
+        "comments": "I just bought this thinking it was fhe bigger size cause it was half off. Its literally so small. I am ticked that the price and amount of product dont match at all. What a scam.",
+        "nickname": "Shay",
+        "location": "Georgia",
+        "created_date": 1736335040151,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 11
+      },
+      {
+        "review_id": 541650322,
+        "rating": 5,
+        "headline": "I will use this product FOREVER...",
+        "comments": "I purchased this for the first time last year, at the suggestion of an ULTA store consultant. I LOVE THIS PRODUCT!! I have found the best product I have ever used to reduce the look of my lifelong dark circles under my eyes. I am so thankful! I finally have a system for reducing circles under my makeup, as follows: Bobbi Brown eye base and let dry;  Bobbi Brown Skin Color Correcting Stick applied directly on the circle and feathered out with a brush; Estee Lauder Double Wear Foundation; and lastly, Tarte Creamy Concealer directly on and feathered out; and finally Laura Mercier Blur Setting Powder. I wanted to put this in my review to help others with the same concerns.",
+        "nickname": "Ellen",
+        "location": "West Hills, CA",
+        "created_date": 1734890635279,
+        "bottom_line": "Yes",
+        "helpful_votes": 17,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541052494,
+        "rating": 5,
+        "headline": "I will use this product FOREVER...",
+        "comments": "I have struggled with purple-dark circles under my eyes for my entire life. I have tried to understand the source and find a solution. FINALLY, someone at ULTA suggested BB Eye Base. Thank God! A combination of this product under the BB Color Corrector Stick, then EL foundation, then Tarte Creamy Concealer, and finally Laura Mercier Blur setting powder, I have found the perfect solution. I cannot tell you how thankful I am. Buy this and try it with an accurate color match under your foundation. Thank you Bobbi Brown!!",
+        "nickname": "Ellen",
+        "location": "West Hills, CA",
+        "created_date": 1734194497810,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536792441,
+        "rating": 1,
+        "headline": "Not worth it",
+        "comments": "This primer does absolutely nothing for me. There is no difference in my under eyes. When I apply concealer, it creases worse than when I don't apply anything. Waste of money. :(",
+        "nickname": "JE",
+        "location": "Westchester NY",
+        "created_date": 1729888578646,
+        "bottom_line": null,
+        "helpful_votes": 14,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 525989753,
+        "rating": 3,
+        "headline": "Not sure yet",
+        "comments": "I've been using it for a week now. Can't say I've seen any changes, but I didn't expect it. Goes on nicely,  isn't oily. I'll keep using it in hopes that it helps. As I've gotten older, my undereyes have started to get that sunken look. Here's hopin.",
+        "nickname": "Kelly",
+        "location": "Sheffield Village,  Ohio",
+        "created_date": 1722439651399,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 525834600,
+        "rating": 3,
+        "headline": "It's ok",
+        "comments": "It's ok - very expensive. It seems to hydrate initially, but then my under eye area is dry again shortly after. This will be my last purchase of this and the face base.",
+        "nickname": "AMY",
+        "location": "TX",
+        "created_date": 1722285291635,
+        "bottom_line": "No",
+        "helpful_votes": 5,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 513561971,
+        "rating": 3,
+        "headline": "Meh",
+        "comments": "I had high hopes for this eye cream after reading the reviews but it did not work for me. Zero hydration. I've been using it morning and night and my undereye feels dry within ten minutes of applying. Luckily I purchased this while it was on sale but sad I've already thrown away the packaging and can not return it.",
+        "nickname": "Fireheart",
+        "location": "Southside, AR",
+        "created_date": 1715515448706,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 486865831,
+        "rating": 5,
+        "headline": "Best under eye cream moisturizer on the market!",
+        "comments": "My husband and I use this daily. It glides on like butter but is not greasy. It really refreshes the skin under the eye and keeps it well hydrated",
+        "nickname": "Stacia",
+        "location": "Greenacres, Florida",
+        "created_date": 1704589404165,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 478619820,
+        "rating": 5,
+        "headline": "Makes makeup look amazing",
+        "comments": "I received Bobbi Brown primer and moisturiser ad a sample and could not believe how amazing this product is.  My makeup goes on so smooth it makes me look 5 years younger because I have dry skin and need a really good moisturiser.  Great product!",
+        "nickname": "MarilynFaith",
+        "location": "Milford, Ohio",
+        "created_date": 1698458095012,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 477435196,
+        "rating": 1,
+        "headline": "No",
+        "comments": "Your employees were advising to try Bobbi Brown  products so I did  Eye moisturizer made my eyes itchy and concealer was dry looking  No Thanks",
+        "nickname": "Jeanette",
+        "location": "Apple Valley Ca",
+        "created_date": 1697986504046,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 5
+      },
+      {
+        "review_id": 466020476,
+        "rating": 1,
+        "headline": "Don't recommend",
+        "comments": "It sucks under makeup, it makes it dry and flaky. When i tried wearing it without makeup it had a white cast and made me look ashy.",
+        "nickname": "Mel",
+        "location": "Fairbanks Alaska",
+        "created_date": 1690080282494,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 460221102,
+        "rating": 5,
+        "headline": "love love love bobbi brown!",
+        "comments": "I should work for bobbi brown the way I promote their products! I highly recommend this & the primer/ moisturizer base. A little goes a long way. I use bobbi brown pressed powder over this & it stays on all day. I work in a hot environment (no ac) and never have issues with my make up.",
+        "nickname": "Samantha",
+        "location": "Greenville, NC",
+        "created_date": 1686058096100,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 459430210,
+        "rating": 1,
+        "headline": "Not what I hoped…",
+        "comments": "With all the good reviews I had high hopes for this, but it made my undereye concealer look worse - patchy and creased. So it's a no for me and at this price I returned it.",
+        "nickname": "HeatherM",
+        "location": "Idaho",
+        "created_date": 1685197812728,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 456021443,
+        "rating": 4,
+        "headline": "BB eye base",
+        "comments": "Been a fan of face base for sometime & recently decided to try the eye base.  When used over my eye moisturizer I found my tinted moisturizer (BM complexion rescue) pilled. Used alone and it was a good primer NOT great as after about 4 hours there was some settling in lines.\n I find my eye moisturizer is more hydrating & longer lasting.  I have used the face base up to and around my eyes over my own eye moisturizer....better results.\n The extra step, the extra $, creasing and less moisturizing gives it a 3....may yield better results on someone younger and/or that follows up with BB foundation.",
+        "nickname": "Denise",
+        "location": "NY",
+        "created_date": 1682961267028,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 452403682,
+        "rating": 5,
+        "headline": "Great for under eye wrinkles and creases",
+        "comments": "It actually works! I had creases under my eyes after applying concealer with primer. I used this one time and I saw results! I applied this moisturizer before using primer and concealer and my creases were very minimum. I will continue using",
+        "nickname": "Kari",
+        "location": "Dallas, TX",
+        "created_date": 1681485004347,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 66,
+      "pages_total": 4,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2025027/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "nice to use before applying concealer",
+              "count": 1
+            },
+            {
+              "label": "Daytime eye cream",
+              "count": 1
+            },
+            {
+              "label": "Under makeup or on it's own.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Daytime eye cream",
+            "Under makeup or on it's own.",
+            "nice to use before applying concealer"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "none",
+              "count": 1
+            },
+            {
+              "label": "Price isn't awesome.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Price isn't awesome.",
+            "none"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "50+",
+              "count": 1
+            },
+            {
+              "label": "Sixty-eight year old prior model",
+              "count": 1
+            },
+            {
+              "label": "A momma to an autistic sweet adorable little boy",
+              "count": 1
+            },
+            {
+              "label": "Dry under-eyes. Dark circles.",
+              "count": 1
+            },
+            {
+              "label": "Mid-30's.",
+              "count": 1
+            },
+            {
+              "label": "Tired. Always tired. Very happy but so tired.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "50+",
+            "A momma to an autistic sweet adorable little boy",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Dry under-eyes. Dark circles.",
+            "Energetic/Active",
+            "Mid-30's.",
+            "Sixty-eight year old prior model",
+            "Stylish/Fashionista",
+            "Tired. Always tired. Very happy but so tired.",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "soft and creamy",
+              "count": 1
+            },
+            {
+              "label": "Very creamy and softens fine lines",
+              "count": 1
+            },
+            {
+              "label": "Lightweight, not oily/greasy",
+              "count": 1
+            },
+            {
+              "label": "Hydrating, softening",
+              "count": 1
+            },
+            {
+              "label": "Quickly absorbed",
+              "count": 1
+            },
+            {
+              "label": "Creamy and a little goes a long way.",
+              "count": 1
+            },
+            {
+              "label": "For lids to brows, not just under-eyes.",
+              "count": 1
+            },
+            {
+              "label": "Nice jar.",
+              "count": 1
+            },
+            {
+              "label": "Works well for sensitive under-eyes.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Creamy and a little goes a long way.",
+            "For lids to brows, not just under-eyes.",
+            "Hydrating, softening",
+            "Lightweight, not oily/greasy",
+            "Nice jar.",
+            "Quickly absorbed",
+            "Very creamy and softens fine lines",
+            "Works well for sensitive under-eyes.",
+            "soft and creamy"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        8,
+        4,
+        4,
+        6,
+        44
+      ],
+      "review_histogram": [
+        8,
+        4,
+        4,
+        6,
+        44
+      ],
+      "rating_count": 66,
+      "review_count": 66,
+      "average_rating": 4.12,
+      "recommended_ratio": 0.86,
+      "media": [
+        {
+          "id": "395038453",
+          "review_id": 395038452,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mjqevpcr9mw6kkt4bit6.jpg",
+          "headline": "Works for sensitive under-eyes!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mommy's tired. So, SO very tired.",
+          "created_date": 1643025692288
+        },
+        {
+          "id": "373290246",
+          "review_id": 373290182,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xpgkzzsrg9yxzpjpygbn.jpg",
+          "headline": "HG. Best scent, so emollient without greasiness, perfection",
+          "rating": 5,
+          "helpful_votes": 3,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Maltomeel",
+          "created_date": 1627569407770
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I don't think I feel or appear to be more awake when I use this. But not sure what could really help 2 hours of sleep besides MORE SLEEP (…and possibly not getting kicked by a 5 year old all night who wakes up running and jumping onto your bed after you've only slept an hour or two but he tosses and turns all night keeping you from falling into a deep sleep.) Anyways, it keeps my eye area looking more fresh than cakey when I'm layering on the products to hide my genetic-plus lack of sleep-dark circles. My under eyes are so sensitive to eye creams. Out of all of the jars and tubes of eye creams I have in my cabinet, only a few do not cause red bumps under my eyes. This is one of those that do not cause red bumps. It's quite amazing that it doesn't, considering it's a \"primer\" - I was sure it wouldn't work out for me. But I had tried a tiny jar of it awhile back and knew I needed to buy the full size, and I'm very happy that I did. I do use this over my eye cream after that soaks in. Foundation and/or concealer looks nice over it and doesn't do anything weird like separating the makeup. It keeps my under eyes from looking too dry, as I have super dry under eyes when left without products. It's quite creamy, almost a liquid-like cream, and a pale custard-cream shade. The jar itself is very nice quality, a little weight to it, with thick plastic (?) and their signature lid. I dropped it once and it didn't break! I think it's worth it, if you have super dry under eyes like me and need more than just a layer of eye cream to keep makeup looking good over it…it's definitely worth trying at least!",
+        "headline": "Works for sensitive under-eyes!",
+        "rating": 5,
+        "ugc_id": 395038452
+      },
+      "faceoff_negative": {
+        "comments": "I live for skin care / makeup . I have too much but never enough ! Finally got Bobbi's entire line with high hopes . Was not happy with outcome :( . As for this product …. It's not bad but it does nothing special . I would not purchase at full price or again . I don't understand why it's so hyped :(((( I have oily / combo skin . I was SOOOOO excited for Bobbi's line but none of her products have worked well with my skin / or have done anything special .",
+        "headline": "Nothing special :(",
+        "rating": 2,
+        "ugc_id": 393258137
+      },
+      "name": "Vitamin Enriched Eye Base Primer & Moisturizer with Hyaluronic Acid",
+      "native_review_count": 66,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

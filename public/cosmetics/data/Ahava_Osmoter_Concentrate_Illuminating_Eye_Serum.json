@@ -1,0 +1,662 @@
+{
+  "product_id": "pimprod2049794",
+  "product_url": "https://www.ulta.com/p/osmoter-concentrate-illuminating-eye-serum-pimprod2049794",
+  "extracted_at": "2025-09-23T04:45:50.094993+00:00",
+  "product_name": "AhavaOsmoter Concentrate Illuminating Eye Serum",
+  "brand": "Ahava",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Serums"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "serums"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "64.00",
+  "availability": "in_stock",
+  "rating_avg": "4.5",
+  "rating_count": "23",
+  "images": [
+    "https://media.ulta.com/i/ulta/2634895?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2634895?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2634895_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2634895_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2634895_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2634895_alt04?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsVeganAHAVA's Osmoter Concentrate Illuminating Eye Serum is clinically proven to supercharge the skin's hydration, detox and energy activities. Powered with Caffeine, Persian Silk Bark and White Bird of Paradise extracts, it helps reduce the appearance of dark circles and relax puffiness.",
+  "details": "DetailsBenefitsReduces the appearance of dark circles and puffinessEnhances luminosityFragrance freeSuitable for all skin typesResearch ResultsAfter just four weeks, 78% of women noticed a reduction in under-eye puffiness,81% reported a more awake and refreshed look around the eyes.FeaturesA triple concentration of Osmoter™, our signature blend of hydrating Dead Sea mineralsOsmoter™ stimulates natural, own-to-skin production of hyaluronic acid, collagen, and other compounds and ensures your skin’s health, strength & youthful appearance.Item 2634895How To UseApply around the eyes day and night. Follow with eye cream.IngredientsAqua (Mineral Spring Water), Glycerin, Maris Aqua (Dead Sea Water/Osmoter), PVP, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylyl Methicone, Glycine, Alanine, Lecithin, Creatine, Caffeine, Palmitoyl Tetrapeptide-7, Palmitoyl Oligopeptide, Chrysin, Palmitoyl Carnitine, Darutoside, Phenoxyethanol, Isohexadecane, Isodecyl Neopentanoate, Sodium Lactate, Hydrogenated Polyisobutene, PEG-12 Dimethicone/PPG-20 Crosspolymer, Silica, Disodium Lauriminodipropionate Tocopheryl Phosphates, Urea, Ethylhexylglycerin, Saccharide Hydrolysate, Benzotriazolyl Dodecyl P-Cresol, Magnesium Aspartate, Sodium Benzoate, Titanium Dioxide (CI 77891), Aminomethyl Propanol, Steareth-20, Potassium Sorbate, Tin Oxide, Sodium Citrate, Citric Acid, Trisodium EDTA, N-Hydroxysuccinimide, Tocopherol, Benzoic Acid, Sodium Metabisulfite, Dehydroacetic Acid, Simmondsia Chinensis (Jojoba) Seed Extract, Hamamelis Virginiana (Witch Hazel) Leaf Water, Albizia Julibrissin Bark Extract, Bisabolol, Aloe Barbadensis Leaf Juice, Allantoin, Olea Europaea (Olive) Fruit Oil, Strelitzia Nicolai Seed Aril Extract, Cucumis Sativus (Cucumber) Fruit Extract.",
+  "how_to_use": "Apply around the eyes day and night. Follow with eye cream.",
+  "ingredients": [
+    "Aqua (Mineral Spring Water)",
+    "Glycerin",
+    "Maris Aqua (Dead Sea Water/Osmoter)",
+    "PVP",
+    "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+    "Caprylyl Methicone",
+    "Glycine",
+    "Alanine",
+    "Lecithin",
+    "Creatine",
+    "Caffeine",
+    "Palmitoyl Tetrapeptide-7",
+    "Palmitoyl Oligopeptide",
+    "Chrysin",
+    "Palmitoyl Carnitine",
+    "Darutoside",
+    "Phenoxyethanol",
+    "Isohexadecane",
+    "Isodecyl Neopentanoate",
+    "Sodium Lactate",
+    "Hydrogenated Polyisobutene",
+    "PEG-12 Dimethicone/PPG-20 Crosspolymer",
+    "Silica",
+    "Disodium Lauriminodipropionate Tocopheryl Phosphates",
+    "Urea",
+    "Ethylhexylglycerin",
+    "Saccharide Hydrolysate",
+    "Benzotriazolyl Dodecyl P-Cresol",
+    "Magnesium Aspartate",
+    "Sodium Benzoate",
+    "Titanium Dioxide (",
+    "Aminomethyl Propanol",
+    "Steareth-20",
+    "Potassium Sorbate",
+    "Tin Oxide",
+    "Sodium Citrate",
+    "Citric Acid",
+    "Trisodium EDTA",
+    "N-Hydroxysuccinimide",
+    "Tocopherol",
+    "Benzoic Acid",
+    "Sodium Metabisulfite",
+    "Dehydroacetic Acid",
+    "Simmondsia Chinensis (Jojoba) Seed Extract",
+    "Hamamelis Virginiana (Witch Hazel) Leaf Water",
+    "Albizia Julibrissin Bark Extract",
+    "Bisabolol",
+    "Aloe Barbadensis Leaf Juice",
+    "Allantoin",
+    "Olea Europaea (Olive) Fruit Oil",
+    "Strelitzia Nicolai Seed Aril Extract",
+    "Cucumis Sativus (Cucumber) Fruit Extract"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "serum",
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "all skin types"
+    ],
+    "finish": [
+      "sheer",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "peptides",
+      "mineral"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "special_features": [
+      "vegan",
+      "natural",
+      "fragrance-free",
+      "hydrating",
+      "brightening",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2049794",
+    "total_reviews": 23,
+    "reviews": [
+      {
+        "review_id": 258327455,
+        "rating": 4,
+        "headline": "Seems to work",
+        "comments": "Seems to moisturize the eye area. Cant say if it helps with wrinkles.",
+        "nickname": "Sinxtc",
+        "location": "Portland, OR",
+        "created_date": 1571106102894,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 240750774,
+        "rating": 5,
+        "headline": "It Works Give It Time",
+        "comments": "I use this in my am and pm skin care routine x 4 months. Hydrates and slowly fades dark circles. I also use an Ahava eye cream after moisturizing.",
+        "nickname": "Makeup Jedi Master",
+        "location": "Cincinnati",
+        "created_date": 1561167568855,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 218374718,
+        "rating": 4,
+        "headline": "I think it works...",
+        "comments": "I haven't been using this product for too long, but it seems to be effective.  It doesn't bother my eyes which is cool, but it is hard to get used to the applicator.  I'll continue to use it, but I don't know that I'll stand in line to buy it again.  Maybe it'll really wow me in the near future one day when I wake up really puffy or something and I'll change my mind.",
+        "nickname": "zygoats",
+        "location": "West Covina, CA",
+        "created_date": 1544299673033,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 211643517,
+        "rating": 4,
+        "headline": "I see a difference",
+        "comments": "I'm giving 4 stars since I don't have terrible wrinkles or bags so I can't say it works 100%. I just feel as though my under eyes are hydrated. I do like how quickly it absorbs though!",
+        "nickname": "Jessica",
+        "location": "Brea, CA",
+        "created_date": 1539113788006,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190427532,
+        "rating": 5,
+        "headline": "Love, love, love this!",
+        "comments": "Even though this product is expensive it lasts at least 4 months! My eyes look great! Less puffiness and less darkness.",
+        "nickname": "Miz",
+        "location": "Bensalem",
+        "created_date": 1522134000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190427514,
+        "rating": 5,
+        "headline": "WOW!",
+        "comments": "I received a sample of this product, and promptly gave it to my husband since I have an eye cream..and now I wish i hadn't lol! The second he put it on his eyes, they looked instantly younger! Like holy cow! We had a fun Thanksgiving of drinking and food and both of our skin showed it. This took the puffiness down, considerably. Smoothed out fine lines, and brightened his under eye area. I've used a lot of under eye creams and this just blew me away with how quickly effective it is. We are both super happy with this, and will buy the full size :)",
+        "nickname": "NunuRoo",
+        "location": "Ohio",
+        "created_date": 1511596800000,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190427523,
+        "rating": 5,
+        "headline": "Best eye serum",
+        "comments": "I love that this is more of a serum than a cream. It doesn't make my eyes feel oily and soothes the eye area. It helps lessen the puffiness of my eyes. Very pleased!",
+        "nickname": "lg",
+        "location": "WI",
+        "created_date": 1505545200000,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190427513,
+        "rating": 5,
+        "headline": "Great product",
+        "comments": "Morning and evening",
+        "nickname": "Atika",
+        "location": "Orange Coiunty, CA",
+        "created_date": 1498633200000,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 190427531,
+        "rating": 4,
+        "headline": "I like the new applicator",
+        "comments": "I have been using this product for a little over a year.  I like it.  It helps me look more rested.  It used to be in a glass jar with an eye dropper.  I was never sure how to get it all out of the jar.  Now it is in a plastic tube with 3 stainless steel ball bearings to help distribute the product.  The cold steel feels soothing on my under eyes and the new dispenser does a great job getting every last drop of product out of the tube.",
+        "nickname": "Jayne",
+        "location": "Portland",
+        "created_date": 1487059200000,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 190427508,
+        "rating": 4,
+        "headline": "Definitely re-purchase",
+        "comments": "I recently bought my second bottle (old packaging) of this serum. I use it at night only since it is heavier and greasy. It is pricey but I  buy it when a coupon is available. You only need a small amount so it will last for some time.",
+        "nickname": "Dulce",
+        "location": "Palmdale, Ca",
+        "created_date": 1480752000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 190427522,
+        "rating": 5,
+        "headline": "Yes",
+        "comments": "I love anything Ahava.",
+        "nickname": "Penn mom",
+        "location": "Tx",
+        "created_date": 1475996400000,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 190427507,
+        "rating": 5,
+        "headline": "Love it!!!",
+        "comments": "I apply around my eyes every morning before makeup and every night before bed.  I started noticing a difference on the 3rd day.  Fantastic product.  I will definitely be trying more from Ahava.",
+        "nickname": "KB",
+        "location": "Houston, TX",
+        "created_date": 1461222000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190427521,
+        "rating": 3,
+        "headline": "didn't work for me",
+        "comments": "I was looking for an eye cream that would hydrate smoothen some fine lines (I'm 26). I don't really have under eye dark circles or bags, maybe that's why the product didn't really do much for me, well, at least it didn't make it worse. \nI didn't like the package at all , you can't even tell how much product is left,super inconvenient.",
+        "nickname": "natalya_altra",
+        "location": "Alexandria,VA",
+        "created_date": 1459666800000,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 5
+      },
+      {
+        "review_id": 190427506,
+        "rating": 5,
+        "headline": "My new favorite",
+        "comments": "I have been using this since September and I love it! It isn't greasy and it is very effective!",
+        "nickname": "Beth",
+        "location": "Dallas, TX",
+        "created_date": 1459666800000,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190427480,
+        "rating": 3,
+        "headline": "Meh",
+        "comments": "This product is so-so. It does not feel moisturizing enough. I have to end up putting another eye cream over it. Also, it pills under makeup, so you can only use it at night. I've given it 3 weeks with no noticeable results...it's going back today.",
+        "nickname": "Suzy",
+        "location": "Marietta, GA",
+        "created_date": 1455264000000,
+        "bottom_line": "No",
+        "helpful_votes": 6,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 190427512,
+        "rating": 5,
+        "headline": "This is a good one!",
+        "comments": "I received a sample packet of this product and was pleased with the results after only one or two uses. I have sensitive skin, especially around my eyes, and most other eye products I've tried usually leave my eyes puffy and red/irritated by morning. Not this one. After a week of use, my eye area appeared less puffy and concealer applied smoothly. Give it a try!",
+        "nickname": "rizzobellah",
+        "location": "Livermore, Ca",
+        "created_date": 1449648000000,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 190427479,
+        "rating": 5,
+        "headline": "Eye Perfection",
+        "comments": "This is perfect around the eyes.  Keeps the area from drying out!  little bit goes a long ways",
+        "nickname": "Sandy",
+        "location": "Mobile, Al",
+        "created_date": 1449648000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190427505,
+        "rating": 5,
+        "headline": "Saw immediate effects",
+        "comments": "My eyes looked refreshed immediately after applying",
+        "nickname": "Katie",
+        "location": "chicago",
+        "created_date": 1433574000000,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 190427470,
+        "rating": 3,
+        "headline": "Just Not For Me",
+        "comments": "I originally purchased this product after reading many reviews on how life changing it was for under eye circles and bags, but after almost 2 months of using this serum, not much has changed. It was a bit of a stretch for to try this because I'm only in my 20s but I purchased this despite most users being 20-30 years my senior. I was hoping it would be moisturizing enough to help plump up my under eye area and make my dark circles less noticeable but I guess I'm just not the right candidate for this product. If it's still around in the future I would give it a second go though.",
+        "nickname": "rissriss713",
+        "location": "Mesa, AZ",
+        "created_date": 1433574000000,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 6
+      },
+      {
+        "review_id": 190427504,
+        "rating": 5,
+        "headline": "perfect",
+        "comments": "So happy to see obvious improvement",
+        "nickname": "mary c",
+        "location": "ft Lauderdale",
+        "created_date": 1429686000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 23,
+      "pages_total": 2,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2049794/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "10 Minutes",
+              "count": 3
+            },
+            {
+              "label": "30 Minutes",
+              "count": 3
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dark Circles",
+              "count": 6
+            },
+            {
+              "label": "Puffiness",
+              "count": 6
+            },
+            {
+              "label": "Tired Eyes",
+              "count": 5
+            },
+            {
+              "label": "Daily Use",
+              "count": 5
+            },
+            {
+              "label": "Wrinkles",
+              "count": 4
+            },
+            {
+              "label": "Loose Skin",
+              "count": 1
+            },
+            {
+              "label": "On-the-go",
+              "count": 1
+            },
+            {
+              "label": "Women",
+              "count": 1
+            },
+            {
+              "label": "Enlarged Pores",
+              "count": 1
+            },
+            {
+              "label": "Fine Lines/Wrinkles",
+              "count": 1
+            },
+            {
+              "label": "Redness/ Blotchiness",
+              "count": 1
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 1
+            },
+            {
+              "label": "Uneven Skin Tone",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Daily Use",
+            "Dark Circles",
+            "Enlarged Pores",
+            "Fine Lines/Wrinkles",
+            "Loose Skin",
+            "Men",
+            "Oily Skin",
+            "On-the-go",
+            "Puffiness",
+            "Redness/ Blotchiness",
+            "Sensitive Skin",
+            "Tired Eyes",
+            "Uneven Skin Tone",
+            "Weekly Use",
+            "Women",
+            "Wrinkles"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Too Greasy",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Irritates Eyes",
+            "Irritates Skin",
+            "Not Effective",
+            "Too Dry",
+            "Too Greasy",
+            "Unpleasant Scent"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brand Buyer",
+              "count": 8
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 6
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Brand Buyer",
+            "Budget Shopper",
+            "Survivalist / Minimalist"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Effective",
+              "count": 12
+            },
+            {
+              "label": "Lightweight",
+              "count": 8
+            },
+            {
+              "label": "Gentle",
+              "count": 6
+            },
+            {
+              "label": "Soothing",
+              "count": 5
+            },
+            {
+              "label": "Good Value",
+              "count": 4
+            },
+            {
+              "label": "Smells Great",
+              "count": 4
+            },
+            {
+              "label": "Easy To Use",
+              "count": 3
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 2
+            },
+            {
+              "label": "Moisturizes",
+              "count": 1
+            },
+            {
+              "label": "Softens Skin",
+              "count": 1
+            },
+            {
+              "label": "Soothes Skin",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Worth every penny",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Easy To Use",
+            "Effective",
+            "Gentle",
+            "Good Value",
+            "Hydrating",
+            "Lightweight",
+            "Moisturizes",
+            "Non-Greasy",
+            "Organic",
+            "Smells Great",
+            "Softens Skin",
+            "Soothes Skin",
+            "Soothing",
+            "Worth every penny"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dry",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        0,
+        0,
+        3,
+        5,
+        15
+      ],
+      "review_histogram": [
+        0,
+        0,
+        3,
+        5,
+        15
+      ],
+      "rating_count": 23,
+      "review_count": 23,
+      "average_rating": 4.52,
+      "recommended_ratio": 0.88,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I used this the first time hoping that it would just help. I noticed a remarkable change in the first 24 hours. I have had bags under both eyes for quite some time and nothing helped.One eye was worse than the other. I have used many expensive products, and nothing helped.I have used this wonderful product for 10 days and one eye is completely changed with no bags and the other is almost gone. I will definately keep using this product!! It has taken years off my age.",
+        "headline": "Totally Awesome",
+        "rating": 5,
+        "ugc_id": 190427511
+      },
+      "faceoff_negative": {
+        "comments": "This product is so-so. It does not feel moisturizing enough. I have to end up putting another eye cream over it. Also, it pills under makeup, so you can only use it at night. I've given it 3 weeks with no noticeable results...it's going back today.",
+        "headline": "Meh",
+        "rating": 3,
+        "ugc_id": 190427480
+      },
+      "native_review_count": 23,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

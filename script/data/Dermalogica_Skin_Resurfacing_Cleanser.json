@@ -1,0 +1,122 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/skin-resurfacing-cleanser-prod2152643",
+  "extracted_at": "2025-09-23T05:10:24.520151+00:00",
+  "product_name": "DermalogicaSkin Resurfacing Cleanser",
+  "brand": "Dermalogica",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "49.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "996",
+  "images": [
+    "https://media.ulta.com/i/ulta/2152643?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2152643?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152643_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152643_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152643_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152643_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152643_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152643_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152643_alt07?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackDermalogica's Skin Resurfacing Cleanser is a dual-action, highly active, exfoliating lactic acid cleanser that achieves superior smoothness and ultra-clean skin after just one use.",
+  "details": "DetailsBenefitsConvenient two-in-one cleanser and exfoliantHighly active lactic acid concentrate that retexturizes skin suffering from visible signs of aging by removing dulling surface debris and accelerating cell renewalDaily use of this silky cleanser dramatically improves skin texture and properly prepares for maximum penetration of AGE Smart productsKey IngredientsLactic Acid: an alpha hydroxy acid that exfoliates surface cells leaving a smoother, polished surface that is receptive to subsequent active ingredientsVitamin E: antioxidant that conditions and enhances skin softness while fortifying skin's natural moisture barrierRose Flower Oil: calms skin sensitivityItem 2152643How To UseFollowing the application of PreCleanse, lightly lather in hands and apply to damp face and throat morning and evening, massaging with light, upward strokes for at least 30 seconds, avoiding the eye area. Reduce to one use per day if any sensitivity develops. Follow with Dynamic Skin Recovery SPF 30 when used in the morning.IngredientsWater/Aqua/Eau, Sodium C14-16 Olefin Sulfonate, Lactic Acid, PPG-2 Hydroxyethyl Cocamide, Sodium Cocoamphoacetate, Acrylates/Dimethylaminoethyl Methacrylate Copolymer, Glycol Distearate, Propanediol, Helianthus Annuus (Sunflower) Seed Oil, Aniba Rosodora (Rosewood) Wood Oil, Pelargonium Graveolens Flower Oil, Eugenia Caryophyllus (Clove) Leaf Oil, Rosa Damascena Flower Oil, Eugenia Caryophyllus (Clove) Bud Oil, Citrus Limon (Lemon) Peel Oil, Cymbopogon Schoenanthus Oil, Cymbopogon Martini Oil, Cupressus Sempervirens Leaf Oil, Citrus Limon (Lemon) Peel Extract, Eucalyptus Globulus Leaf Oil, Tocopheryl Acetate, Tocopherol, Titanium Dioxide (CI 77891), Cocamidopropyl Hydroxysultaine, Pentylene Glycol, Caprylyl Glycol, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Tetrasodium Glutamate Diacetate, Sodium Hydroxide, Citric Acid, Benzalkonium Chloride, Linalool, Eugenol, Limonene, Citronellol, Geraniol.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Following the application of PreCleanse, lightly lather in hands and apply to damp face and throat morning and evening, massaging with light, upward strokes for at least 30 seconds, avoiding the eye area. Reduce to one use per day if any sensitivity develops. Follow with Dynamic Skin Recovery SPF 30 when used in the morning.",
+  "ingredients": [
+    "Water/Aqua/Eau",
+    "Sodium C14-16 Olefin Sulfonate",
+    "Lactic Acid",
+    "PPG-2 Hydroxyethyl Cocamide",
+    "Sodium Cocoamphoacetate",
+    "Acrylates/Dimethylaminoethyl Methacrylate Copolymer",
+    "Glycol Distearate",
+    "Propanediol",
+    "Helianthus Annuus (Sunflower) Seed Oil",
+    "Aniba Rosodora (Rosewood) Wood Oil",
+    "Pelargonium Graveolens Flower Oil",
+    "Eugenia Caryophyllus (Clove) Leaf Oil",
+    "Rosa Damascena Flower Oil",
+    "Eugenia Caryophyllus (Clove) Bud Oil",
+    "Citrus Limon (Lemon) Peel Oil",
+    "Cymbopogon Schoenanthus Oil",
+    "Cymbopogon Martini Oil",
+    "Cupressus Sempervirens Leaf Oil",
+    "Citrus Limon (Lemon) Peel Extract",
+    "Eucalyptus Globulus Leaf Oil",
+    "Tocopheryl Acetate",
+    "Tocopherol",
+    "Titanium Dioxide (",
+    "Cocamidopropyl Hydroxysultaine",
+    "Pentylene Glycol",
+    "Caprylyl Glycol",
+    "Caprylic/Capric Triglyceride",
+    "Ethylhexylglycerin",
+    "Tetrasodium Glutamate Diacetate",
+    "Sodium Hydroxide",
+    "Citric Acid",
+    "Benzalkonium Chloride",
+    "Linalool",
+    "Eugenol",
+    "Limonene",
+    "Citronellol",
+    "Geraniol"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "finish": [
+      "matte",
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "lactic-acid"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "spf",
+      "exfoliating"
+    ],
+    "skin_type": []
+  },
+  "reviews": {
+    "product_id": "pimprodskin-resurfacing-cleanser-prod2152643",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

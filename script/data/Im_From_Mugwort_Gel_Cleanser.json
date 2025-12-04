@@ -1,0 +1,142 @@
+{
+  "product_id": "pimprod2051771",
+  "product_url": "https://www.ulta.com/p/mugwort-gel-cleanser-pimprod2051771",
+  "extracted_at": "2025-09-23T04:38:42.094239+00:00",
+  "product_name": "I'm FromMugwort Gel Cleanser",
+  "brand": "I'm From",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "18.00",
+  "sale_price": "12.60",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "30",
+  "images": [
+    "https://media.ulta.com/i/ulta/2642149?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2642149?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642149_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642149_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642149_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642149_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2642149_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeGive BackThe Mugwort Gel Cleanser from I'm From transforms in to a gentle foam cleanser that effectively removes makeup, sunscreen, and impurities while soothing even the most sensitive skin. Infused with Mugwort Extract, it penetrates deep into pores to balance sebum production and reduces breakouts.",
+  "details": "DetailsBenefitsLeaves skin feeling fresh and dewy without any tightnessStarts off as a gel but transforms into a satisfying foam with waterKey IngredientsMugwort Extract - contains antimicrobial properties that can help fight off bacteria and fungi that cause skin infections, such as acne and eczemaItem 2642149How To UseWet your face before lathering up a dollop of cleanser between damp hands. Gently massage over your entire face, and then rinse off with lukewarm water.IngredientsArtemisia Princeps Extract(60%), Water, Sodium C14-16 Olefin Sulfonate, Lauryl Hydroxysultaine, Glycerin, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Tromethamine, Hexadecene, Tetradecene, Sodium Sulfate, Artemisia Vulgaris Oil, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Disodium EDTA, Curcuma Longa (Turmeric) Root Extract, Dextrin, Theobroma Cacao (Cocoa) Extract, Corallina Officinalis Extract.",
+  "how_to_use": "Wet your face before lathering up a dollop of cleanser between damp hands. Gently massage over your entire face, and then rinse off with lukewarm water.",
+  "ingredients": [
+    "Artemisia Princeps Extract(60%)",
+    "Water",
+    "Sodium C14-16 Olefin Sulfonate",
+    "Lauryl Hydroxysultaine",
+    "Glycerin",
+    "2-Hexanediol",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Caprylyl Glycol",
+    "Sodium Methyl Cocoyl Taurate",
+    "Sodium Chloride",
+    "Tromethamine",
+    "Hexadecene",
+    "Tetradecene",
+    "Sodium Sulfate",
+    "Artemisia Vulgaris Oil",
+    "Melia Azadirachta Leaf Extract",
+    "Melia Azadirachta Flower Extract",
+    "Ocimum Sanctum Leaf Extract",
+    "Disodium EDTA",
+    "Curcuma Longa (Turmeric) Root Extract",
+    "Dextrin",
+    "Theobroma Cacao (Cocoa) Extract",
+    "Corallina Officinalis Extract"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/fd637cfe-d750-484f-b82d-b81c88ecb2b1/480.webp",
+      "https://content.syndigo.com/asset/fd637cfe-d750-484f-b82d-b81c88ecb2b1/480.webp",
+      "https://content.syndigo.com/asset/f64f5f50-0b0a-410f-8cf0-e9983f197191/480.webp",
+      "https://content.syndigo.com/asset/9c2b9f7d-e9ff-44c4-84b7-7c4d28a05537/480.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "sensitive",
+      "acne-prone"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "gel",
+      "oil",
+      "foam"
+    ],
+    "ingredients": [
+      "sulfate-free"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2051771",
+    "total_reviews": 30,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        12,
+        18
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        12,
+        18
+      ],
+      "rating_count": 30,
+      "review_count": 30,
+      "average_rating": 4.6,
+      "recommended_ratio": 0.0,
+      "media": [],
+      "name": "Mugwort Gel Cleanser",
+      "native_review_count": 0,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 30,
+      "locale": "en_US"
+    }
+  }
+}

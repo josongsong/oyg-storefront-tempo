@@ -1,0 +1,672 @@
+{
+  "product_id": "pimprod2036490",
+  "product_url": "https://www.ulta.com/p/rose-renewal-tri-peptide-ceramide-cleanser-pimprod2036490",
+  "extracted_at": "2025-09-23T05:05:22.313996+00:00",
+  "product_name": "Flora & NoorRose Renewal Tri-Peptide and Ceramide Cleanser",
+  "brand": "Flora & Noor",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "28.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "69",
+  "images": [
+    "https://media.ulta.com/i/ulta/2606287?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2606287?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606287_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606287_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606287_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606287_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2606287_vid01/thumbs/d8e393ff-3c16-463d-b63b-bcb65ee6309d?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackThe Flora & Noor Rose Renewal Cleanser gently dissolves impurities and traces of makeup, leaving skin clean and balanced with replenishing ceramides, moisture-boosting peptides, aloe, hyaluronic acid, and antioxidant-rich rose water and hibiscus.",
+  "details": "DetailsBenefitsGently & effectively cleanses skin with vegan ceramides to support & replenish your skin barrierMade for sensitive skinImproves skin's elasticityBoosts skin's radiance while reducing the appearance of fine lines and wrinkles100% VeganHelps Treat ECZEMA and PSORIASIS!Key IngredientsVegan Ceramides - fortifies the moisture barrier, leaving skin looking healthy, soft, and plump with moisture.Rose Water - Full of antioxidants, anti-inflammatory, has antibacterial properties and preps skin by tightening and reducing the appearance of your pores.Tri-peptides - stimulates collagen and elastin by increasing skin firmness and reducing the appearance of fine lines and wrinklesHibiscus - A natural source of alpha-hydroxy acids (AHAs). This makes hibiscus naturally exfoliate your skin and reduce hyperpigmentation and comedones. This also helps to reduce blackheads & improve the texture of the skin.Hydrating Aloe Barbadensis Leaf Juice - A humectant rich in vitamins, antioxidants, minerals, and amino acids.Formulated WithoutParabensSulfatesAlcoholFormaldehydesFormaldehyde-releasing agentsPhthalatesRetinyl PalmitateOxybenzoneCoal TarHydroquinoneSLS & SLESTriclocarbanTriclosanItem 2606287How To UsePump cleanser into hands and work into lather. Massage into skin in a gentle, circular motion. Rinse thoroughly and pat dry without rubbing. Cleanse morning and/or evening.IngredientsWater, Cocamidopropyl Betaine, Aloe Barbadensis Leaf Juice, Sodium Methyl 2-Sulfolaurate, Glycerin, Sodium Sulfate, Disodium 2-Sulfolaurate, Glyceryl Caprylate/Caprate, Potassium Sorbate, Sodium Benzoate, Citric Acid, Ethylhexylglycerin, Cymbopogon Schoenanthus Oil, Monarda Fistulosa Oil, Pelargonium Graveolens Flower Oil, Rosa Damascena Flower Extract, Rosa Damascena Flower Water, C12-15 Alkyl Benzoate, Salicylic Acid, Sodium polyacrylate, Tanacetum Annuum Flower/Leaf/Stem Oil, Ceramide NP, Rosa Damascena Flower Wax, Synthetic Beeswax, Tocopheryl Acetate, Hydrogenated Lecithin, Polyglyceryl-10 Stearate, Sucrose Stearate, Phenoxyethanol, Sodium Hyaluronate, Ubiquinone, Hibiscus Sabdariffa Flower Extract, Palmitoyl Tripeptide-5.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Pump cleanser into hands and work into lather. Massage into skin in a gentle, circular motion. Rinse thoroughly and pat dry without rubbing. Cleanse morning and/or evening.",
+  "ingredients": [
+    "Water",
+    "Cocamidopropyl Betaine",
+    "Aloe Barbadensis Leaf Juice",
+    "Sodium Methyl 2-Sulfolaurate",
+    "Glycerin",
+    "Sodium Sulfate",
+    "Disodium 2-Sulfolaurate",
+    "Glyceryl Caprylate/Caprate",
+    "Potassium Sorbate",
+    "Sodium Benzoate",
+    "Citric Acid",
+    "Ethylhexylglycerin",
+    "Cymbopogon Schoenanthus Oil",
+    "Monarda Fistulosa Oil",
+    "Pelargonium Graveolens Flower Oil",
+    "Rosa Damascena Flower Extract",
+    "Rosa Damascena Flower Water",
+    "C12-15 Alkyl Benzoate",
+    "Salicylic Acid",
+    "Sodium polyacrylate",
+    "Tanacetum Annuum Flower/Leaf/Stem Oil",
+    "Ceramide NP",
+    "Rosa Damascena Flower Wax",
+    "Synthetic Beeswax",
+    "Tocopheryl Acetate",
+    "Hydrogenated Lecithin",
+    "Polyglyceryl-10 Stearate",
+    "Sucrose Stearate",
+    "Phenoxyethanol",
+    "Sodium Hyaluronate",
+    "Ubiquinone",
+    "Hibiscus Sabdariffa Flower Extract",
+    "Palmitoyl Tripeptide-5"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive",
+      "mature",
+      "normal"
+    ],
+    "finish": [
+      "sheer",
+      "oil"
+    ],
+    "color": [
+      "pink"
+    ],
+    "ingredients": [
+      "salicylic-acid",
+      "peptides",
+      "ceramides",
+      "synthetic",
+      "sulfate-free"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "anti-aging",
+      "hydrating",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2036490",
+    "total_reviews": 69,
+    "reviews": [
+      {
+        "review_id": 542612831,
+        "rating": 2,
+        "headline": "Pointless pump",
+        "comments": "Stop adding pumps to these that dont open! Put it in a tube. Totally pointless. \nFace wash is okay. Nothing exciting.",
+        "nickname": "AJ",
+        "location": "Portland",
+        "created_date": 1736517087596,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 536475625,
+        "rating": 3,
+        "headline": "Rose Renewal ceramide",
+        "comments": "This products smells teally good to me and cleana it very well vut thenonly thingnis everutime i use it 1-2 days later i have pimple breakouts idk of thats a good tging or a bad thing but its annoying and i cant use it everyday for that teaaon!!!!",
+        "nickname": "Joi Joi",
+        "location": "East Orange, NJ",
+        "created_date": 1729527705923,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 536475624,
+        "rating": 3,
+        "headline": "Rose Renewal ceramide",
+        "comments": "This products smells teally good to me and cleana it very well vut thenonly thingnis everutime i use it 1-2 days later i have pimple breakouts idk of thats a good tging or a bad thing but its annoying and i cant use it everyday for that teaaon!!!!",
+        "nickname": "Joi Joi",
+        "location": "East Orange, NJ",
+        "created_date": 1729527705535,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533012912,
+        "rating": 5,
+        "headline": "❤️",
+        "comments": "Amazing product! Leaves my skin so fresh.",
+        "nickname": "Zm",
+        "location": "San Diego, California",
+        "created_date": 1726272277052,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 479394596,
+        "rating": 5,
+        "headline": "dont walk run to this product!",
+        "comments": "I have always had issues with dry skin ever since I can remember.  This face wash makes my skin so soft and moisturized. Other face washes have never made my skin feel like that before 10/10 love it",
+        "nickname": "Besma",
+        "location": "Texas",
+        "created_date": 1698996613338,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 478533377,
+        "rating": 5,
+        "headline": "Gentle Cleanser",
+        "comments": "This cleanser is so gentle on the skin and smells amazing. This cleanser helps take everything off and illuminated the skin at the same time.",
+        "nickname": "Ayra",
+        "location": "New Jersey",
+        "created_date": 1698364182250,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 477773990,
+        "rating": 5,
+        "headline": "Love This Cleanser!",
+        "comments": "This cleanser doesn't strip my skin after washing, I like using it after my oil cleanser to remove leftover makeup and deep clean my skin. It has a faint smell of roses which I love!!",
+        "nickname": "Najiyah",
+        "location": "Chicago, IL",
+        "created_date": 1698088199437,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 476710373,
+        "rating": 5,
+        "headline": "Sensitive Skin Approved",
+        "comments": "Im critical about products because I have very reactive skin and i usually stick to what i know but I was pleasantly surprised at how my skin seems to love this cleanser!",
+        "nickname": "Sinclair",
+        "location": "Chicago",
+        "created_date": 1697352248740,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 466185809,
+        "rating": 5,
+        "headline": "Leaves face feelimng so hydrates and clean",
+        "comments": "Definitely not stripping whatsoever. It leaves your face feeling clean and hydrated. Paired with the Rose renewal Moisturizer. It is the best combo!",
+        "nickname": "mandeeq",
+        "location": "chicago",
+        "created_date": 1690243808629,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 465838021,
+        "rating": 5,
+        "headline": "THE BEST HYDRATING CLEANSER",
+        "comments": "this is my new holy grail! perfect for combination skin,, paired with the rose renewal Moisturizer it does wonders!",
+        "nickname": "mandeeq",
+        "location": "chicago",
+        "created_date": 1689952818301,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 457587081,
+        "rating": 5,
+        "headline": "Left face feeling smooth",
+        "comments": "It leaves my face feeling smooth and younger, I felt a little skeptical about it being for all skin types but it really is a good formula for all skin types! I have sensitive skin!",
+        "nickname": "",
+        "location": "Chicago, IL",
+        "created_date": 1683824161200,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 456603019,
+        "rating": 5,
+        "headline": "For those with occasional dry skin, this is a MIRACLE!!!",
+        "comments": "For starters, I have oily skin but I also suffer from eczema and the indecisive weather on the East Coast. I had a small dry patch on my jawline and decided to try out the Rose Renewal cleanser. I never used a Rose cleanser on my skin before so I was nervous that it would further irritate the dry patch but I was surprised. After cleansing my skin, not only was the dry patch much smoother but my entire face felt rehydrated. My skin didn't feel dried out but instead it felt clean. It also works into a nice lather so you don't need much more than a dime size amount in my opinion. My dry patch on my jaw cleared up after using it twice, morning and night, for two days. This cleanser is a working miracle!",
+        "nickname": "Amina",
+        "location": "New Jersey",
+        "created_date": 1683185064073,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 442982888,
+        "rating": 5,
+        "headline": "SO HYDRATING AND LEAVES SKIN SOFT",
+        "comments": "I absolutely love this product especially in the winter when my skin is dry!! It is so gentle and hydrating and leaves my skin SO SOFT!! You absolutely must purchase this.",
+        "nickname": "Katherine",
+        "location": "North Carolina",
+        "created_date": 1675616659270,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 442893435,
+        "rating": 5,
+        "headline": "Leaves my skin brighter and moisturized!",
+        "comments": "This cleanser is amazing! It's gentle, but removes all of the leftover makeup on my skin after using wipes. It also leaves my skin hydrated after I wash it off versus other cleansers that feel like it dries my skin out. I highly recommend this product!",
+        "nickname": "Sam",
+        "location": "Orange County, CA",
+        "created_date": 1675496666098,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 442252138,
+        "rating": 5,
+        "headline": "Cannot rave enough about this product!",
+        "comments": "The Rose Renewal Face cleanser is my new favorite product in my skin care routine. I love rose products but this one is the best I have tried from any brand. This product leaves my skin looking fresh, bright and does not dry out my skin at all.",
+        "nickname": "Sydnee",
+        "location": "Columbia, Missouri",
+        "created_date": 1675046575760,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      }
+    ],
+    "paging": {
+      "total_results": 15,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 3
+            },
+            {
+              "label": "Dry",
+              "count": 3
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        0,
+        1,
+        7,
+        13,
+        48
+      ],
+      "review_histogram": [
+        0,
+        1,
+        7,
+        13,
+        48
+      ],
+      "rating_count": 69,
+      "review_count": 69,
+      "average_rating": 4.57,
+      "recommended_ratio": 0.95,
+      "media": [
+        {
+          "id": "524940227",
+          "review_id": 524940274,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/r95hfcjble2zb6bgj2rm.jpg",
+          "headline": "Worth It!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Bre",
+          "created_date": 1721079594276
+        },
+        {
+          "id": "489604310",
+          "review_id": 489604263,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vffdbxb1xtv9lqpejyvg.jpg",
+          "headline": "Hydrating Cleanser!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Amazing Cleanser!",
+          "nickname": "Beautyonabudget92",
+          "created_date": 1705038932132
+        },
+        {
+          "id": "486878372",
+          "review_id": 486877942,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mhktxfmggjeihcz3vhma.jpg",
+          "headline": "Cleanser",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Cleanser",
+          "nickname": "Kelly",
+          "created_date": 1704598793675
+        },
+        {
+          "id": "486826286",
+          "review_id": 486826297,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/flbslps5p5z9anb5gb0f.jpg",
+          "headline": "So hydrating and smells amazing!🌸",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "So hydrating and smells amazing!",
+          "nickname": "Laila",
+          "created_date": 1704562374256
+        },
+        {
+          "id": "486199285",
+          "review_id": 486199222,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rrnxjhtvcqrysjv7yzud.jpg",
+          "headline": "Feels real nice !",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Q.",
+          "created_date": 1704065598014
+        },
+        {
+          "id": "486190812",
+          "review_id": 486190538,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/pwdnddvkubgzv11fuecq.jpg",
+          "headline": "Gentle Cleanser",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Cute!!",
+          "nickname": "Ericaa140",
+          "created_date": 1704052059699
+        },
+        {
+          "id": "486170232",
+          "review_id": 486170134,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/oosdzu29lxepsoc7qsls.jpg",
+          "headline": "Get this facial wash!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The complete set.",
+          "nickname": "Shay",
+          "created_date": 1704032035790
+        },
+        {
+          "id": "486170231",
+          "review_id": 486170134,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jmo8wvww8ovdj04expd8.jpg",
+          "headline": "Get this facial wash!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "It foams so easily! This was 2 pumps.",
+          "nickname": "Shay",
+          "created_date": 1704032035790
+        },
+        {
+          "id": "486010200",
+          "review_id": 486010191,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vhrtiyhsmoozo1olnw2b.jpg",
+          "headline": "One of the best on the market!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Michelle",
+          "created_date": 1703808265674
+        },
+        {
+          "id": "485943931",
+          "review_id": 485943887,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qurzmofeuw7dfwtw6tgi.jpg",
+          "headline": "Gentle on the skin",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mary",
+          "created_date": 1703727088198
+        },
+        {
+          "id": "485934778",
+          "review_id": 485934777,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/byt7urmmag90ti52czrl.jpg",
+          "headline": "A good backup product to have",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Beccs",
+          "created_date": 1703712732729
+        },
+        {
+          "id": "485914385",
+          "review_id": 485914504,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kneumh776h0qcbohns31.jpg",
+          "headline": "Clean Renewal Cleanser",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Nell",
+          "created_date": 1703693203678
+        },
+        {
+          "id": "485767109",
+          "review_id": 485767360,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qyxl9uewgqvue8krohq1.jpg",
+          "headline": "Worth it",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "ye",
+          "nickname": "missssss",
+          "created_date": 1703429020206
+        },
+        {
+          "id": "485767303",
+          "review_id": 485767360,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zgii13mwlgsc2ktmeesb.jpg",
+          "headline": "Worth it",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "love",
+          "nickname": "missssss",
+          "created_date": 1703429020206
+        },
+        {
+          "id": "485745922",
+          "review_id": 485745797,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cpnjsk6zkftxppmyzfxz.jpg",
+          "headline": "Smells like spring",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ray",
+          "created_date": 1703383686961
+        },
+        {
+          "id": "479394554",
+          "review_id": 479394596,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/q1gk63mp01xkj0hxrudo.jpg",
+          "headline": "dont walk run to this product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Besma",
+          "created_date": 1698996613338
+        },
+        {
+          "id": "478533386",
+          "review_id": 478533377,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/j3v2tp66winy2lzgtxgp.jpg",
+          "headline": "Gentle Cleanser",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ayra",
+          "created_date": 1698364182250
+        },
+        {
+          "id": "477773618",
+          "review_id": 477773990,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/n24ggry0ormo9mpxc1yt.jpg",
+          "headline": "Love This Cleanser!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Works Great!",
+          "nickname": "Najiyah",
+          "created_date": 1698088199437
+        },
+        {
+          "id": "466185876",
+          "review_id": 466185809,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ndqd3zuk2qknu4fgoqqq.jpg",
+          "headline": "Leaves face feelimng so hydrates and clean",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "mandeeq",
+          "created_date": 1690243808629
+        },
+        {
+          "id": "465837949",
+          "review_id": 465838021,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/b1nfk7ego6de7rckrqtc.jpg",
+          "headline": "THE BEST HYDRATING CLEANSER",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "mandeeq",
+          "created_date": 1689952818301
+        },
+        {
+          "id": "457587082",
+          "review_id": 457587081,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ymuadwrqhddocozf9kd5.jpg",
+          "headline": "Left face feeling smooth",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "created_date": 1683824161200
+        },
+        {
+          "id": "456603200",
+          "review_id": 456603019,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/znmfsgy9reba6dxegf5v.jpg",
+          "headline": "For those with occasional dry skin, this is a MIRACLE!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Amina",
+          "created_date": 1683185064073
+        },
+        {
+          "id": "442982981",
+          "review_id": 442982888,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jqrsgitr32kdevhyofl8.jpg",
+          "headline": "SO HYDRATING AND LEAVES SKIN SOFT",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The cutest packaging",
+          "nickname": "Katherine",
+          "created_date": 1675616659270
+        },
+        {
+          "id": "442893520",
+          "review_id": 442893435,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/joru7dffugnbqtecwd2p.jpg",
+          "headline": "Leaves my skin brighter and moisturized!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sam",
+          "created_date": 1675496666098
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I recently tried the Rose Renewal Cleanser and overall I found it to be a lovely product. The consistency of the cleanser is thick, which I personally enjoy as it feels luxurious and nourishing on the skin. However, some may find it to be a bit too thick for their preference.\n\nOne issue I had with the cleanser was the pump. It was a bit hard to open and required some effort to dispense the product. This might be a minor inconvenience, but it could potentially be frustrating if you're in a rush and want quick and easy access to the cleanser.\nDespite the pump issue, the cleanser itself worked really well for me. It effectively removed dirt, impurities, and makeup from my face, leaving my skin feeling refreshed and clean. It has a subtle rose scent which I found to be pleasant and not overpowering.\nI enjoyed using this cleanser with the moisturizer from the same line. They seemed to work hand in hand to provide hydration and rejuvenation to my skin. The combination left my skin feeling soft and nourished.\nOverall, the Rose Renewal Cleanser is a great option for those looking for a thick and luxurious cleanser. Although the pump may present a slight issue, the effectiveness and pleasant scent of the cleanser, along with its compatibility with the moisturizer, make it a worthwhile purchase.",
+        "headline": "Gentle and Nice",
+        "rating": 4,
+        "ugc_id": 486118651
+      },
+      "faceoff_negative": {
+        "comments": "This products smells teally good to me and cleana it very well vut thenonly thingnis everutime i use it 1-2 days later i have pimple breakouts idk of thats a good tging or a bad thing but its annoying and i cant use it everyday for that teaaon!!!!",
+        "headline": "Rose Renewal ceramide",
+        "rating": 3,
+        "ugc_id": 536475625
+      },
+      "native_review_count": 15,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 54,
+      "locale": "en_US"
+    }
+  }
+}

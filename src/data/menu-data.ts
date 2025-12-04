@@ -4,81 +4,88 @@ export const MEGA_MENU_DATA: Record<string, MegaMenuCategory> = {
   Categories: {
     columns: [
       {
-        title: 'All Categories',
+        title: 'Shop by Category',
         items: [
-          { label: 'Skincare', link: '#' },
-          { label: 'Makeup', link: '#' },
-          { label: 'Bath & Body', link: '#' },
-          { label: 'Hair', link: '#' },
-          { label: 'Face Masks', link: '#' },
-          { label: 'Suncare', link: '#' },
-          { label: 'K-Pop', link: '#' },
+          { label: 'Skincare', link: '/products?category=skincare' },
+          { label: 'Makeup', link: '/products?category=makeup' },
+          { label: 'Hair Care', link: '/products?category=hair' },
+          { label: 'Body & Bath', link: '/products?category=body' },
+          { label: 'Fragrance', link: '/products?category=fragrance' },
+          { label: 'Tools & Devices', link: '/products?category=tools' },
+          { label: 'Wellness', link: '/products?category=wellness' },
         ],
       },
       {
-        title: '\u00A0',
+        title: 'Trending Now',
         items: [
-          { label: 'Makeup Brush & Tools', link: '#' },
-          { label: 'Accessories', link: '#' },
-          { label: 'Wellness', link: '#' },
-          { label: "Men's Care", link: '#' },
-          { label: 'Supplements', link: '#' },
-          { label: 'Food & Drink', link: '#' },
-          { label: 'Special Value Sets', link: '#' },
-        ],
-      },
-      {
-        title: 'Trend Keyword',
-        items: [
-          { label: 'Vegan', link: '#' },
+          { label: 'K-Beauty Bestsellers', link: '#' },
+          { label: 'Holiday Gift Sets', link: '#' },
           { label: 'Clean Beauty', link: '#' },
+          { label: 'Vegan Products', link: '#' },
+          { label: 'Travel Size', link: '#' },
+          { label: 'Limited Edition', link: '#' },
+        ],
+      },
+      {
+        title: 'Shop by Brand',
+        items: [
+          { label: 'Beauty of Joseon', link: '#' },
+          { label: 'COSRX', link: '#' },
+          { label: 'Laneige', link: '#' },
+          { label: 'Innisfree', link: '#' },
+          { label: 'View All Brands', link: '#' },
         ],
       },
     ],
     ad: {
-      image: 'https://images.unsplash.com/photo-1576158187530-986d8460554d?q=80&w=600&auto=format&fit=crop',
+      image: '/cosmetics/s2898419-main-zoom.webp',
       title: 'WINTER SALE',
-      subtitle: 'UP TO 77% OFF',
-      linkText: '7 DAYS ONLY',
+      subtitle: 'UP TO 70% OFF',
+      linkText: 'Shop Now',
       isSale: true,
     },
   },
   Skincare: {
     columns: [
       {
-        title: 'Shop By Category',
+        title: 'By Category',
         items: [
-          { label: 'Shop All Skincare', link: '#' },
-          { label: 'Cleansers', link: '#' },
-          { label: 'Moisturizers', link: '#' },
-          { label: 'Serums', link: '#' },
-          { label: 'Masks', link: '#' },
+          { label: 'Shop All Skincare', link: '/products?category=skincare' },
+          { label: 'Cleansers & Toners', link: '#' },
+          { label: 'Essences & Serums', link: '#' },
+          { label: 'Moisturizers & Creams', link: '#' },
+          { label: 'Eye Care', link: '#' },
+          { label: 'Face Masks', link: '#' },
           { label: 'Sunscreen', link: '#' },
+          { label: 'Exfoliators & Peels', link: '#' },
         ],
       },
       {
-        title: 'Shop By Concern',
+        title: 'By Concern',
         items: [
-          { label: 'Dryness', link: '#' },
-          { label: 'Acne', link: '#' },
-          { label: 'Dullness', link: '#' },
-          { label: 'Redness', link: '#' },
+          { label: 'Anti-Aging', link: '#' },
+          { label: 'Acne & Blemishes', link: '#' },
+          { label: 'Brightening', link: '#' },
+          { label: 'Hydration', link: '#' },
+          { label: 'Pore Care', link: '#' },
+          { label: 'Sensitive Skin', link: '#' },
         ],
       },
       {
-        title: 'Featured',
+        title: 'Bestsellers',
         items: [
-          { label: 'Milky Jelly Cleanser', link: '#' },
-          { label: 'Futuredew', link: '#' },
-          { label: 'After Baulme', link: '#' },
+          { label: 'COSRX Snail Mucin', link: '#' },
+          { label: 'Beauty of Joseon Relief Sun', link: '#' },
+          { label: 'Laneige Water Sleeping Mask', link: '#' },
+          { label: 'Innisfree Green Tea Serum', link: '#' },
         ],
       },
     ],
     ad: {
-      image: 'https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?q=80&w=600&auto=format&fit=crop',
-      title: 'New: K-Glow Serum',
-      subtitle: 'Glass skin in a bottle.',
-      linkText: 'Shop the drop',
+      image: '/cosmetics/s2895845-main-zoom.webp',
+      title: 'New Arrivals',
+      subtitle: 'K-Beauty Essentials',
+      linkText: 'Discover Now',
     },
   },
   Makeup: {
@@ -87,19 +94,22 @@ export const MEGA_MENU_DATA: Record<string, MegaMenuCategory> = {
         title: 'Face',
         items: [
           { label: 'Shop All Face', link: '#' },
-          { label: 'Foundation', link: '#' },
+          { label: 'Foundation & BB Cream', link: '#' },
           { label: 'Concealer', link: '#' },
-          { label: 'Blush', link: '#' },
+          { label: 'Cushion Compacts', link: '#' },
+          { label: 'Blush & Bronzer', link: '#' },
           { label: 'Highlighter', link: '#' },
+          { label: 'Setting Powder & Spray', link: '#' },
         ],
       },
       {
         title: 'Eyes',
         items: [
           { label: 'Shop All Eyes', link: '#' },
+          { label: 'Eyeshadow Palettes', link: '#' },
+          { label: 'Eyeliner', link: '#' },
           { label: 'Mascara', link: '#' },
-          { label: 'Brows', link: '#' },
-          { label: 'Eyeshadow', link: '#' },
+          { label: 'Eyebrow Products', link: '#' },
         ],
       },
       {
@@ -107,8 +117,47 @@ export const MEGA_MENU_DATA: Record<string, MegaMenuCategory> = {
         items: [
           { label: 'Shop All Lips', link: '#' },
           { label: 'Lipstick', link: '#' },
+          { label: 'Lip Tint', link: '#' },
           { label: 'Lip Gloss', link: '#' },
-          { label: 'Lip Liner', link: '#' },
+          { label: 'Lip Balm', link: '#' },
+        ],
+      },
+    ],
+    ad: {
+      image: '/cosmetics/s2862480-main-zoom.webp',
+      title: 'Holiday Makeup',
+      subtitle: 'Festive Looks',
+      linkText: 'Shop Collection',
+    },
+  },
+  Balms: {
+    columns: [
+      {
+        title: 'Lip Balms',
+        items: [
+          { label: 'Shop All Balms', link: '#' },
+          { label: 'Tinted Lip Balm', link: '#' },
+          { label: 'Overnight Lip Mask', link: '#' },
+          { label: 'SPF Lip Balm', link: '#' },
+          { label: 'Lip Sleeping Pack', link: '#' },
+        ],
+      },
+      {
+        title: 'By Flavor',
+        items: [
+          { label: 'Original', link: '#' },
+          { label: 'Berry', link: '#' },
+          { label: 'Mint', link: '#' },
+          { label: 'Coconut', link: '#' },
+          { label: 'Rose', link: '#' },
+        ],
+      },
+      {
+        title: 'Sets & Bundles',
+        items: [
+          { label: 'Balm Trio Set', link: '#' },
+          { label: 'Travel Size Set', link: '#' },
+          { label: 'Gift Sets', link: '#' },
         ],
       },
     ],
@@ -119,62 +168,103 @@ export const MEGA_MENU_DATA: Record<string, MegaMenuCategory> = {
         title: 'Body Care',
         items: [
           { label: 'Shop All Body', link: '#' },
-          { label: 'Body Wash', link: '#' },
-          { label: 'Body Lotion', link: '#' },
+          { label: 'Body Wash & Soap', link: '#' },
+          { label: 'Body Lotion & Cream', link: '#' },
+          { label: 'Body Oil', link: '#' },
           { label: 'Hand Cream', link: '#' },
+          { label: 'Foot Care', link: '#' },
         ],
       },
       {
-        title: 'Collections',
+        title: 'Bath',
         items: [
-          { label: 'Body Hero', link: '#' },
-          { label: 'You Look Good', link: '#' },
+          { label: 'Bath Bombs', link: '#' },
+          { label: 'Bath Salts', link: '#' },
+          { label: 'Shower Gel', link: '#' },
+          { label: 'Body Scrubs', link: '#' },
+        ],
+      },
+      {
+        title: 'Featured',
+        items: [
+          { label: 'Body Hero Collection', link: '#' },
+          { label: 'Glow Body Oil', link: '#' },
+          { label: 'Shea Butter Cream', link: '#' },
         ],
       },
     ],
     ad: {
-      image: 'https://images.unsplash.com/photo-1608248597279-f99d160bfbc8?q=80&w=600&auto=format&fit=crop',
-      title: 'Body Hero',
-      subtitle: 'Glow from head to toe.',
-      linkText: 'Shop Body Care',
+      image: '/cosmetics/s2895985-main-zoom.webp',
+      title: 'Body Care',
+      subtitle: 'Hydrate & Glow',
+      linkText: 'Shop Now',
     },
   },
   Fragrance: {
     columns: [
       {
-        title: 'Scents',
+        title: 'By Type',
         items: [
           { label: 'Shop All Fragrance', link: '#' },
-          { label: 'Glossier You', link: '#' },
-          { label: 'Candles', link: '#' },
-        ],
-      },
-      {
-        title: 'Formats',
-        items: [
           { label: 'Eau de Parfum', link: '#' },
+          { label: 'Eau de Toilette', link: '#' },
+          { label: 'Body Mist', link: '#' },
           { label: 'Solid Perfume', link: '#' },
           { label: 'Rollerball', link: '#' },
         ],
       },
+      {
+        title: 'By Scent',
+        items: [
+          { label: 'Floral', link: '#' },
+          { label: 'Citrus', link: '#' },
+          { label: 'Woody', link: '#' },
+          { label: 'Fresh', link: '#' },
+          { label: 'Sweet', link: '#' },
+        ],
+      },
+      {
+        title: 'Home Fragrance',
+        items: [
+          { label: 'Candles', link: '#' },
+          { label: 'Diffusers', link: '#' },
+          { label: 'Room Spray', link: '#' },
+        ],
+      },
     ],
+    ad: {
+      image: '/cosmetics/s2923134-main-zoom.webp',
+      title: 'Signature Scents',
+      subtitle: 'Find Your Fragrance',
+      linkText: 'Explore',
+    },
   },
   'Glossier Goods': {
     columns: [
       {
         title: 'Apparel',
         items: [
-          { label: 'Hoodies', link: '#' },
+          { label: 'Shop All Apparel', link: '#' },
+          { label: 'Hoodies & Sweatshirts', link: '#' },
           { label: 'T-Shirts', link: '#' },
-          { label: 'Caps', link: '#' },
+          { label: 'Caps & Hats', link: '#' },
         ],
       },
       {
         title: 'Accessories',
         items: [
-          { label: 'Bags', link: '#' },
+          { label: 'Tote Bags', link: '#' },
+          { label: 'Pouches', link: '#' },
           { label: 'Water Bottles', link: '#' },
-          { label: 'Stickers', link: '#' },
+          { label: 'Stickers & Pins', link: '#' },
+        ],
+      },
+      {
+        title: 'Lifestyle',
+        items: [
+          { label: 'Journals', link: '#' },
+          { label: 'Towels', link: '#' },
+          { label: 'Phone Cases', link: '#' },
         ],
       },
     ],
@@ -185,15 +275,61 @@ export const MEGA_MENU_DATA: Record<string, MegaMenuCategory> = {
         title: 'Gift Sets',
         items: [
           { label: 'Shop All Sets', link: '#' },
-          { label: 'Makeup Sets', link: '#' },
           { label: 'Skincare Sets', link: '#' },
+          { label: 'Makeup Sets', link: '#' },
+          { label: 'Holiday Bundles', link: '#' },
+          { label: 'Travel Kits', link: '#' },
         ],
       },
       {
-        title: 'Save',
+        title: 'By Price',
+        items: [
+          { label: 'Under $50', link: '#' },
+          { label: '$50 - $100', link: '#' },
+          { label: '$100 - $200', link: '#' },
+          { label: 'Luxury Sets $200+', link: '#' },
+        ],
+      },
+      {
+        title: 'Save More',
         items: [
           { label: 'Build Your Own Set', link: '#' },
           { label: 'Duo Savings', link: '#' },
+          { label: 'Value Sets', link: '#' },
+        ],
+      },
+    ],
+    ad: {
+      image: '/cosmetics/s2542843-main-zoom.webp',
+      title: 'Holiday Gifts',
+      subtitle: 'Perfect Presents',
+      linkText: 'Shop Gifts',
+    },
+  },
+  'Shop All': {
+    columns: [
+      {
+        title: 'New Arrivals',
+        items: [
+          { label: 'This Week', link: '#' },
+          { label: 'This Month', link: '#' },
+          { label: 'Coming Soon', link: '#' },
+        ],
+      },
+      {
+        title: 'Bestsellers',
+        items: [
+          { label: 'Top Rated', link: '#' },
+          { label: 'Most Loved', link: '#' },
+          { label: 'Customer Favorites', link: '#' },
+        ],
+      },
+      {
+        title: 'Special Offers',
+        items: [
+          { label: 'Sale Items', link: '#' },
+          { label: 'Bundle & Save', link: '#' },
+          { label: 'Clearance', link: '#' },
         ],
       },
     ],
@@ -201,15 +337,14 @@ export const MEGA_MENU_DATA: Record<string, MegaMenuCategory> = {
 }
 
 export const TRENDING_SEARCHES = [
-  'advents',
-  'victoria beckham beauty',
-  'sunscreen',
-  'lip oil',
-  'dyson airwrap',
-  'body shimmer',
-  'vanilla',
-  'minis',
-  'gift sets',
-  'trending now',
+  'anua heartleaf toner',
+  'banila co cleansing balm',
+  'anastasia beverly hills brow',
+  'benefit mascara',
+  'retinol eye cream',
+  'hyaluronic acid serum',
+  'cleansing oil',
+  'moisturizing cream',
+  'setting powder',
+  'k-beauty essentials',
 ]
-

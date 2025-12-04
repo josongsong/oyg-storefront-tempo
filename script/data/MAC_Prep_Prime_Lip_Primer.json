@@ -1,0 +1,792 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/prep-prime-lip-primer-xlsImpprod15921210",
+  "extracted_at": "2025-09-23T04:54:31.996411+00:00",
+  "product_name": "MACPrep + Prime Lip Primer",
+  "brand": "MAC",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Lips",
+    "Lip Balms & Treatments"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "lips",
+    "men"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "25.00",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "198",
+  "images": [
+    "https://media.ulta.com/i/ulta/2510718?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2510718?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2510718cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2510718cm_alt02?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryMAC Prep + Prime Lip Primer is a color-free lipstick base that adds light moisture, smooths and refines.",
+  "details": "DetailsBenefitsReduces lipstick featheringProvides immediate hydrationFragrance-freeOil-freeDermatologist-testedFormulated WithoutPhthalateParabenVitamin A/\\Retinyl PalmitateMineral OilPetrolatumFormaldehydePolyethyleneHydroquinoneTriclosanCoal TarTolueneLauryl SulfateLaureth SulfateOxybenzoneItem 2510718How To UseApply a thin coating over entire lip area and over lip edges. Follow with lip colour. If desired, line lips.IngredientsCyclopentasiloxane, Paraffin, Polybutene, Ozokerite, Tocopherol, Ethylhexyl Palmitate, Disteardimonium Hectorite, Tribehenin, Octyldodecyl Stearoyl Stearate, Sorbitan Isostearate, Palmitoyl Oligopeptide, Vanillin.Please read the ingredient list on the packaging of your product to be sure that the ingredients are appropriate for your personal use.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Apply a thin coating over entire lip area and over lip edges. Follow with lip colour. If desired, line lips.",
+  "ingredients": [
+    "Cyclopentasiloxane",
+    "Paraffin",
+    "Polybutene",
+    "Ozokerite",
+    "Tocopherol",
+    "Ethylhexyl Palmitate",
+    "Disteardimonium Hectorite",
+    "Tribehenin",
+    "Octyldodecyl Stearoyl Stearate",
+    "Sorbitan Isostearate",
+    "Palmitoyl Oligopeptide",
+    "Vanillin.Please read the ingredient list on the packaging of your product to be sure that the ingredients are appropriate for your personal use"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "lips",
+      "lip",
+      "cosmetics"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "lip gloss",
+      "primer",
+      "treatment",
+      "lip balm"
+    ],
+    "skin_type": [
+      "oily"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "peptides"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "dermatologist-tested",
+      "fragrance-free",
+      "oil-free"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod15921210",
+    "total_reviews": 198,
+    "reviews": [
+      {
+        "review_id": 556009731,
+        "rating": 5,
+        "headline": "Prep Must Have",
+        "comments": "I never use to prep my lips before applying lipstick. This has been a staple to keep my lipstick lasting and to also keep my lips moisturized.",
+        "nickname": "Omie",
+        "location": "Orlando",
+        "created_date": 1751163096537,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555297777,
+        "rating": 1,
+        "headline": "DISAPOINTED",
+        "comments": "DID NOT WORK WELL FOR ME. GREASY FORMULA. LOVE MY LIPS TO BE HYDRATED BUT NOT GREASY. RETURNED AFTER A WEEK OF USE.",
+        "nickname": "maricza",
+        "location": "ILLINOIS",
+        "created_date": 1750265507692,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 553647039,
+        "rating": 5,
+        "headline": "Great Prime Lip Primer",
+        "comments": "This lip primer is great, keeps my lips smooth for my lipstick. It's a bit pricey for very little product but it does the job.",
+        "nickname": "Raquel",
+        "location": "Chicago",
+        "created_date": 1747799677461,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553524492,
+        "rating": 1,
+        "headline": "Useless purchase",
+        "comments": "I was told to apply this before using my lipstick. I needed to wait a little until it got sticky on my lips and then apply lipstick and it would hold. It never got sticky and my lipstick disappeared much faster than before I used the product. Waste of money.",
+        "nickname": "Ann",
+        "location": "Ormond Beach, FL",
+        "created_date": 1747608398535,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 553196377,
+        "rating": 5,
+        "headline": "A daily staple",
+        "comments": "I use this every morning after using a gentle sugar scrub for lips. It is lightweight but moisturizing.",
+        "nickname": "neuro2166",
+        "location": "Texas",
+        "created_date": 1747017511708,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550771266,
+        "rating": 5,
+        "headline": "Okay for this allergy-prone wearer",
+        "comments": "So far, Prep+Prime Lip Primer is my favorite primer. I have an auto-immune disorder and cannot wear most products. I am prone to bad contact allergies that will last 10 days at a time, and this is one product that I can wear. If I get it beyond my lips, my skin will react, but if I keep it where it's supposed to be, I'm fine. It does not have a fragrance and works better than Anastasia in terms of eliminating that ugly feathering that women of a certain age experience. It's a good product!",
+        "nickname": "Laurie",
+        "location": "Richmond, VA",
+        "created_date": 1743421707200,
+        "bottom_line": "Yes",
+        "helpful_votes": 12,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 549970319,
+        "rating": 5,
+        "headline": "a must have",
+        "comments": "This makes my lipstick go on way more smoothly than using a regular lip balm underneath. It helps it stay on longer, without creasing, caking or getting patchy. It's not dry like another brand I've tried. I used it with any brand of lipstick not just MAC.",
+        "nickname": "Victoria",
+        "location": "New Jersey",
+        "created_date": 1743109170339,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 545990153,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "Does the job.",
+        "nickname": "JoAnn",
+        "location": "Palm Desert  CA",
+        "created_date": 1738858526127,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 545918902,
+        "rating": 5,
+        "headline": "Best Lip Tool in My Bag!",
+        "comments": "This lip primer is the best!!It keeps my lip stick on for a long period.",
+        "nickname": "Frances",
+        "location": "Wichita Falls, Texas",
+        "created_date": 1738712143588,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541105459,
+        "rating": 5,
+        "headline": "My most used product!",
+        "comments": "I not only use this for my lips while doing my makeup but i also apply under my eyes before concealer to fill in lines! Love this product i always try to find it on sale",
+        "nickname": "Cansan80",
+        "location": "Little Rock Arkansas",
+        "created_date": 1734284021902,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538917965,
+        "rating": 5,
+        "headline": "Great Product",
+        "comments": "Started using this product 2 years ago and it really keeps your lipstick on, if used properly.",
+        "nickname": "Judy",
+        "location": "Palm Desert, CA",
+        "created_date": 1733268670891,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538742454,
+        "rating": 1,
+        "headline": "Ridiculously Expensive Chapsticki",
+        "comments": "This does not plump at all.  It moisturizes, makes lipstick go on smoother & possibly last a little longer.  Helps lipstick stay in place.  Basically the same benefits as using any chapstick except you get it in the pretty, slim tube & it says MAC on it so its visually appealing.",
+        "nickname": "50ishandflaming",
+        "location": "Elizabethton, TN",
+        "created_date": 1732888135093,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 7
+      },
+      {
+        "review_id": 538736379,
+        "rating": 5,
+        "headline": "Must have!",
+        "comments": "Will forever repurchase! Makes every lipstick better!!!",
+        "nickname": "Natalia",
+        "location": "Birmingham,AL",
+        "created_date": 1732855008892,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537810254,
+        "rating": 4,
+        "headline": "I would buy again.",
+        "comments": "Good primer. Goes on smooth and see.ed to help lipstick last.",
+        "nickname": "Rhonda",
+        "location": "Clearwater Fl",
+        "created_date": 1731582614863,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533646400,
+        "rating": 4,
+        "headline": "Pretty good except for the price",
+        "comments": "I've enjoyed this purchase (on sale) and once tacky, helps keep my lowuid lipstick stay well. However the price point for this is way too high to justify paying full price.",
+        "nickname": "Annaliesa",
+        "location": "Rochester, NY",
+        "created_date": 1726790115974,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 532981444,
+        "rating": 5,
+        "headline": "Good",
+        "comments": "Ok",
+        "nickname": "Ri",
+        "location": "Las Vegas NV.",
+        "created_date": 1726243967136,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 527973218,
+        "rating": 5,
+        "headline": "i would buy MAC Prep + Prime Lip Primer again",
+        "comments": "Great product.  2nd time I purchased this product and will purchase again.",
+        "nickname": "Becky",
+        "location": "Anaconda MT",
+        "created_date": 1724367986009,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 526636341,
+        "rating": 3,
+        "headline": "Meh",
+        "comments": "I love the feeling of this lip primer, it keeps my lips moisturized for most of the day and I don't feel like I need to reapply chapstick but… it's definitely an unnecessary step. It's too expensive for me to repurchase especially since it doesn't make a major difference on whether or not my liner will last throughout the day. There is a slight learning curve with this product, I had to figure out the right amount to apply and the waiting time before putting on applying lip liner. If you apply liner too soon after the liner will not glide on easily. Always wait until primer is tacky.",
+        "nickname": "Rachel",
+        "location": "San Francisco",
+        "created_date": 1722990625746,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 522520781,
+        "rating": 5,
+        "headline": "Use this all the time! stops bleeding of lipstick BEST",
+        "comments": "This is a wonderful product that is not greasy, goes on smooth & clear and is a must before I apply any lip color since it controls and does not allow any bleeding of lipcolor.  I highly recommend trying it and it lasts a long time without changing as some products can that are made like this.  MAC Thank you for making this wonderful product!!",
+        "nickname": "MICHELLE",
+        "location": "NJ",
+        "created_date": 1718304585669,
+        "bottom_line": "Yes",
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 518572464,
+        "rating": 5,
+        "headline": "I would buy this again and again",
+        "comments": "This lip primer is awesome. I put it on before I apply my lipstick. The lipstick lasts just about all day!",
+        "nickname": "Suzann",
+        "location": "Columbia, SC",
+        "created_date": 1716824145891,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 198,
+      "pages_total": 10,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod15921210/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Anytime",
+              "count": 23
+            },
+            {
+              "label": "Everyday Use",
+              "count": 17
+            },
+            {
+              "label": "Dry Lips",
+              "count": 15
+            },
+            {
+              "label": "Daytime",
+              "count": 8
+            },
+            {
+              "label": "Going Out",
+              "count": 8
+            },
+            {
+              "label": "Special Occasions",
+              "count": 8
+            },
+            {
+              "label": "Keeps color from bleeding outside lip line",
+              "count": 1
+            },
+            {
+              "label": "Primer",
+              "count": 1
+            },
+            {
+              "label": "Longevity of lipstick",
+              "count": 1
+            },
+            {
+              "label": "Moisturize lips & contain within lipline",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Anytime",
+            "Daytime",
+            "Dry Lips",
+            "Everyday Use",
+            "Going Out",
+            "Keeps color from bleeding outside lip line",
+            "Longevity of lipstick",
+            "Moisturize lips & contain within lipline",
+            "None",
+            "Primer",
+            "Special Occasions"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Wears Off Easily",
+              "count": 4
+            },
+            {
+              "label": "Difficult to apply lip liner afterwards",
+              "count": 1
+            },
+            {
+              "label": "doesn't last long before I need to reapply",
+              "count": 1
+            },
+            {
+              "label": "No cons",
+              "count": 1
+            },
+            {
+              "label": "None on my 63 yo lips",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "Clumpy Application",
+              "count": 1
+            },
+            {
+              "label": "No application instructions or tips on how to us",
+              "count": 1
+            },
+            {
+              "label": "Sticky",
+              "count": 1
+            },
+            {
+              "label": "Tested on Animals",
+              "count": 1
+            },
+            {
+              "label": "Little amount.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Tasting",
+            "Clumpy Application",
+            "Difficult to apply lip liner afterwards",
+            "Drying",
+            "Little amount.",
+            "No application instructions or tips on how to us",
+            "No cons",
+            "None",
+            "None on my 63 yo lips",
+            "Not True To Color",
+            "Poor Color Selection",
+            "Smells Bad",
+            "Sticky",
+            "Tested on Animals",
+            "Wears Off Easily",
+            "doesn't last long before I need to reapply"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Classic Style",
+              "count": 17
+            },
+            {
+              "label": "Natural Style",
+              "count": 10
+            },
+            {
+              "label": "Trendy Style",
+              "count": 6
+            },
+            {
+              "label": "Always looking for a good buy",
+              "count": 1
+            },
+            {
+              "label": "Enjoy wearing bright lip color",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Always looking for a good buy",
+            "Casual Dresser",
+            "Classic Style",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Enjoy wearing bright lip color",
+            "Natural Style",
+            "Stylish/Fashionista",
+            "Trendy Style",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Moisturizing",
+              "count": 26
+            },
+            {
+              "label": "Convenient Container",
+              "count": 25
+            },
+            {
+              "label": "Even Application",
+              "count": 25
+            },
+            {
+              "label": "Long Lasting",
+              "count": 21
+            },
+            {
+              "label": "Pleasant Tasting",
+              "count": 8
+            },
+            {
+              "label": "Hydrating",
+              "count": 2
+            },
+            {
+              "label": "Glossy Finish",
+              "count": 2
+            },
+            {
+              "label": "True To Color",
+              "count": 2
+            },
+            {
+              "label": "Easy to apply",
+              "count": 1
+            },
+            {
+              "label": "Generous amount in tube",
+              "count": 1
+            },
+            {
+              "label": "Smooth application",
+              "count": 1
+            },
+            {
+              "label": "Makes lipstick stay longer",
+              "count": 1
+            },
+            {
+              "label": "Prevents lips from drying",
+              "count": 1
+            },
+            {
+              "label": "Keeps lipstick / liner on through eating",
+              "count": 1
+            },
+            {
+              "label": "Lightweight",
+              "count": 1
+            },
+            {
+              "label": "Perfect amount of tackiness",
+              "count": 1
+            },
+            {
+              "label": "Primed lips well",
+              "count": 1
+            },
+            {
+              "label": "Lipstick lasts longer",
+              "count": 1
+            },
+            {
+              "label": "Makes lips smooth",
+              "count": 1
+            },
+            {
+              "label": "Great base for lip color",
+              "count": 1
+            },
+            {
+              "label": "Keeps lips moist",
+              "count": 1
+            },
+            {
+              "label": "Long lasting",
+              "count": 1
+            },
+            {
+              "label": "Keeps color from straying",
+              "count": 1
+            },
+            {
+              "label": "I'm 70+ this works on lips feathering!!",
+              "count": 1
+            },
+            {
+              "label": "Lipstick glides on",
+              "count": 1
+            },
+            {
+              "label": "Helps provide more fullness",
+              "count": 1
+            },
+            {
+              "label": "Helps with feathering on aging lipline",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing but NOT greasy",
+              "count": 1
+            },
+            {
+              "label": "Or just as lip balm",
+              "count": 1
+            },
+            {
+              "label": "REALLY Lasts for hours",
+              "count": 1
+            },
+            {
+              "label": "Smooth as silk",
+              "count": 1
+            },
+            {
+              "label": "The perfect lip primer",
+              "count": 1
+            },
+            {
+              "label": "Light, non drying",
+              "count": 1
+            },
+            {
+              "label": "Great Color Selection",
+              "count": 1
+            },
+            {
+              "label": "Stops feathering",
+              "count": 1
+            },
+            {
+              "label": "Keeps lipstick from feathering",
+              "count": 1
+            },
+            {
+              "label": "Makes lipcolors last, prevents color bleeding",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Convenient Container",
+            "Easy to apply",
+            "Even Application",
+            "Generous amount in tube",
+            "Glossy Finish",
+            "Great Color Selection",
+            "Great base for lip color",
+            "Helps provide more fullness",
+            "Helps with feathering on aging lipline",
+            "Hydrating",
+            "I'm 70+ this works on lips feathering!!",
+            "Keeps color from straying",
+            "Keeps lips moist",
+            "Keeps lipstick / liner on through eating",
+            "Keeps lipstick from feathering",
+            "Light, non drying",
+            "Lightweight",
+            "Lipstick glides on",
+            "Lipstick lasts longer",
+            "Long Lasting",
+            "Long lasting",
+            "Makes lipcolors last, prevents color bleeding",
+            "Makes lips smooth",
+            "Makes lipstick stay longer",
+            "Moisturizing",
+            "Moisturizing but NOT greasy",
+            "Or just as lip balm",
+            "Perfect amount of tackiness",
+            "Pleasant Tasting",
+            "Prevents lips from drying",
+            "Primed lips well",
+            "REALLY Lasts for hours",
+            "Smooth application",
+            "Smooth as silk",
+            "Stops feathering",
+            "The perfect lip primer",
+            "True To Color"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        9,
+        10,
+        17,
+        21,
+        141
+      ],
+      "review_histogram": [
+        9,
+        10,
+        17,
+        21,
+        141
+      ],
+      "rating_count": 198,
+      "review_count": 198,
+      "average_rating": 4.39,
+      "recommended_ratio": 0.84,
+      "media": [
+        {
+          "id": "404725635",
+          "review_id": 404725634,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ay8zmxvnvn4vln7xxlgc.jpg",
+          "headline": "Best lip primer ever!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "This was towards the end of the day. It was still keeping my lipstick in tack.",
+          "nickname": "Christi R.",
+          "created_date": 1649439949268
+        },
+        {
+          "id": "237433777",
+          "review_id": 237433842,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/w80euymh7usgprob4pfn.jpg",
+          "headline": "Best Lip Recommendation EVER",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "2canvasartist",
+          "created_date": 1557081839224
+        },
+        {
+          "id": "203796621",
+          "review_id": 203796600,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/iy2zfskdzje3viyty98r.jpg",
+          "headline": "One of my favorites!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Family Photo Day",
+          "nickname": "Ayana",
+          "created_date": 1537123416029
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "When I tried this on at Ulta, I could not believe the feel of it!  It felt like cool silk on the lips.  I had been trying on drying lipstick and my lips had had it.  The MAC professional told me to wait a minute while she got something that would help.  I had never seen this product before nor heard of it.  Once it was applied to my lips, a cooling and smooth sensation made all that stinging and drying disappear.  I immediately told her to get me one & put it in my basket.  I didn't even know how much it cost, it was just that good that I had to have it.  The only negative that I have about it is that there is not a whole lot of product, so I only apply a thin layer.  It doesn't take a lot, which is good.",
+        "headline": "Hydrating and soothing",
+        "rating": 4,
+        "ugc_id": 191258007
+      },
+      "faceoff_negative": {
+        "comments": "I was not incredibly overwhelmed by this product in the first few wears - it did help moisturize lips with products that were drying but still noticed some bleeding around the edges where had not noticed without.  Was willing to try further since it was a new product but on only the fourth wear, opened the container to use it and the stick flew up and out of the container straight into the drain.  Not worth the price to try more.",
+        "headline": "Be careful when opening!",
+        "rating": 3,
+        "ugc_id": 191258011
+      },
+      "name": "Prep + Prime Lip Primer",
+      "native_review_count": 198,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

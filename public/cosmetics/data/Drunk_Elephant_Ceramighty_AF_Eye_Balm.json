@@ -1,0 +1,711 @@
+{
+  "product_id": "pimprod2034188",
+  "product_url": "https://www.ulta.com/p/ceramighty-af-eye-balm-pimprod2034188",
+  "extracted_at": "2025-09-23T03:32:24.369352+00:00",
+  "product_name": "Drunk ElephantCeramighty AF Eye Balm",
+  "brand": "Drunk Elephant",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "62.00",
+  "availability": "in_stock",
+  "rating_avg": "3.8",
+  "rating_count": "172",
+  "images": [
+    "https://media.ulta.com/i/ulta/2598803?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2598803?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2598803cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2598803cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2598803cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2598803cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2598803cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2598803cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2598803cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2598803cm_vid01/thumbs/268aa0ce-7b52-491c-83c5-9e56237f5cc1?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingDrunk Elephant's Ceramighty AF Eye Balm is a cushiony, deeply replenishing eye cream with strengthening ceramides and omega-rich plant oils that delivers long-lasting moisture, restores elasticity, and soothes signs of fatigue for a refreshed, well-rested look.",
+  "details": "DetailsBenefitsDelivers and maintains deep, long-lasting moisture with omegarich plant oils and ceramidesStrengthens the skin barrier, restoring and preserving elasticitySoothes signs of fatigue for a refreshed, well-rested lookDermatologist TestedFormulated at a skin-friendly pH of 5.5Key Ingredients3% ceramide blend: Helps fill in the spaces between skin cells and give them elasticity, strengthens the skin barrier, and maintains the moisture balance of skin10% plant omega-lipid complex: Rich in fatty acids and antioxidants to soothe, moisturize, and soften skinAvena sativa (oat) kernel oil and vitamin F (linolenic and linoleic acid): Soothes and moisturizes while maintaining hydration levels, improving skin texture and acid mantle strengthResearch ResultsIn a consumer-perception study with 34 people after 4 weeks:100% agree skin is softer and soothed94% agree skin feels firmer and smoother91% agree improves the look of wrinklesItem 2598803How To UseGently pat one pump under the eyes, along the orbital bone, and on the eyelids, morning or night.Tip:Gently tap on product with your ring finger to avoid tugging the delicate skin around the eye.Store in the fridge for a cooling, soothing treatment.How to Recycle:Pop off the top, unscrew the clear vial from the top and recycle the vial + outer container.IngredientsWater/Aqua/Eau, Octyldodecanol, Glycerin, Sclerocarya Birrea Seed Butter, Linoleic Acid, Glyceryl Stearate, Palmitic Acid, Pentylene Glycol, Cetearyl Alcohol, Stearic Acid, Sclerocarya Birrea Seed Oil, Persea Gratissima (Avocado) Oil, Avena Sativa (Oat) Kernel Oil, Oenothera Biennis (Evening Primrose) Oil, Linum Usitatissimum (Linseed) Seed Oil, Salvia Hispanica Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Ceramide AP, Ceramide NP, Ceramide EOP, Avena Sativa (Oat) Kernel Extract, Panthenol, Linolenic Acid, Adenosine, Beta-Glucan, Quercetin, Allantoin, Sodium Lauroyl Lactylate, Phytosphingosine, Cholesterol, Xanthan Gum, Tetrasodium Glutamate Diacetate, Propanediol, Citric Acid, Ceteareth-20, Sodium Carbonate, Phenoxyethanol, Sodium Chloride, Caprylyl Glycol, Sodium Hydroxide, Chlorphenesin, Carbomer, Ethylhexylglycerin.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Gently pat one pump under the eyes, along the orbital bone, and on the eyelids, morning or night.Tip:Gently tap on product with your ring finger to avoid tugging the delicate skin around the eye.Store in the fridge for a cooling, soothing treatment.How to Recycle:Pop off the top, unscrew the clear vial from the top and recycle the vial + outer container.",
+  "ingredients": [
+    "Water/Aqua/Eau",
+    "Octyldodecanol",
+    "Glycerin",
+    "Sclerocarya Birrea Seed Butter",
+    "Linoleic Acid",
+    "Glyceryl Stearate",
+    "Palmitic Acid",
+    "Pentylene Glycol",
+    "Cetearyl Alcohol",
+    "Stearic Acid",
+    "Sclerocarya Birrea Seed Oil",
+    "Persea Gratissima (Avocado) Oil",
+    "Avena Sativa (Oat) Kernel Oil",
+    "Oenothera Biennis (Evening Primrose) Oil",
+    "Linum Usitatissimum (Linseed) Seed Oil",
+    "Salvia Hispanica Seed Oil",
+    "Simmondsia Chinensis (Jojoba) Seed Oil",
+    "Ceramide AP",
+    "Ceramide NP",
+    "Ceramide EOP",
+    "Avena Sativa (Oat) Kernel Extract",
+    "Panthenol",
+    "Linolenic Acid",
+    "Adenosine",
+    "Beta-Glucan",
+    "Quercetin",
+    "Allantoin",
+    "Sodium Lauroyl Lactylate",
+    "Phytosphingosine",
+    "Cholesterol",
+    "Xanthan Gum",
+    "Tetrasodium Glutamate Diacetate",
+    "Propanediol",
+    "Citric Acid",
+    "Ceteareth-20",
+    "Sodium Carbonate",
+    "Phenoxyethanol",
+    "Sodium Chloride",
+    "Caprylyl Glycol",
+    "Sodium Hydroxide",
+    "Chlorphenesin",
+    "Carbomer",
+    "Ethylhexylglycerin"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/fca7059d-c16b-4ccc-aade-76b69d31e3cb/240.jpg",
+      "https://content.syndigo.com/asset/dd2d1960-95e7-4024-adfc-93da85bcdc56/240.jpg",
+      "https://content.syndigo.com/asset/ac55751f-3903-4503-9fcf-6587a0f1d170/240.jpg",
+      "https://content.syndigo.com/asset/4df38067-b3a5-48fe-b65a-3f33d94c1268/1920.webp",
+      "https://content.syndigo.com/asset/4df38067-b3a5-48fe-b65a-3f33d94c1268/240.webp",
+      "https://content.syndigo.com/asset/6ede8e31-71fc-4de8-8c32-8c56fcc344b3/960.webp",
+      "https://content.syndigo.com/asset/7bdad352-5656-4d85-96e5-4d61118a00ef/960.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "lip gloss",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "sensitive",
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "long-wear",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "ceramides"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "dermatologist-tested",
+      "anti-aging",
+      "soothing",
+      "repairing"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2034188",
+    "total_reviews": 172,
+    "reviews": [
+      {
+        "review_id": 547220998,
+        "rating": 3,
+        "headline": "I would not buy this product again",
+        "comments": "This product was nice going on and seemed hydrating but I have not seen a difference since using this product. Disappointing especially for all the hype the sales check expressed. Not worth the price. The complementary gift they gave me (same brand) had a bottle that was completely empty.",
+        "nickname": "Debbi",
+        "location": "Fillmore California",
+        "created_date": 1740423208073,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546123703,
+        "rating": 5,
+        "headline": "I like it!",
+        "comments": "Nice thick product, a little goes a long way. It goes on super creamy and blends into skin. I wear it only at night. I will plan to repurchase.",
+        "nickname": "Andi",
+        "location": "Seattle, WA",
+        "created_date": 1739076573428,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542271736,
+        "rating": 2,
+        "headline": "Okay, not Great",
+        "comments": "This is nice and moisturizing for my undereye area, but that's about it. I have to be careful when applying so it doesn't go in my eyes. It will sting and make my eyes water like crazy. I can't apply it to my browbone area since it will slowly get into my eyes throughout the day. Packaging is a bit annoying since you have no idea how much product you have left.",
+        "nickname": "Luci",
+        "location": "Dallas, TX",
+        "created_date": 1736099565804,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538107702,
+        "rating": 1,
+        "headline": "makes eyes burn",
+        "comments": "i purchased for dry skin and did not help. it makes my eyes water and burn",
+        "nickname": "",
+        "location": "boston ma",
+        "created_date": 1732042679149,
+        "bottom_line": "No",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 532773407,
+        "rating": 2,
+        "headline": "does not work",
+        "comments": "The salesgirl told me this stuff is the best stuff to use. She swore it would take care of the wrinkles, bags under the eye etc. She also said it can be used around the lips for lines. I used it for 2 months and did not see a difference at all. I would not recommend this to anyone especially when their is better stuff out there for less money. I have switched to Neutrogena and clinic products instead and they do the trick",
+        "nickname": "TV",
+        "location": "USA",
+        "created_date": 1726148782592,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 527443390,
+        "rating": 4,
+        "headline": "i liked it but not sure if it did much",
+        "comments": "apparently i have very sensitive eyes as ive gotten older and tried many eyecreams that make my eyes tear up and burn like crazy. This eye cream does not do it at all! i feel itd be great for those for sensitive skin! It feels nice on the skin, its moisturizing, and its not heavy. Love the texture. However, after having it for >2 months since ive purchased it, im not really sure it did anything for my skin. I dont see a difference and its a bummer for the price point. Im not sure if ill get again based on that",
+        "nickname": "lexi",
+        "location": "arizona",
+        "created_date": 1723848885979,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 526865459,
+        "rating": 5,
+        "headline": "Best eyecream",
+        "comments": "Love this product I am probably on my twelfth bottle or so. Very gentle yet effective",
+        "nickname": "ENN",
+        "location": "Massachusetts",
+        "created_date": 1723321264341,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 526011484,
+        "rating": 1,
+        "headline": "Burned my eyes",
+        "comments": "I routinely use eye creams for the past 20+ years without any issues until I decided to try this one. It burned my eyes immediately and profusely to the point of tears and total regret.",
+        "nickname": "Falestina",
+        "location": "Chicago",
+        "created_date": 1722465983171,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 525728039,
+        "rating": 5,
+        "headline": "Instant moisture & filling",
+        "comments": "I used a small drop from the tester & was very impressed.  IM starting to get lines & this appeared to instantly plump...we'll see how it goes, but so far I love it",
+        "nickname": "Brady",
+        "location": "Muncie Indiana",
+        "created_date": 1722122703731,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 525550371,
+        "rating": 1,
+        "headline": "Do not recommend",
+        "comments": "This product irritated my eyes. If you have sensitive eyes this eye balm is not for you.",
+        "nickname": "Lu",
+        "location": "California",
+        "created_date": 1721821288709,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 525542281,
+        "rating": 3,
+        "headline": "Hydrating but be helpful",
+        "comments": "Great feel with this formula. Hydrating and smooth under makeup. But will sting badly if it slips in your eye. For an eye cream you would think they would be more carious of its ingredients.",
+        "nickname": "Dru",
+        "location": "Atlanta, Ga",
+        "created_date": 1721792723028,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 524898400,
+        "rating": 2,
+        "headline": "burns so bad",
+        "comments": "I've tried this in every which way I can think and regardless of how I use it it migrates I to my eyes and burns sooo bad. I'm almost 40 so I need an eye cream and this isn't my first rodeo but I have never had such a huge issue keeping an eye cream out of my eyes. Add the burning to the price and I can't keep this up. Not worth it.",
+        "nickname": "J",
+        "location": "Florida",
+        "created_date": 1721014545460,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 524635159,
+        "rating": 3,
+        "headline": "why does a protective eye cream sting so badly?",
+        "comments": "I bought this myself. I thought DE would do a ceramide eye cream well. It was a decent heavy cream fow winter, but it stung my eyes so badly every application. Eye creams are supposed to be used around the eye area. It's not like I would put it IN my eyes, but you cant even get close to your lashes (or use a hudrating spray). For something designed for sensitive or mature skin and healing the skin barrier, I'm afraid this just doesn't instill confidence. You aren't supposed to burn your eyes, and I'm surprised they didn't catch that in formulation. They sure charge enough for it!",
+        "nickname": "musique",
+        "location": "philly",
+        "created_date": 1720573470494,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 517797250,
+        "rating": 4,
+        "headline": "I love this eye balm",
+        "comments": "Im not saying to go spend the money on it because its pricy but its really worth checking out it gives the perfect amount of hydration and it made my undereyes so smooth.",
+        "nickname": "Macdiva",
+        "location": "Grand Rapids",
+        "created_date": 1716697353559,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 512423741,
+        "rating": 5,
+        "headline": "love this eye cream",
+        "comments": "this eye cream is so good it leaves my under eyes feeling so hydrated and plump! Its honestly helped with my eye bags and helped with lines around my eyes as well I highly recommend this eye cream to anyone and everyone gifted by drunk elephant",
+        "nickname": "lauren",
+        "location": "kodak, TN",
+        "created_date": 1714277732042,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 512326669,
+        "rating": 4,
+        "headline": "I would by this again",
+        "comments": "I've been using this eye cream for a short period of time so I haven't noticed any difference in my under eyes but I will say it is very hydrating. I brought with me to Miami and it helped keep my under eyes very hydrated, it layered perfect with my concealer. A little goes a long way, also try to not go too close to your eyes because it does burn a bit if it gets in your eyes. Other than that I like it. Gifted by drunk elephant",
+        "nickname": "Katherine",
+        "location": "Connecticut",
+        "created_date": 1714154459008,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 512287860,
+        "rating": 5,
+        "headline": "Gorgeous Texture!",
+        "comments": "I received this product complimentary from Drunk Elephant, in exchange for my honest review~\n\"I have finally found my holy grail eye balm! This luxurious product has truly transformed the delicate skin around my eyes. Enriched with ceramides and a powerful plant omega-lipid complex, it delivers intense hydration and nourishment like no other. The rich yet lightweight formula melts into the skin, leaving it feeling deeply moisturized and rejuvenated.\n\nI have struggled with dryness and fine lines around my eyes for years, but this eye balm has made a noticeable difference in just a few weeks of use. My skin looks plumper, smoother, and more radiant. I also love that it absorbs quickly and doesn't leave any greasy residue!",
+        "nickname": "Colleen",
+        "location": "Philadelphia PA",
+        "created_date": 1714105586430,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 512259286,
+        "rating": 5,
+        "headline": "LOVE",
+        "comments": "I love this eye cream, it left my under eyes looking refreshed, much more hydrated and helped with my dark circles. It sat nicely under makeup as well. Drunk elephant doesn't miss with their eye creams! Gifted by drunk elephant",
+        "nickname": "",
+        "location": "NY",
+        "created_date": 1714073605380,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 512255430,
+        "rating": 4,
+        "headline": "great product, bummed by how wasteful packaging was",
+        "comments": "the good: the eye balm is dreamy; it's fluffy, gentle, and absorbs nicely.  my under eye feels so hydrated when i wake up. also the way the bottle is made with how it twists up is so fun \n\nthe bad: i was absolutely horrified by the excess of unnecessary packaging. it was a huge box with a slightly smaller box and a ton of paper for a teeny little bottle. to me this is absolutely unacceptable. do better drunken elephant!\n\ni was gifted by drunken elephant",
+        "nickname": "nyomi",
+        "location": "wisconsin",
+        "created_date": 1714069481820,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 512020442,
+        "rating": 5,
+        "headline": "lovely hydration",
+        "comments": "I've been using this eye cream for about a week and i've been loving it. The main benefit i see and i was looking for with it was hydration, and it is so hydrating without feeling heavy. I also love that it is safe for sensitive eyelids! (gifted by drunk elephant)",
+        "nickname": "em",
+        "location": "oregon",
+        "created_date": 1713890973769,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 102,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2034188/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dry",
+              "count": 18
+            },
+            {
+              "label": "Combination",
+              "count": 17
+            },
+            {
+              "label": "Normal",
+              "count": 8
+            },
+            {
+              "label": "Oily",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        26,
+        14,
+        18,
+        19,
+        95
+      ],
+      "review_histogram": [
+        26,
+        14,
+        18,
+        19,
+        95
+      ],
+      "rating_count": 172,
+      "review_count": 172,
+      "average_rating": 3.83,
+      "recommended_ratio": 0.86,
+      "media": [
+        {
+          "id": "512287832",
+          "review_id": 512287860,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/o5gozkuld0ydpqztbmwm.jpg",
+          "headline": "Gorgeous Texture!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My New Holy Grail!",
+          "nickname": "Colleen",
+          "created_date": 1714105586430
+        },
+        {
+          "id": "511732824",
+          "review_id": 511732787,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ldio3gowk8w3kyerci4v.jpg",
+          "headline": "Love this !",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sadie",
+          "created_date": 1713534813006
+        },
+        {
+          "id": "511634351",
+          "review_id": 511634350,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/t77hotaytlcsdk0nn8cu.jpg",
+          "headline": "Love the texture",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Texture",
+          "nickname": "Diana",
+          "created_date": 1713408970135
+        },
+        {
+          "id": "511634343",
+          "review_id": 511634350,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/n2nlyhiwat5ktcurvve7.jpg",
+          "headline": "Love the texture",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love it",
+          "nickname": "Diana",
+          "created_date": 1713408970135
+        },
+        {
+          "id": "511617204",
+          "review_id": 511617212,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/etu4yxqptldfzmvidvut.jpg",
+          "headline": "Glowy & Moisturized",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Feeling super glowy & can't wait to see more results!",
+          "nickname": "Jasmine",
+          "created_date": 1713388565107
+        },
+        {
+          "id": "511604863",
+          "review_id": 511604746,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xo7yco1p4bbzpati7kbz.jpg",
+          "headline": "A new staple in my routine!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "the opened ceramighty AF Eye Balm by drunk elephant",
+          "nickname": "Evelyn",
+          "created_date": 1713376203771
+        },
+        {
+          "id": "511604701",
+          "review_id": 511604746,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/liwdpw5limg1grof6lpj.jpg",
+          "headline": "A new staple in my routine!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "the ceramighty AF Eye Balm by drunk elephant",
+          "nickname": "Evelyn",
+          "created_date": 1713376203771
+        },
+        {
+          "id": "511597293",
+          "review_id": 511597300,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/v2ruscz2eir7pogatnoh.jpg",
+          "headline": "Great eye cream (love the packaging btw)",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The product and the box 😍 omg!",
+          "nickname": "Rossely",
+          "created_date": 1713370164097
+        },
+        {
+          "id": "511316139",
+          "review_id": 511316231,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lm7cslnps0eldylhvnsc.jpg",
+          "headline": "Great product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dajeniel",
+          "created_date": 1713081159064
+        },
+        {
+          "id": "511316203",
+          "review_id": 511316231,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/etmj5mtyktnirm5dhy15.jpg",
+          "headline": "Great product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dajeniel",
+          "created_date": 1713081159064
+        },
+        {
+          "id": "511292244",
+          "review_id": 511292139,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lqh0rulxi2ejspq7wkpu.jpg",
+          "headline": "A very nice eye cream!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kalie",
+          "created_date": 1713045409261
+        },
+        {
+          "id": "511229340",
+          "review_id": 511229330,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zs9yu8u9y6ebbv8h3zdx.jpg",
+          "headline": "Very moisturizing",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jessica",
+          "created_date": 1712959013287
+        },
+        {
+          "id": "511229331",
+          "review_id": 511229330,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/frbaj62xezfzyw0mqtdc.jpg",
+          "headline": "Very moisturizing",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jessica",
+          "created_date": 1712959013287
+        },
+        {
+          "id": "488414582",
+          "review_id": 488414509,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/eye4kg3y78s0wrolk787.jpg",
+          "headline": "sooo gooood",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "bibi",
+          "created_date": 1703721600000
+        },
+        {
+          "id": "488575643",
+          "review_id": 488576137,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lm2u5a1wvt25a0t1if6d.jpg",
+          "headline": "Great Product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "drew",
+          "created_date": 1694476800000
+        },
+        {
+          "id": "488535257",
+          "review_id": 488535266,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jzb3t9jecfziifo5k0lr.jpg",
+          "headline": "Love the product; the packaging is a shame.",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kayla",
+          "created_date": 1663372800000
+        },
+        {
+          "id": "423757432",
+          "review_id": 423757450,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/k8jv0tokhjn97ykosdzl.jpg",
+          "headline": "CREAMY stays-with-you eye cream",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Current eye creams in my cabinet",
+          "nickname": "PLDGX",
+          "created_date": 1662564088342
+        },
+        {
+          "id": "488476916",
+          "review_id": 488477069,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/orfjsepephpumdfbp8e6.jpg",
+          "headline": "Loving It!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Maggie",
+          "created_date": 1661385600000
+        },
+        {
+          "id": "488476277",
+          "review_id": 488477069,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hesbv4tysoxa5egl10mx.jpg",
+          "headline": "Loving It!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Maggie",
+          "created_date": 1661385600000
+        },
+        {
+          "id": "488477225",
+          "review_id": 488477069,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qj34l20aa7eauxwwr6fd.jpg",
+          "headline": "Loving It!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Maggie",
+          "created_date": 1661385600000
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I have been using this Eye balm for 2 weeks, twice a day, and I'm already impressed. Sometimes I mix it with C-Tango but the results I'm reporting on apply to when I use Ceramighty by itself. Ceramighty has a similar texture and consistency to C-Tango. It takes about 5 minutes to fully absorb given I have already applied several facial moisturizers. I rub the excess over my entire face. I apply Ceramighty 2-3 times at a sitting. I have noticed immediate diminished appearance of depth and length of crows feet. The skin is temporarily firmer. I can't make any long term claims at this point but the short term results are promising",
+        "headline": "Loving It!",
+        "rating": 5,
+        "ugc_id": 488477069
+      },
+      "faceoff_negative": {
+        "comments": "Although the balm is excellent, they've packaged it in a wasteful and deceptively large container, clearly to convey value for what is actually very little product. In this screenshot photo from a TikTok I did on the product, the smaller container for comparison actually has MORE product than the Drunk Elephant eye cream. Unless they go back to the drawing board and change the packaging, I won't be purchasing it again—which is a total bummer, because the product itself is lovely.",
+        "headline": "Love the product; the packaging is a shame.",
+        "rating": 1,
+        "ugc_id": 488535266
+      },
+      "name": "Ceramighty AF Eye Balm",
+      "native_review_count": 102,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 70,
+      "locale": "en_US"
+    }
+  }
+}

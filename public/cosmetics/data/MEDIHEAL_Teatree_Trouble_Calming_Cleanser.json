@@ -1,0 +1,120 @@
+{
+  "product_id": "pimprod2054261",
+  "product_url": "https://www.ulta.com/p/teatree-trouble-calming-cleanser-pimprod2054261",
+  "extracted_at": "2025-09-23T05:23:46.160993+00:00",
+  "product_name": "MEDIHEALTeatree Trouble Calming Cleanser",
+  "brand": "MEDIHEAL",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "12.00",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2648310?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2648310?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648310_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648310_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648310_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648310_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648310_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryMediheal's Teatree Trouble Calming Cleanser refreshes the complexion with a pore-purifying foam that visibly calms and clears troubled skin, providing pore-deep cleansing gentle enough for daily use.",
+  "details": "DetailsBenefitsTargets blemish-prone and irritated skin with deep cleansing that calms visible redness, supports a smoother complexion, and leaves a refreshing, non-drying finish.Completed a skin irritation test for sensitive skin and certified by Germany Dermatest, this mildly alkaline formula features a subtle tea tree scent.With a dense whipped-cream foam, it gently deep cleanses using fine, tightly packed micro-bubbles.Key IngredientsTea Tree Liposome - Soothes and cares for sensitive, troubled skinTriple Hyaluronic Acid - Maintains hydration during cleansingPapain - A gentle exfoliant to help clear debris and dead skin cellsResearch ResultsSkin clarity & complexity improvement: +101.01% after 1 useDeep pore cleansing: 99.76% improvement after cleansingSebum removal inside pores: 114.89% improvement after useItem 2648310How To UseAdd water to create a creamy foam, gently massage onto the face, then rinse. Suitable for daily facial cleansing.IngredientsWater, Glycerin, Myristic Acid, Stearic Acid, Lauric Acid, Potassium Hydroxide, Butylene Glycol, Glycol Distearate, Glyceryl Stearate SE, Sorbitan Olivate, Beeswax, Potassium Cocoyl Glycinate, Caprylyl Glycol, Coco-Betaine, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Chloride, Artemisia Vulgaris Oil, Ethylhexylglycerin, Lavandula Angustifolia (Lavender) Oil, Citric Acid, Melaleuca Alternifolia (Tea Tree) Extract, Capryloyl Salicylic Acid, 1,2-Hexanediol, Melaleuca Alternifolia (Tea Tree) Leaf Water, Mannitol, Sodium Hyaluronate, Kaolin, Papain, Hydrolyzed Hyaluronic Acid, Bromelain, Lactobacillus Ferment, Sodium Acetylated Hyaluronate, Hydrogenated Lecithin.",
+  "how_to_use": "Add water to create a creamy foam, gently massage onto the face, then rinse. Suitable for daily facial cleansing.",
+  "ingredients": [
+    "Water",
+    "Glycerin",
+    "Myristic Acid",
+    "Stearic Acid",
+    "Lauric Acid",
+    "Potassium Hydroxide",
+    "Butylene Glycol",
+    "Glycol Distearate",
+    "Glyceryl Stearate SE",
+    "Sorbitan Olivate",
+    "Beeswax",
+    "Potassium Cocoyl Glycinate",
+    "Caprylyl Glycol",
+    "Coco-Betaine",
+    "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+    "Sodium Chloride",
+    "Artemisia Vulgaris Oil",
+    "Ethylhexylglycerin",
+    "Lavandula Angustifolia (Lavender) Oil",
+    "Citric Acid",
+    "Melaleuca Alternifolia (Tea Tree) Extract",
+    "Capryloyl Salicylic Acid",
+    "2-Hexanediol",
+    "Melaleuca Alternifolia (Tea Tree) Leaf Water",
+    "Mannitol",
+    "Sodium Hyaluronate",
+    "Kaolin",
+    "Papain",
+    "Hydrolyzed Hyaluronic Acid",
+    "Bromelain",
+    "Lactobacillus Ferment",
+    "Sodium Acetylated Hyaluronate",
+    "Hydrogenated Lecithin"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive",
+      "acne-prone"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "cream",
+      "oil",
+      "foam"
+    ],
+    "ingredients": [
+      "hyaluronic-acid",
+      "salicylic-acid"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "exfoliating",
+      "soothing",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2054261",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

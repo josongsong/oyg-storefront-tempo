@@ -1,0 +1,425 @@
+{
+  "product_id": "pimprod2037354",
+  "product_url": "https://www.ulta.com/p/oasis-deep-pore-gel-cleanser-pimprod2037354",
+  "extracted_at": "2025-09-23T04:43:32.655723+00:00",
+  "product_name": "Earth HarborOasis Deep Pore Gel Cleanser",
+  "brand": "Earth Harbor",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "13.99",
+  "sale_price": "9.79",
+  "availability": "in_stock",
+  "rating_avg": "4.7",
+  "rating_count": "155",
+  "images": [
+    "https://media.ulta.com/i/ulta/2606114?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2606114?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606114_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606114_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606114_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606114_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606114_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2606114_alt06?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackRefillableEarth Harbor's Oasis Deep Pore Gel Cleanser deeply purifies skin and replenishes glow by reducing excess oil while keeping your skin's barrier balanced and calm. It was created for all skin types and is friendly to sensitive, blemish-prone, and oily skin.",
+  "details": "DetailsBenefitsPurifiesReplenishesSoothesClarifiesFeaturesCarbon Neutral + Plastic NegativeFormulated by a Toxicologist + Herbalist Without Adding: GMOs, Dyes, Artificial Fragrances, Other Synthetic ChemicalsAllergy Tested1% For The PlanetWoman OwnedBenefits All Skin TypesKey IngredientsChlorophyll - refreshes stressed skin + calms inflammationWhite Willow Bark (BHA) · gently exfoliates + smooths skin textureSea Foam Minerals - clear complexion + strengthen skin barrierRed Sea Moss - ​​delivers supple hydration + vitamin antioxidantsAncient Sea Salt - ​​unclogs pores + balances pHDesert Botanicals - ​​remove impurities + makes skin feel plumperItem 2606114How To UseMassage cleanser onto damp skin. Rinse off with warm water and pat dry.IngredientsWater (Aqua)**, Vegetable Glycerin**, Sodium Lauroyl Methyl Isethionate (Plant-Derived Surfactant)**, Cocamidopropyl Betaine (Plant-Derived Surfactant)**, Sodium Methyl Oleoyl Taurate (Plant-Derived Surfactant)**, White Willow (Salix Alba) Bark Extract*, Plant Chlorophyll**, Sea Foam Mineral (Sepiolite) Extract***, Red Sea Moss (Kappaphycus Alvarezii) Extract*, Desert Date (Balanites Aegyptiaca) Fruit Extract***, Shikakai (Acacia Concinna) Fruit Extract***, Baby's Breath (Gypsophila Paniculata) Root Extract***, Lilac (Melia Azadirachta) Leaf Extract**, Lilac (Melia Azadirachta) Flower Extract**, Panthenol (Plant-Derived Vitamin B5)**, Aloe Vera (Aloe Barbadensis) Leaf Extract*, Lactobacillus Ferment (Probiotic)**, Pear Fruit (Pyrus Communis) Extract**, Lauryl Glucoside (Plant-Derived Surfactant)**, Coco-Glucoside (Plant-Derived Surfactant)**, Ancient Sea Salt (Sodium Chloride)***, Phytic Acid (Plant-Derived pH Adjuster)**.* Certified Organic.** Non-GMO.Due to the nature of plant-based products, color may vary slightly.",
+  "how_to_use": "Massage cleanser onto damp skin. Rinse off with warm water and pat dry.",
+  "ingredients": [
+    "Water (Aqua)**",
+    "Vegetable Glycerin**",
+    "Sodium Lauroyl Methyl Isethionate (Plant-Derived Surfactant)**",
+    "Cocamidopropyl Betaine (Plant-Derived Surfactant)**",
+    "Sodium Methyl Oleoyl Taurate (Plant-Derived Surfactant)**",
+    "White Willow (Salix Alba) Bark Extract*",
+    "Plant Chlorophyll**",
+    "Sea Foam Mineral (Sepiolite) Extract***",
+    "Red Sea Moss (Kappaphycus Alvarezii) Extract*",
+    "Desert Date (Balanites Aegyptiaca) Fruit Extract***",
+    "Shikakai (Acacia Concinna) Fruit Extract***",
+    "Baby's Breath (Gypsophila Paniculata) Root Extract***",
+    "Lilac (Melia Azadirachta) Leaf Extract**",
+    "Lilac (Melia Azadirachta) Flower Extract**",
+    "Panthenol (Plant-Derived Vitamin B5)**",
+    "Aloe Vera (Aloe Barbadensis) Leaf Extract*",
+    "Lactobacillus Ferment (Probiotic)**",
+    "Pear Fruit (Pyrus Communis) Extract**",
+    "Lauryl Glucoside (Plant-Derived Surfactant)**",
+    "Coco-Glucoside (Plant-Derived Surfactant)**",
+    "Ancient Sea Salt (Sodium Chloride)***",
+    "Phytic Acid (Plant-Derived pH Adjuster)**.* Certified Organic.** Non-GMO.Due to the nature of plant-based products",
+    "color may vary slightly"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "oily",
+      "dry",
+      "sensitive",
+      "acne-prone",
+      "normal",
+      "all skin types"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "creamy",
+      "gel",
+      "oil",
+      "foam"
+    ],
+    "ingredients": [
+      "mineral",
+      "organic"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "organic",
+      "natural",
+      "hypoallergenic"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2037354",
+    "total_reviews": 155,
+    "reviews": [
+      {
+        "review_id": 561229407,
+        "rating": 3,
+        "headline": "Feels like a Toner",
+        "comments": "I was looking for a gel cleanser and this is very liquidy. I'm still using it to see what the results are, but disappointed that it wasn't a gel cleanser :(",
+        "nickname": "Amy",
+        "location": "Anaheim, CA",
+        "created_date": 1756334303546,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557066797,
+        "rating": 5,
+        "headline": "My favorite cleanser",
+        "comments": "This cleanser is so refreshing to use. My skin feels clean after using.",
+        "nickname": "cathyl",
+        "location": "Wisconsin",
+        "created_date": 1752431194542,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554073564,
+        "rating": 3,
+        "headline": "Wanted to love it, but…",
+        "comments": "I really wanted to love this cleanser due to the comapny's values, but I just didn't. It didn't irritate my sensitive skin, HOWEVER: it smells funky and you need multiple of pumps to get even a small amount, and it doesn't feel effective unless I use a lot. For the price, you can definitely find something find better/bigger.",
+        "nickname": "Lexi",
+        "location": "Westchester, NY",
+        "created_date": 1748388390462,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 552610486,
+        "rating": 5,
+        "headline": "Best cleanser",
+        "comments": "The ingredients seem good, while cleaning, reducing redness, leaving my skin still moisturized.",
+        "nickname": "Mich",
+        "location": "Orlando, FL",
+        "created_date": 1745945260702,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551665852,
+        "rating": 4,
+        "headline": "gentle cleanser",
+        "comments": "It's really nice. Cleans my skin without stripping it. Nothing crazy but for $14/$15 not bad",
+        "nickname": "Nat",
+        "location": "Parma, OH",
+        "created_date": 1744572339419,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 547350177,
+        "rating": 5,
+        "headline": "Great",
+        "comments": "My favorite cleanser. Face feels fresh and not dry at all after using it.",
+        "nickname": "Gogo",
+        "location": "Los Angeles",
+        "created_date": 1740475097836,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546963014,
+        "rating": 1,
+        "headline": "Broke out my face :(",
+        "comments": "I wanted to love this product so bad. I normally have BAD breakouts with cleansers for some reason, so I gave this a try since it's vegan and all the ingredients looked natrual (I'm a cruelty free babe) The cleanser didnt really work too well removing makeup, so I had to use it around 3 times in a row to make it work. It ended up making my face break out as badly as it did in high school, and I'm 29.. :( I used their moisturizer too after.\n2 weeks after stopping it, my face was starting to look better. Maybe I'm just allergic to an ingredient I don't know about. Still using the moisturizer and no problems with that. I actually love it",
+        "nickname": "T",
+        "location": "Daytona Beach, FL.",
+        "created_date": 1739927488912,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 544308634,
+        "rating": 5,
+        "headline": "my favorite face cleanser",
+        "comments": "My face has never been clearer of acne since adding to my routine.",
+        "nickname": "Mich",
+        "location": "Orlando, FL",
+        "created_date": 1737999418680,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 506029803,
+        "rating": 2,
+        "headline": "Meh",
+        "comments": "I was looking for a cleanser in glass, but it is far too small to be that price and did nothing for my skin except ii was more textured after using this.",
+        "nickname": "T",
+        "location": "Atlanta, GA",
+        "created_date": 1707787507406,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 464870555,
+        "rating": 5,
+        "headline": "Love",
+        "comments": "I love this, makes my skin feel rly nice!",
+        "nickname": "Sarah",
+        "location": "Nashville",
+        "created_date": 1689361361723,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 460012183,
+        "rating": 3,
+        "headline": "Watery, not a gel",
+        "comments": "I bought this because I don't like liquid cleansers and this is called a gel.  Wrong, it's completely liquid, very watery.  I tried to make it work, but I feel like so much of it just drips off and washes away, and my face doesn't feel that clean after using.  I love the company's yellow Sunshine oil cleanser so will stick with that.",
+        "nickname": "Mary B.",
+        "location": "USA",
+        "created_date": 1685828731271,
+        "bottom_line": "No",
+        "helpful_votes": 11,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 447329250,
+        "rating": 5,
+        "headline": "Great gentle cleanser",
+        "comments": "I absolutely love this cleanser! It is gentle yet cleanses deep. My face doesn't feel dry as other harsh cleansers make me feel! My skin feels clean and moisturized. It does feel weird to not have it suds up like other cleaners, but I have gotten use to that!",
+        "nickname": "Lily",
+        "location": "Chicago, Il",
+        "created_date": 1678310392175,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 447194878,
+        "rating": 5,
+        "headline": "Great for sensitive skin",
+        "comments": "I have lupus so I usually spend so much money on skincare products that are advertised to be clean but aren't and it is really difficult. This cleanser is so amazing for my extremely sensitive skin. It has helped so much with my lupus rashes on my face. Earth Harbor has changed my life",
+        "nickname": "Santfs",
+        "location": "Atlanta, GA",
+        "created_date": 1678290448098,
+        "bottom_line": null,
+        "helpful_votes": 16,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 446443074,
+        "rating": 5,
+        "headline": "Simple But Rejuvenating!",
+        "comments": "This cleanser does more than it seems. I love how simple it is. It isn't harsh on your skin at all and leaves it feeling clean without feeling too stripped hydration. It pairs very well with the Mermaid Milk moisturizer.",
+        "nickname": "Jenna",
+        "location": "Salem Ohio",
+        "created_date": 1677883998521,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 446442907,
+        "rating": 5,
+        "headline": "Great Cleanser For Me!",
+        "comments": "I love the OASIS Deep Pore Gel Cleanser! It really cleans my skin without leaving it dry and flakey - and there's no residue.",
+        "nickname": "Leila",
+        "location": "Bismarck ND",
+        "created_date": 1677883859559,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 446442848,
+        "rating": 5,
+        "headline": "Amazing",
+        "comments": "Super light and refreshing. Smells great and leaves my skin feeling really clean!",
+        "nickname": "Kayla",
+        "location": "Greenville NC",
+        "created_date": 1677883748693,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 446442728,
+        "rating": 5,
+        "headline": "Completely Recommend",
+        "comments": "I'm in LOVE with this product!!! Lathers well, rinses super clean, and with no drying effect. It's my 1st step product of the day.",
+        "nickname": "Becky",
+        "location": "Bedford NY",
+        "created_date": 1677883623702,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 446442673,
+        "rating": 5,
+        "headline": "So Good",
+        "comments": "It does a really good job taking off my makeup and cleaning my face thoroughly!",
+        "nickname": "Krissy",
+        "location": "Deming new mexico",
+        "created_date": 1677883564557,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 446159251,
+        "rating": 5,
+        "headline": "Works wonders",
+        "comments": "Like your favorite gel cleanser, only natural. It's a nice deep clean for all skin types especially combo skin or slightly oily skin.",
+        "nickname": "Haley",
+        "location": "Georgia",
+        "created_date": 1677768938179,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 445489186,
+        "rating": 4,
+        "headline": "Love this cleanser",
+        "comments": "This would be my favorite cleanser if it wasn't such a small size. A little goes a long way, but that can be said for most cleansers. It should be a bigger bottle for the same price. I've used better brands that cost the same for a lot more product. It has a very soft gentle foam as you work it in and it smells so clean and fresh. I love Earth Harbor products and have many of them. I save this for when my skin is starting to feel dry from the cold weather. It's the perfect light cleanser to prevent those dry patches and to clear them up.",
+        "nickname": "Kate",
+        "location": "Lafayette, Or",
+        "created_date": 1677458811493,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      }
+    ],
+    "paging": {
+      "total_results": 23,
+      "pages_total": 2,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2037354/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 4
+            },
+            {
+              "label": "Dry",
+              "count": 3
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        1,
+        1,
+        10,
+        17,
+        126
+      ],
+      "review_histogram": [
+        1,
+        1,
+        10,
+        17,
+        126
+      ],
+      "rating_count": 155,
+      "review_count": 155,
+      "average_rating": 4.72,
+      "recommended_ratio": 0.98,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "OMG I'm just so obsessed with this Brand in general. I love everything they stand for, their formulas and packaging are to die for, and the results speak for themselves. I LOVE the Oasis Deep Pore Gel Cleanser. The color is beautiful, it smells amazing and it feels amazing!! I decided to do a skincare overhaul and basically went wild on the Earth Harbor products, essentially buying half of the products they offer and making my entire routine Earth Harbor. I want everything lol. I am an Ingredient nerd, and I love the ingredients that Ali went with for this Cleanser. Red Sea Moss, Chlorophyll, Sea foam, Baby's Breath and Lilac, Pear fruit extract, we have Lactobacillus Ferment and Panthenol for the skin barrier, I love the inclusion of the Ancient Sea Salt and White Willow Bark for skin texture, Acne, and Inflammation.  Everything about this Cleanser is 10/10. I love using it after the Ahoy Love Milky Cleanser..or after an oil Cleanser (soon to be the Sunshine Oil Cleanser when it comes in the mail lol.) Had a random breakout recently and Oasis cleared my skin right up 😊",
+        "headline": "OMG I'm just so obsessed",
+        "rating": 5,
+        "ugc_id": 560464039
+      },
+      "faceoff_negative": {
+        "comments": "I got this gel as part of the build a bundle to get the 25% off discount. I added this, as well as the cloudburst to my daily routine. After two days, my skin instantly flared up with bumps and had the most intense itch I have ever felt on my face. I immediately stopped all products and this itching continued for the next 4 days with extreme flakiness. I tried everything to smooth it but it's difficult once it's gets irritated. For the next couple weeks I stuck to my usual routine and it finally calmed down. Then one day I decided to try the cleanser again thinking it was the cloudburst that gave me a reaction, turns out it was this cleaner. I used it in the morning and by evening I started getting a slight itch around my jawline then the next coming days the itching became more intense and migrated up my cheeks, etc. I really wanted to like this product, but something in it I must be allergic to. I'll be giving this product to my sister since it's s good product and I don't want to waste it.  It just didn't work for me.",
+        "headline": "Nice Product, However I was allergic",
+        "rating": 3,
+        "ugc_id": 549572456
+      },
+      "native_review_count": 23,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 132,
+      "locale": "en_US"
+    }
+  }
+}

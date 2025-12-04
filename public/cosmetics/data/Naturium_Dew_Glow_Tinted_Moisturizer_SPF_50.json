@@ -1,0 +1,407 @@
+{
+  "product_id": "pimprod2048382",
+  "product_url": "https://www.ulta.com/p/dew-glow-tinted-moisturizer-spf-50-pimprod2048382",
+  "extracted_at": "2025-09-23T03:46:16.371676+00:00",
+  "product_name": "NaturiumDew-Glow Tinted Moisturizer SPF 50+",
+  "brand": "Naturium",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Tinted Moisturizer"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "tinted-moisturizer"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "22.99",
+  "availability": "in_stock",
+  "rating_avg": "3.4",
+  "rating_count": "42",
+  "images": [
+    "https://media.ulta.com/i/ulta/2632559?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2632559?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2632559_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2632559_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2632559_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2632559cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2632559cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2632559cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2632559cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2632559cm_vid01/thumbs/312e05b9-2d31-4457-aa22-0073bdd0baf9?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganHSA/FSA eligibleNaturium's Dew-Glow Tinted Moisturizer SPF 50+ is formulated with organic/chemical sunscreen filters to provide broad spectrum protection while leaving a dewy, radiant finish with a sheer tint. Niacinamide and ethylated ascorbic acid help visibly improve the look of complexion.",
+  "details": "DetailsBenefitsSunscreen moisturizer with SPF 50+ protectionSheer, flexible coverageProvides a dewy glowDermatologist testedFragrance freeParaben freeKey IngredientsOrganic/Chemical Sunscreen Filters: Provide broad spectrum protection, and have a lightweight feel on skinNiacinamide: Helps to reduce appearance of uneven skin tone, improves look of enlarged pores and works to balance & reduce oil production3-0 Ethyl Ascorbic Acid: Stable vitamin C derivative, provides antioxidant protection from free radicals and helps brighten appearance of skinShadesMediumItem 2632559How To UseAs the last step in your skincare routine, apply evenly onto face 15 minutes before sun exposure. Use the dip cap to perfectly measure the ¼ teaspoon sunscreen dose recommended. See Drug Facts for complete usage.Precautions: For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.IngredientsActive: Avobenzone 3.0%, Homosalate 10.0%, and Octisalate 5.0%.Inactive: Aqua/Water/Eau, Butyloctyl Salicylate, C12-15 Alkyl Benzoate, Calcium Sodium Borosilicate, Glycerin, Glyceryl Stearate, Ethylhexyl Methoxycrylene, VP/Eicosene Copolymer, Stearyl Dimethicone, Argania Spinosa Kernel Oil, Tocopheryl Acetate, 1,2-Hexanediol, Niacinamide, Sodium Stearoyl Glutamate, Tocopherol, Cetearyl Olivate, Bisabolol, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Squalane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyacetophenone, Silica, Octadecene, Sorbitan Olivate, Sorbitan Oleate, Caprylyl/Capryl Glucoside, Xanthan Gum, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Trisodium Ethylenediamine Disuccinate, Polyisobutene, Citric Acid, Sodium Hydroxide, Iron Oxides (CI 77491), Iron Oxides (CI 77492), Iron Oxides (CI 77499).",
+  "how_to_use": "As the last step in your skincare routine, apply evenly onto face 15 minutes before sun exposure. Use the dip cap to perfectly measure the ¼ teaspoon sunscreen dose recommended. See Drug Facts for complete usage.Precautions: For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.",
+  "ingredients": [
+    "Active: Avobenzone 3.0%",
+    "Homosalate 10.0%",
+    "and Octisalate 5.0%.Inactive: Aqua/Water/Eau",
+    "Butyloctyl Salicylate",
+    "C12-15 Alkyl Benzoate",
+    "Calcium Sodium Borosilicate",
+    "Glycerin",
+    "Glyceryl Stearate",
+    "Ethylhexyl Methoxycrylene",
+    "VP/Eicosene Copolymer",
+    "Stearyl Dimethicone",
+    "Argania Spinosa Kernel Oil",
+    "Tocopheryl Acetate",
+    "2-Hexanediol",
+    "Niacinamide",
+    "Sodium Stearoyl Glutamate",
+    "Tocopherol",
+    "Cetearyl Olivate",
+    "Bisabolol",
+    "3-O-Ethyl Ascorbic Acid",
+    "Sodium Hyaluronate",
+    "Squalane",
+    "Ammonium Acryloyldimethyltaurate/VP Copolymer",
+    "Hydroxyacetophenone",
+    "Silica",
+    "Octadecene",
+    "Sorbitan Olivate",
+    "Sorbitan Oleate",
+    "Caprylyl/Capryl Glucoside",
+    "Xanthan Gum",
+    "Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+    "Trisodium Ethylenediamine Disuccinate",
+    "Polyisobutene",
+    "Citric Acid",
+    "Sodium Hydroxide",
+    "Iron Oxides (",
+    "Iron Oxides (",
+    "Iron Oxides ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "moisturizer",
+      "sunscreen"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "oil"
+    ],
+    "ingredients": [
+      "niacinamide"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "organic",
+      "dermatologist-tested",
+      "fragrance-free",
+      "paraben-free",
+      "spf",
+      "brightening"
+    ],
+    "category": [],
+    "skin_type": []
+  },
+  "reviews": {
+    "product_id": "pimprod2048382",
+    "total_reviews": 42,
+    "reviews": [
+      {
+        "review_id": 558047389,
+        "rating": 4,
+        "headline": "Obsessed",
+        "comments": "Love this skin tint!",
+        "nickname": "Jax",
+        "location": "Michigan",
+        "created_date": 1753234155638,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557875454,
+        "rating": 5,
+        "headline": "My face has never looked better",
+        "comments": "This tinted spf moisturizer is the absomute GOAT. I recently found out about it after an aesthetician recommended it. I have dry skin, and this is incredibly hydrating without leaving a greasy residue that never sinks in. I still set it with powder in my T-zone, and still have the healthiest lit-from-within glow. I have bever received so many compliments on my skin and makeup in my life since I began wearing this. What I love is that it's not just makeup, but skincare. The tint is pretty good too, it evens out my skin tone and adds a healthy radiance. I've tried tons of tinted spf's and moisturizers throughout the years, and this one tops every single one. I went and repurchased a couple more for fear of them discontinuing it and being left without it. The only thing I woukd recommend is getting the lightest color even if you have a medium skin tone. I went with medium the first time, but it is a little too deep for me, so I use the light now and just mix a pump or two of the medium in to match my tone. Other than that, it's literally perfect!",
+        "nickname": "Bri",
+        "location": "CA",
+        "created_date": 1753046955269,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557870867,
+        "rating": 5,
+        "headline": "Love!",
+        "comments": "Love this tinted spf! It makes my skin look hydrated and dewy! I have medium/tan skin and went with the medium shade.",
+        "nickname": "Ev",
+        "location": "CA",
+        "created_date": 1753038753398,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557866555,
+        "rating": 3,
+        "headline": "Does job as SPF/moisturizer, iffy tint (Light)",
+        "comments": "This moisturizer is great on the skin and providing SPF coverage, but I didn't notice much skin tint coverage. Will definitely use the whole bottle, but will not repurchase -- find another tinted moisturizer or get the nonfinited 50 SPF.",
+        "nickname": "Anna",
+        "location": "Ohio",
+        "created_date": 1753031943206,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557372031,
+        "rating": 5,
+        "headline": "Mixed reviews but bought anyways, So glad i did!!!",
+        "comments": "You're going to get a dewy tint from this, no coverage! I have pale oily skin & haven't noticed oxidizing.. maybe because i don't use the cap, i use what i know will work for me. It brings life back to my face & perf for no makeup looks. Love this!!!",
+        "nickname": "Megan",
+        "location": "TN",
+        "created_date": 1752682465604,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556665961,
+        "rating": 5,
+        "headline": "light coverage dewy",
+        "comments": "The cap is a way to measure how much you need which is pretty cool because otherwise I would definitely be using too little. Tinted sunscreen usually has that problem so I think that's an important feature. The coverage is closer to sheer which also makes it easier to use the right amount so by the time I use enough I get enough coverage. I don't have to use much else.  it is dewy and I'm not always a fan of that look so beware.",
+        "nickname": "Susan",
+        "location": "new york ny",
+        "created_date": 1751662025322,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555688285,
+        "rating": 2,
+        "headline": "Oxidizes like crazy",
+        "comments": "I bought this looking for a light-feeling skin tint with spf. There are only 3 color options, but I thought it would be okay beacause its only a skin tint. I have light medium skin so I grabbed the Medium shade. It is only wearable, due to how orange it becomes, when I dilute it with copius amounts of moisturizer. You also have to push out a plug of product each use if you are not using daily.",
+        "nickname": "Em",
+        "location": "Fresno, CA",
+        "created_date": 1750573865708,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555603301,
+        "rating": 4,
+        "headline": "Great!",
+        "comments": "I purchased this product myself, it is a great one step morning product. It doesn't sting my eyes, hydrates my very dry skin amd I appreciate the high SPF and added skincare ingredients.",
+        "nickname": "N118",
+        "location": "NC",
+        "created_date": 1750427354244,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555249768,
+        "rating": 3,
+        "headline": "I wanted to love this but...",
+        "comments": "I wanted to love this tinted moisturizing sun screen. The finish is beautiful and glowy, but it won't dry down on me and I have normal skin that leans towards dry. It normally absorbs moisturizers immediately but this one makes me feel oily all day. I normally use a small amount of setting powder in my t-zone just to help blur my pores a bit. I tried using setting powder and setting spray and they helped a bit but not enough. I'm going to set it aside for the summer and see if it works better for me in the winter when there's less humidity as my face normally gets dryer that time of year. Sad that I can't use it year round!",
+        "nickname": "Julia",
+        "location": "GA",
+        "created_date": 1750167622644,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555225833,
+        "rating": 5,
+        "headline": "Amazing product",
+        "comments": "Perfect in every way. Gives a real Dewey look. Easiest way to have sunscreen on. No white residue.",
+        "nickname": "Gesy",
+        "location": "New Jersey",
+        "created_date": 1750113299303,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554801044,
+        "rating": 5,
+        "headline": "Definite rebuy",
+        "comments": "I have dry skin and this feels and looks great on my skin. While there are only 3 shades, since it's truly a tint, I don't have a problem with it. Since it doesn't really give coverage, there's no streaking or areas where it doesn't blend. It definitely gives a glow to my skin, but it doesn't feel heavy like the Laura Mercier one did. I also think it blends into my skin a lot better than the bareMinerals or Laroche Posey ever did.",
+        "nickname": "Michelle",
+        "location": "Nashville, TN",
+        "created_date": 1749493970285,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554782503,
+        "rating": 3,
+        "headline": "Made me break out in hives",
+        "comments": "I originally liked this product a lot when i first put it on, I felt like it gave my face a nice color. However, after a day my face broke out in hives and this was the only new product I was using.",
+        "nickname": "Broke out in Hives",
+        "location": "Patchogue, New York",
+        "created_date": 1749470781374,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 554285766,
+        "rating": 2,
+        "headline": "Very comedogenic",
+        "comments": "Not a lot of color range options and product made me break out. But it did last throughout the whole day",
+        "nickname": "Emily",
+        "location": "Houston Tx",
+        "created_date": 1748621042362,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554051303,
+        "rating": 2,
+        "headline": "Limited shades and Oily",
+        "comments": "Was really wxcited but I feel like medium is too dark and light would look too light for my skin. I ended up getting medium and it is just super thick feeling and gets so oily/greasy looking on the skin.",
+        "nickname": "Amber",
+        "location": "Denver",
+        "created_date": 1748363612813,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 553941244,
+        "rating": 2,
+        "headline": "Burns eyes.",
+        "comments": "It has very little tint. I wore it for my kids baseball tournament, im in texas and need all the sun protection. It was working fine until i started to sweat and it got in my eyes. Its BURNS!!!! So be careful! I had to use a water bottle to get it off my face.",
+        "nickname": "Hutch",
+        "location": "Kyle, Texas",
+        "created_date": 1748113671591,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 553941235,
+        "rating": 2,
+        "headline": "Burns eyes.",
+        "comments": "It has very little tint. I wore it for my kids baseball tournament, im in texas and need all the sun protection. It was working fine until i started to sweat and it got in my eyes. Its BURNS!!!! So be careful! I had to use a water bottle to get it off my face.",
+        "nickname": "Hutch",
+        "location": "Kyle, Texas",
+        "created_date": 1748113670540,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553088964,
+        "rating": 2,
+        "headline": "May work if you're super dry",
+        "comments": "I wanted so badly for this to work as an everyday unancreen for me, as it didnt break our my sensitive, acne prone skin, but the cons outweighed the pros. \n\nThe dewy finish never dried down and instead got more oily and heavy as the day progressed. My phine screen was covered in the product each time I took a call. The coverage was okay, but actually pretty sheer considering how it appears out of the tube. Covered redness but not dark spots or breakouts. The worst part- it oxidized in my neck creases and made it look like id been working in the fields.",
+        "nickname": "Vic",
+        "location": "Boston",
+        "created_date": 1746756430276,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 552724588,
+        "rating": 4,
+        "headline": "Finally a Tint for me!",
+        "comments": "I've been looking for an affordable but high quality tinted sunscreen for my darker skin tone for a while and I think Ive found it! Super moisturizing and will definitely leave a glow but after a long day my face feels greasy. Also has a slight yellow undertone on me but may be the \"dew\" attribute. I would definitely use this more often in the winter when my skin is usually drier. If only there was a matte version! This would be perfect!",
+        "nickname": "Ava",
+        "location": "Mississippi",
+        "created_date": 1746171598650,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552537605,
+        "rating": 1,
+        "headline": "Sunscreen",
+        "comments": "To orange and i got the lightest shade ;(",
+        "nickname": "Cc",
+        "location": "Littleton",
+        "created_date": 1745786087123,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 552141653,
+        "rating": 1,
+        "headline": "No coverage",
+        "comments": "I would not buy this again",
+        "nickname": "Jeannie",
+        "location": "Texas",
+        "created_date": 1745280222290,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 6
+      }
+    ],
+    "paging": {
+      "total_results": 42,
+      "pages_total": 3,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2048382/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        3,
+        11,
+        9,
+        6,
+        13
+      ],
+      "review_histogram": [
+        3,
+        11,
+        9,
+        6,
+        13
+      ],
+      "rating_count": 42,
+      "review_count": 42,
+      "average_rating": 3.36,
+      "recommended_ratio": 0.42,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "This tinted spf moisturizer is the absomute GOAT. I recently found out about it after an aesthetician recommended it. I have dry skin, and this is incredibly hydrating without leaving a greasy residue that never sinks in. I still set it with powder in my T-zone, and still have the healthiest lit-from-within glow. I have bever received so many compliments on my skin and makeup in my life since I began wearing this. What I love is that it's not just makeup, but skincare. The tint is pretty good too, it evens out my skin tone and adds a healthy radiance. I've tried tons of tinted spf's and moisturizers throughout the years, and this one tops every single one. I went and repurchased a couple more for fear of them discontinuing it and being left without it. The only thing I woukd recommend is getting the lightest color even if you have a medium skin tone. I went with medium the first time, but it is a little too deep for me, so I use the light now and just mix a pump or two of the medium in to match my tone. Other than that, it's literally perfect!",
+        "headline": "My face has never looked better",
+        "rating": 5,
+        "ugc_id": 557875454
+      },
+      "faceoff_negative": {
+        "comments": "I wanted to love this because the brand has so many winners, but the chemical sunscreen filters stung my eyes so badly I had to wash it off - I'm talking bloodshot eyes and runny nose. I tried it for two days and both times it was unbearable. If this is a tinted product anyway, why not use mineral filters that don't irritate the eyes?\n\nOn the color: my skin is light (Cream in the Merit concealer if that helps), not fair or tan - true light. Out of the pump the shade Light looks beige, but as i was blending it into my face I watched it turn orange in real time. After using the capful recommended I looked like Trump, like the victim of a botched spray tan. The color was patchy and uneven and completely different from the color shown in pictures. \n\nI thought this would be the winter time answer to my favorite DRMTLGY tinted sunscreen which is less dewy and rich, and it did feel hydrating and nice on the skin, but ultimately I have to return.",
+        "headline": "My eyes! They burn!",
+        "rating": 2,
+        "ugc_id": 547098183
+      },
+      "name": "Dew-Glow Tinted Moisturizer SPF 50+",
+      "native_review_count": 42,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

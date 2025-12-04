@@ -1,0 +1,627 @@
+{
+  "product_id": "pimprod2014019",
+  "product_url": "https://www.ulta.com/p/superdefense-city-block-broad-spectrum-spf-50-daily-energy-face-protector-primer-pimprod2014019",
+  "extracted_at": "2025-09-23T05:21:05.530156+00:00",
+  "product_name": "CliniqueSuperdefense City Block Broad Spectrum SPF 50 Daily Energy + Face Protector Primer",
+  "brand": "Clinique",
+  "categories": [
+    "Home",
+    "Body Care",
+    "Suncare",
+    "Sunscreen"
+  ],
+  "category_keys": [
+    "home",
+    "body-care",
+    "suncare",
+    "sun-care"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "40.00",
+  "availability": "in_stock",
+  "rating_avg": "3.6",
+  "rating_count": "303",
+  "images": [
+    "https://media.ulta.com/i/ulta/2560146?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2560146?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2560146cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2560146cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2560146cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2560146cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2560146cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2560146cm_alt06?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingHSA/FSA eligibleClinique Superdefense City Block SPF 50 Daily Energy + Face Protector is an energizing, go-anywhere daily SPF protector for all-day defense.",
+  "details": "DetailsBenefitsAll Skin Types.Daily SPF protector works all day to defend and awaken skin.Sheer, weightless, quick-absorbing, and oil-free.Stop Signs Technology prevents signs of aging by combating a full spectrum of modern environmental aggressors including UVA/UVB and other skin irritants.Sunscreen ingredients such as titanium dioxide, zinc, and octinoxate provide protection against UV rays (UVA & UVB).Dermatologist tested.Allergy tested.Formulated WithoutParabensPhthalatesOilAlcoholSynthetic colorsSLSFragranceItem 2560146How To UseApply SPF in AM after all treatment products and before makeup.IngredientsActive: Octinoxate 5.0%, Titanium Dioxide 3.2%, Zinc Oxide 3.6%. Inactive: Water\\Aqua\\Eau, Dimethicone, Butyloctyl Salicylate, Isononyl Isononanoate, Neopentyl Glycol Diheptanoate, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Butylene Glycol, Polydecene, Polyhydroxystearic Acid, Ethylhexyl Methoxycrylene, Hydrated Silica, Dimethicone/Vinyl Dimethicone Crosspolymer, Trimethylsiloxysilicate, Hydrolyzed Wheat Protein/Pvp Crosspolymer, Hydroxyapatite, Cetyl PEG/PPG-10/1 Dimethicone, Dimethicone/PEG-10/15 Crosspolymer, Sodium Rna, Quaternium-90 Bentonite, Sodium Hyaluronate, Dimethicone Crosspolymer-3, Styrene/Acrylates Copolymer, Sodium Chloride, Caprylyl Glycol, PEG-8 Laurate, Propylene Carbonate, Silica, Tocopherol, Sodium Citrate, Disodium EDTA, BHT, Phenoxyethanol, Potassium Sorbate, Iron Oxides (CI 77491), Iron Oxides (CI 77492).Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Apply SPF in AM after all treatment products and before makeup.",
+  "ingredients": [
+    "Active: Octinoxate 5.0%",
+    "Titanium Dioxide 3.2%",
+    "Zinc Oxide 3.6%. Inactive: Water\\Aqua\\Eau",
+    "Dimethicone",
+    "Butyloctyl Salicylate",
+    "Isononyl Isononanoate",
+    "Neopentyl Glycol Diheptanoate",
+    "Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone",
+    "Butylene Glycol",
+    "Polydecene",
+    "Polyhydroxystearic Acid",
+    "Ethylhexyl Methoxycrylene",
+    "Hydrated Silica",
+    "Dimethicone/Vinyl Dimethicone Crosspolymer",
+    "Trimethylsiloxysilicate",
+    "Hydrolyzed Wheat Protein/Pvp Crosspolymer",
+    "Hydroxyapatite",
+    "Cetyl PEG/PPG-10/1 Dimethicone",
+    "Dimethicone/PEG-10/15 Crosspolymer",
+    "Sodium Rna",
+    "Quaternium-90 Bentonite",
+    "Sodium Hyaluronate",
+    "Dimethicone Crosspolymer-3",
+    "Styrene/Acrylates Copolymer",
+    "Sodium Chloride",
+    "Caprylyl Glycol",
+    "PEG-8 Laurate",
+    "Propylene Carbonate",
+    "Silica",
+    "Tocopherol",
+    "Sodium Citrate",
+    "Disodium EDTA",
+    "BHT",
+    "Phenoxyethanol",
+    "Potassium Sorbate",
+    "Iron Oxides (",
+    "Iron Oxides ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "body",
+      "sunscreen",
+      "sun-care",
+      "bath-body"
+    ],
+    "product_type": [
+      "sunscreen",
+      "primer"
+    ],
+    "skin_type": [
+      "oily",
+      "all skin types"
+    ],
+    "finish": [
+      "sheer",
+      "oil"
+    ],
+    "brand": [
+      "luxury",
+      "mid-range"
+    ],
+    "special_features": [
+      "dermatologist-tested",
+      "hypoallergenic",
+      "oil-free",
+      "spf"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2014019",
+    "total_reviews": 303,
+    "reviews": [
+      {
+        "review_id": 561496464,
+        "rating": 5,
+        "headline": "Works well even with eczema",
+        "comments": "I've used other tinted moisturizers with sunscreen that have more pigmented colors that actually look like foundation and cover imperfections. I would say this doesn't look at all like I'm wearing foundation and doesn't cover any of my sunspots, but it also doesn't have a white cast on my medium tan skin. I've been using it daily for a couple of weeks and it also doesn't make little crumbly bits all over my face like some primers do. For my 47 year old skin this works perfectly so I will continue to use it and I'm going to try to get my teen daughter to wear it too; she hates makeup so hopefully the fact that this doesn't add color should check the right boxes for her. I'm also going to add that we both have eczema and Clinique is the one brand that doesn't cause flares that we can both use.",
+        "nickname": "Ella",
+        "location": "Tucson, AZ",
+        "created_date": 1756772152600,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557376684,
+        "rating": 4,
+        "headline": "Exactly what I wanted",
+        "comments": "The formula is lightweight and I love the slight tint.",
+        "nickname": "Heather",
+        "location": "Riverbank CA",
+        "created_date": 1752689313343,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556446614,
+        "rating": 5,
+        "headline": "I would absolutely buy this product again.",
+        "comments": "I love Clinique products and am especially pleased with this cream so that I can ride the motorcycle without getting too much sunburn on my face and forehead.",
+        "nickname": "Danni-Marie",
+        "location": "PA",
+        "created_date": 1751632174476,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556121791,
+        "rating": 5,
+        "headline": "Love this!",
+        "comments": "I have very sun sensitive skin & love this product.  On busy days I use this on top of a face setum & moisturizer, then add face powder & Im out the door.  Also takes liquid foundation well.  Im actually here looking to buy my 2nd tube.  I have rosacea that causes acne & this product was not irritating to my face.  Big win!",
+        "nickname": "Just me",
+        "location": "NM",
+        "created_date": 1751387295819,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553759289,
+        "rating": 5,
+        "headline": "I don't go anywhere without it!",
+        "comments": "Now that summer is here, I don't go anywhere without it! I used to sparingly in the winter but now that we are in full sun days its a must! Its not to thick or greasy. Its blends into my skin beautifully and my makeup last all day! It does a great job of hiding and protecting my dark spots to make sure they dont get worse or more gets added to my face. Keep this product around forever please! The 50 is my jam! Sensitive skin commemter here! :)",
+        "nickname": "Angel",
+        "location": "Boardman, OH",
+        "created_date": 1747839198736,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553627368,
+        "rating": 5,
+        "headline": "Not sure why the negative reviews! It's my HG!",
+        "comments": "Tried it in store per the clinique associate and I really like it! It is on the thicker side but it spreads nicely and doesnt pill when paired with clinique moisture surge 100H or peach and lily's matcha moisturizer (my two HG moisturizers). You need your moisturizer to dry for 15 minutes and THEN apply your spf, this dramatically reduces it from pilling. It does look very orange when dispensed but it gives me a great sheer tint that looks like I put makeup on, its beautiful! So I wear alone typically on non-makeup days but does work very well as a primer as well (I use IT cosmetics CC+ foundation in light warm medium. For reference, I am also WN04 Bone in Clinique even better makeup so light/med and the tint works great for me. Wish it came in a bigger bottle! As it is pricy when you apply the standard 1/4tsp.",
+        "nickname": "Skincareguru123",
+        "location": "Chicago, IL",
+        "created_date": 1747764023912,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 552722628,
+        "rating": 5,
+        "headline": "The best i came to leave a review",
+        "comments": "Im sooooo impressed with this product! I only need a little and i blend a small amount of foundtaion for a sunkissed look. I will not be running out of this all year round! Woohoo",
+        "nickname": "Lee",
+        "location": "Manteno Illinois",
+        "created_date": 1746161599312,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551697950,
+        "rating": 2,
+        "headline": "Awful texture",
+        "comments": "Can't get over the tacky texture - not expected at this price point.  I'll be going back to the Shiseido sunscreen - still haven't found anything better.  Really disappointed.",
+        "nickname": "Lulu",
+        "location": "MD",
+        "created_date": 1744645337485,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551325543,
+        "rating": 5,
+        "headline": "Lasting and light",
+        "comments": "I'm pretty fair and wore this every day in Aruba for a week without having to reapply throughout the day. Great sun protection and light weight. My new go to product in the summer",
+        "nickname": "Monika",
+        "location": "New Jersey",
+        "created_date": 1744249458743,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550815757,
+        "rating": 2,
+        "headline": "The orange ring is not fun and doesn't spread well",
+        "comments": "Also the closer you get to the bottom of the tube it begins to pill",
+        "nickname": "Nik",
+        "location": "Kansas",
+        "created_date": 1743508793348,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537581897,
+        "rating": 5,
+        "headline": "Amazing! My favorite mineral sunscreen!",
+        "comments": "I use this in addition to my moisture surge. I love the hydration of moisture surge and love the finish of this sunblock. Everybody I have let try (varying skin types and shades) has looked amazing after using this. Your skin will look more evenly textured and smooth after using this. Its like wearing makeup, but you're not and it looks super natural. It also works fantastic under make up. Great primer. I have rosacea and acne prone skin that is sensitive and out of all of the products I have ever tried, this and moisture surge hydrate and protect the best. I have dry combination skin.",
+        "nickname": "JC",
+        "location": "Annapolis, MD",
+        "created_date": 1731205323715,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536322403,
+        "rating": 5,
+        "headline": "Effective Product",
+        "comments": "I have been using this product daily for over a year. I really like it and I feel it smooths the skin and helps prevent sun damage.",
+        "nickname": "Gail",
+        "location": "New York",
+        "created_date": 1729265455146,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 523433740,
+        "rating": 5,
+        "headline": "Doesn't Burn My Eyes!",
+        "comments": "I absolutely love this stuff and cannot understand the negative reviews.  Great tint, high SPF, and easy to apply.  Best of all, it does not burn my eyes!!  I apply it alone to my neck after serums and moisturizer but do mix with my foundation when I apply to my face.",
+        "nickname": "Brenj",
+        "location": "Hill Country Texas",
+        "created_date": 1718909827672,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 521769243,
+        "rating": 1,
+        "headline": "Caused dryness",
+        "comments": "I was given the sunscreen by my mom try, but after a few weeks of using it I notices it made my skin extremely dry. It also caused my make up to separate even when allowing 15 minutes to dry before applying foundation. I've increased my moisturizer usage hoping that would help offset the dryness, but it has not helped at all. This sunscreen has an odd smell to it.",
+        "nickname": "Tina",
+        "location": "West Covina, Ca",
+        "created_date": 1717554015638,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 512612852,
+        "rating": 5,
+        "headline": "Finally, a sunscreen that works!",
+        "comments": "I've had such a hard time finding a face sunscreen that didnt mess with my skin or makeup and this is it! I'm obsessed with how easy it is to apply after my skincare and it was no issue at all with my makeup after application! It doesn't have a typical sunscreen smell. I will say, for someone like myself who had oily combo skin, this might be a hit or miss for you, but for myself personally I didn't mind it at all :)",
+        "nickname": "Jasmine",
+        "location": "San Diego, CA",
+        "created_date": 1714430324176,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 512192875,
+        "rating": 5,
+        "headline": "I LOVEEE THIS",
+        "comments": "My sister-in-law got this and I've always wanted to try it and have it my own and I love it 😊",
+        "nickname": "Kenken",
+        "location": "Valdosta GA",
+        "created_date": 1713998609464,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 510127004,
+        "rating": 1,
+        "headline": "Smells awful",
+        "comments": "Smells terrible and goes on like flaky paste. Overall gross feeling. Very dissatisfied.",
+        "nickname": "SammiRN",
+        "location": "Detroit",
+        "created_date": 1711748677781,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 486265264,
+        "rating": 5,
+        "headline": "Holy grail",
+        "comments": "I've tried countless sunblocks, most of which caused me breakouts and I usually hate the way they feel on my skin or smell. This one is my GOAT. It layers well over my other skincare and makes a great primer for makeup. I always repurchase this.",
+        "nickname": "Beautiful and wonderfully made",
+        "location": "North Carolina",
+        "created_date": 1704134046068,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 485020140,
+        "rating": 5,
+        "headline": "I LOVE this!",
+        "comments": "I've lived an active outdoorsy lifestyle for many years and I have tried many sunblocks. I bought this on a whim and I'm so glad that I did! I use it everyday either on its own or under my makeup. I have light, sensitive, dry, acne prone skin. This product blends well over my other skincare and doesn't feel heavy. Its also beautiful under makeup. I'll keep repurchasing.",
+        "nickname": "excellent E",
+        "location": "North Carolina",
+        "created_date": 1702729160989,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 481706619,
+        "rating": 5,
+        "headline": "Highly recommend",
+        "comments": "Took me a bit to get used to this product esp after using city block spf 40, but is now a staple in my everyday morning routine. It blends really nice into the skin after warming the product up with my fingertips. Thats the key is warming the prodcut up in your hands. I love how it has just a little tint to bring down redness; with a little concealer and transparency powder on top, it creates a beautiful finish!",
+        "nickname": "E Norris",
+        "location": "Bismarck, ND",
+        "created_date": 1700140597758,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 120,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2014019/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "By itself or perfect as a primer!",
+              "count": 1
+            },
+            {
+              "label": "gardening",
+              "count": 1
+            },
+            {
+              "label": "After moisturizing the skin and before makeup",
+              "count": 1
+            },
+            {
+              "label": "I use it as a light foundation all summer long.",
+              "count": 1
+            },
+            {
+              "label": "Everyday spf",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "After moisturizing the skin and before makeup",
+            "By itself or perfect as a primer!",
+            "Everyday spf",
+            "I use it as a light foundation all summer long.",
+            "gardening"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Thick",
+              "count": 2
+            },
+            {
+              "label": "I loved the oil free spf 40 super city block.",
+              "count": 1
+            },
+            {
+              "label": "Slightly tacky finish",
+              "count": 1
+            },
+            {
+              "label": "KEEP! Excellent product! Don't get rid of pleas!",
+              "count": 1
+            },
+            {
+              "label": "It's like spreading paste over your face",
+              "count": 1
+            },
+            {
+              "label": "Light coverage, but great SPF",
+              "count": 1
+            },
+            {
+              "label": "greasy",
+              "count": 1
+            },
+            {
+              "label": "makes me shiny",
+              "count": 1
+            },
+            {
+              "label": "thick to the point of not being spreadable",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "I loved the oil free spf 40 super city block.",
+            "It's like spreading paste over your face",
+            "KEEP! Excellent product! Don't get rid of pleas!",
+            "Light coverage, but great SPF",
+            "Slightly tacky finish",
+            "Thick",
+            "greasy",
+            "makes me shiny",
+            "thick to the point of not being spreadable"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Mid -30s African- American Female with acne-pr",
+              "count": 1
+            },
+            {
+              "label": "gardener",
+              "count": 1
+            },
+            {
+              "label": "I've always taken care of my skin and now at 73",
+              "count": 1
+            },
+            {
+              "label": "20s Outdoor enthusiast with an indoor job",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "20s Outdoor enthusiast with an indoor job",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "I've always taken care of my skin and now at 73",
+            "Mid -30s African- American Female with acne-pr",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "gardener"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "good amount of tint",
+              "count": 1
+            },
+            {
+              "label": "great sun protection",
+              "count": 1
+            },
+            {
+              "label": "mixes well with moisturizer",
+              "count": 1
+            },
+            {
+              "label": "Light weight",
+              "count": 1
+            },
+            {
+              "label": "Lightweight",
+              "count": 1
+            },
+            {
+              "label": "Tone matching",
+              "count": 1
+            },
+            {
+              "label": "Glowy",
+              "count": 1
+            },
+            {
+              "label": "Great coverage and very sheer.",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Not too thick",
+              "count": 1
+            },
+            {
+              "label": "Penetrates the skin well",
+              "count": 1
+            },
+            {
+              "label": "High SPF",
+              "count": 1
+            },
+            {
+              "label": "Nice base",
+              "count": 1
+            },
+            {
+              "label": "Tinted moisturizer and sunblock in 1 product.",
+              "count": 1
+            },
+            {
+              "label": "High spf",
+              "count": 1
+            },
+            {
+              "label": "mineral based",
+              "count": 1
+            },
+            {
+              "label": "tinted",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Glowy",
+            "Great coverage and very sheer.",
+            "High SPF",
+            "High spf",
+            "Hydrating",
+            "Light weight",
+            "Lightweight",
+            "Nice base",
+            "Not too thick",
+            "Penetrates the skin well",
+            "Tinted moisturizer and sunblock in 1 product.",
+            "Tone matching",
+            "good amount of tint",
+            "great sun protection",
+            "mineral based",
+            "mixes well with moisturizer",
+            "tinted"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        65,
+        31,
+        22,
+        20,
+        165
+      ],
+      "review_histogram": [
+        65,
+        31,
+        22,
+        20,
+        165
+      ],
+      "rating_count": 303,
+      "review_count": 303,
+      "average_rating": 3.62,
+      "recommended_ratio": 0.61,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "Reading previous reviews almost made me pass on this great sunscreen. Once Volition changed their formula, I went on a hunt to escape white cast. I tried Black Girl Sunscreen and it was too oily . . . I could never seem to get my hands on the matte version.\nIn comes Clinique. I think having never tried their previous sunscreen helped. Note: I am in the habit of mixing my moisturizer (Dramatically Different Gel) with this product and it spreads and absorbs well. Though this is heavier than my previous sunscreen, it does not feel heavy once it dries. This wore well and protected my skin through all of my outdoor playtime in Jamaica!",
+        "headline": "Compared to my Volition Prismatic Shield . . .",
+        "rating": 5,
+        "ugc_id": 399336455
+      },
+      "faceoff_negative": {
+        "comments": "I am another one of those people that used the Super Cityblock SPF40 for -years- (like a decade). I LOVED the product, I would chose purchasing it over feeding my kids (JK). But for real, I would always be willing to pay 3x as much as other facial screen suns for Clinique's because I just loved it that much. I wear it daily before applying any kind of makeup and it made just as a fantastic base as a sunscreen.\n\nSo, this new product...I've been fortunate enough in life to have avoided any \"products I LOVED replaced by a new product that I don't love\"; until now. I don't hate the product and I'm still going to buy/use it. I did consider dropping to the sheer 25SPF, but as a pasty ginger, I want the higher spf. The formula doesn't seem to flawlessly spread as easily, it feels thicker, stickier and overall, I would give anything for the old product. I don't need a tint in my sunscreen because I do wear other makeup on top of it, so this just seems like overkill. \n\nHowever, I'd still recommend it to friends because I love Clinique products in general and it's difficult to find products that contain the things I want and the things I need - specifically complete fragrance free. I still pass for a solid ten years younger than I really am, which I constantly give credit to my daily sunscreen use. I'm still going to forever miss the old product though.",
+        "headline": "Meh.",
+        "rating": 3,
+        "ugc_id": 294191681
+      },
+      "name": "Superdefense City Block Broad Spectrum SPF 50 Daily Energy + Face Protector Primer",
+      "native_review_count": 120,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 183,
+      "locale": "en_US"
+    }
+  }
+}

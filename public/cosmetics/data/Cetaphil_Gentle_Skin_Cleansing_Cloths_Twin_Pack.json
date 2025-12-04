@@ -1,0 +1,777 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/gentle-skin-cleansing-cloths-twin-pack-xlsImpprod13762415",
+  "extracted_at": "2025-09-23T03:59:17.849104+00:00",
+  "product_name": "CetaphilGentle Skin Cleansing Cloths Twin Pack",
+  "brand": "Cetaphil",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Makeup Remover"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "makeup"
+  ],
+  "currency": "USD",
+  "list_price": "14.99",
+  "sale_price": "10.49",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "522",
+  "images": [
+    "https://media.ulta.com/i/ulta/2298481?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2298481?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2298481_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2298481_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2298481_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2298481_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2298481_vid01/thumbs/b29307c6-f8f6-4c7a-afc1-3fc21e1ab0a9?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryGet the gentle clean you love - even when you're on the go. Cetaphil Gentle Skin Cleansing Cloths will leave your skin feeling fresh and clean - without drying out or disturbing your skin's natural pH balance.",
+  "details": "DetailsBenefitsGentle for everyday useRemoves makeup and dirtMild and non-irritating for sensitive skinCleanse on the go25 count wipesItem 2298481IngredientsWater, Propylene Glycol, Iodopropynyl Butylcarbamate, 2-Bromo-2-Nitropropane-1,3-Diol, Sodium Lauryl Sulfate, Methylparaben, Proplylparaben, Sodium Citrate, Butylparaben, Allantoin, Zince Gluconate.",
+  "how_to_use": "",
+  "ingredients": [
+    "Water",
+    "Propylene Glycol",
+    "Iodopropynyl Butylcarbamate",
+    "2-Bromo-2-Nitropropane-1",
+    "3-Diol",
+    "Sodium Lauryl Sulfate",
+    "Methylparaben",
+    "Proplylparaben",
+    "Sodium Citrate",
+    "Butylparaben",
+    "Allantoin",
+    "Zince Gluconate"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "cosmetics"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "ingredients": [
+      "paraben-free",
+      "sulfate-free"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "natural",
+      "soothing",
+      "purifying"
+    ],
+    "finish": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod13762415",
+    "total_reviews": 522,
+    "reviews": [
+      {
+        "review_id": 555930006,
+        "rating": 5,
+        "headline": "My go to cleansing cloth!!!",
+        "comments": "If you have sensitive skin, this should be your go to! Even after washing your face, there is always something left behind.  I use this religiously morning & night!",
+        "nickname": "Denise",
+        "location": "Brandon MS",
+        "created_date": 1750957958964,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553025863,
+        "rating": 5,
+        "headline": "Nice and clean",
+        "comments": "I dont use these to remove my makeup,  I use them in the morning when I dont want to wash my face, especially in winter. It removes alot of dirt I didnt know was there, and I love the refreshing feeling. Also good for oil/dirt removing on days I dont wear makeup in the house all day",
+        "nickname": "Fifi",
+        "location": "Chicago",
+        "created_date": 1746632306881,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547163478,
+        "rating": 5,
+        "headline": "Better than Neutrogena",
+        "comments": "Love it!",
+        "nickname": "ACF",
+        "location": "CT",
+        "created_date": 1740340497184,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 544285338,
+        "rating": 5,
+        "headline": "LOVE IT!!",
+        "comments": "This is one of the best things you can buy for sensitive skin. They smell great, and they work! It removes dirt that I didn't even know was on my face. They are also large! (I only use about half a wipe a day). DEFINITELY RECOMMEND!!",
+        "nickname": "✧B✧",
+        "location": "New York",
+        "created_date": 1737940621579,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536946472,
+        "rating": 1,
+        "headline": "Never again",
+        "comments": "Face feels sticky afterwards and it doesnt go away.",
+        "nickname": "Anga3160",
+        "location": "Ohio",
+        "created_date": 1730146743757,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 529342387,
+        "rating": 5,
+        "headline": "I use these every single night",
+        "comments": "These are great for one step make up removal and gentle cleansing.  They are just the right amount of wet without being too much.  The packet always reseals well.  Sometimes I buy the travel size too.  All my friends that have used them when we have traveled together, use them now too.  LOVE these.",
+        "nickname": "BW",
+        "location": "FL",
+        "created_date": 1724853736906,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 507530777,
+        "rating": 5,
+        "headline": "Everything I need",
+        "comments": "Cleanses my face without causing breakouts. All cleansing wipes should be made scent free imo.",
+        "nickname": "Tiffany",
+        "location": "Columbia, MD",
+        "created_date": 1709579127996,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 480016337,
+        "rating": 5,
+        "headline": "Gentle with skin!",
+        "comments": "I like this product.",
+        "nickname": "Paola",
+        "location": "Texas",
+        "created_date": 1699311077771,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 476593945,
+        "rating": 5,
+        "headline": "Perfection",
+        "comments": "My favorite cleansing wipes",
+        "nickname": "Mj",
+        "location": "Maine",
+        "created_date": 1697255327997,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 467791920,
+        "rating": 5,
+        "headline": "Great for sensitive skin",
+        "comments": "Facial cleansing wipe PERFECT for sensitive skin. One of the few that work for my skin. Also strecthy enought to rip in two so that they last twice as long. \n\n*great for cleansing, i wouldnt use them to wipe off a face full of makeup. I specifically use them in the AM after having washed my face the night before.",
+        "nickname": "Tiffany",
+        "location": "San Diego",
+        "created_date": 1691443946064,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 458412735,
+        "rating": 5,
+        "headline": "Package deal",
+        "comments": "I rarely concern myself with how well a facial cleansing moist wipe is unless it is too perfume-y.  This dual-pack is what most interested me most and the fact that it is clean Cetaphil.  So, I'd recommend it.",
+        "nickname": "Lisa",
+        "location": "Houston",
+        "created_date": 1684511789508,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 457489306,
+        "rating": 1,
+        "headline": "Ugh !!!!!!",
+        "comments": "These were the ONLY makeup wipes i liked and ised all the time. And now they changed the formula and now they break my face out so bad leaves a sticky residue on my skin. Feels so gross ! So thank you cetaphil, Ive been using your products for YEARS and now ive changed facewash and now makeup wipes.\nHave you heard of the saying \"If its not broke dont fix it\" \nIts terrible all i see on your products is bad reviews now. Why change ?!????",
+        "nickname": "Jen g",
+        "location": "Texas",
+        "created_date": 1683724700600,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 451924554,
+        "rating": 1,
+        "headline": "I am no longer going to order this",
+        "comments": "I agree with the other folks.  Cloth isn't soft, leaves skin sticky and doesn't do the job like it used to.  If the old formula comes back I will definitely try it again.  This product does NOT  make my face happy anymore.  I no longer rec to friends.",
+        "nickname": "Char",
+        "location": "Durham, NC",
+        "created_date": 1681220459993,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 450855496,
+        "rating": 1,
+        "headline": "Not Impressed",
+        "comments": "Bought these because of the Cetaphil name. I don't feel like they clean well at all, leave my face feeling sticky and have an offensive odor. I end up finishing my face after use, which you shouldn't need to do. Unfortunately I got the double pack, so I'm going to see if they will accept as a return.",
+        "nickname": "Ali",
+        "location": "Columbus OH",
+        "created_date": 1680545694018,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 442511489,
+        "rating": 1,
+        "headline": "Horrible!!!!",
+        "comments": "Don't even bother!!!!! These do not remove any type of makeup at all. Horrible horrible product!",
+        "nickname": "Josie",
+        "location": "Los Angeles",
+        "created_date": 1675351455074,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 441192027,
+        "rating": 1,
+        "headline": "Horrible formula change",
+        "comments": "Like many others have said, the formula change ruined these. I have Malassezia and these were one of the few face wipes that didn't cause me breakouts. I'm so upset I can no longer use these. \nUlta needs to update their ingredients online",
+        "nickname": "Kcombs",
+        "location": "Arkansas",
+        "created_date": 1674167753808,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 437555153,
+        "rating": 1,
+        "headline": "New Formula is Aweful!",
+        "comments": "I used to love these wipes. My two daughters and I used them everyday.  I loved how gentle they were.  Now they smell like chemicals, burn my eyes and leave a sticky residue.  I'm sure they changed \nthe formula in order to save a buck or two and in turn compromised their core value of being gentle and dermatologist recommended.  I won't be using their products anymore and by the looks of these reviews, I'm not the only one.",
+        "nickname": "Ang1104",
+        "location": "Fairborn, Oh",
+        "created_date": 1671104653347,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 433556603,
+        "rating": 2,
+        "headline": "New Formula",
+        "comments": "Used to use these everyday for years to take the oil off my face without stripping my skin but they changed the formula and they now leave a sticky residue behind and they now have a chemical smell, almost smell like a makeup remover. Will have to stop using.",
+        "nickname": "Brie",
+        "location": "La Crosse, WI",
+        "created_date": 1668391794930,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 430182648,
+        "rating": 1,
+        "headline": "New formula leave sticky Residue 10/19/2022",
+        "comments": "I have been using these wipes for years, It as always left my skin feeling clean and smooth. Since they changed the formula; my skin feels sticky and is left with a gross residue that i have to rinse. Smell is different also. Its not the same anymore. not sure i will be buying again. Have to explore other options. i use  three other products my cetaphil with no problem.",
+        "nickname": "Stacey",
+        "location": "Connecticut",
+        "created_date": 1666193950211,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 424442111,
+        "rating": 5,
+        "headline": "So pleased with this product!",
+        "comments": "I've used Cetaphil cleansers for years per recommendations of my allergist and dermatologist!  You know when 2 doctors recommend it's a great product.  Absolutely love the convenience of these cleansing cloths when traveling.",
+        "nickname": "Dlynn",
+        "location": "Tennessee",
+        "created_date": 1663018395252,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 118,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod13762415/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "30 Minutes",
+              "count": 2
+            },
+            {
+              "label": "10 Minutes",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Sensitive Skin",
+              "count": 40
+            },
+            {
+              "label": "Daily Use",
+              "count": 39
+            },
+            {
+              "label": "All Skin Types",
+              "count": 27
+            },
+            {
+              "label": "Acne-Prone Skin",
+              "count": 13
+            },
+            {
+              "label": "Combination Skin",
+              "count": 13
+            },
+            {
+              "label": "Dry Skin",
+              "count": 13
+            },
+            {
+              "label": "Oily Skin",
+              "count": 7
+            },
+            {
+              "label": "On-the-go",
+              "count": 3
+            },
+            {
+              "label": "Women",
+              "count": 3
+            },
+            {
+              "label": "Men",
+              "count": 1
+            },
+            {
+              "label": "Removes makeup",
+              "count": 1
+            },
+            {
+              "label": "Cleaning the Counter",
+              "count": 1
+            },
+            {
+              "label": "Great for anyone with Rosacea.",
+              "count": 1
+            },
+            {
+              "label": "When you are in a rush to remove makeup",
+              "count": 1
+            },
+            {
+              "label": "If you have excema",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne-Prone Skin",
+            "All Skin Types",
+            "Cleaning the Counter",
+            "Combination Skin",
+            "Daily Use",
+            "Dry Skin",
+            "Great for anyone with Rosacea.",
+            "If you have excema",
+            "Men",
+            "Oily Skin",
+            "On-the-go",
+            "Removes makeup",
+            "Sensitive Skin",
+            "Weekly Use",
+            "When you are in a rush to remove makeup",
+            "Women"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Doesn't Remove Makeup",
+              "count": 4
+            },
+            {
+              "label": "a lot of waste",
+              "count": 1
+            },
+            {
+              "label": "not enough wipes in the package",
+              "count": 1
+            },
+            {
+              "label": "Bad Smell",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "Greasy",
+              "count": 1
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 1
+            },
+            {
+              "label": "Cloths stretch too much",
+              "count": 1
+            },
+            {
+              "label": "Doesn't remove waterproof makeup",
+              "count": 1
+            },
+            {
+              "label": "Did not remove eyemakeup",
+              "count": 1
+            },
+            {
+              "label": "Will use on skin...but not near my eyes.",
+              "count": 1
+            },
+            {
+              "label": "Needs 2 sheets to remove make up completely",
+              "count": 1
+            },
+            {
+              "label": "personally, I moisturize afterwards",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Cloths stretch too much",
+            "Did not remove eyemakeup",
+            "Doesn't Remove Makeup",
+            "Doesn't Work",
+            "Doesn't remove waterproof makeup",
+            "Dries Out Skin",
+            "Greasy",
+            "Irritates Skin",
+            "Messy",
+            "Needs 2 sheets to remove make up completely",
+            "Will use on skin...but not near my eyes.",
+            "a lot of waste",
+            "not enough wipes in the package",
+            "personally, I moisturize afterwards"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brand Buyer",
+              "count": 31
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 27
+            },
+            {
+              "label": "Oily skin",
+              "count": 1
+            },
+            {
+              "label": "Black",
+              "count": 1
+            },
+            {
+              "label": "Fungal acne",
+              "count": 1
+            },
+            {
+              "label": "hyperpigmentation",
+              "count": 1
+            },
+            {
+              "label": "oily skin",
+              "count": 1
+            },
+            {
+              "label": "sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Platinum blonde , very fair",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Black",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Fungal acne",
+            "Oily skin",
+            "Platinum blonde , very fair",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "hyperpigmentation",
+            "oily skin",
+            "sensitive skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Gentle",
+              "count": 54
+            },
+            {
+              "label": "Leaves Clean Feel",
+              "count": 51
+            },
+            {
+              "label": "Not Greasy",
+              "count": 44
+            },
+            {
+              "label": "Moisturizing",
+              "count": 23
+            },
+            {
+              "label": "Balances Skin",
+              "count": 16
+            },
+            {
+              "label": "Smells Great",
+              "count": 16
+            },
+            {
+              "label": "Improves Skin Texture",
+              "count": 12
+            },
+            {
+              "label": "Easy To Use",
+              "count": 3
+            },
+            {
+              "label": "Effective",
+              "count": 3
+            },
+            {
+              "label": "Good Value",
+              "count": 3
+            },
+            {
+              "label": "Lightweight",
+              "count": 3
+            },
+            {
+              "label": "easy to use",
+              "count": 2
+            },
+            {
+              "label": "good for sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "non-drying",
+              "count": 1
+            },
+            {
+              "label": "derm recommended",
+              "count": 1
+            },
+            {
+              "label": "not rough",
+              "count": 1
+            },
+            {
+              "label": "Good for taking off makeup !",
+              "count": 1
+            },
+            {
+              "label": "Large enough only need 1",
+              "count": 1
+            },
+            {
+              "label": "Improves ache",
+              "count": 1
+            },
+            {
+              "label": "Does not burn my eyes",
+              "count": 1
+            },
+            {
+              "label": "Easy to use",
+              "count": 1
+            },
+            {
+              "label": "Removes Makeup",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Balances Skin",
+            "Does not burn my eyes",
+            "Easy To Use",
+            "Easy to use",
+            "Effective",
+            "Gentle",
+            "Good Value",
+            "Good for taking off makeup !",
+            "Improves Skin Texture",
+            "Improves ache",
+            "Large enough only need 1",
+            "Leaves Clean Feel",
+            "Lightweight",
+            "Moisturizing",
+            "Not Greasy",
+            "Removes Makeup",
+            "Smells Great",
+            "derm recommended",
+            "easy to use",
+            "good for sensitive skin",
+            "non-drying",
+            "not rough"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 3
+            },
+            {
+              "label": "Normal",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        52,
+        11,
+        19,
+        56,
+        384
+      ],
+      "review_histogram": [
+        52,
+        11,
+        19,
+        56,
+        384
+      ],
+      "rating_count": 522,
+      "review_count": 522,
+      "average_rating": 4.36,
+      "recommended_ratio": 0.92,
+      "media": [
+        {
+          "id": "480166491",
+          "review_id": 480166438,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/n2kwdopquyv6ytwcb49f.jpg",
+          "headline": "Definitely NOT improved!",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Definitely NOT improved!",
+          "nickname": "Tammy E.",
+          "created_date": 1680279432000
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I'm so happy with this product is will definitely buy and use daily",
+        "headline": "It's great your skin feels soft",
+        "rating": 5,
+        "ugc_id": 381781700
+      },
+      "faceoff_negative": {
+        "comments": "I have sensitive skin and rosecea.  Your gentle cleansing wipes were one of the few products that did not irritate my face.  I loved the ease of use and effectiveness of your wipes for probably 10 years.  Recently, I noticed a filmy feel and blemishes popping up after use.  Then I saw 'new and improved' on the packaging.   The new formula does NOT leave skin feeling clean, feels filmy AND breaks me out which I assume is the addition of Aloe, which I am allergic to.  Please, please bring back the gentle formula for sensitive skin!",
+        "headline": "Definitely NOT improved!",
+        "rating": 1,
+        "ugc_id": 480166438
+      },
+      "name": "Gentle Skin Cleansing Cloths Twin Pack",
+      "native_review_count": 118,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 404,
+      "locale": "en_US"
+    }
+  }
+}

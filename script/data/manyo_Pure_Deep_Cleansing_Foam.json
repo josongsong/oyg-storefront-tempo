@@ -1,0 +1,459 @@
+{
+  "product_id": "pimprod2045874",
+  "product_url": "https://www.ulta.com/p/pure-deep-cleansing-foam-pimprod2045874",
+  "extracted_at": "2025-09-23T04:57:04.060016+00:00",
+  "product_name": "ma:nyoPure & Deep Cleansing Foam",
+  "brand": "ma:nyo",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "18.00",
+  "sale_price": "12.60",
+  "availability": "in_stock",
+  "rating_avg": "4",
+  "rating_count": "20",
+  "images": [
+    "https://media.ulta.com/i/ulta/2626990?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2626990?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2626990_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2626990_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2626990_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2626990_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2626990_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2626990_vid01/thumbs/def50d75-d080-4837-ad06-78b24d8538c2?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsVeganma:nyo Pure & Deep Cleansing Foam creates dense and compact ultra-fine foam to draw out dirt, oil and impurities from pores without irritation.",
+  "details": "DetailsFeaturesFine and dense bubbles reach hidden areas of pores to thoroughly cleanse and lift away impurities without irritation.It is dermatologically tested.It moisturizes skin while cleansing with 10 floral ceramides.Key Ingredients10 Floral Complex - Powerfully and intensely hydrates to bring moisture to the skin.Ceramide - Restores skin barrier by retaining moisture.Hyaluronic Acid - Extremely hydrating and moisturizing to seep into fine lines and make skin plump and glowy.Formulated WithoutFragranceParabenSiliconItem 2626990How To UseTake a dime-sized amount.Work into rich lather with water.Gently massage onto entire face in a circular motion.Rinse thoroughly with lukewarm water.IngredientsGlycerin, Water, Myristic Acid, Stearic Acid, Lauric Acid, Potassium Cocoate, Potassium Hydroxide, Potassium Cocoyl Glycinate, Palmitic Acid, Sodium Hyaluronate, Butylene Glycol, Lavandula Angustifolia (Lavender) Flower Water, Borago Officinalis Extract, Centaurea Cyanus Flower Extract, Salvia Sclarea (Clary) Extract, Hyacinthus Orientalis (Hyacinth) Extract, Ceramide NP, Chamomilla Recutita (Matricaria) Flower/Leaf Extract, Hydrogenated Lecithin, Nelumbo Nucifera Flower Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Nymphaea Alba Flower Extract, Prunus Serrulata Flower Extract, Rosa Hybrid Flower Extract, 1,2-Hexanediol, Coco-Glucoside, Glyceryl Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Cocoyl Isethionate, Oleic Acid, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Quillaja Saponaria Bark Extract, Carthamus Tinctorius (Safflower) Flower Extract, Chrysanthellum Indicum Extract, Arachidic Acid, Sodium Phytate, Polyquaternium-7, Rosa Damascena Flower Oil, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Citric Acid, Potassium Sorbate, Sodium Benzoate, Citrus Aurantium Dulcis (Orange) Peel Oil, Helianthus Annuus (Sunflower) Seed Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil.",
+  "how_to_use": "Take a dime-sized amount.Work into rich lather with water.Gently massage onto entire face in a circular motion.Rinse thoroughly with lukewarm water.",
+  "ingredients": [
+    "Glycerin",
+    "Water",
+    "Myristic Acid",
+    "Stearic Acid",
+    "Lauric Acid",
+    "Potassium Cocoate",
+    "Potassium Hydroxide",
+    "Potassium Cocoyl Glycinate",
+    "Palmitic Acid",
+    "Sodium Hyaluronate",
+    "Butylene Glycol",
+    "Lavandula Angustifolia (Lavender) Flower Water",
+    "Borago Officinalis Extract",
+    "Centaurea Cyanus Flower Extract",
+    "Salvia Sclarea (Clary) Extract",
+    "Hyacinthus Orientalis (Hyacinth) Extract",
+    "Ceramide NP",
+    "Chamomilla Recutita (Matricaria) Flower/Leaf Extract",
+    "Hydrogenated Lecithin",
+    "Nelumbo Nucifera Flower Extract",
+    "Lonicera Japonica (Honeysuckle) Flower Extract",
+    "Nymphaea Alba Flower Extract",
+    "Prunus Serrulata Flower Extract",
+    "Rosa Hybrid Flower Extract",
+    "2-Hexanediol",
+    "Coco-Glucoside",
+    "Glyceryl Stearate",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Sodium Cocoyl Isethionate",
+    "Oleic Acid",
+    "Caprylic/Capric Triglyceride",
+    "Ethylhexylglycerin",
+    "Quillaja Saponaria Bark Extract",
+    "Carthamus Tinctorius (Safflower) Flower Extract",
+    "Chrysanthellum Indicum Extract",
+    "Arachidic Acid",
+    "Sodium Phytate",
+    "Polyquaternium-7",
+    "Rosa Damascena Flower Oil",
+    "Pelargonium Graveolens Flower Oil",
+    "Cananga Odorata Flower Oil",
+    "Citric Acid",
+    "Potassium Sorbate",
+    "Sodium Benzoate",
+    "Citrus Aurantium Dulcis (Orange) Peel Oil",
+    "Helianthus Annuus (Sunflower) Seed Oil",
+    "Citrus Aurantium Bergamia (Bergamot) Fruit Oil"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/0f0fefd9-5299-4954-9dec-80dbd7a2688b/960.webp",
+      "https://content.syndigo.com/asset/881733ef-3ad0-47eb-8aea-f868354cc353/960.webp",
+      "https://content.syndigo.com/asset/4673d02d-f926-4881-914a-d1d6b1f45a73/960.webp",
+      "https://content.syndigo.com/asset/62061b34-c1d7-4ab3-96b0-99290ed34b01/960.webp",
+      "https://content.syndigo.com/asset/55f689d8-c5ee-4df6-aacc-d114c920b717/960.webp",
+      "https://content.syndigo.com/asset/662514f6-f668-4e96-9e1c-b9b13428ec52/960.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "oil",
+      "foam"
+    ],
+    "ingredients": [
+      "ceramides"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "vegan",
+      "hydrating",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2045874",
+    "total_reviews": 20,
+    "reviews": [
+      {
+        "review_id": 563239304,
+        "rating": 5,
+        "headline": "A cleanser that actually makes you feel clean",
+        "comments": "I originally got this cleanser at all of Young in Korea and really was depressed when I found out that I possibly couldn't get in the US but lucky enough. Ulta carries this amazing cleanser. It's better than anything on the US market I think.",
+        "nickname": "Tapiwa",
+        "location": "Evesham, NJ",
+        "created_date": 1757641806874,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558789500,
+        "rating": 1,
+        "headline": "Drying",
+        "comments": "Very drying and made my skin squeak after washing. Way too harsh for my skin, but could possibly work if you have very oily skin.",
+        "nickname": ".",
+        "location": "MO",
+        "created_date": 1753931299508,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557760396,
+        "rating": 3,
+        "headline": "Meh",
+        "comments": "It works up a nice lather, but left my face feeling dry and left residue. I really had high hopes for this cleanser.",
+        "nickname": "Carmen",
+        "location": "FL",
+        "created_date": 1752957279910,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557061852,
+        "rating": 5,
+        "headline": "Noice",
+        "comments": "absolutely my favorite foaming cleanser. I use this a double cleansing routine with the manyo deep cleansing oil and my skin is so clear",
+        "nickname": "becca",
+        "location": "dayton ohio",
+        "created_date": 1752419184195,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556034723,
+        "rating": 4,
+        "headline": "happy, glowy skin",
+        "comments": "I picked this cleanser up on a whim a couple Ulta trips ago, and I absolutely love it! Which is great because this bottle will last me AGES! On the bottle, it recommends a pea sized amount foamed up with water and I could probably wash my face at least twice with that amount. It's soft, cleansing, and leaves my skin with a nice glow. My only critique is that while it's advertised as a deep pore cleanser, I haven't seen much change in my pores and I still experience the same amount of spots/blackheads. Regardless, it's wonderful and I would recommend it to anyone looking to add a soothing, bubbly step to their routine.",
+        "nickname": "Hox",
+        "location": "MI",
+        "created_date": 1751259198468,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555082632,
+        "rating": 5,
+        "headline": "I love this foam cleanser!!!",
+        "comments": "It is absolutely fantastic foam cleanser. The bubbles were sooo cute and cleaned my skin so nicely ✨ I would recommend to use with the cleansing oil! Duo must",
+        "nickname": "Emily",
+        "location": "Canada",
+        "created_date": 1749785500984,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554726697,
+        "rating": 5,
+        "headline": "I would buy this product again and again",
+        "comments": "This foam cleanser after wash face feels so soft & freshed",
+        "nickname": "Abika",
+        "location": "Sydeny",
+        "created_date": 1749375467554,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553168826,
+        "rating": 5,
+        "headline": "Cleanse so well",
+        "comments": "Foaming cleanser and makes skin so soft and clean",
+        "nickname": "Sandhya",
+        "location": "CA",
+        "created_date": 1746947716978,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552762737,
+        "rating": 2,
+        "headline": "Not for me",
+        "comments": "I wanted to like this and try Korean skincare but it left my face feeling dry. It wasn't sudsy at all and I felt like I had to scrape it off my face.",
+        "nickname": "Kaitlyn",
+        "location": "Florida",
+        "created_date": 1746198106664,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 550992206,
+        "rating": 5,
+        "headline": "Best cleansing foam",
+        "comments": "This didnt dry my face and i dont know after just one use my skin felt so softtt . It cleans your face so well",
+        "nickname": "Sandhya",
+        "location": "CA",
+        "created_date": 1743751068392,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543411890,
+        "rating": 3,
+        "headline": "I like it but beware",
+        "comments": "This cleanser will last forever! Directions say use dime size amount but thats way too much. I use 1/2 a dime size for my face and neck. I agree with others, this should be a weekly treatment not daily. Its too intense for everyday, i have dry patches all over my face since using it for the past 4 days at night.",
+        "nickname": "Amj",
+        "location": "Pasadena, California",
+        "created_date": 1737091147075,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 542250489,
+        "rating": 1,
+        "headline": "Horrible !",
+        "comments": "I was hoping to like this product but sadly it has made my skin extra dry and red. Definitely returning it at Ulta!",
+        "nickname": "Navi",
+        "location": "Katy TX",
+        "created_date": 1736042167804,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536491877,
+        "rating": 5,
+        "headline": "New Fav!!",
+        "comments": "I really love using this foaming cleanser! I use the foaming cleanser(2nd) with the oil cleanser(1st) and it has honestly helped my skin clear up and gave it a glow. I would say I dont use it daily, just once every other day.",
+        "nickname": "Ken",
+        "location": "Texas",
+        "created_date": 1729546637458,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 532748978,
+        "rating": 5,
+        "headline": "Works nicely",
+        "comments": "I've been wanting to switch to this cleanser for awhile now because I saw one of my idols from a boy group use this, and after struggling to find one that worked for me I honestly love it. I'm pretty sure I have sensitive and acne prone skin (not really sure) so I felt really glad when I noticed this cleanser started working for me, it smells nice and doesn't leave my skin dry after- it actually makes it feel really soft before I even do any of my skincare steps which is a big difference from other cleansers I've used in the past. I would definitely give this cleanser a shot if you've also been struggling to find a right cleanser for your skin like mine😭",
+        "nickname": "Val",
+        "location": "Augusta, GA",
+        "created_date": 1726112485634,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 532587840,
+        "rating": 1,
+        "headline": "Wrecked My Skin Barrier",
+        "comments": "Was curious about this product (along with the oil cleanser) to manage my blackheads. While it worked fabulously for first few days (truly the clearest skin I have ever had) it completely wrecked my skin barrier for the subsequent weeks and gave me the worst acne (upwards of 20+ whiteheads at anytime, very clogged pores) that I am only now getting out of (I stopped using this in July). My recommendation if you are still interested is to use this as weekly cleanser or really slowly ramp up to daily use.",
+        "nickname": "Nicoco",
+        "location": "Pittsburgh, PA",
+        "created_date": 1725970695895,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 532012982,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "Makes my skin feel soo soft after i wash my face, and its super gentle on my sensitive skin. The price is perfect for the amount of product you get too. A little bit goes far and it has a nice foam once you get it wet.",
+        "nickname": "Rainn",
+        "location": "Visalia CA",
+        "created_date": 1725490853614,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 530697508,
+        "rating": 5,
+        "headline": "Cleanser",
+        "comments": "I switched to this cleanser after using Peach and Lily and I honestly like this one better. Gives me the same benefits, helped clear my skin, and half the price",
+        "nickname": "Abbey",
+        "location": "New York",
+        "created_date": 1725072491741,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 530697543,
+        "rating": 5,
+        "headline": "Cleanser",
+        "comments": "I switched to this cleanser after using Peach and Lily and I honestly like this one better. Gives me the same benefits, helped clear my skin, and half the price",
+        "nickname": "Abbey",
+        "location": "New York",
+        "created_date": 1725072491645,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 528934441,
+        "rating": 5,
+        "headline": "Amazing!",
+        "comments": "This cleanser is now a staple in my skincare routine. I have very dry skin, so I was a little apprehensive to try this cleanser, but I'm glad I did! It provides a deep clean without stripping my skin. The whipped texture is also a nice sensation. I love it! Try it!",
+        "nickname": "Trent",
+        "location": "Colorado",
+        "created_date": 1724689772120,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 526038129,
+        "rating": 5,
+        "headline": "Healthy Skin",
+        "comments": "Love this product! I been using the Cerave products for so long and when i switched to Ma:nyo i saw a huge difference. I only been using it for one week and my skin is more soft, glowy and looks healthier.",
+        "nickname": "Sandra A.",
+        "location": "Omaha, Ne",
+        "created_date": 1722514241942,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 20,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        3,
+        1,
+        2,
+        1,
+        13
+      ],
+      "review_histogram": [
+        3,
+        1,
+        2,
+        1,
+        13
+      ],
+      "rating_count": 20,
+      "review_count": 20,
+      "average_rating": 4.0,
+      "recommended_ratio": 0.75,
+      "media": [
+        {
+          "id": "554726811",
+          "review_id": 554726697,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ifcafybkzd8ga5k9m34e.jpg",
+          "headline": "I would buy this product again and again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love it 🥰 highly recommended",
+          "nickname": "Abika",
+          "created_date": 1749375467554
+        },
+        {
+          "id": "553168846",
+          "review_id": 553168826,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/szb6kgfbmgpwgs60bhek.jpg",
+          "headline": "Cleanse so well",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sandhya",
+          "created_date": 1746947716978
+        },
+        {
+          "id": "550992224",
+          "review_id": 550992206,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bcrb6cimv9oi37anbq4r.jpg",
+          "headline": "Best cleansing foam",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sandhya",
+          "created_date": 1743751068392
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I've been wanting to switch to this cleanser for awhile now because I saw one of my idols from a boy group use this, and after struggling to find one that worked for me I honestly love it. I'm pretty sure I have sensitive and acne prone skin (not really sure) so I felt really glad when I noticed this cleanser started working for me, it smells nice and doesn't leave my skin dry after- it actually makes it feel really soft before I even do any of my skincare steps which is a big difference from other cleansers I've used in the past. I would definitely give this cleanser a shot if you've also been struggling to find a right cleanser for your skin like mine😭",
+        "headline": "Works nicely",
+        "rating": 5,
+        "ugc_id": 532748978
+      },
+      "faceoff_negative": {
+        "comments": "Was curious about this product (along with the oil cleanser) to manage my blackheads. While it worked fabulously for first few days (truly the clearest skin I have ever had) it completely wrecked my skin barrier for the subsequent weeks and gave me the worst acne (upwards of 20+ whiteheads at anytime, very clogged pores) that I am only now getting out of (I stopped using this in July). My recommendation if you are still interested is to use this as weekly cleanser or really slowly ramp up to daily use.",
+        "headline": "Wrecked My Skin Barrier",
+        "rating": 1,
+        "ugc_id": 532587840
+      },
+      "name": "Pure & Deep Cleansing Foam",
+      "native_review_count": 20,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

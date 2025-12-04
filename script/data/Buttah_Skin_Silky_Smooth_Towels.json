@@ -1,0 +1,186 @@
+{
+  "product_id": "pimprod2051475",
+  "product_url": "https://www.ulta.com/p/silky-smooth-towels-pimprod2051475",
+  "extracted_at": "2025-09-23T05:09:29.935641+00:00",
+  "product_name": "Buttah SkinSilky Smooth Towels",
+  "brand": "Buttah Skin",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Makeup Remover"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "makeup"
+  ],
+  "currency": "USD",
+  "list_price": "18.00",
+  "sale_price": "12.60",
+  "availability": "in_stock",
+  "rating_avg": "4.8",
+  "rating_count": "102",
+  "images": [
+    "https://media.ulta.com/i/ulta/2641786?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2641786?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641786_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641786_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641786_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641786_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641786_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641786_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2641786_vid01/thumbs/d62e5042-fd38-4483-977e-196381cba46b?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackButtah Silky Soft Towels are single-use face cleansing towels - so you can start your day feeling fresh every time and clear of any appearance of breakouts caused by dirt, oil, and particles that can linger on old-school washcloths.",
+  "details": "DetailsBenefitsHelps prevent appearance of breakoutsStops spread of dirt and pore-clogging impurities.Clean and fresh towel every time.FeaturesBiodegradable towels are made from natural fibers and are a great alternative to traditional towels.It can also be used wet to cleanse or remove makeup, and face masks for a mess-free experience.Item 2641786How To UseUse towel dry after cleansing, gently patting your face dry. Use wet with cleanser, gently massaging skin to remove dirt, oil, or makeup.IngredientsAqua (Water), Cetearyl Alcohol and Ceteareth-20, Humulus Lupulus (Hops), Anthemis Nobilis (Camomile), Acetic Acid), Methylparaben). May contain one or more of the following: CI 42090, CI 61570, CI 15510, CI 17200, CI 47005.",
+  "how_to_use": "Use towel dry after cleansing, gently patting your face dry. Use wet with cleanser, gently massaging skin to remove dirt, oil, or makeup.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Cetearyl Alcohol and Ceteareth-20",
+    "Humulus Lupulus (Hops)",
+    "Anthemis Nobilis (Camomile)",
+    "Acetic Acid)",
+    "Methylparaben). May contain one or more of the following:"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "cosmetics"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry",
+      "acne-prone"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "paraben-free"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2051475",
+    "total_reviews": 102,
+    "reviews": [
+      {
+        "review_id": 561446203,
+        "rating": 5,
+        "headline": "I bought it on tiktok and loved it",
+        "comments": "I bought this on tiktok before it was available here at ulta and I really enjoyed this product. It is quite sturdy and strong. It is softer if you wet it.",
+        "nickname": "Patricia",
+        "location": "Washington, DC",
+        "created_date": 1756655933343,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561183778,
+        "rating": 5,
+        "headline": "Face cloths",
+        "comments": "Like to use these on my face",
+        "nickname": "Sherims",
+        "location": "Nyc",
+        "created_date": 1756308282887,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559249540,
+        "rating": 5,
+        "headline": "Again and Again!",
+        "comments": "Love this face towel alternative.  So glad you have this product. I will order from you each time. Cuts down on the germs on your skin, magnificent!",
+        "nickname": "Irene",
+        "location": "Perris Ca",
+        "created_date": 1754332987352,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 3,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        5,
+        0,
+        0,
+        5,
+        92
+      ],
+      "review_histogram": [
+        5,
+        0,
+        0,
+        5,
+        92
+      ],
+      "rating_count": 102,
+      "review_count": 102,
+      "average_rating": 4.75,
+      "recommended_ratio": 0.98,
+      "media": [
+        {
+          "id": "551761836",
+          "review_id": 551761835,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zzqrqhi3otcvohi6aush.jpg",
+          "headline": "Soft and resistant",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Alicia D",
+          "created_date": 1707955200000
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Wow! I didn't expect such an amazing result from just a towel. These towels are amazing. They feel like soft velvet so drying or wiping your face feels like a spa treatment. It's so soft!! I love the concept of getting a clean towel every time. I also used it to apply my toner. It's just amazing. Will keep these in my stock!",
+        "headline": "Wow! Wow.",
+        "rating": 5,
+        "ugc_id": 551756541
+      },
+      "faceoff_negative": {
+        "comments": "They're hard I would Never purchase these again.. I've used other brands in the past which were much better.",
+        "headline": "Not good!",
+        "rating": 1,
+        "ugc_id": 551768176
+      },
+      "name": "Silky Smooth Towels",
+      "variant_names": [
+        "Silky Soft Towels"
+      ],
+      "native_review_count": 3,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 99,
+      "locale": "en_US"
+    }
+  }
+}

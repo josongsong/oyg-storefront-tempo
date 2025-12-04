@@ -1,0 +1,576 @@
+{
+  "product_id": "pimprod2046438",
+  "product_url": "https://www.ulta.com/p/big-brew-density-building-root-spray-pimprod2046438",
+  "extracted_at": "2025-09-23T03:23:25.711662+00:00",
+  "product_name": "DrybarBig Brew Density-Building Root Spray",
+  "brand": "Drybar",
+  "categories": [
+    "Home",
+    "Hair",
+    "Styling Products",
+    "Volume & Texture"
+  ],
+  "category_keys": [
+    "home",
+    "hair",
+    "styling-products",
+    "volume--texture"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "36.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "101",
+  "images": [
+    "https://media.ulta.com/i/ulta/2627386?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2627386?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627386_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627386_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627386_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627386_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627386_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627386_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2627386_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2627386_vid01/thumbs/d9905116-9d5e-455f-a90d-09a3004696ae?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeLeave-in density-boosting spray instantly thickens for long-lasting, lifted, fuller-looking hair. Drybar Big Brew Density-Building Root Spray helps rejuvenate the scalp and roots to visibly improve thickness and reduce signs of thinning.",
+  "details": "DetailsBenefitsLinden Flower Complex plumps hair strands for instant thicknessTripeptide & Amla Fruit Extract rejuvenate the scalp to encourage hair densityEncapsulated Tea Tree Oil & Pumpkin Blend with time-released technology helps balance oil throughout the day for a long-lasting styleItem 2627386How To UseFor use on dry hair as a final step. Shake extremely well. Section hair and spray directly onto roots. Allow to dry.IngredientsHydrofluorocarbon 152a, Butane, Alcohol Denat., Zeolite, VP/VA Copolymer, Mentha Piperita (Peppermint) Oil, Helianthus Annuus (Sunflower) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Cu-curbita Pepo (Pumpkin) Seed Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Sinensis Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Tocopheryl Acetate, Caffeine, Biotin, Apigenin, Oleanolic Acid, Biotinoyl Tripeptide-1, Glycerin, Phyllanthus Emblica Fruit Extract, Tilia Tomentosa Bud Extract, Panthenol, Aqua/Water/Eau, Leci-thin, Propanediol, Butylene Glycol, Lauryl Glucoside, Sorbitan Stearate, Cetyl Palmitate, Tocopherol, PPG-26-Buteth-26, Acetyl Triethyl Citrate, Menthyl Ethylamido Oxalate, PEG-40 Hydrogenated Castor Oil, Citronellyl Methylcrotonate, Disodium EDTA, Ethylhexylglycerin, Citric Acid, Po-tassium Sorbate, Sodium Benzoate, Phenoxyethanol, Parfum/Fragrance, Alpha-Isomethyl Ionone, Eugenol, Hexamethylindanopyran, Linalool, Linalyl Acetate, Tetramethyl Acetyloctahydronaphthalenes, Vanillin. DOT 2Q M5655 • SDS-NJ-2060Shipping & Coupon RestrictionsShipping Restrictions : This item cannot be shipped via air.This brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "For use on dry hair as a final step. Shake extremely well. Section hair and spray directly onto roots. Allow to dry.",
+  "ingredients": [
+    "Hydrofluorocarbon 152a",
+    "Butane",
+    "Alcohol Denat",
+    "Zeolite",
+    "VP/VA Copolymer",
+    "Mentha Piperita (Peppermint) Oil",
+    "Helianthus Annuus (Sunflower) Seed Oil",
+    "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+    "Cu-curbita Pepo (Pumpkin) Seed Extract",
+    "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+    "Camellia Sinensis Leaf Extract",
+    "Rosmarinus Officinalis (Rosemary) Leaf Oil",
+    "Tocopheryl Acetate",
+    "Caffeine",
+    "Biotin",
+    "Apigenin",
+    "Oleanolic Acid",
+    "Biotinoyl Tripeptide-1",
+    "Glycerin",
+    "Phyllanthus Emblica Fruit Extract",
+    "Tilia Tomentosa Bud Extract",
+    "Panthenol",
+    "Aqua/Water/Eau",
+    "Leci-thin",
+    "Propanediol",
+    "Butylene Glycol",
+    "Lauryl Glucoside",
+    "Sorbitan Stearate",
+    "Cetyl Palmitate",
+    "Tocopherol",
+    "PPG-26-Buteth-26",
+    "Acetyl Triethyl Citrate",
+    "Menthyl Ethylamido Oxalate",
+    "PEG-40 Hydrogenated Castor Oil",
+    "Citronellyl Methylcrotonate",
+    "Disodium EDTA",
+    "Ethylhexylglycerin",
+    "Citric Acid",
+    "Po-tassium Sorbate",
+    "Sodium Benzoate",
+    "Phenoxyethanol",
+    "Parfum/Fragrance",
+    "Alpha-Isomethyl Ionone",
+    "Eugenol",
+    "Hexamethylindanopyran",
+    "Linalool",
+    "Linalyl Acetate",
+    "Tetramethyl Acetyloctahydronaphthalenes",
+    "Vanillin. DOT 2Q M5655 • SDS-NJ-2060"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "hair",
+      "haircare"
+    ],
+    "product_type": [
+      "toner"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "sheer",
+      "long-wear",
+      "oil"
+    ],
+    "ingredients": [
+      "peptides",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2046438",
+    "total_reviews": 101,
+    "reviews": [
+      {
+        "review_id": 561231955,
+        "rating": 5,
+        "headline": "Great texture product!",
+        "comments": "I have a pixie cut with choppy layers cut into the top. This product gives my hair definition. I have been using it for almost a year and a half. Worth every peny!",
+        "nickname": "Cindy",
+        "location": "Portland, Oregon area",
+        "created_date": 1756340167479,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554308374,
+        "rating": 1,
+        "headline": "Ehh.. wouldn't recommend",
+        "comments": "Spray feels nice and cooling on your scalp. However, it leaves a dry residue on your hair and does not provide much volume like intended. I have curly hair so after a while of wearing this product my hair starts getting extremely tangled.",
+        "nickname": "Fatima",
+        "location": "Houston, TX",
+        "created_date": 1748675205858,
+        "bottom_line": "No",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554303377,
+        "rating": 1,
+        "headline": "Save your money",
+        "comments": "Doesnt seem to do a lot. Somehow makes my hair oily and dry looking at them same time.",
+        "nickname": "H",
+        "location": "Texas",
+        "created_date": 1748652295086,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 553823395,
+        "rating": 3,
+        "headline": "Worked well but itchy",
+        "comments": "I wanted to love this because it does create pretty good volume and lasts all day. It has an almost minty scent which isn't bad, just very strong. Not sure if it was the fragrance or another ingredient, but it made my scalp super itchy.",
+        "nickname": "SRT",
+        "location": "Arizona",
+        "created_date": 1747980440490,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552565198,
+        "rating": 5,
+        "headline": "One of the best!! I will certainly purchase it again!",
+        "comments": "I love this!! Drybar is one of my favorites when it comes to hair care products. I have thin, fine hair so I'm always seeking a great volumizer and this is very good.",
+        "nickname": "Jill",
+        "location": "Wisconsin",
+        "created_date": 1745856001542,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552094073,
+        "rating": 5,
+        "headline": "Love this product",
+        "comments": "This product is a must have if you want definition and texture to your hair. I have a short pixie with long bangs and this is always my go to product.  The nozzle can be \"tricky\" at times, however the product is great.",
+        "nickname": "Cindy",
+        "location": "Portland, OR area",
+        "created_date": 1745175189729,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 549257500,
+        "rating": 1,
+        "headline": "Not Worth It",
+        "comments": "I have keratin treated hair, and was hoping this would add volume at the root. I used as expected and it just made my hair a bit frizzy and wavy all over not voluminous. I will be returning.",
+        "nickname": "",
+        "location": "Sacramento, CA",
+        "created_date": 1742312339908,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 548821862,
+        "rating": 1,
+        "headline": "Smells Like Really Bad Baby Powder!",
+        "comments": "I sprayed this on my roots just to try it, before bed, and while the volume was good, the smell IS DISGUSTING! I had to spray dry shampoo, and hair perfume to be able to sleep. Maybe the bottle I got is bad/expired? It bothered my husband too. Fragances in products never bother me. Something is wrong with this product.",
+        "nickname": "LongCurlyHair",
+        "location": "Virginia",
+        "created_date": 1742026302150,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 548629203,
+        "rating": 1,
+        "headline": "Nozzle didn't work",
+        "comments": "I was excited about this but never got to try it.  The nozzle didn't work so I ended up returning it and they didn't have a replacement when I tried to exchange.  Sad :(",
+        "nickname": "Michelle",
+        "location": "Santa Rosa CA",
+        "created_date": 1741792911030,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548288913,
+        "rating": 2,
+        "headline": "Didn't do much",
+        "comments": "After reading reviews i thought this product was going to give me volume and I didnt notice it doing much, but it does smell good, what am i doing wrong😭",
+        "nickname": "Carly",
+        "location": "Indy",
+        "created_date": 1741648091551,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 544444267,
+        "rating": 5,
+        "headline": "New favorite root product!",
+        "comments": "I have fine hair and have always struggled with achieving volume at my roots. Ive tried mousses, sprays, powder, etc. THIS is the one that has worked, and it doesn't leave my hair scalp feeling greasy or drenched in product.\nThis will be a staple in my hair routine!",
+        "nickname": "Kelly",
+        "location": "Mississippi",
+        "created_date": 1738083320096,
+        "bottom_line": null,
+        "helpful_votes": 13,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542427664,
+        "rating": 5,
+        "headline": "Yes, I would buy again!",
+        "comments": "Very good product!",
+        "nickname": "Tammy",
+        "location": "Delhi, Louisiana",
+        "created_date": 1736277305666,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542272883,
+        "rating": 5,
+        "headline": "100000% recommend",
+        "comments": "Instant volume and hair looks much thicker. Keeps your blow outs looking so great. Lasts a long time too!! Worth it!",
+        "nickname": "Cm",
+        "location": "IL",
+        "created_date": 1736101598997,
+        "bottom_line": null,
+        "helpful_votes": 11,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541112657,
+        "rating": 5,
+        "headline": "Great texture spray",
+        "comments": "So great for added thickness and texture.",
+        "nickname": "Annie",
+        "location": "Charlotte,NC",
+        "created_date": 1734293220200,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 540118090,
+        "rating": 5,
+        "headline": "I LOVE THIS BRAND!",
+        "comments": "I REALLY LOVE THIS BRAND. THE QUALITY OF THE PRODUCTS ARE EXACTLY AS THEY DESCRIBED.",
+        "nickname": "TRINA",
+        "location": "IDAHO",
+        "created_date": 1734106855951,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538663849,
+        "rating": 5,
+        "headline": "I definitely would buy this product again",
+        "comments": "Yes I  love the Big Brew density root spray it adds a lot of lift and height to my hair. It's a little expensive however it doesn't take a lot of the spray.",
+        "nickname": "Peggy",
+        "location": "Ephrata WA",
+        "created_date": 1732658756374,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538602834,
+        "rating": 5,
+        "headline": "Great texture product!",
+        "comments": "This product is amazing. I have a pixie cut with long bangs and it provides the texture needed. It sprays on …use on roots only and style. Definitely worth the price! My Ulta stylist used it on my hair and I was hooked.",
+        "nickname": "Cindy",
+        "location": "Portland, OR area",
+        "created_date": 1732552225680,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533613805,
+        "rating": 5,
+        "headline": "Volume dream product",
+        "comments": "This is it! I have been looking fir volumizer for days i dont shampoo but want to revive my style - this gives volume tgat actually lasts the next day, isnt too drying - my hair dry enough on its own - and doesnt take away the shine in jy hair. The perfect boost of volune at tge roots so hair looks fuller - great in ny aging hair- i rnjoy the smell and it does last but doesnt overpower - you have to pit your nose right on my hair to smell it. This is a - never be without it product- worth the price even if a bit spendy - doesnt take much to vavoom my hair",
+        "nickname": "Lainie",
+        "location": "Carmichael Ca",
+        "created_date": 1726755146207,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533163193,
+        "rating": 4,
+        "headline": "Love",
+        "comments": "Gifted by dryer. When I first received the product I didn't think it would work with my thick hair. It did I loved the look it gave me it made my hair look voluminous and lush. However I do not enjoy the smell. Wish it wasn't heavily scented or smelled better.",
+        "nickname": "Mena",
+        "location": "San Jose",
+        "created_date": 1726453101066,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 529539036,
+        "rating": 1,
+        "headline": "No Volume",
+        "comments": "This did absolutely nothing to my hair besides make it frizzy. I have thin fine hair and this gave me 0 volume. I ended up returning it",
+        "nickname": "Sarah",
+        "location": "MA",
+        "created_date": 1724874103346,
+        "bottom_line": null,
+        "helpful_votes": 12,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 101,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2046438/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "hairtype",
+          "name": "Hair Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Wavy Hair",
+              "count": 26
+            },
+            {
+              "label": "Straight Hair",
+              "count": 21
+            },
+            {
+              "label": "Very Curly Hair",
+              "count": 3
+            }
+          ],
+          "display_values": [
+            "Straight Hair",
+            "Very Curly Hair",
+            "Wavy Hair"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        6,
+        2,
+        2,
+        8,
+        83
+      ],
+      "review_histogram": [
+        6,
+        2,
+        2,
+        8,
+        83
+      ],
+      "rating_count": 101,
+      "review_count": 101,
+      "average_rating": 4.58,
+      "recommended_ratio": 0.96,
+      "media": [
+        {
+          "id": "527405914",
+          "review_id": 527405867,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gs5beid5memloc1rgvuf.jpg",
+          "headline": "Big brew thickening paste vs this spray",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Reanna",
+          "created_date": 1723788914772
+        },
+        {
+          "id": "526873579",
+          "review_id": 526873633,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vvtj7lwnkfcq7sev832l.jpg",
+          "headline": "Full-looking head",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Alida",
+          "created_date": 1723336103039
+        },
+        {
+          "id": "526873456",
+          "review_id": 526873633,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fbh1lpmbtz9kdewzobih.jpg",
+          "headline": "Full-looking head",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Alida",
+          "created_date": 1723336103039
+        },
+        {
+          "id": "526733210",
+          "review_id": 526733118,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tenqv0a89s2uugor7wbh.jpg",
+          "headline": "Amazing Volume!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Marina",
+          "created_date": 1723121815833
+        },
+        {
+          "id": "526709035",
+          "review_id": 526709232,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vaefxsixljiipemwmdhv.jpg",
+          "headline": "Instant lift and volume",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Melissa",
+          "created_date": 1723074827266
+        },
+        {
+          "id": "526586661",
+          "review_id": 526586660,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ehposyqjfa9v98rc9lb4.jpg",
+          "headline": "Obsessed!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Brisa",
+          "created_date": 1722958484787
+        },
+        {
+          "id": "526567749",
+          "review_id": 526567748,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/utklmxjq0rwknepvipjy.jpg",
+          "headline": "Offers Thicker Look",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great Product",
+          "nickname": "Rose81",
+          "created_date": 1722928583687
+        },
+        {
+          "id": "526542816",
+          "review_id": 526542599,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xxhwgvpp6rgyycecgqnh.jpg",
+          "headline": "Spray of full hair",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Julissa",
+          "created_date": 1722896825654
+        },
+        {
+          "id": "526532101",
+          "review_id": 526531935,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wtbcrv798qrfl9s0pfcf.jpg",
+          "headline": "Creamy",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rachael",
+          "created_date": 1722895014558
+        },
+        {
+          "id": "526410704",
+          "review_id": 526410607,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/imlhnnotz1rqpeh5kju0.jpg",
+          "headline": "Great for thinning hair",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rebecca",
+          "created_date": 1722867557507
+        },
+        {
+          "id": "526396432",
+          "review_id": 526396431,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wkzfgfxhvd25dlldh1d8.jpg",
+          "headline": "Excellent",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Vanessa",
+          "created_date": 1722859297224
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Gifted by drybar for honest review. This was a great volumizer product as usual Drybar absolutely kills it in the scent department, it's nice not having to worry about getting a headache from a chemical scent. This is an interesting product in comparison to the old big brew which was more of a paste consistency in a tube. That worked better as a mix between hair gel and mousse wheras this seems really similar to southern belle, less fluffy obviously and more of a hairspray. Personally I like it a lot either way but as someone with very straight hair, I do miss the unique consistency and root hold of the original formula and it's a bit harder to be precise with a spray than squeezing a bit on your fingers and applying on the roots or crown especially for a pompadour look. Definitely worth it at the end of the day as a replacement since I assume they've discontinued the other type!",
+        "headline": "Big brew thickening paste vs this spray",
+        "rating": 5,
+        "ugc_id": 527405867
+      },
+      "faceoff_negative": {
+        "comments": "I don't understand all the good reviews. First time i used the product i did as the directions stated. The second time I applied it to my wet hair and blow dried. Both times never produced any volume or difference to my hair than when I blow dry my hair without anything. I do not recommend this and i would not buy this again.",
+        "headline": "No difference",
+        "rating": 2,
+        "ugc_id": 527710725
+      },
+      "name": "Big Brew Density-Building Root Spray",
+      "native_review_count": 101,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

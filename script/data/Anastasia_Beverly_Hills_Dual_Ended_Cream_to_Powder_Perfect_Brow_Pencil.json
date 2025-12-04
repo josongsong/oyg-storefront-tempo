@@ -1,0 +1,108 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/dual-ended-cream-powder-perfect-brow-pencil-prod390054",
+  "extracted_at": "2025-09-23T03:48:35.735183+00:00",
+  "product_name": "Anastasia Beverly HillsDual-Ended Cream to Powder Perfect Brow Pencil",
+  "brand": "Anastasia Beverly Hills",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Eyes",
+    "Eyebrows"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "eyes",
+    "eyebrows"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "26.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "1696",
+  "images": [
+    "https://media.ulta.com/i/ulta/2157546?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2157546?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157546_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157034cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157034cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157034cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157034cm_alt04?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeVeganPerfect Brow Pencil by Anastasia Beverly Hills is a traditional wooden pencil with a powder-like formula for filling and defining brows. This easy-to-use brow pencil also features a custom spoolie end for blending the product to a natural-looking matte finish.",
+  "details": "DetailsBenefitsSoft, powder-like formula goes on smoothly, letting you create natural-looking texture throughout the browFull-pigment, powder-soft formula and finishIncludes a soft, durable custom spoolie that seamlessly blends product through the brow hairsCan be sharpened to a fine point for precise applicationDelivers a natural-looking, powder matte finishIs easy to use and offers maximum controlFeaturesCruelty-freeDermatologist testedParaben-freeGluten-freeItem 2157546How To UseOn moist or dry skin, using short strokes, and a light touch, fill in the brow and extend where needed. Using the spooley end of this duo pencil, gently blend in with short upward strokes.IngredientsMedium Brown: C10-18 Triglycerides, Hydrogenated Vegetable Oil, Mica, Talc, Hydrogenated Cottonseed Oil, Caprylic/Capric Triglyceride, Ascorbyl Palmitate, Tocopherol. May Contain: Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891).Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "On moist or dry skin, using short strokes, and a light touch, fill in the brow and extend where needed. Using the spooley end of this duo pencil, gently blend in with short upward strokes.",
+  "ingredients": [
+    "Medium Brown: C10-18 Triglycerides",
+    "Hydrogenated Vegetable Oil",
+    "Mica",
+    "Talc",
+    "Hydrogenated Cottonseed Oil",
+    "Caprylic/Capric Triglyceride",
+    "Ascorbyl Palmitate",
+    "Tocopherol. May Contain: Iron Oxides (",
+    "Titanium Dioxide ("
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/ef8a4713-61b7-450f-becf-c928ba6d3d26/960.webp",
+      "https://content.syndigo.com/asset/e7be7f08-bc99-4f56-b733-105f6172f8a3/960.webp",
+      "https://content.syndigo.com/asset/9a1c4d57-d81a-4c97-bae4-c1306a073f16/960.webp",
+      "https://content.syndigo.com/asset/dd6f139e-3082-4b7d-9eab-5be769b05132/960.webp",
+      "https://content.syndigo.com/asset/d966e87a-20e4-4601-8493-7fb1ed56c87b/960.webp",
+      "https://content.syndigo.com/asset/40fe8ac2-e68a-4862-a231-0dbf86c4b00e/960.webp",
+      "https://content.syndigo.com/asset/4c439626-2d23-4568-b4e7-a57ce38aef68/960.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "makeup",
+      "eyes",
+      "eye",
+      "cosmetics"
+    ],
+    "product_type": [
+      "moisturizer"
+    ],
+    "skin_type": [
+      "oily",
+      "dry"
+    ],
+    "finish": [
+      "matte",
+      "sheer",
+      "creamy",
+      "powdery",
+      "cream",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "dermatologist-tested",
+      "paraben-free"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimproddual-ended-cream-powder-perfect-brow-pencil-prod390054",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

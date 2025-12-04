@@ -1,0 +1,406 @@
+{
+  "product_id": "pimprod2035703",
+  "product_url": "https://www.ulta.com/p/skinactive-micellar-replumping-hyaluronic-acid-micellar-water-pimprod2035703",
+  "extracted_at": "2025-09-23T05:11:21.639332+00:00",
+  "product_name": "GarnierSkinActive Micellar Replumping Hyaluronic Acid Micellar Water",
+  "brand": "Garnier",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "11.99",
+  "sale_price": "8.39",
+  "availability": "in_stock",
+  "rating_avg": "4.8",
+  "rating_count": "2413",
+  "images": [
+    "https://media.ulta.com/i/ulta/2600829?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2600829?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2600829_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2600829_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2600829_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2600829_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2600829_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeVeganSustainable PackagingThe Garnier SkinActive Micellar Cleansing Water with Hyaluronic Acid and Aloe Vera cleanses, removes makeup and skin looks replumped. Like a magnet, micelles capture and lift away dirt, oil and makeup without harsh rubbing leaving skin perfectly clean without over drying.",
+  "details": "DetailsBenefitsLifts away dirt, makeup, and excess oil in just one stepCruelty freeNo need to rinseFormulated WithoutAlcoholsFragranceParabensMineral oilSulfatesAnimal Derived IngredientsItem 2600829How To UsePour onto cotton pad until fully saturated. Gently wipe pad across face to cleanse and remove face makeup. To remove eye makeup, hold pad over closed eyelids for a few seconds, then gently wipe away. Use daily. No need to rinse. Try with Garnier's reusable Garnier Micellar Eco Pads.Precautions: Avoid contact with eyes. If contact occurs, rinse thoroughly with water.IngredientsAqua / Water / Eau, Hexylene Glycol, Glycerin, Poloxamer 184, Sodium Hyaluronate, Ppg-26-Buteth-26, Peg-40 Hydrogenated Castor Oil, Aloe Barbadensis Leaf Juice Powder, Myrtrimonium Bromide, Disodium Cocoamphodiacetate, Disodium Edta, Potassium Hydroxide.",
+  "how_to_use": "Pour onto cotton pad until fully saturated. Gently wipe pad across face to cleanse and remove face makeup. To remove eye makeup, hold pad over closed eyelids for a few seconds, then gently wipe away. Use daily. No need to rinse. Try with Garnier's reusable Garnier Micellar Eco Pads.Precautions: Avoid contact with eyes. If contact occurs, rinse thoroughly with water.",
+  "ingredients": [
+    "Aqua / Water / Eau",
+    "Hexylene Glycol",
+    "Glycerin",
+    "Poloxamer 184",
+    "Sodium Hyaluronate",
+    "Ppg-26-Buteth-26",
+    "Peg-40 Hydrogenated Castor Oil",
+    "Aloe Barbadensis Leaf Juice Powder",
+    "Myrtrimonium Bromide",
+    "Disodium Cocoamphodiacetate",
+    "Disodium Edta",
+    "Potassium Hydroxide"
+  ],
+  "extended_contents": {
+    "text": "Show less"
+  },
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "sheer",
+      "powdery",
+      "oil"
+    ],
+    "color": [
+      "purple"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "purifying"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2035703",
+    "total_reviews": 2413,
+    "reviews": [
+      {
+        "review_id": 560381537,
+        "rating": 5,
+        "headline": "Soothing",
+        "comments": "Works well with my face regimen. I use products that have drying agents and I struggled finding a mild toner that didn't burn or dry out my skin. This is definitely it.",
+        "nickname": "Alice",
+        "location": "Cincinnati, OH",
+        "created_date": 1755486702400,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559865797,
+        "rating": 5,
+        "headline": "Great makeup remover",
+        "comments": "Love this! Removes my makeup so well and it indeed adds moisture after use. Feels good on the skin!",
+        "nickname": "Nicole",
+        "location": "Elkhart,IN",
+        "created_date": 1754755076554,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559436516,
+        "rating": 5,
+        "headline": "Love!",
+        "comments": "Cleans skin leaves you feeling so soft!",
+        "nickname": "Laura",
+        "location": "Indiana",
+        "created_date": 1754511910675,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554959364,
+        "rating": 5,
+        "headline": "A Staple !",
+        "comments": "A great product at removing makeup and other oils from your skin, It is affordable and does not break me out either!",
+        "nickname": "sillygoofygirl",
+        "location": "NY, NY",
+        "created_date": 1749707459536,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554050272,
+        "rating": 5,
+        "headline": "Great",
+        "comments": "Worked great",
+        "nickname": "Maria",
+        "location": "Sugarland",
+        "created_date": 1748361579077,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553621753,
+        "rating": 3,
+        "headline": "Ok- but seems soapy",
+        "comments": "I like micellar water and usually use the pink one. I bought this because it says it has hyaluronic acid in it and I have dry skin. However, if you shake the bottle, it has soap bubbles at the top, yet it says you don't have to rinse it off.",
+        "nickname": "CR",
+        "location": "Lake Wylie, SC",
+        "created_date": 1747754413517,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 553331739,
+        "rating": 5,
+        "headline": "Yes i will purchase this product again",
+        "comments": "I use this more as a astringent after washing my face with Philosophy Purity and all traces of makeup are removed",
+        "nickname": "Diana",
+        "location": "Ohio",
+        "created_date": 1747255875769,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552518920,
+        "rating": 5,
+        "headline": "It's little more drying than the rose pink clarifying yell",
+        "comments": "It's good and lots of sizes",
+        "nickname": "Lisa G",
+        "location": "San Antonio",
+        "created_date": 1745733508931,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552470634,
+        "rating": 5,
+        "headline": "OHHHHHHHHHHHHHHHHHHHH YAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "comments": "THIS STUFF IS AMAZING IF YOU WANT TO CLEAN SKIN THIS IS WHAT YOU NEED!!!!!!!!",
+        "nickname": "",
+        "location": "Dallas, TX",
+        "created_date": 1745601867837,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551978763,
+        "rating": 3,
+        "headline": "Not ideal for extremely dry skin",
+        "comments": "I have extremely dry skin and have used the pink and blue capped micellar water without any issues. I LOVE those. Surprislgly, this one made me break out? Like tiny bumps all over my face. It also felt like it clogged my pores if i didnt rinse with water IMMEDIATELY after. Would not recommend for DRY skin.",
+        "nickname": "Dry skin hater",
+        "location": "Los Angeles",
+        "created_date": 1744997875249,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 551917805,
+        "rating": 5,
+        "headline": "Works great for me",
+        "comments": "Ive been using this for years i think it works great. Not overly drying and actually does remove makeup. Its also nourishing. I recommend",
+        "nickname": "May",
+        "location": "Cleveland, OH",
+        "created_date": 1744940194878,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550871215,
+        "rating": 5,
+        "headline": "Hydrating and Nourishing for my skin",
+        "comments": "I use this first thing in the morning before applying my moisturizer. It really rejuvenates my skin and wakes it up. I love the added nutrients in this micellar water.  I love this one so much but wouldn't mind trying them all out.  I would definitely recommend this to a friend and buy again.",
+        "nickname": "Cori",
+        "location": "Illinois",
+        "created_date": 1743612700182,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 545923799,
+        "rating": 2,
+        "headline": "I don't break out and I broke out",
+        "comments": "I've used all of these products separately. I don't know why this was different but my skin hasn't healed and I stopped using it two weeks ago and switched back to my old cleanser. I have only ever broken out like this one other time. I have very dry skin and this did NOT help. If you have super oily skin I might give this a go. I'm curious if it would work better for that skin type.",
+        "nickname": "Belly",
+        "location": "Spartanburg SC",
+        "created_date": 1738725322899,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 543690031,
+        "rating": 1,
+        "headline": "Be Careful",
+        "comments": "I purchased this product to try something new and I wish I didn't. This made my skin break out like crazy after 2 uses and my skin stung for a day after using. Everyone has different skin types but I am someone who rarely breaks out and has never had a bad reaction to a product before. I would look at the ingredients and proceed with caution. If the same happens to you I fixed my skin by putting on Ponds moisturizer and topped it with Aquaphor before bed and within a week I was fine again.",
+        "nickname": "Barbara",
+        "location": "Lincoln, NE",
+        "created_date": 1737487351620,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543565046,
+        "rating": 1,
+        "headline": "CHECK THE INGREDIENTS",
+        "comments": "This product specifically amplified my cystic acne by a lot. I didnt know this was breaking me out but as soon as i stopped using it my skin felt better. I have sensitive, dry skin, i was shocked at my skins response either way. I am going back to the classic waterproof version of this, which doesnt have any flagged ingredients upon review and is what i had already been using orginally.",
+        "nickname": "Laura",
+        "location": "Texas",
+        "created_date": 1737184361381,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541656878,
+        "rating": 1,
+        "headline": "Would not repurchase.",
+        "comments": "I used this for a few days as a makeup remover. My skin became INCREDIBLY dry and irritated and began to peel, even though I immediately washed it off with my normal cleanser (which is squalene-based and not drying at all.) I hadn't added any other new products, and the dryness subsided very quickly after I stopped using it. I'm not sure which ingredient was too strong for my skin, but I would avoid this if you skin is dry and/or sensitive.",
+        "nickname": "Kait",
+        "location": "MO",
+        "created_date": 1734903628507,
+        "bottom_line": "No",
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541473290,
+        "rating": 1,
+        "headline": "Ick",
+        "comments": "I have dry, insanely sensitive skin. IDK what happened. I use micellar water and hyaluronic acid on a regular basis, and I have never had a reaction to aloe. I decided to give this a try figuring it would work well with my skin, but I used it twice and had a reaction both times. It has been several days since I last used it, and my skin is still healing.",
+        "nickname": "Kathleen",
+        "location": "Georgia",
+        "created_date": 1734635009974,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539314426,
+        "rating": 5,
+        "headline": "I would by this product again",
+        "comments": "Excellent product",
+        "nickname": "Stephanie",
+        "location": "FL",
+        "created_date": 1733827241626,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537378744,
+        "rating": 5,
+        "headline": "Easy to use",
+        "comments": "I love this product. Such an easy way to clean my face .",
+        "nickname": "Michelle",
+        "location": "Fontana",
+        "created_date": 1730867842022,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 527518991,
+        "rating": 5,
+        "headline": "Get you this rn.",
+        "comments": "I have the most sensetive skin so i was a little worried about buying this product, but i'm in love and will be buying more.",
+        "nickname": "Kaashie",
+        "location": "Tampa Florida",
+        "created_date": 1724009345771,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 47,
+      "pages_total": 3,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2035703/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 3
+            },
+            {
+              "label": "Normal",
+              "count": 3
+            },
+            {
+              "label": "Dry",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        24,
+        11,
+        56,
+        277,
+        2045
+      ],
+      "review_histogram": [
+        24,
+        11,
+        56,
+        277,
+        2045
+      ],
+      "rating_count": 2413,
+      "review_count": 2413,
+      "average_rating": 4.79,
+      "recommended_ratio": 0.92,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I've been interested in micellar waters for a while so I was excited when I got the opportunity to receive this Garnier SkinActive Micellar Cleansing Water with Hyaluronic Acid + Aloe free from PINCHme. I'm very interested in skincare and generally follow a 7 step Korean beauty routine. I also workout every morning so I usually wash my face AFTER the workout so I don't \"waste\" all of my other beauty products that way. I still wanted to do some sort of cleansing step BEFORE my workout to make sure my skin is clean before my pores begin opening up when I sweat though. This micellar water is PERFECT for that! It cleanses away all the dirt, impurities, and oil that built up on my skin while sleeping through the night and leaves me feeling so clean! I have dry skin so if I don't follow up with a moisturizer or serum right after washing my face, my skin gets super dry, tight, and irritable. However, the hyaluronic acid and aloe in this product leaves my skin moisturized so I don't need to immediately follow up with any other products! I can just this micellar water and go! It has been such a relief to find this product and incorporate it into my beauty routine! I always feel so reassured that my skin is PROPERLY cleansed and hydrated after using it.",
+        "headline": "Great hydrating micellar water",
+        "rating": 4,
+        "ugc_id": 391592079
+      },
+      "faceoff_negative": {
+        "comments": "I received a sample of Garnier skin active micellar cleansing water with hyaluronic acid + aloe. This micellar water is a no rinse required product. I found that this did a pretty good job of removing most of my long wear make up after 12 hours of wear. I will say that it didn't completely remove all of my make up, and while this is no rinse, I did feel the need to rinse my face. I did notice that my skin felt rather dry and tight afterwards which I didn't love. For a product that contains hyaluronic acid I was really surprised that my skin felt so dry and then I needed moisturization immediately. I do think this is a great first cleansing step in a skin care routine.",
+        "headline": "Removed makeup but left skin dry",
+        "rating": 3,
+        "ugc_id": 391017058
+      },
+      "name": "SkinActive Micellar Replumping Hyaluronic Acid Micellar Water",
+      "native_review_count": 47,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 2366,
+      "locale": "en_US"
+    }
+  }
+}

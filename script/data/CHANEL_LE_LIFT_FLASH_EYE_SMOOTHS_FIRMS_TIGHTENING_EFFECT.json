@@ -1,0 +1,87 @@
+{
+  "product_id": "pimprod2053992",
+  "product_url": "https://www.ulta.com/p/le-lift-flash-eye-smooths-firms-tightening-effect-pimprod2053992",
+  "extracted_at": "2025-09-23T04:21:37.212566+00:00",
+  "product_name": "CHANELLE LIFT FLASH EYE SMOOTHS – FIRMS – TIGHTENING EFFECT",
+  "brand": "CHANEL",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Masks"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "masks"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "120.00",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2646834?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2646834?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2646834_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2646834_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2646834_alt03?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHigh-performance eye patches that offer a visible tightening effect, leaving skin looking smoother, firmer, plumper and more luminous. Day after day, the appearance of fine lines, puffiness and dark circles is reduced. Box contains 10 pairs of patches.",
+  "details": "DetailsKey IngredientsLE LIFT FLASH EYE patches are infused with low-molecular-weight hyaluronic acid, which absorbs up to 4 times* deeper for exceptional plumping benefits.A hyaluronic acid booster locks in hydration, while the signature CHANEL eye complex targets the appearance of puffiness and dark circles.*Compared to high-molecular-weight hyaluronic acidItem 2646834How To UseApply a patch under each eye at any time throughout the day. Leave on for 5 minutes, then remove and massage in excess serum.IngredientsAqua (Water), Glycerin, Pentylene Glycol, Saccharomyces Cerevisiae Extract, Sodium Hyaluronate, Sodium Polyglutamate, Sclerotium Gum, Chlorphenesin, Caprylyl Glycol, Escin, Citric Acid, 1,2-Hexanediol, BS000713A.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Apply a patch under each eye at any time throughout the day. Leave on for 5 minutes, then remove and massage in excess serum.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Glycerin",
+    "Pentylene Glycol",
+    "Saccharomyces Cerevisiae Extract",
+    "Sodium Hyaluronate",
+    "Sodium Polyglutamate",
+    "Sclerotium Gum",
+    "Chlorphenesin",
+    "Caprylyl Glycol",
+    "Escin",
+    "Citric Acid",
+    "2-Hexanediol",
+    "BS000713A"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "finish": [
+      "dewy",
+      "creamy"
+    ],
+    "brand": [
+      "luxury",
+      "premium"
+    ],
+    "skin_type": [],
+    "ingredients": [],
+    "special_features": []
+  },
+  "reviews": {
+    "product_id": "pimprod2053992",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

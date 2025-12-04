@@ -1,0 +1,161 @@
+{
+  "product_id": "pimprod2044525",
+  "product_url": "https://www.ulta.com/p/goldpro-styling-iron-pimprod2044525",
+  "extracted_at": "2025-09-23T04:03:04.716430+00:00",
+  "product_name": "Bio IonicGoldPro Styling Iron",
+  "brand": "Bio Ionic",
+  "categories": [
+    "Home",
+    "Tools & Brushes",
+    "Hair Styling Tools",
+    "Curling Irons & Stylers"
+  ],
+  "category_keys": [
+    "home",
+    "tools-brushes",
+    "hair",
+    "curling-irons--stylers"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "141.00",
+  "availability": "in_stock",
+  "rating_avg": "3.8",
+  "rating_count": "16",
+  "images": [
+    "https://media.ulta.com/i/ulta/2622587?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2622587?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2622587_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2622587_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2622587_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2622587_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2622587_vid01/thumbs/3f77d473-c2d9-4a2d-838f-71f89191ebb4?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryNow with 40% longer plates for faster styling, the Bio Ionic Gold Pro Styling Iron helps to create sleek, smooth looks and flat iron curls better than ever before!",
+  "details": "DetailsBenefits40% longer plates to allow for faster styling60 min auto shut offUniversal voltageDigital temperature control up to 430F9ft cord lengthItem 2622587How To UseOffered in 2 sizes, use the 1\" plate for easy styling or the 1.5\" plate for faster smoothing and styling results or longer lengths of hair.",
+  "how_to_use": "Offered in 2 sizes, use the 1\" plate for easy styling or the 1.5\" plate for faster smoothing and styling results or longer lengths of hair.",
+  "ingredients": "",
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "hair",
+      "brushes",
+      "tools",
+      "haircare"
+    ],
+    "skin_type": [
+      "all skin types"
+    ],
+    "finish": [
+      "matte",
+      "creamy"
+    ],
+    "color": [
+      "gold"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "product_type": [],
+    "ingredients": [],
+    "special_features": []
+  },
+  "reviews": {
+    "product_id": "pimprod2044525",
+    "total_reviews": 16,
+    "reviews": [
+      {
+        "review_id": 558377495,
+        "rating": 2,
+        "headline": "Returned",
+        "comments": "I had high hopes for this straightner, but in the end I ended up returning it. I'm not sure if I got a defective one. But I had to use it on its highest setting for it to work and usually  good with 360 to 380 max.",
+        "nickname": "Aimee",
+        "location": "Allen Park Michigan",
+        "created_date": 1753636518317,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557208649,
+        "rating": 4,
+        "headline": "A bit disappointed",
+        "comments": "I LOVE Bio Ionic curling iron so much, so i had a high expectation for this iron as well. This isn't bad but I was not impressed like when I used the curling iron. The curling iron is so smooth but this flar iron isn't. I've used cheaper flat irons, so this one is definitely better than those cheap ones but I expected something better.",
+        "nickname": "Nikkiename",
+        "location": "Walnut Creek, CA",
+        "created_date": 1752539436386,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 2,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "hairtype",
+          "name": "Hair Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Wavy Hair",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Straight Hair",
+            "Very Curly Hair",
+            "Wavy Hair"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        3,
+        1,
+        1,
+        2,
+        9
+      ],
+      "review_histogram": [
+        3,
+        1,
+        1,
+        2,
+        9
+      ],
+      "rating_count": 16,
+      "review_count": 16,
+      "average_rating": 3.81,
+      "recommended_ratio": 0.0,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I LOVE Bio Ionic curling iron so much, so i had a high expectation for this iron as well. This isn't bad but I was not impressed like when I used the curling iron. The curling iron is so smooth but this flar iron isn't. I've used cheaper flat irons, so this one is definitely better than those cheap ones but I expected something better.",
+        "headline": "A bit disappointed",
+        "rating": 4,
+        "ugc_id": 557208649
+      },
+      "faceoff_negative": {
+        "comments": "Damaged and broke off my hair so badly my hairstylist could not even color my hair ( using it at 280-320) and had to trim off the broken and fried hair. She was shocked and for the first time with her doing my hair for over twenty years had never seen my hair damaged. I had bought this flat iron because you promote it's better and less damaging. I also bought your gold pro dryer and it is no better. I am now unable to use any color on my roots over 4 months because of the damage and I'm still having to grow my hair. May take me over a year or more. I'm miserable.",
+        "headline": "Damaged and broke my hair.",
+        "rating": 1,
+        "ugc_id": 553270048
+      },
+      "name": "GoldPro Styling Iron",
+      "native_review_count": 2,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 14,
+      "locale": "en_US"
+    }
+  }
+}

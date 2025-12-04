@@ -1,2 +1,7 @@
 export { SearchOverlay } from './search-overlay'
 export { ProductCard } from './product-card'
+export { QuickShopModal } from './quick-shop-modal'
+export { PromoPopup } from './promo-popup'
+export { AuthPopup } from './auth-popup'
+export { LoadingSpinner, LoadingDots, LoadingPulse } from './loading-spinner'
+export { AIAgent } from './ai-agent'

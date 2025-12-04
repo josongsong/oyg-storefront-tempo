@@ -1,0 +1,5332 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/age-reversal-eye-complex-xlsImpprod2590023",
+  "extracted_at": "2025-09-23T03:14:15.727087+00:00",
+  "product_name": "DermalogicaAge Reversal Eye Complex",
+  "brand": "Dermalogica",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "84.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "4525",
+  "images": [
+    "https://media.ulta.com/i/ulta/2223879?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2223879?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2223879cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2223879cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2223879cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2223879cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2223879cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2223879cm_alt06?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackDermalogica's Age Reversal Eye Complex targets and reverses the signs of skin aging, wrinkles and dark circles specifically formulated for the delicate eye area.",
+  "details": "DetailsBenefitsDelivers age-fighting actives deep into the skinBest for those concerned with dark circles, fine lines and wrinkles around the delicate eye areaKey IngredientsAdvanced, Microencapsulated Retinol: helps smooth away the signs of skin aging around the eyesMicroencapsulation Technology: optimizes retinol potency and absorption to help reduce the appearance of fine linesMicroencapsulated Niacinamide and Ash Tree Bark Extract: maintain hydration and reduce visible dark circlesAge Reversal Firming Complex: works synergistically with antioxidant vitamin C, powerful peptides and botanical extracts to fortify and smooth skinFormulated WithoutParabensSulfatesPhthalatesSynthetic FragranceItem 2223879How To UseStart using alternate nights, for the first two weeks. As skin responds and increases tolerance, build up to using nightly. After cleansing, smooth and pat around the eye area working from the outer corner, inward.IngredientsWater/Aqua/Eau, Dimethicone, Methylheptyl Isostearate, Cetyl Alcohol, Diglycerin, Cyclopentasiloxane, Pentylene Glycol, Prunus Armeniaca (Apricot) Kernel Oil, PEG-100 Stearate, Glyceryl Stearate, Isohexadecane, Dimethicone Crosspolymer, Leuconostoc/Radish Root Ferment Filtrate, Retinol, Palmitoyl Oligopeptide, Palmitoyl Tetrapeptide-7, Arginine/Lysine Polypeptide, Sodium Ascorbyl Phosphate, Camellia Sinensis Leaf Extract, Caffeine, Aleurites Moluccana Seed Oil, Tocopheryl Acetate, Urea, Glucosamine HCl, Algae Extract, Yeast Extract, Tremella Fuciformis Polysaccharide, Fraxinus Excelsior Bark Extract, Niacinamide, Oryza Sativa (Rice) Bran Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Hydrolyzed Soy Protein, Bisabolol, Cucumis Sativus (Cucumber) Fruit Extract, Saccharomyces Lysate Extract, Hesperidin Methyl Chalcone, Steareth-20 , Dipeptide-2, Avena Sativa (Oat) Kernel Extract, Medicago Sativa (Alfalfa) Seed Extract, Hydrolyzed Lupine Protein, Corallina Officinalis Extract, Dimethiconol, Glycerin, Butylene Glycol, Silanetriol Potassium Citrate, Aminomethyl Propanol , Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Oleth-20, Carbomer, Polysorbate 20.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Start using alternate nights, for the first two weeks. As skin responds and increases tolerance, build up to using nightly. After cleansing, smooth and pat around the eye area working from the outer corner, inward.",
+  "ingredients": [
+    "Water/Aqua/Eau",
+    "Dimethicone",
+    "Methylheptyl Isostearate",
+    "Cetyl Alcohol",
+    "Diglycerin",
+    "Cyclopentasiloxane",
+    "Pentylene Glycol",
+    "Prunus Armeniaca (Apricot) Kernel Oil",
+    "PEG-100 Stearate",
+    "Glyceryl Stearate",
+    "Isohexadecane",
+    "Dimethicone Crosspolymer",
+    "Leuconostoc/Radish Root Ferment Filtrate",
+    "Retinol",
+    "Palmitoyl Oligopeptide",
+    "Palmitoyl Tetrapeptide-7",
+    "Arginine/Lysine Polypeptide",
+    "Sodium Ascorbyl Phosphate",
+    "Camellia Sinensis Leaf Extract",
+    "Caffeine",
+    "Aleurites Moluccana Seed Oil",
+    "Tocopheryl Acetate",
+    "Urea",
+    "Glucosamine HCl",
+    "Algae Extract",
+    "Yeast Extract",
+    "Tremella Fuciformis Polysaccharide",
+    "Fraxinus Excelsior Bark Extract",
+    "Niacinamide",
+    "Oryza Sativa (Rice) Bran Extract",
+    "Glycyrrhiza Glabra (Licorice) Root Extract",
+    "Hydrolyzed Soy Protein",
+    "Bisabolol",
+    "Cucumis Sativus (Cucumber) Fruit Extract",
+    "Saccharomyces Lysate Extract",
+    "Hesperidin Methyl Chalcone",
+    "Steareth-20",
+    "Dipeptide-2",
+    "Avena Sativa (Oat) Kernel Extract",
+    "Medicago Sativa (Alfalfa) Seed Extract",
+    "Hydrolyzed Lupine Protein",
+    "Corallina Officinalis Extract",
+    "Dimethiconol",
+    "Glycerin",
+    "Butylene Glycol",
+    "Silanetriol Potassium Citrate",
+    "Aminomethyl Propanol",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Oleth-20",
+    "Carbomer",
+    "Polysorbate 20"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "retinol",
+      "niacinamide",
+      "peptides"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "anti-aging",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod2590023",
+    "total_reviews": 4525,
+    "reviews": [
+      {
+        "review_id": 560174480,
+        "rating": 5,
+        "headline": "I would buy this again and again",
+        "comments": "Loyal to Dermologica products. This mist makes my skin feel and look good. I have been using it for a  few years and will continue to use it",
+        "nickname": "Shirley",
+        "location": "Bel Air MD",
+        "created_date": 1755192936563,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559239793,
+        "rating": 5,
+        "headline": "Will abosolutely buy this again",
+        "comments": "This is indeed awesome.",
+        "nickname": "Grace",
+        "location": "Fremont CA pacific Commons",
+        "created_date": 1754321188257,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557487799,
+        "rating": 5,
+        "headline": "Favorite product!",
+        "comments": "Works great!",
+        "nickname": "Donna",
+        "location": "VA",
+        "created_date": 1752853276481,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554954082,
+        "rating": 5,
+        "headline": "I have bought this spray many times.",
+        "comments": "This is a lightweight toner that distributes well and smells great. While damp I add my serum and it melts into my face and neck area.",
+        "nickname": "Marie",
+        "location": "Denver",
+        "created_date": 1749685487029,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554385213,
+        "rating": 5,
+        "headline": "Great summertime moisturizer",
+        "comments": "This lightweight, non-fragranced moisturizer works best for warmer weather. It's a little bit on the watery side, but it's hydrating enough and absorbs quickly.",
+        "nickname": "Mel",
+        "location": "Orange County, CA",
+        "created_date": 1748843678043,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553951074,
+        "rating": 5,
+        "headline": "Excellent product for sensitive skin",
+        "comments": "I purchased this moisturizer for my daughter at the recommendation of our esthetician. Her skin is sensitive and she experiences seasonal eczema which requires a moisturizer which is appropriate to those needs.",
+        "nickname": "Regenia",
+        "location": "Bolingbrook, IL",
+        "created_date": 1748141736009,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553584373,
+        "rating": 5,
+        "headline": "I would buy again.",
+        "comments": "My go to eye cream",
+        "nickname": "",
+        "location": "Chicago, IL",
+        "created_date": 1747669042335,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 553189090,
+        "rating": 5,
+        "headline": "Works well but it burns!",
+        "comments": "This is the best eye cream I've used in years. I can see improvement already and I've only been using it for 3 weeks. The only thing I don't like is that it burns my eyes. I have to be extremely careful not to get it close to my eyes otherwise it seeps in burns. Then I have to rinse the whole eye and start over. Which is counterproductive seeing as though it's made for the eyes.",
+        "nickname": "Erin",
+        "location": "Midwest",
+        "created_date": 1746998048949,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 7
+      },
+      {
+        "review_id": 549710542,
+        "rating": 5,
+        "headline": "Holy grail product!",
+        "comments": "I'm cheap and don't like spending too much money on anything if I can avoid it. But I have the most ridiculous acne I've ever met. I'm in my early 30s and until I started using this I couldn't get it under control. I still have a few blemishes here and there but nothing like what I had before. I no longer wake up feeling super oily, and it dries my acne out overnight. The price is worth it!",
+        "nickname": "Emily",
+        "location": "Boston, MA",
+        "created_date": 1742708478788,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 547648439,
+        "rating": 5,
+        "headline": "I would and have bought this product over the years",
+        "comments": "This is a favorite of mine. It used to be much, much less expensive though.  Because of this, I do not purchase it as often as I used to.  I watch for deals and when one comes up, I buy it.",
+        "nickname": "Debbi",
+        "location": "Michigan",
+        "created_date": 1741046019457,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 547601821,
+        "rating": 1,
+        "headline": "Active Moist doesn't work",
+        "comments": "my skin is dry/acneic so I decided to try this moisturizer out. It was stinging/burning a lot on my skin. It didn't seem to have any active ingredients to cause this type of discomfort. My sister and mom also tried it and they were not impressed at all.",
+        "nickname": "Maggie",
+        "location": "Gurnee, illinois",
+        "created_date": 1740974493229,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 9
+      },
+      {
+        "review_id": 546756455,
+        "rating": 3,
+        "headline": "Product has changed",
+        "comments": "I have used this product for years but they changed the product. It now has a musty not fresh scent. My last bottle arrived in a sealed box but had clearly leaked as the box was wet. Disappointed. This used to be a great product.",
+        "nickname": "Felicia1754",
+        "location": "Auburn hills, Michigan",
+        "created_date": 1739672661300,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 546349603,
+        "rating": 5,
+        "headline": "Love! Love!",
+        "comments": "I love this product. Wash your face, dry and spray!  Once my make up has set I always spray one more time to give it a look of being hydrated.",
+        "nickname": "Katie",
+        "location": "Indianapolis",
+        "created_date": 1739239149871,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 546082597,
+        "rating": 2,
+        "headline": "Unpleasant fragrance",
+        "comments": "I usually really like the smell of Dermalogica products, but this one--nope. Unpleasant fragrance; probably won't repurchase. Otherwise seems fine, but pricey.",
+        "nickname": "Cat",
+        "location": "CO",
+        "created_date": 1738967821182,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542006601,
+        "rating": 5,
+        "headline": "Best ever facial mist",
+        "comments": "This is the very best antioxidant facial mist I've ever used, not only moisturizes but it also good as a makeup primer and setting spray.",
+        "nickname": "Rosalind",
+        "location": "Virginia",
+        "created_date": 1735577552498,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 541999543,
+        "rating": 5,
+        "headline": "Good Moisture",
+        "comments": "This has been my go to moisturizer for the past 2 years now. It works well. Easy to apply. The consistency is good, not too thick or too thin. I never feel greasy after. I will definitely continue to purchase.",
+        "nickname": "Erin",
+        "location": "Fort Lauderdale, FL",
+        "created_date": 1735571376045,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541126312,
+        "rating": 5,
+        "headline": "This is now in my regular arsenal.",
+        "comments": "I love it.",
+        "nickname": "Cassie",
+        "location": "Southern Illinois",
+        "created_date": 1734310785586,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538722245,
+        "rating": 5,
+        "headline": "#1 Moisture",
+        "comments": "I have very sensitive skin and this moisturizer is very hydrating and not thick. You don't have to use much. Itll last you a long time .",
+        "nickname": "Hevelyn",
+        "location": "Los Angeles",
+        "created_date": 1732812254774,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 535963852,
+        "rating": 5,
+        "headline": "Would recommend for my age",
+        "comments": "First I think its important to disclose your age and skin type as your skin changes at different stages in life. I'm 39, and have dry skin. I picked this up along with several other dermalogica products and have been using them for 4 months. I wanted to use it for a while before reviewing. This is probably my favorite dermalogica product. It works well for my skin type. It's a light, fragrance free moisturizer. Doesn't irritate my skin. I use it daily. The downside is obviously the cost. I do get dry patches on my skin from time to time that I have to use a heavier moisturizer on, but daily use this is a great product.",
+        "nickname": "Sheena",
+        "location": "Tiffin, Ohio",
+        "created_date": 1728831231045,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 5
+      },
+      {
+        "review_id": 529572174,
+        "rating": 1,
+        "headline": "Not for me",
+        "comments": "I have sensitive skin that is very temperamental when it doesn't like an ingredient. It's otherwise clear, and combination. I used this for several days and it started breaking me out immediately. With so many pimples cropping up, it's a no for me. May be the lavender? I'm not sure.",
+        "nickname": "Christine",
+        "location": "Seattle Washington",
+        "created_date": 1724901153562,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 2
+      }
+    ],
+    "paging": {
+      "total_results": 1917,
+      "pages_total": 96,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod2590023/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "30 Minutes",
+              "count": 27
+            },
+            {
+              "label": "10 Minutes",
+              "count": 23
+            },
+            {
+              "label": "1+ Hour",
+              "count": 5
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 918
+            },
+            {
+              "label": "All Skin Types",
+              "count": 462
+            },
+            {
+              "label": "Combination Skin",
+              "count": 407
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 403
+            },
+            {
+              "label": "Dry Skin",
+              "count": 277
+            },
+            {
+              "label": "Oily Skin",
+              "count": 172
+            },
+            {
+              "label": "Acne-Prone Skin",
+              "count": 147
+            },
+            {
+              "label": "Fine Lines/Wrinkles",
+              "count": 87
+            },
+            {
+              "label": "After Shower/Bath",
+              "count": 73
+            },
+            {
+              "label": "Redness/ Blotchiness",
+              "count": 47
+            },
+            {
+              "label": "Uneven Skin Tone",
+              "count": 45
+            },
+            {
+              "label": "Enlarged Pores",
+              "count": 37
+            },
+            {
+              "label": "Dryness",
+              "count": 33
+            },
+            {
+              "label": "Women",
+              "count": 28
+            },
+            {
+              "label": "Deep Moisturization",
+              "count": 28
+            },
+            {
+              "label": "Wrinkles",
+              "count": 27
+            },
+            {
+              "label": "On-the-go",
+              "count": 20
+            },
+            {
+              "label": "Fine Lines",
+              "count": 18
+            },
+            {
+              "label": "Puffiness",
+              "count": 15
+            },
+            {
+              "label": "Tired Eyes",
+              "count": 14
+            },
+            {
+              "label": "Dark Circles",
+              "count": 13
+            },
+            {
+              "label": "Bedtime",
+              "count": 13
+            },
+            {
+              "label": "Dry/Chapped Skin",
+              "count": 9
+            },
+            {
+              "label": "Loose Skin",
+              "count": 6
+            },
+            {
+              "label": "Winter Dryness",
+              "count": 6
+            },
+            {
+              "label": "Men",
+              "count": 4
+            },
+            {
+              "label": "Deep Wrinkles",
+              "count": 3
+            },
+            {
+              "label": "Weekly Use",
+              "count": 2
+            },
+            {
+              "label": "Sun Damage",
+              "count": 2
+            },
+            {
+              "label": "Morning",
+              "count": 2
+            },
+            {
+              "label": "After cleansing",
+              "count": 2
+            },
+            {
+              "label": "Aging Skin",
+              "count": 2
+            },
+            {
+              "label": "Refresh Makeup",
+              "count": 2
+            },
+            {
+              "label": "Every morning",
+              "count": 2
+            },
+            {
+              "label": "Enhances Moisturizer",
+              "count": 2
+            },
+            {
+              "label": "Travel",
+              "count": 2
+            },
+            {
+              "label": "Combination skin",
+              "count": 2
+            },
+            {
+              "label": "Acne Prone Skin",
+              "count": 2
+            },
+            {
+              "label": "Before bedtime",
+              "count": 1
+            },
+            {
+              "label": "Crows\" Feet",
+              "count": 1
+            },
+            {
+              "label": "Every Other Night",
+              "count": 1
+            },
+            {
+              "label": "face, neck, even hands!",
+              "count": 1
+            },
+            {
+              "label": "to start the day under other products",
+              "count": 1
+            },
+            {
+              "label": "Last step for  am and pm skin care routine",
+              "count": 1
+            },
+            {
+              "label": "Oily skin",
+              "count": 1
+            },
+            {
+              "label": "After Facials, Tanning, Chemical Peels, Etc.",
+              "count": 1
+            },
+            {
+              "label": "To Hydrate After Makeup",
+              "count": 1
+            },
+            {
+              "label": "To Set Makeup",
+              "count": 1
+            },
+            {
+              "label": "Whenever you feel fatigued",
+              "count": 1
+            },
+            {
+              "label": "Dullness",
+              "count": 1
+            },
+            {
+              "label": "Saggy Skin",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "Mature skin",
+              "count": 1
+            },
+            {
+              "label": "Older skin",
+              "count": 1
+            },
+            {
+              "label": "Aging",
+              "count": 1
+            },
+            {
+              "label": "Aging skin",
+              "count": 1
+            },
+            {
+              "label": "For a Pick me up",
+              "count": 1
+            },
+            {
+              "label": "Any Skin Tone",
+              "count": 1
+            },
+            {
+              "label": "Quick Hydration Fix",
+              "count": 1
+            },
+            {
+              "label": "Combo Skin",
+              "count": 1
+            },
+            {
+              "label": "After Microdermabrasion",
+              "count": 1
+            },
+            {
+              "label": "After Sun Care",
+              "count": 1
+            },
+            {
+              "label": "Before Sun Exposure",
+              "count": 1
+            },
+            {
+              "label": "Dry Patches On Oily Skin",
+              "count": 1
+            },
+            {
+              "label": "Light Hydration",
+              "count": 1
+            },
+            {
+              "label": "Great For Hot Weather",
+              "count": 1
+            },
+            {
+              "label": "Under Daily Moisterizer",
+              "count": 1
+            },
+            {
+              "label": "Use after cleansing face",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "toner",
+              "count": 1
+            },
+            {
+              "label": "Protecting",
+              "count": 1
+            },
+            {
+              "label": "Throw it out",
+              "count": 1
+            },
+            {
+              "label": "Quenches my dry skin",
+              "count": 1
+            },
+            {
+              "label": "SKIN QUENCHER",
+              "count": 1
+            },
+            {
+              "label": "Before moisturizing",
+              "count": 1
+            },
+            {
+              "label": "After washing daily",
+              "count": 1
+            },
+            {
+              "label": "To prime and set makeup, with or without makeup",
+              "count": 1
+            },
+            {
+              "label": "After applying my sunscreen.",
+              "count": 1
+            },
+            {
+              "label": "Dry aging skin",
+              "count": 1
+            },
+            {
+              "label": "To keep skin moisture level good",
+              "count": 1
+            },
+            {
+              "label": "not sure",
+              "count": 1
+            },
+            {
+              "label": "Moisturizes",
+              "count": 1
+            },
+            {
+              "label": "Moistens",
+              "count": 1
+            },
+            {
+              "label": "After Washing Face",
+              "count": 1
+            },
+            {
+              "label": "Anti Aging",
+              "count": 1
+            },
+            {
+              "label": "Dehydrated",
+              "count": 1
+            },
+            {
+              "label": "Sets makeup",
+              "count": 1
+            },
+            {
+              "label": "Can double as toner",
+              "count": 1
+            },
+            {
+              "label": "For any skin type",
+              "count": 1
+            },
+            {
+              "label": "Irritated Skin",
+              "count": 1
+            },
+            {
+              "label": "Just before moisterizer",
+              "count": 1
+            },
+            {
+              "label": "Rough skin",
+              "count": 1
+            },
+            {
+              "label": "Sun Exposure",
+              "count": 1
+            },
+            {
+              "label": "At night before bed",
+              "count": 1
+            },
+            {
+              "label": "In the morning",
+              "count": 1
+            },
+            {
+              "label": "Multiple times a day",
+              "count": 1
+            },
+            {
+              "label": "Great before moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Refreshes",
+              "count": 1
+            },
+            {
+              "label": "Refresh your face anytime",
+              "count": 1
+            },
+            {
+              "label": "Daily UseFine LinesWrin",
+              "count": 1
+            },
+            {
+              "label": "Good lasting effects",
+              "count": 1
+            },
+            {
+              "label": "Unscented, not greasy, moistures",
+              "count": 1
+            },
+            {
+              "label": "Daily hydration",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Combination skin. Helps to decrease breakouts",
+              "count": 1
+            },
+            {
+              "label": "all skin types",
+              "count": 1
+            },
+            {
+              "label": "Helped with dry patches and helped even my tonw",
+              "count": 1
+            },
+            {
+              "label": "Am/ Pm moisturizer",
+              "count": 1
+            },
+            {
+              "label": "Daily moisturizer",
+              "count": 1
+            },
+            {
+              "label": "Smooth facial skin",
+              "count": 1
+            },
+            {
+              "label": "Day And Night",
+              "count": 1
+            },
+            {
+              "label": "Great for aging skin",
+              "count": 1
+            },
+            {
+              "label": "Face  Neck",
+              "count": 1
+            },
+            {
+              "label": "Eczema",
+              "count": 1
+            },
+            {
+              "label": "Under makeup",
+              "count": 1
+            },
+            {
+              "label": "Don't use",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne Prone Skin",
+            "Acne-Prone Skin",
+            "After Facials, Tanning, Chemical Peels, Etc.",
+            "After Microdermabrasion",
+            "After Shower/Bath",
+            "After Sun Care",
+            "After Washing Face",
+            "After applying my sunscreen.",
+            "After cleansing",
+            "After washing daily",
+            "Aging",
+            "Aging Skin",
+            "Aging skin",
+            "All Skin Types",
+            "Am/ Pm moisturizer",
+            "Anti Aging",
+            "Any Skin Tone",
+            "At night before bed",
+            "Bedtime",
+            "Before Sun Exposure",
+            "Before bedtime",
+            "Before moisturizing",
+            "Can double as toner",
+            "Combination Skin",
+            "Combination skin",
+            "Combination skin. Helps to decrease breakouts",
+            "Combo Skin",
+            "Crows\" Feet",
+            "Daily Use",
+            "Daily UseFine LinesWrin",
+            "Daily hydration",
+            "Daily moisturizer",
+            "Dark Circles",
+            "Day And Night",
+            "Deep Moisturization",
+            "Deep Wrinkles",
+            "Dehydrated",
+            "Don't use",
+            "Dry Patches On Oily Skin",
+            "Dry Skin",
+            "Dry aging skin",
+            "Dry/Chapped Skin",
+            "Dryness",
+            "Dullness",
+            "Eczema",
+            "Enhances Moisturizer",
+            "Enlarged Pores",
+            "Every Other Night",
+            "Every morning",
+            "Face  Neck",
+            "Fine Lines",
+            "Fine Lines/Wrinkles",
+            "For a Pick me up",
+            "For any skin type",
+            "Good lasting effects",
+            "Great For Hot Weather",
+            "Great before moisturizing",
+            "Great for aging skin",
+            "Helped with dry patches and helped even my tonw",
+            "In the morning",
+            "Irritated Skin",
+            "Just before moisterizer",
+            "Last step for  am and pm skin care routine",
+            "Light Hydration",
+            "Loose Skin",
+            "Mature skin",
+            "Men",
+            "Moistens",
+            "Moisturizes",
+            "Moisturizing",
+            "Morning",
+            "Multiple times a day",
+            "None",
+            "Oily Skin",
+            "Oily skin",
+            "Oily/Combination Skin",
+            "Older skin",
+            "On-the-go",
+            "Protecting",
+            "Puffiness",
+            "Quenches my dry skin",
+            "Quick Hydration Fix",
+            "Redness/ Blotchiness",
+            "Refresh Makeup",
+            "Refresh your face anytime",
+            "Refreshes",
+            "Rough skin",
+            "SKIN QUENCHER",
+            "Saggy Skin",
+            "Sensitive Skin",
+            "Sensitive skin",
+            "Sets makeup",
+            "Smooth facial skin",
+            "Sun Damage",
+            "Sun Exposure",
+            "Throw it out",
+            "Tired Eyes",
+            "To Hydrate After Makeup",
+            "To Set Makeup",
+            "To keep skin moisture level good",
+            "To prime and set makeup, with or without makeup",
+            "Travel",
+            "Under Daily Moisterizer",
+            "Under makeup",
+            "Uneven Skin Tone",
+            "Unscented, not greasy, moistures",
+            "Use after cleansing face",
+            "Weekly Use",
+            "Whenever you feel fatigued",
+            "Winter Dryness",
+            "Women",
+            "Wrinkles",
+            "all skin types",
+            "face, neck, even hands!",
+            "not sure",
+            "to start the day under other products",
+            "toner"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Doesn't Remove Makeup",
+              "count": 160
+            },
+            {
+              "label": "Bad Smell",
+              "count": 54
+            },
+            {
+              "label": "Greasy",
+              "count": 48
+            },
+            {
+              "label": "Messy",
+              "count": 26
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 24
+            },
+            {
+              "label": "Pricey / Poor Value",
+              "count": 21
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 17
+            },
+            {
+              "label": "Dries Out Skin",
+              "count": 15
+            },
+            {
+              "label": "Not Effective",
+              "count": 12
+            },
+            {
+              "label": "Pricey",
+              "count": 12
+            },
+            {
+              "label": "None",
+              "count": 9
+            },
+            {
+              "label": "Not Long-Lasting",
+              "count": 8
+            },
+            {
+              "label": "Price",
+              "count": 8
+            },
+            {
+              "label": "Cost",
+              "count": 6
+            },
+            {
+              "label": "none",
+              "count": 4
+            },
+            {
+              "label": "Too Greasy Or Heavy",
+              "count": 3
+            },
+            {
+              "label": "No SPF",
+              "count": 3
+            },
+            {
+              "label": "Expensive",
+              "count": 2
+            },
+            {
+              "label": "Irritates Eyes",
+              "count": 2
+            },
+            {
+              "label": "Over priced",
+              "count": 2
+            },
+            {
+              "label": "No cons",
+              "count": 2
+            },
+            {
+              "label": "A little pricey",
+              "count": 2
+            },
+            {
+              "label": "expensive",
+              "count": 2
+            },
+            {
+              "label": "Drying",
+              "count": 2
+            },
+            {
+              "label": "Pricey but worth it",
+              "count": 2
+            },
+            {
+              "label": "Stinging in both eyes after application",
+              "count": 1
+            },
+            {
+              "label": "Stings all day, until washed off with soap",
+              "count": 1
+            },
+            {
+              "label": "Retinol Adjustment Period",
+              "count": 1
+            },
+            {
+              "label": "Too Dry",
+              "count": 1
+            },
+            {
+              "label": "Too Greasy",
+              "count": 1
+            },
+            {
+              "label": "Not very cost effective. Use very little.",
+              "count": 1
+            },
+            {
+              "label": "No Noticeable Results",
+              "count": 1
+            },
+            {
+              "label": "A Little Too Pricey",
+              "count": 1
+            },
+            {
+              "label": "Nobe",
+              "count": 1
+            },
+            {
+              "label": "Very Oily",
+              "count": 1
+            },
+            {
+              "label": "DOES NOT WORK",
+              "count": 1
+            },
+            {
+              "label": "Very expensive",
+              "count": 1
+            },
+            {
+              "label": "a little on the expensive side",
+              "count": 1
+            },
+            {
+              "label": "Not hydrating enough",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Absorb Well",
+              "count": 1
+            },
+            {
+              "label": "Sticky sensation",
+              "count": 1
+            },
+            {
+              "label": "Dries quickly",
+              "count": 1
+            },
+            {
+              "label": "Doesn't spray evenly",
+              "count": 1
+            },
+            {
+              "label": "Packaging",
+              "count": 1
+            },
+            {
+              "label": "A bit all over the place",
+              "count": 1
+            },
+            {
+              "label": "Does not dry fast",
+              "count": 1
+            },
+            {
+              "label": "Not one of the advertising features anyway.",
+              "count": 1
+            },
+            {
+              "label": "Sometimes the pump gets weird",
+              "count": 1
+            },
+            {
+              "label": "Non whatsoever",
+              "count": 1
+            },
+            {
+              "label": "just the cost",
+              "count": 1
+            },
+            {
+              "label": "Hard to totally avoid the eye area",
+              "count": 1
+            },
+            {
+              "label": "Heavy",
+              "count": 1
+            },
+            {
+              "label": "Dispenses Too Much Mist",
+              "count": 1
+            },
+            {
+              "label": "Seemingly Pricey",
+              "count": 1
+            },
+            {
+              "label": "Aren't Any Cons",
+              "count": 1
+            },
+            {
+              "label": "Dulls Skin",
+              "count": 1
+            },
+            {
+              "label": "Pricey For A Toner",
+              "count": 1
+            },
+            {
+              "label": "This Produce Has Not Cons",
+              "count": 1
+            },
+            {
+              "label": "Spray bottle",
+              "count": 1
+            },
+            {
+              "label": "Caused Breakouts",
+              "count": 1
+            },
+            {
+              "label": "Caused whelps",
+              "count": 1
+            },
+            {
+              "label": "Clogged pores",
+              "count": 1
+            },
+            {
+              "label": "Dried out skin",
+              "count": 1
+            },
+            {
+              "label": "Small bottle",
+              "count": 1
+            },
+            {
+              "label": "Too pricey",
+              "count": 1
+            },
+            {
+              "label": "Irritates eyes",
+              "count": 1
+            },
+            {
+              "label": "Smells weird",
+              "count": 1
+            },
+            {
+              "label": "not cheap but hope it is effective",
+              "count": 1
+            },
+            {
+              "label": "Sticky",
+              "count": 1
+            },
+            {
+              "label": "smells like medicine",
+              "count": 1
+            },
+            {
+              "label": "Over Priced",
+              "count": 1
+            },
+            {
+              "label": "Made me break out",
+              "count": 1
+            },
+            {
+              "label": "Cost Could Be Better",
+              "count": 1
+            },
+            {
+              "label": "I Expected More",
+              "count": 1
+            },
+            {
+              "label": "Slightly expensive",
+              "count": 1
+            },
+            {
+              "label": "Doesn't hydrate at all",
+              "count": 1
+            },
+            {
+              "label": "None Other Than Price",
+              "count": 1
+            },
+            {
+              "label": "Caused reaction",
+              "count": 1
+            },
+            {
+              "label": "Causes breakouts",
+              "count": 1
+            },
+            {
+              "label": "Intense lavender smell",
+              "count": 1
+            },
+            {
+              "label": "Stripped moisture barrier",
+              "count": 1
+            },
+            {
+              "label": "Too scented",
+              "count": 1
+            },
+            {
+              "label": "quite pricey!!",
+              "count": 1
+            },
+            {
+              "label": "not for dry skin",
+              "count": 1
+            },
+            {
+              "label": "Leaves dry patches",
+              "count": 1
+            },
+            {
+              "label": "Exspensive for the amount of product you buy",
+              "count": 1
+            },
+            {
+              "label": "No sun screen",
+              "count": 1
+            },
+            {
+              "label": "Not for dry skin",
+              "count": 1
+            },
+            {
+              "label": "Doesn't moisturize",
+              "count": 1
+            },
+            {
+              "label": "Poor quality",
+              "count": 1
+            },
+            {
+              "label": "Expensive for the quality",
+              "count": 1
+            },
+            {
+              "label": "Cost - Expensive",
+              "count": 1
+            },
+            {
+              "label": "Too dry can't use it.",
+              "count": 1
+            },
+            {
+              "label": "Smells a bit strong but it goes away",
+              "count": 1
+            },
+            {
+              "label": "No cons!",
+              "count": 1
+            },
+            {
+              "label": "The tubes are never full to the ounces reflected",
+              "count": 1
+            },
+            {
+              "label": "Little Expensive",
+              "count": 1
+            },
+            {
+              "label": "Needs A Second Moisturize",
+              "count": 1
+            },
+            {
+              "label": "Scent Needs Improvement",
+              "count": 1
+            },
+            {
+              "label": "Feel Need To Apply More",
+              "count": 1
+            },
+            {
+              "label": "Face Needed More Moisture",
+              "count": 1
+            },
+            {
+              "label": "Thickness Inconsistency",
+              "count": 1
+            },
+            {
+              "label": "Expansive",
+              "count": 1
+            },
+            {
+              "label": "Mediocre",
+              "count": 1
+            },
+            {
+              "label": "Overpriced",
+              "count": 1
+            },
+            {
+              "label": "Cause Occasional Breakout",
+              "count": 1
+            },
+            {
+              "label": "Makes Pores Build Up",
+              "count": 1
+            },
+            {
+              "label": "Makes Pores Visible",
+              "count": 1
+            },
+            {
+              "label": "Causes Breakouts",
+              "count": 1
+            },
+            {
+              "label": "Still have clogged pores",
+              "count": 1
+            },
+            {
+              "label": "Costly but will last",
+              "count": 1
+            },
+            {
+              "label": "Nice product",
+              "count": 1
+            },
+            {
+              "label": "No cons used for yrs",
+              "count": 1
+            },
+            {
+              "label": "Cheap bottle",
+              "count": 1
+            },
+            {
+              "label": "Does close to nothing",
+              "count": 1
+            },
+            {
+              "label": "Ultra coupon excluded",
+              "count": 1
+            },
+            {
+              "label": "Smells like Ivory soap",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A Little Too Pricey",
+            "A bit all over the place",
+            "A little pricey",
+            "Aren't Any Cons",
+            "Bad Smell",
+            "Cause Occasional Breakout",
+            "Caused Breakouts",
+            "Caused reaction",
+            "Caused whelps",
+            "Causes Breakouts",
+            "Causes breakouts",
+            "Cheap bottle",
+            "Clogged pores",
+            "Complicated To Use",
+            "Cost",
+            "Cost - Expensive",
+            "Cost Could Be Better",
+            "Costly but will last",
+            "DOES NOT WORK",
+            "Difficult To Use",
+            "Dispenses Too Much Mist",
+            "Does close to nothing",
+            "Does not dry fast",
+            "Doesn't Absorb Well",
+            "Doesn't Remove Makeup",
+            "Doesn't Work",
+            "Doesn't hydrate at all",
+            "Doesn't moisturize",
+            "Doesn't spray evenly",
+            "Dried out skin",
+            "Dries Out Skin",
+            "Dries quickly",
+            "Drying",
+            "Dulls Skin",
+            "Expansive",
+            "Expensive",
+            "Expensive for the quality",
+            "Exspensive for the amount of product you buy",
+            "Face Needed More Moisture",
+            "Feel Need To Apply More",
+            "Greasy",
+            "Hard to totally avoid the eye area",
+            "Heavy",
+            "I Expected More",
+            "Intense lavender smell",
+            "Irritates Eyes",
+            "Irritates Skin",
+            "Irritates eyes",
+            "Leaves dry patches",
+            "Little Expensive",
+            "Made me break out",
+            "Makes Pores Build Up",
+            "Makes Pores Visible",
+            "Mediocre",
+            "Messy",
+            "Needs A Second Moisturize",
+            "Nice product",
+            "No Noticeable Results",
+            "No SPF",
+            "No cons",
+            "No cons used for yrs",
+            "No cons!",
+            "No sun screen",
+            "Nobe",
+            "Non whatsoever",
+            "None",
+            "None Other Than Price",
+            "Not Effective",
+            "Not Long-Lasting",
+            "Not for dry skin",
+            "Not hydrating enough",
+            "Not one of the advertising features anyway.",
+            "Not very cost effective. Use very little.",
+            "Over Priced",
+            "Over priced",
+            "Overpriced",
+            "Packaging",
+            "Poor Texture",
+            "Poor quality",
+            "Price",
+            "Pricey",
+            "Pricey / Poor Value",
+            "Pricey For A Toner",
+            "Pricey but worth it",
+            "Retinol Adjustment Period",
+            "Scent Needs Improvement",
+            "Seemingly Pricey",
+            "Slightly expensive",
+            "Small bottle",
+            "Smells a bit strong but it goes away",
+            "Smells like Ivory soap",
+            "Smells weird",
+            "Sometimes the pump gets weird",
+            "Spray bottle",
+            "Sticky",
+            "Sticky sensation",
+            "Still have clogged pores",
+            "Stinging in both eyes after application",
+            "Stings all day, until washed off with soap",
+            "Stripped moisture barrier",
+            "The tubes are never full to the ounces reflected",
+            "Thickness Inconsistency",
+            "This Produce Has Not Cons",
+            "Too Dry",
+            "Too Greasy",
+            "Too Greasy Or Heavy",
+            "Too dry can't use it.",
+            "Too pricey",
+            "Too scented",
+            "Ultra coupon excluded",
+            "Unpleasant Scent",
+            "Very Oily",
+            "Very expensive",
+            "a little on the expensive side",
+            "expensive",
+            "just the cost",
+            "none",
+            "not cheap but hope it is effective",
+            "not for dry skin",
+            "quite pricey!!",
+            "smells like medicine"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brand Buyer",
+              "count": 597
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 485
+            },
+            {
+              "label": "Beauty Conscious",
+              "count": 236
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 121
+            },
+            {
+              "label": "Beauty Expert",
+              "count": 28
+            },
+            {
+              "label": "Skin Care Professional",
+              "count": 26
+            },
+            {
+              "label": "Minimalist",
+              "count": 13
+            },
+            {
+              "label": "67 year old woman",
+              "count": 1
+            },
+            {
+              "label": "I have combination skin and mostly dry",
+              "count": 1
+            },
+            {
+              "label": "Use this 3 times a day",
+              "count": 1
+            },
+            {
+              "label": "32 female, normal skin",
+              "count": 1
+            },
+            {
+              "label": "Over 65",
+              "count": 1
+            },
+            {
+              "label": "42 years old with sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Dry, flaky skin. Oily in the t-zone.",
+              "count": 1
+            },
+            {
+              "label": "I have acne prone skin",
+              "count": 1
+            },
+            {
+              "label": "Life-long skin care fanatic",
+              "count": 1
+            },
+            {
+              "label": "Health conscious",
+              "count": 1
+            },
+            {
+              "label": "35 y/o combination acne prone skin with redness",
+              "count": 1
+            },
+            {
+              "label": "Not free with money, but would repurchase.",
+              "count": 1
+            },
+            {
+              "label": "oily to dry skin",
+              "count": 1
+            },
+            {
+              "label": "Mid thirties with sensitive eczema skin",
+              "count": 1
+            },
+            {
+              "label": "28",
+              "count": 1
+            },
+            {
+              "label": "ACNE",
+              "count": 1
+            },
+            {
+              "label": "COMBO SKIN",
+              "count": 1
+            },
+            {
+              "label": "Product gru",
+              "count": 1
+            },
+            {
+              "label": "Acne prone",
+              "count": 1
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "I love great quality products for my aging skin",
+              "count": 1
+            },
+            {
+              "label": "I like high quality products that work!!",
+              "count": 1
+            },
+            {
+              "label": "5\"1 combination skin",
+              "count": 1
+            },
+            {
+              "label": "Combination skin",
+              "count": 1
+            },
+            {
+              "label": "Mid 30's, acne prone, very sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "50+ woman, minimal makeup",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "28",
+            "32 female, normal skin",
+            "35 y/o combination acne prone skin with redness",
+            "42 years old with sensitive skin",
+            "5\"1 combination skin",
+            "50+ woman, minimal makeup",
+            "67 year old woman",
+            "ACNE",
+            "Acne prone",
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "COMBO SKIN",
+            "Casual Dresser",
+            "Combination skin",
+            "Comfort-seeking",
+            "Dry, flaky skin. Oily in the t-zone.",
+            "Energetic/Active",
+            "Health conscious",
+            "I have acne prone skin",
+            "I have combination skin and mostly dry",
+            "I like high quality products that work!!",
+            "I love great quality products for my aging skin",
+            "Life-long skin care fanatic",
+            "Mid 30's, acne prone, very sensitive skin",
+            "Mid thirties with sensitive eczema skin",
+            "Minimalist",
+            "Not free with money, but would repurchase.",
+            "Oily",
+            "Over 65",
+            "Product gru",
+            "Sensitive skin",
+            "Skin Care Professional",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Use this 3 times a day",
+            "Youthful",
+            "oily to dry skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Smells Great",
+              "count": 835
+            },
+            {
+              "label": "Gentle",
+              "count": 824
+            },
+            {
+              "label": "Not Greasy",
+              "count": 791
+            },
+            {
+              "label": "Moisturizing",
+              "count": 789
+            },
+            {
+              "label": "Leaves Clean Feel",
+              "count": 674
+            },
+            {
+              "label": "Balances Skin",
+              "count": 575
+            },
+            {
+              "label": "Improves Skin Texture",
+              "count": 515
+            },
+            {
+              "label": "Lightweight",
+              "count": 291
+            },
+            {
+              "label": "Soothes Skin",
+              "count": 204
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 186
+            },
+            {
+              "label": "Moisturizes",
+              "count": 182
+            },
+            {
+              "label": "Softens Skin",
+              "count": 168
+            },
+            {
+              "label": "Goes On Smoothly",
+              "count": 147
+            },
+            {
+              "label": "Absorbs Quickly",
+              "count": 146
+            },
+            {
+              "label": "Moisturizes Well",
+              "count": 142
+            },
+            {
+              "label": "Long Lasting",
+              "count": 86
+            },
+            {
+              "label": "Effective",
+              "count": 74
+            },
+            {
+              "label": "Easy To Use",
+              "count": 72
+            },
+            {
+              "label": "Good Value",
+              "count": 30
+            },
+            {
+              "label": "Soothing",
+              "count": 22
+            },
+            {
+              "label": "Minimizes Wrinkles",
+              "count": 19
+            },
+            {
+              "label": "Noticeable Results",
+              "count": 18
+            },
+            {
+              "label": "Refreshing",
+              "count": 16
+            },
+            {
+              "label": "Effective Sun Protection",
+              "count": 7
+            },
+            {
+              "label": "Hydrating",
+              "count": 6
+            },
+            {
+              "label": "Evens Out Skin Tone",
+              "count": 4
+            },
+            {
+              "label": "Refreshes",
+              "count": 2
+            },
+            {
+              "label": "Firms",
+              "count": 2
+            },
+            {
+              "label": "Glow",
+              "count": 2
+            },
+            {
+              "label": "Hydrates skin",
+              "count": 2
+            },
+            {
+              "label": "Easy to use",
+              "count": 2
+            },
+            {
+              "label": "Doesn't clog pores",
+              "count": 2
+            },
+            {
+              "label": "Smells great",
+              "count": 2
+            },
+            {
+              "label": "Does not cause breakouts",
+              "count": 2
+            },
+            {
+              "label": "Does not clog pores",
+              "count": 2
+            },
+            {
+              "label": "Peptides",
+              "count": 1
+            },
+            {
+              "label": "Sorbet-Fluid Texture",
+              "count": 1
+            },
+            {
+              "label": "Wrinkle Erasing (After 4 weeks)",
+              "count": 1
+            },
+            {
+              "label": "Less wrinkles and moisturizes",
+              "count": 1
+            },
+            {
+              "label": "Minimizes Fine Lines",
+              "count": 1
+            },
+            {
+              "label": "Great product",
+              "count": 1
+            },
+            {
+              "label": "Highly recommend",
+              "count": 1
+            },
+            {
+              "label": "Last a Long Time",
+              "count": 1
+            },
+            {
+              "label": "Non irritating",
+              "count": 1
+            },
+            {
+              "label": "It Is True To It's Word",
+              "count": 1
+            },
+            {
+              "label": "evened skin tone, hydrates",
+              "count": 1
+            },
+            {
+              "label": "sun spots went away, cleared acne, smoothed skin",
+              "count": 1
+            },
+            {
+              "label": "Leaves skin feeling refreshed",
+              "count": 1
+            },
+            {
+              "label": "Light fragrance",
+              "count": 1
+            },
+            {
+              "label": "Nice and light feel on skin",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing & long lasting!!!!",
+              "count": 1
+            },
+            {
+              "label": "Hydrates",
+              "count": 1
+            },
+            {
+              "label": "love the way it makes my skin feel",
+              "count": 1
+            },
+            {
+              "label": "Great hydrating product",
+              "count": 1
+            },
+            {
+              "label": "balances PH",
+              "count": 1
+            },
+            {
+              "label": "easy to use",
+              "count": 1
+            },
+            {
+              "label": "Instant refreshed & tightened feeling.",
+              "count": 1
+            },
+            {
+              "label": "Light Moisture",
+              "count": 1
+            },
+            {
+              "label": "Light, Pleasant Scent",
+              "count": 1
+            },
+            {
+              "label": "Feels wonderful under & over makeup",
+              "count": 1
+            },
+            {
+              "label": "Under or over makeup",
+              "count": 1
+            },
+            {
+              "label": "Leaves skin soft",
+              "count": 1
+            },
+            {
+              "label": "Convenient",
+              "count": 1
+            },
+            {
+              "label": "Reduces Redness",
+              "count": 1
+            },
+            {
+              "label": "Tightening",
+              "count": 1
+            },
+            {
+              "label": "No smell",
+              "count": 1
+            },
+            {
+              "label": "Doesn't smudge makeup",
+              "count": 1
+            },
+            {
+              "label": "Supercalifragilisticexpialidocious",
+              "count": 1
+            },
+            {
+              "label": "makes my face look like it has moisture",
+              "count": 1
+            },
+            {
+              "label": "I love the gentle feel and the spray application",
+              "count": 1
+            },
+            {
+              "label": "Hydrates your face! Your face will thank you!",
+              "count": 1
+            },
+            {
+              "label": "I love it !  Can't go without it .",
+              "count": 1
+            },
+            {
+              "label": "Sets my makeup well",
+              "count": 1
+            },
+            {
+              "label": "Antiaging",
+              "count": 1
+            },
+            {
+              "label": "Applies Easily",
+              "count": 1
+            },
+            {
+              "label": "I Use It To Set My Makeup",
+              "count": 1
+            },
+            {
+              "label": "Works great",
+              "count": 1
+            },
+            {
+              "label": "Aids Cell Turnover",
+              "count": 1
+            },
+            {
+              "label": "Protects skin",
+              "count": 1
+            },
+            {
+              "label": "I love it",
+              "count": 1
+            },
+            {
+              "label": "Tightens skin",
+              "count": 1
+            },
+            {
+              "label": "Smellingredientslook Of",
+              "count": 1
+            },
+            {
+              "label": "Refreshing Calming",
+              "count": 1
+            },
+            {
+              "label": "Plumps Out Wrinkles",
+              "count": 1
+            },
+            {
+              "label": "Light Hydrates",
+              "count": 1
+            },
+            {
+              "label": "Feels great - softens",
+              "count": 1
+            },
+            {
+              "label": "Great after sun",
+              "count": 1
+            },
+            {
+              "label": "Quality ingredients",
+              "count": 1
+            },
+            {
+              "label": "Did not like at all",
+              "count": 1
+            },
+            {
+              "label": "Has no pros",
+              "count": 1
+            },
+            {
+              "label": "Spa-Facial feeling",
+              "count": 1
+            },
+            {
+              "label": "Looove it",
+              "count": 1
+            },
+            {
+              "label": "ANTI-OXIDANTS",
+              "count": 1
+            },
+            {
+              "label": "Anti-aging",
+              "count": 1
+            },
+            {
+              "label": "Calms skin",
+              "count": 1
+            },
+            {
+              "label": "DESTRESSES",
+              "count": 1
+            },
+            {
+              "label": "GOOD FOR SENSTIVE SKIN",
+              "count": 1
+            },
+            {
+              "label": "PROCTECTS",
+              "count": 1
+            },
+            {
+              "label": "WITCH HAZEL",
+              "count": 1
+            },
+            {
+              "label": "Great hydrating spray",
+              "count": 1
+            },
+            {
+              "label": "Great during the smr heat",
+              "count": 1
+            },
+            {
+              "label": "Simple to use",
+              "count": 1
+            },
+            {
+              "label": "Instant, long-lasting hydration",
+              "count": 1
+            },
+            {
+              "label": "Protection",
+              "count": 1
+            },
+            {
+              "label": "Slightly firming",
+              "count": 1
+            },
+            {
+              "label": "Toning",
+              "count": 1
+            },
+            {
+              "label": "Good....good...excellent",
+              "count": 1
+            },
+            {
+              "label": "Feels very refreshing",
+              "count": 1
+            },
+            {
+              "label": "easy to use spray covers the whole face",
+              "count": 1
+            },
+            {
+              "label": "U look super refreshed",
+              "count": 1
+            },
+            {
+              "label": "set makeup and freshens the look",
+              "count": 1
+            },
+            {
+              "label": "Brightens",
+              "count": 1
+            },
+            {
+              "label": "Keeps you face glowing",
+              "count": 1
+            },
+            {
+              "label": "Leaves My Skin Soft",
+              "count": 1
+            },
+            {
+              "label": "Great Coverage Per Spray",
+              "count": 1
+            },
+            {
+              "label": "Long lasting",
+              "count": 1
+            },
+            {
+              "label": "Feels wonderful",
+              "count": 1
+            },
+            {
+              "label": "Nice Light Smell",
+              "count": 1
+            },
+            {
+              "label": "Hydration",
+              "count": 1
+            },
+            {
+              "label": "Love The Spray Bottle",
+              "count": 1
+            },
+            {
+              "label": "Great for Sensitive Skin",
+              "count": 1
+            },
+            {
+              "label": "Improves texture",
+              "count": 1
+            },
+            {
+              "label": "Makes skin glow",
+              "count": 1
+            },
+            {
+              "label": "Non-irritating",
+              "count": 1
+            },
+            {
+              "label": "Reduces fine lines",
+              "count": 1
+            },
+            {
+              "label": "absorbs quickly",
+              "count": 1
+            },
+            {
+              "label": "Very fine mist great",
+              "count": 1
+            },
+            {
+              "label": "Evens Skintone",
+              "count": 1
+            },
+            {
+              "label": "Reduces blotchiness",
+              "count": 1
+            },
+            {
+              "label": "Reduces oily appearance",
+              "count": 1
+            },
+            {
+              "label": "Perfect purse size",
+              "count": 1
+            },
+            {
+              "label": "Fun  fabulous",
+              "count": 1
+            },
+            {
+              "label": "Travel Size",
+              "count": 1
+            },
+            {
+              "label": "Cooling refreshing",
+              "count": 1
+            },
+            {
+              "label": "Perfect travel size",
+              "count": 1
+            },
+            {
+              "label": "Use over makeup",
+              "count": 1
+            },
+            {
+              "label": "Moisturizesnon Greasy",
+              "count": 1
+            },
+            {
+              "label": "Softens",
+              "count": 1
+            },
+            {
+              "label": "Nothing Else Compares",
+              "count": 1
+            },
+            {
+              "label": "Excellent unscented moisturizer",
+              "count": 1
+            },
+            {
+              "label": "daily wear",
+              "count": 1
+            },
+            {
+              "label": "lightweight",
+              "count": 1
+            },
+            {
+              "label": "Great moisturizer for face",
+              "count": 1
+            },
+            {
+              "label": "Good for sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "Penetrating",
+              "count": 1
+            },
+            {
+              "label": "Very Lightweight",
+              "count": 1
+            },
+            {
+              "label": "Excellent for combination skin.",
+              "count": 1
+            },
+            {
+              "label": "The bomb!!!  The best moisturizer available.",
+              "count": 1
+            },
+            {
+              "label": "Great for my oily and dry patch skin.",
+              "count": 1
+            },
+            {
+              "label": "can be mixed with SPF",
+              "count": 1
+            },
+            {
+              "label": "for oily to combo skin type",
+              "count": 1
+            },
+            {
+              "label": "no added  fragrance",
+              "count": 1
+            },
+            {
+              "label": "My face feels softer",
+              "count": 1
+            },
+            {
+              "label": "Soaks in skin with no residue or greasiness.",
+              "count": 1
+            },
+            {
+              "label": "Good for acne-prone skin",
+              "count": 1
+            },
+            {
+              "label": "Light moisturizer",
+              "count": 1
+            },
+            {
+              "label": "Only buy 2 per year",
+              "count": 1
+            },
+            {
+              "label": "Light and so hydrating. Doesn't clog pores.",
+              "count": 1
+            },
+            {
+              "label": "Diminish small acne",
+              "count": 1
+            },
+            {
+              "label": "Light weight,great scent",
+              "count": 1
+            },
+            {
+              "label": "I have dry skin and this is awesome!",
+              "count": 1
+            },
+            {
+              "label": "Healthy skin",
+              "count": 1
+            },
+            {
+              "label": "Smooth skin for hours",
+              "count": 1
+            },
+            {
+              "label": "light feeling",
+              "count": 1
+            },
+            {
+              "label": "Makes A Great Base Layer",
+              "count": 1
+            },
+            {
+              "label": "I Don't Break Out",
+              "count": 1
+            },
+            {
+              "label": "Great For Combo Skin",
+              "count": 1
+            },
+            {
+              "label": "Light weight",
+              "count": 1
+            },
+            {
+              "label": "Doesnt Clog Pores",
+              "count": 1
+            },
+            {
+              "label": "Hydrating Not Oily",
+              "count": 1
+            },
+            {
+              "label": "Lightens dark spots",
+              "count": 1
+            },
+            {
+              "label": "I Use It Twice A Day",
+              "count": 1
+            },
+            {
+              "label": "Applies Well",
+              "count": 1
+            },
+            {
+              "label": "Practically Odorless",
+              "count": 1
+            },
+            {
+              "label": "A little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "Absorbs quickly",
+              "count": 1
+            },
+            {
+              "label": "Great on my very oily ski",
+              "count": 1
+            },
+            {
+              "label": "Doesn't cause acne",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A little goes a long way",
+            "ANTI-OXIDANTS",
+            "Absorbs Quickly",
+            "Absorbs quickly",
+            "Aids Cell Turnover",
+            "Anti-aging",
+            "Antiaging",
+            "Applies Easily",
+            "Applies Well",
+            "Balances Skin",
+            "Brightens",
+            "Calms skin",
+            "Convenient",
+            "Cooling refreshing",
+            "DESTRESSES",
+            "Did not like at all",
+            "Diminish small acne",
+            "Does not cause breakouts",
+            "Does not clog pores",
+            "Doesn't cause acne",
+            "Doesn't clog pores",
+            "Doesn't smudge makeup",
+            "Doesnt Clog Pores",
+            "Easy To Use",
+            "Easy to use",
+            "Effective",
+            "Effective Sun Protection",
+            "Evens Out Skin Tone",
+            "Evens Skintone",
+            "Excellent for combination skin.",
+            "Excellent unscented moisturizer",
+            "Feels great - softens",
+            "Feels very refreshing",
+            "Feels wonderful",
+            "Feels wonderful under & over makeup",
+            "Firms",
+            "Fun  fabulous",
+            "GOOD FOR SENSTIVE SKIN",
+            "Gentle",
+            "Glow",
+            "Goes On Smoothly",
+            "Good Value",
+            "Good for acne-prone skin",
+            "Good for sensitive skin",
+            "Good....good...excellent",
+            "Great Coverage Per Spray",
+            "Great For Combo Skin",
+            "Great after sun",
+            "Great during the smr heat",
+            "Great for Sensitive Skin",
+            "Great for my oily and dry patch skin.",
+            "Great hydrating product",
+            "Great hydrating spray",
+            "Great moisturizer for face",
+            "Great on my very oily ski",
+            "Great product",
+            "Has no pros",
+            "Healthy skin",
+            "Highly recommend",
+            "Hydrates",
+            "Hydrates skin",
+            "Hydrates your face! Your face will thank you!",
+            "Hydrating",
+            "Hydrating Not Oily",
+            "Hydration",
+            "I Don't Break Out",
+            "I Use It To Set My Makeup",
+            "I Use It Twice A Day",
+            "I have dry skin and this is awesome!",
+            "I love it",
+            "I love it !  Can't go without it .",
+            "I love the gentle feel and the spray application",
+            "Improves Skin Texture",
+            "Improves texture",
+            "Instant refreshed & tightened feeling.",
+            "Instant, long-lasting hydration",
+            "It Is True To It's Word",
+            "Keeps you face glowing",
+            "Last a Long Time",
+            "Leaves Clean Feel",
+            "Leaves My Skin Soft",
+            "Leaves skin feeling refreshed",
+            "Leaves skin soft",
+            "Less wrinkles and moisturizes",
+            "Light Hydrates",
+            "Light Moisture",
+            "Light and so hydrating. Doesn't clog pores.",
+            "Light fragrance",
+            "Light moisturizer",
+            "Light weight",
+            "Light weight,great scent",
+            "Light, Pleasant Scent",
+            "Lightens dark spots",
+            "Lightweight",
+            "Little goes a long way",
+            "Long Lasting",
+            "Long lasting",
+            "Looove it",
+            "Love The Spray Bottle",
+            "Makes A Great Base Layer",
+            "Makes skin glow",
+            "Minimizes Fine Lines",
+            "Minimizes Wrinkles",
+            "Moisturizes",
+            "Moisturizes Well",
+            "Moisturizesnon Greasy",
+            "Moisturizing",
+            "Moisturizing & long lasting!!!!",
+            "My face feels softer",
+            "Nice Light Smell",
+            "Nice and light feel on skin",
+            "No smell",
+            "Non irritating",
+            "Non-Greasy",
+            "Non-irritating",
+            "Not Greasy",
+            "Nothing Else Compares",
+            "Noticeable Results",
+            "Only buy 2 per year",
+            "Organic",
+            "PROCTECTS",
+            "Penetrating",
+            "Peptides",
+            "Perfect purse size",
+            "Perfect travel size",
+            "Plumps Out Wrinkles",
+            "Practically Odorless",
+            "Protection",
+            "Protects skin",
+            "Quality ingredients",
+            "Reduces Redness",
+            "Reduces blotchiness",
+            "Reduces fine lines",
+            "Reduces oily appearance",
+            "Refreshes",
+            "Refreshing",
+            "Refreshing Calming",
+            "Sets my makeup well",
+            "Simple to use",
+            "Slightly firming",
+            "Smellingredientslook Of",
+            "Smells Great",
+            "Smells great",
+            "Smooth skin for hours",
+            "Soaks in skin with no residue or greasiness.",
+            "Softens",
+            "Softens Skin",
+            "Soothes Skin",
+            "Soothing",
+            "Sorbet-Fluid Texture",
+            "Spa-Facial feeling",
+            "Supercalifragilisticexpialidocious",
+            "The bomb!!!  The best moisturizer available.",
+            "Tightening",
+            "Tightens skin",
+            "Toning",
+            "Travel Size",
+            "U look super refreshed",
+            "Under or over makeup",
+            "Use over makeup",
+            "Very Lightweight",
+            "Very fine mist great",
+            "WITCH HAZEL",
+            "Works great",
+            "Wrinkle Erasing (After 4 weeks)",
+            "absorbs quickly",
+            "balances PH",
+            "can be mixed with SPF",
+            "daily wear",
+            "easy to use",
+            "easy to use spray covers the whole face",
+            "evened skin tone, hydrates",
+            "for oily to combo skin type",
+            "light feeling",
+            "lightweight",
+            "love the way it makes my skin feel",
+            "makes my face look like it has moisture",
+            "no added  fragrance",
+            "set makeup and freshens the look",
+            "sun spots went away, cleared acne, smoothed skin"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 154
+            },
+            {
+              "label": "Dry",
+              "count": 75
+            },
+            {
+              "label": "Normal",
+              "count": 50
+            },
+            {
+              "label": "Oily",
+              "count": 21
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        110,
+        61,
+        171,
+        760,
+        3423
+      ],
+      "review_histogram": [
+        110,
+        61,
+        171,
+        760,
+        3423
+      ],
+      "rating_count": 4525,
+      "review_count": 4525,
+      "average_rating": 4.62,
+      "recommended_ratio": 0.94,
+      "media": [
+        {
+          "id": "419324510",
+          "review_id": 419324531,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qrt9pi7ptaunol8jivyt.jpg",
+          "headline": "Great ingredients, not-so-great formulation!",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Selena",
+          "created_date": 1659298327120
+        },
+        {
+          "id": "336564818",
+          "review_id": 336564791,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/u7vwtpyt8ffi5nzq09dz.jpg",
+          "headline": "I would have bought it again BUT",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ari",
+          "created_date": 1615956405580
+        },
+        {
+          "id": "335945904",
+          "review_id": 335945903,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zqvbvdy39gwp38nc2hdg.jpg",
+          "headline": "Awesome product",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lejumelle17",
+          "created_date": 1615831365004
+        },
+        {
+          "id": "335564761",
+          "review_id": 335564782,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rs2lnqpkqutwvb2ps04w.jpg",
+          "headline": "Oil free",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dan",
+          "created_date": 1615684345403
+        },
+        {
+          "id": "333744592",
+          "review_id": 333744604,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tmgzio7a5zvqeu2god2d.jpg",
+          "headline": "SUPERIOR Moisture for Oily/Combo Skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "DERMALOGICA shows up for Oily/Combo Skin with my Must Have Duo!",
+          "nickname": "MamaKayKay",
+          "created_date": 1615263705751
+        },
+        {
+          "id": "333741832",
+          "review_id": 333741857,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fooyvmn2xjmtw816ueno.jpg",
+          "headline": "Great hydrating moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "ultrajewls",
+          "created_date": 1615256703345
+        },
+        {
+          "id": "333741831",
+          "review_id": 333741857,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zabck6uc4me7bwtxi7e8.jpg",
+          "headline": "Great hydrating moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "ultrajewls",
+          "created_date": 1615256703345
+        },
+        {
+          "id": "333689703",
+          "review_id": 333689701,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fx2f3evafqohyz2yvot8.jpg",
+          "headline": "Want to Invigorate your skin?",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Unboxed",
+          "nickname": "Amanda",
+          "created_date": 1615220001909
+        },
+        {
+          "id": "333689702",
+          "review_id": 333689701,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hcffsytwrra5sntgxvxu.jpg",
+          "headline": "Want to Invigorate your skin?",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Before / After",
+          "nickname": "Amanda",
+          "created_date": 1615220001909
+        },
+        {
+          "id": "333689704",
+          "review_id": 333689701,
+          "uri": "//res.cloudinary.com/powerreviews/video/upload/v1615220009/prod/imaksvpherx07kqj08r0.mp4",
+          "headline": "Want to Invigorate your skin?",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "video",
+          "caption": "Dermalogica",
+          "nickname": "Amanda",
+          "created_date": 1615220001909
+        },
+        {
+          "id": "333660420",
+          "review_id": 333660419,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/li8gslde6gdjkmtjj6fv.jpg",
+          "headline": "Goes on Smooth, Keeps Face Moisturized",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "tinamarie",
+          "created_date": 1615162358823
+        },
+        {
+          "id": "333647105",
+          "review_id": 333647112,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hxa6jpkcyhhnwu5l9gow.jpg",
+          "headline": "Moisturizing!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "glamlifewithnat",
+          "created_date": 1615151626346
+        },
+        {
+          "id": "333553309",
+          "review_id": 333553292,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vesdreblov5nq275etkv.jpg",
+          "headline": "Amazing!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "BkQBEE",
+          "created_date": 1615026817061
+        },
+        {
+          "id": "333553308",
+          "review_id": 333553292,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/o5jnaxbvxke7pctx3qor.jpg",
+          "headline": "Amazing!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "BkQBEE",
+          "created_date": 1615026817061
+        },
+        {
+          "id": "333551626",
+          "review_id": 333551595,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qslyexvxztldvf7hcgvb.jpg",
+          "headline": "Super hydration to my skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "New product in my routine",
+          "nickname": "Sophia",
+          "created_date": 1615020491572
+        },
+        {
+          "id": "333551610",
+          "review_id": 333551595,
+          "uri": "//res.cloudinary.com/powerreviews/video/upload/v1615020491/prod/mjte7w12wgpq9ubkyx1w.mp4",
+          "headline": "Super hydration to my skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "video",
+          "caption": "Mamas new skin care routine",
+          "nickname": "Sophia",
+          "created_date": 1615020491572
+        },
+        {
+          "id": "333544708",
+          "review_id": 333544698,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wx8ljbj2fsohvnicakzo.jpg",
+          "headline": "Great daily moisturizer!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Littlepinkheart09",
+          "created_date": 1615008201304
+        },
+        {
+          "id": "333534195",
+          "review_id": 333534175,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/evxbwjxk2yrkaqivg8fa.jpg",
+          "headline": "Good product",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "D",
+          "created_date": 1614990824395
+        },
+        {
+          "id": "333497950",
+          "review_id": 333497949,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/o0bu6l9ab0gdvhsgsopo.jpg",
+          "headline": "Lasting Moisture",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "DebbieC8118",
+          "created_date": 1614969441846
+        },
+        {
+          "id": "333491633",
+          "review_id": 333491658,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wzfwtmcdpr5odhjumhwf.jpg",
+          "headline": "I loved the smell of this plus how well it moisturized",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love this lotion for a daytime moisturizer",
+          "nickname": "dcgirl1969",
+          "created_date": 1614963101261
+        },
+        {
+          "id": "333491632",
+          "review_id": 333491658,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hoooi3ljynx5i1vcxmvn.jpg",
+          "headline": "I loved the smell of this plus how well it moisturized",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My new lotion",
+          "nickname": "dcgirl1969",
+          "created_date": 1614963101261
+        },
+        {
+          "id": "333491582",
+          "review_id": 333491658,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/nnn8gc4qcbcayu3uxtd9.jpg",
+          "headline": "I loved the smell of this plus how well it moisturized",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Nice scent and great moisturizer",
+          "nickname": "dcgirl1969",
+          "created_date": 1614963101261
+        },
+        {
+          "id": "333479366",
+          "review_id": 333479335,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/f06xm0knfcbsyb8h2yti.jpg",
+          "headline": "Moist face...",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Meekster",
+          "created_date": 1614953017156
+        },
+        {
+          "id": "332798657",
+          "review_id": 332798619,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qof0ckvz2gtfdronuj7c.jpg",
+          "headline": "Hydrated glowing skin!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Glowing moisturized skin!",
+          "nickname": "Belita0984",
+          "created_date": 1614893353159
+        },
+        {
+          "id": "332582868",
+          "review_id": 332582854,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zk0icucdc7cabrz7gdep.jpg",
+          "headline": "Very hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mirzana",
+          "created_date": 1614878097088
+        },
+        {
+          "id": "332552273",
+          "review_id": 332552369,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hb9oiij5a55aczwvrf6g.jpg",
+          "headline": "Very moisturizing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "cajunmom1976",
+          "created_date": 1614855057450
+        },
+        {
+          "id": "332536049",
+          "review_id": 332536021,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dpeqhy2crnhuokjs36lm.jpg",
+          "headline": "Skin looks healthy",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great moisturizer",
+          "nickname": "Supermamabk",
+          "created_date": 1614838306328
+        },
+        {
+          "id": "332533460",
+          "review_id": 332533459,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ipzrmvs3diufyhrn9ghv.jpg",
+          "headline": "Love this moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great packaging and creamy consistency",
+          "nickname": "MamaHynson",
+          "created_date": 1614834039706
+        },
+        {
+          "id": "332523284",
+          "review_id": 332523289,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hfgtrmkpeqad6xsipjmf.jpg",
+          "headline": "Soft and subtle",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Perfect Size",
+          "nickname": "Lambee76",
+          "created_date": 1614823923711
+        },
+        {
+          "id": "332523097",
+          "review_id": 332523096,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/erwgrmu3bc4cviarim6y.jpg",
+          "headline": "Dermalogica moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Makeup_babe",
+          "created_date": 1614821613095
+        },
+        {
+          "id": "332523093",
+          "review_id": 332523096,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zpjd1rn0qxfaperqawda.jpg",
+          "headline": "Dermalogica moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Texture shot",
+          "nickname": "Makeup_babe",
+          "created_date": 1614821613095
+        },
+        {
+          "id": "332520787",
+          "review_id": 332520762,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/drpt1lz6jcn4yggxshtw.jpg",
+          "headline": "Very little",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Divanokia",
+          "created_date": 1614817791421
+        },
+        {
+          "id": "332432705",
+          "review_id": 332432776,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dma0rug318lm2t1shhsk.jpg",
+          "headline": "Excellent refreshing moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Twiinkls99",
+          "created_date": 1614796275666
+        },
+        {
+          "id": "332432786",
+          "review_id": 332432776,
+          "uri": "//res.cloudinary.com/powerreviews/video/upload/v1614796276/prod/a6trvrulxktp1gwatdlq.mp4",
+          "headline": "Excellent refreshing moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "video",
+          "caption": "Great moisturizer",
+          "nickname": "Twiinkls99",
+          "created_date": 1614796275666
+        },
+        {
+          "id": "332402156",
+          "review_id": 332402140,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qv3p25vge1vdevonju3t.jpg",
+          "headline": "I love Dermalogica!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mischa",
+          "created_date": 1614782535036
+        },
+        {
+          "id": "332330723",
+          "review_id": 332330784,
+          "uri": "//res.cloudinary.com/powerreviews/video/upload/v1614715297/prod/wnjn9udwzueo6yl8ungl.mp4",
+          "headline": "Soft skin",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "video",
+          "nickname": "Perry",
+          "created_date": 1614715297058
+        },
+        {
+          "id": "332141583",
+          "review_id": 332141588,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qnacysfrnivbzqf0zq4f.jpg",
+          "headline": "Active moist",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Eli",
+          "created_date": 1614685320620
+        },
+        {
+          "id": "332120403",
+          "review_id": 332120298,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dutddmvp8bc3dt92tohv.jpg",
+          "headline": "Amazing simple moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Hayhay",
+          "created_date": 1614682890923
+        },
+        {
+          "id": "332014794",
+          "review_id": 332015008,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yezkzs56jrqwnyklxrcr.jpg",
+          "headline": "Great moisturizer!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My new holy grail!",
+          "nickname": "Kat",
+          "created_date": 1614669249847
+        },
+        {
+          "id": "331952207",
+          "review_id": 331952269,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jkapwwz5of5uzhwbklia.jpg",
+          "headline": "Moisturizer made for combination skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Healthy moisturized skin",
+          "nickname": "Shinobree",
+          "created_date": 1614659174876
+        },
+        {
+          "id": "331952270",
+          "review_id": 331952269,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/w3k7yutwmljvxzvogcqi.jpg",
+          "headline": "Moisturizer made for combination skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "How the packaging looks",
+          "nickname": "Shinobree",
+          "created_date": 1614659174876
+        },
+        {
+          "id": "331948856",
+          "review_id": 331948838,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/q4smlo1y8vzuz3kseqhn.jpg",
+          "headline": "Super nice",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "MARIAEUGENIAHM",
+          "created_date": 1614653281015
+        },
+        {
+          "id": "331948757",
+          "review_id": 331948756,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/t85726w9wtewpqrtkdjc.jpg",
+          "headline": "Soft Skin Again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dermalogica Active Moist",
+          "nickname": "Reviewer T",
+          "created_date": 1614653192443
+        },
+        {
+          "id": "331948168",
+          "review_id": 331948167,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xjfm1cqmbyve8sdzrux1.jpg",
+          "headline": "So lightweight but hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My skin is glowing",
+          "nickname": "Kcrawley1130",
+          "created_date": 1614652728922
+        },
+        {
+          "id": "331942366",
+          "review_id": 331942360,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/sxamgaichsa31chtf5aq.jpg",
+          "headline": "Very moisturizing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Regina",
+          "created_date": 1614644600758
+        },
+        {
+          "id": "331942060",
+          "review_id": 331942059,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qni9fmebawxgxnspjc2h.jpg",
+          "headline": "Very nice",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dana",
+          "created_date": 1614644259702
+        },
+        {
+          "id": "331929722",
+          "review_id": 331929760,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/aopny43qt6v0lugvktfm.jpg",
+          "headline": "Maximum Hydration",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My best face companion",
+          "nickname": "Bmfashionstylist",
+          "created_date": 1614629858265
+        },
+        {
+          "id": "331929768",
+          "review_id": 331929760,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/b46njzq31n18tmslwktq.jpg",
+          "headline": "Maximum Hydration",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Moisturizer",
+          "nickname": "Bmfashionstylist",
+          "created_date": 1614629858265
+        },
+        {
+          "id": "331927174",
+          "review_id": 331927181,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bop84wgx5r37emxsrmg4.jpg",
+          "headline": "Perfect for my combo / oily guys and gals",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Eriri",
+          "created_date": 1614627872619
+        },
+        {
+          "id": "331926331",
+          "review_id": 331926325,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vr1vqjxxcyzjltwklrxy.jpg",
+          "headline": "Hydrating and smells nice",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Skin looks fresh after application",
+          "nickname": "Caitlin",
+          "created_date": 1614627236866
+        },
+        {
+          "id": "331924397",
+          "review_id": 331924284,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ljiqlpxsdgdls7kbnlft.jpg",
+          "headline": "A dream moisturizer!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The moisturizer you've been looking for!",
+          "nickname": "AnneV",
+          "created_date": 1614625636694
+        },
+        {
+          "id": "331918850",
+          "review_id": 331918834,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/f7a5nn5oo3rvoriog9bq.jpg",
+          "headline": "Good for just about anything",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Nice texture",
+          "nickname": "Midlifeswag",
+          "created_date": 1614621979173
+        },
+        {
+          "id": "331918835",
+          "review_id": 331918834,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fqnoqjhc4az4nxubxw3s.jpg",
+          "headline": "Good for just about anything",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Double safety seals",
+          "nickname": "Midlifeswag",
+          "created_date": 1614621979173
+        },
+        {
+          "id": "331918294",
+          "review_id": 331918273,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jmbiypuyc3dhil82q2y8.jpg",
+          "headline": "Lightweight and Refreshing!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Holy Grail",
+          "nickname": "Jamie T",
+          "created_date": 1614621374500
+        },
+        {
+          "id": "331918143",
+          "review_id": 331918125,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qwqoorpprmd7nutxsh84.jpg",
+          "headline": "Nice hydration",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great hydration",
+          "nickname": "Tennille",
+          "created_date": 1614621231705
+        },
+        {
+          "id": "331125202",
+          "review_id": 331125216,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wv8260cxcpftz4qkmvc4.jpg",
+          "headline": "My new favorite moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Beautiful soothing texture",
+          "nickname": "Lena",
+          "created_date": 1614398599600
+        },
+        {
+          "id": "331125201",
+          "review_id": 331125216,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/r3jrnal7ebmbsjocmwoq.jpg",
+          "headline": "My new favorite moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My new favorite moisturizer",
+          "nickname": "Lena",
+          "created_date": 1614398599600
+        },
+        {
+          "id": "331125141",
+          "review_id": 331125216,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ybvygvextbigwqq18kfc.jpg",
+          "headline": "My new favorite moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Lightweight texture",
+          "nickname": "Lena",
+          "created_date": 1614398599600
+        },
+        {
+          "id": "330692444",
+          "review_id": 330692517,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ogzn59bvu1qdnk5qdzpu.jpg",
+          "headline": "Hydrating",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "ThatThriftyChick",
+          "created_date": 1614139959160
+        },
+        {
+          "id": "330668210",
+          "review_id": 330668246,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mdozc3zgpjkryxllcyg3.jpg",
+          "headline": "Keeps My Skin Hydrated",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Diana E.",
+          "created_date": 1614105381766
+        },
+        {
+          "id": "330622795",
+          "review_id": 330622780,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rm4piujpdrot7arfxtep.jpg",
+          "headline": "Love love love",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Halalbeautie",
+          "created_date": 1614060724873
+        },
+        {
+          "id": "330579700",
+          "review_id": 330579756,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/weczeubboxhz3kcvkgbx.jpg",
+          "headline": "Lightweight",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "A little bit goes a long way",
+          "nickname": "Monicasel",
+          "created_date": 1614017234359
+        },
+        {
+          "id": "330579757",
+          "review_id": 330579756,
+          "uri": "//res.cloudinary.com/powerreviews/video/upload/v1614017234/prod/rdt1vp5j59fjltqxlypv.mp4",
+          "headline": "Lightweight",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "video",
+          "caption": "Active moist recap",
+          "nickname": "Monicasel",
+          "created_date": 1614017234359
+        },
+        {
+          "id": "330554541",
+          "review_id": 330554608,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ta8iiyvebitznmuxyihu.jpg",
+          "headline": "Great for combo skin",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "All day moisturizer",
+          "nickname": "Jenise",
+          "created_date": 1613975132375
+        },
+        {
+          "id": "330417235",
+          "review_id": 330417309,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/sr82jnfvpohxvr5bxjff.jpg",
+          "headline": "Gentle moisturizer!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Eliza",
+          "created_date": 1613791241925
+        },
+        {
+          "id": "330276290",
+          "review_id": 330276387,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kdn7wa6wzrfcmsoufzjg.jpg",
+          "headline": "Another Demalogica Staple",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Gabby",
+          "created_date": 1613670695694
+        },
+        {
+          "id": "330275696",
+          "review_id": 330275615,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zgcuwva9fof3cjd6xyrl.jpg",
+          "headline": "Love this moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dermalogica",
+          "nickname": "Mandy",
+          "created_date": 1613670042103
+        },
+        {
+          "id": "330213289",
+          "review_id": 330213288,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rxgmijbdprw8lcfq4n51.jpg",
+          "headline": "Love it!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Lightweight Moisturizer! Love it!",
+          "nickname": "JeannaA",
+          "created_date": 1613595377336
+        },
+        {
+          "id": "330143404",
+          "review_id": 330143517,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/w8z8uapgbqbcqn7jyi4e.jpg",
+          "headline": "Perfect daily moisturizer!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great daily product.",
+          "nickname": "Ladybug3186",
+          "created_date": 1613532073185
+        },
+        {
+          "id": "329833197",
+          "review_id": 329833206,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bfbshlep4q7ljjobu6ky.jpg",
+          "headline": "Amazing Product",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Fresh hydrated skin",
+          "nickname": "606jenny",
+          "created_date": 1613437546453
+        },
+        {
+          "id": "329695565",
+          "review_id": 329695552,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gqchqrluclbxpyvgch3q.jpg",
+          "headline": "Quenched my thirsty skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Active Moist",
+          "nickname": "Zarad",
+          "created_date": 1613274526458
+        },
+        {
+          "id": "329695564",
+          "review_id": 329695552,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vxrtvduwg0emdxzm2784.jpg",
+          "headline": "Quenched my thirsty skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Active Moist",
+          "nickname": "Zarad",
+          "created_date": 1613274526458
+        },
+        {
+          "id": "329695563",
+          "review_id": 329695552,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dwkxla21ay4m2pwqkht4.jpg",
+          "headline": "Quenched my thirsty skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Active Moist",
+          "nickname": "Zarad",
+          "created_date": 1613274526458
+        },
+        {
+          "id": "329660718",
+          "review_id": 329660690,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gk0ssxpodz8vy7upu6t2.jpg",
+          "headline": "Refreshed skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Well hydrated skin always looks good",
+          "nickname": "Aderial",
+          "created_date": 1613234444624
+        },
+        {
+          "id": "329660743",
+          "review_id": 329660690,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xhq4aj8q2lcful0nwxvo.jpg",
+          "headline": "Refreshed skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Packaging",
+          "nickname": "Aderial",
+          "created_date": 1613234444624
+        },
+        {
+          "id": "329626713",
+          "review_id": 329626711,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/sthuwvcyzgter3puqygd.jpg",
+          "headline": "Lightweight Moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "After using the moisturizer",
+          "nickname": "Tammie79",
+          "created_date": 1613202083699
+        },
+        {
+          "id": "329626736",
+          "review_id": 329626711,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qq5uor2xhnrjz3lhjhda.jpg",
+          "headline": "Lightweight Moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love it",
+          "nickname": "Tammie79",
+          "created_date": 1613202083699
+        },
+        {
+          "id": "329626712",
+          "review_id": 329626711,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rpiwnkiqywxjh3ombtud.jpg",
+          "headline": "Lightweight Moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Putting the moisturizer on",
+          "nickname": "Tammie79",
+          "created_date": 1613202083699
+        },
+        {
+          "id": "329601118",
+          "review_id": 329601117,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/q6jqnjuviguoz8qp3fs8.jpg",
+          "headline": "Great results",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dermalogica",
+          "nickname": "BarbieS1987",
+          "created_date": 1613163206205
+        },
+        {
+          "id": "329537240",
+          "review_id": 329537249,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/eezzmv8l2jw5dhqmrkg1.jpg",
+          "headline": "Great for oily skin!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Fresh faced",
+          "nickname": "MrsGallego",
+          "created_date": 1613150669820
+        },
+        {
+          "id": "329402458",
+          "review_id": 329402421,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/iu8svya5ptbwhb7vkvne.jpg",
+          "headline": "Combination skin girls dream",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Excuse my face... Lol",
+          "nickname": "Britt",
+          "created_date": 1613115765696
+        },
+        {
+          "id": "329129530",
+          "review_id": 329129591,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/uvc2nfhk52iumtgmbukb.jpg",
+          "headline": "Great moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Bvance3",
+          "created_date": 1613068862251
+        },
+        {
+          "id": "329054069",
+          "review_id": 329054078,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/onaou8xtzakabf3dgau2.jpg",
+          "headline": "Amazing moisture",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Apw513",
+          "created_date": 1613053466225
+        },
+        {
+          "id": "329053841",
+          "review_id": 329053793,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zz3cbuxzl9tsp3sroe5s.jpg",
+          "headline": "Smells amazing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Super light weight",
+          "nickname": "Erika mom of 3",
+          "created_date": 1613053097941
+        },
+        {
+          "id": "329042142",
+          "review_id": 329042167,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yrl9yavtquyl65gcauba.jpg",
+          "headline": "Facial Moisturizer",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Nicky Bee",
+          "created_date": 1613045953570
+        },
+        {
+          "id": "329016745",
+          "review_id": 329016743,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vhkrutgxyemt6aofqpod.jpg",
+          "headline": "Excellent for dry skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Product used",
+          "nickname": "Mztorres",
+          "created_date": 1613004609255
+        },
+        {
+          "id": "329016744",
+          "review_id": 329016743,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/v4isecjqumvlc9t7fbbf.jpg",
+          "headline": "Excellent for dry skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Amount I use",
+          "nickname": "Mztorres",
+          "created_date": 1613004609255
+        },
+        {
+          "id": "329000199",
+          "review_id": 329000172,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kdm4ddvmol06u3tt5mzc.jpg",
+          "headline": "Fantastic moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Tawni",
+          "created_date": 1612993208713
+        },
+        {
+          "id": "328127735",
+          "review_id": 328127760,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cbinvouepu9nsc9xtnf5.jpg",
+          "headline": "So hydrating!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Des",
+          "created_date": 1612821499984
+        },
+        {
+          "id": "328127786",
+          "review_id": 328127760,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rchki30aaeknnsc3agqf.jpg",
+          "headline": "So hydrating!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Immediately after applying",
+          "nickname": "Des",
+          "created_date": 1612821499984
+        },
+        {
+          "id": "328072356",
+          "review_id": 328072334,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jf2cy5otgwo59uzmljsa.jpg",
+          "headline": "light moisture",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jane0102",
+          "created_date": 1612809619893
+        },
+        {
+          "id": "328072335",
+          "review_id": 328072334,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lhoxtk47aqgh3kwabjxx.jpg",
+          "headline": "light moisture",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jane0102",
+          "created_date": 1612809619893
+        },
+        {
+          "id": "328061112",
+          "review_id": 328061179,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zyxregegryp964llz4is.jpg",
+          "headline": "Great Moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Hydration Station",
+          "nickname": "Patticakes",
+          "created_date": 1612802248360
+        },
+        {
+          "id": "328053069",
+          "review_id": 328053068,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/sxcklldaujfabdzkgsmu.jpg",
+          "headline": "Loving this",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jenah48",
+          "created_date": 1612800700562
+        },
+        {
+          "id": "328042402",
+          "review_id": 328042413,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hl4jdiz7prggc29kfwq1.jpg",
+          "headline": "Keeps Skin Moisturized",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mav90",
+          "created_date": 1612799053893
+        },
+        {
+          "id": "328042254",
+          "review_id": 328042273,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/p0z6snvyv34zttc2acvz.jpg",
+          "headline": "Great Moisturizer",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Destiny",
+          "created_date": 1612798994478
+        },
+        {
+          "id": "328025972",
+          "review_id": 328025983,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rjwa2okvsqilzhhmoilj.jpg",
+          "headline": "Make my skin hydrating and fresh",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rash1985",
+          "created_date": 1612795992689
+        },
+        {
+          "id": "327986000",
+          "review_id": 327986027,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bmysvgrfagoxlmwlleol.jpg",
+          "headline": "Works great",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dermalogica",
+          "nickname": "Gingerelle12901",
+          "created_date": 1612762952654
+        },
+        {
+          "id": "327962729",
+          "review_id": 327962728,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/my1crsueuwt08qpgwi36.jpg",
+          "headline": "Supple skin!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Shawgurl85",
+          "created_date": 1612726497434
+        },
+        {
+          "id": "327862544",
+          "review_id": 327862555,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/awfhyhtn7pg7vrk9tdpj.jpg",
+          "headline": "Love dermalogica",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Best moisturizer",
+          "nickname": "Kat matr",
+          "created_date": 1612661486312
+        },
+        {
+          "id": "327791431",
+          "review_id": 327791424,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tbu3zapacwplosgiambh.jpg",
+          "headline": "Love in a bottle",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Active  moist",
+          "nickname": "SJ",
+          "created_date": 1612569865912
+        },
+        {
+          "id": "327779251",
+          "review_id": 327779250,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cxtsfsrizzacn9vtvxqd.jpg",
+          "headline": "Amazing Moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "SunzJagz",
+          "created_date": 1612556291129
+        },
+        {
+          "id": "327762673",
+          "review_id": 327762752,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mqoixa4bmveyzishhxnq.jpg",
+          "headline": "Very Moisturizing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Active Moisturizer",
+          "nickname": "Dellabella24",
+          "created_date": 1612540519706
+        },
+        {
+          "id": "327728345",
+          "review_id": 327728344,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gqukpdvjtz703cdxzvzx.jpg",
+          "headline": "Whoa - Lightweight Moisturizing Bliss",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Isabelle",
+          "created_date": 1612495235363
+        },
+        {
+          "id": "327724128",
+          "review_id": 327724127,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vcvm5jhvts6uxctw0lfc.jpg",
+          "headline": "MOISTURIZED LEMON HEAVEN",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Super effective moisturizer",
+          "nickname": "Cakefacebrit",
+          "created_date": 1612486089476
+        },
+        {
+          "id": "327724156",
+          "review_id": 327724127,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/d1qihisrhgu5ncbnkkge.jpg",
+          "headline": "MOISTURIZED LEMON HEAVEN",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Sinks right into the skin beautifully",
+          "nickname": "Cakefacebrit",
+          "created_date": 1612486089476
+        },
+        {
+          "id": "327723223",
+          "review_id": 327723244,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dxyjnirv1feksqowzg5u.jpg",
+          "headline": "Very moisturizing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dxgamom",
+          "created_date": 1612484579749
+        },
+        {
+          "id": "327719480",
+          "review_id": 327719612,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gd8ziewf7z9r0jkx9pc0.jpg",
+          "headline": "Great Daily Moisurizer!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "skyejaden",
+          "created_date": 1612480352132
+        },
+        {
+          "id": "327719613",
+          "review_id": 327719612,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kdeu1u30fqnvhrfdhw2h.jpg",
+          "headline": "Great Daily Moisurizer!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "skyejaden",
+          "created_date": 1612480352132
+        },
+        {
+          "id": "327714902",
+          "review_id": 327714954,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hulaeddnlpm1qcbbuyc6.jpg",
+          "headline": "Silky skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Texture",
+          "nickname": "Hippie79",
+          "created_date": 1612477023316
+        },
+        {
+          "id": "327714955",
+          "review_id": 327714954,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wibgcprlivgclkjuiknh.jpg",
+          "headline": "Silky skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "ACTIVE MOIST",
+          "nickname": "Hippie79",
+          "created_date": 1612477023316
+        },
+        {
+          "id": "327669231",
+          "review_id": 327669203,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rexofacdujxmiepmrr77.jpg",
+          "headline": "I love it",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Stole238",
+          "created_date": 1612437474952
+        },
+        {
+          "id": "327656077",
+          "review_id": 327656053,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/k6h6rg8auxvhvx2stnco.jpg",
+          "headline": "Amazing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Amazing product",
+          "nickname": "Stephanie",
+          "created_date": 1612418244003
+        },
+        {
+          "id": "327655931",
+          "review_id": 327655938,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/sjzvyx9wpfntcmeavtah.jpg",
+          "headline": "Super moisturizing!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Product size",
+          "nickname": "DesertLyfe",
+          "created_date": 1612417510158
+        },
+        {
+          "id": "327652941",
+          "review_id": 327652940,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hil3cyqqi3bs4obpbsiw.jpg",
+          "headline": "Dermalogica Active Moist",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "M",
+          "created_date": 1612408016199
+        },
+        {
+          "id": "327649302",
+          "review_id": 327649292,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hxrkgotfluc3ckalbwh7.jpg",
+          "headline": "Great moisturizer!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My new favorite moisturizer",
+          "nickname": "Ashley B",
+          "created_date": 1612400480236
+        },
+        {
+          "id": "327588261",
+          "review_id": 327588253,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rbenaruzkd6bieotg0ew.jpg",
+          "headline": "Hydration in a box!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "One hour after applying Active Moist and nothing else on my face. Give it a try :)",
+          "nickname": "Cait",
+          "created_date": 1612385596236
+        },
+        {
+          "id": "327577455",
+          "review_id": 327577482,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fgv32h2gfks6cynp64xd.jpg",
+          "headline": "What I truly needed!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My skin after one week",
+          "nickname": "Jennipoo",
+          "created_date": 1612380465026
+        },
+        {
+          "id": "327577434",
+          "review_id": 327577482,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wpds3qngwxy9vqvqujn2.jpg",
+          "headline": "What I truly needed!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The Dermalogica moisturizer",
+          "nickname": "Jennipoo",
+          "created_date": 1612380465026
+        },
+        {
+          "id": "327324739",
+          "review_id": 327324709,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/reobvwyyknpzvkxhbfzy.jpg",
+          "headline": "It's a MUST buy!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Information about Derm",
+          "nickname": "Build2bfit",
+          "created_date": 1612319071225
+        },
+        {
+          "id": "327324711",
+          "review_id": 327324709,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vfqrkochgfavlhwfw16m.jpg",
+          "headline": "It's a MUST buy!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Important Information about the product!",
+          "nickname": "Build2bfit",
+          "created_date": 1612319071225
+        },
+        {
+          "id": "327324738",
+          "review_id": 327324709,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mhb1evg3aukujwt5obac.jpg",
+          "headline": "It's a MUST buy!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "liquid serum",
+          "nickname": "Build2bfit",
+          "created_date": 1612319071225
+        },
+        {
+          "id": "327324737",
+          "review_id": 327324709,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ysqzp5m8ro8hc0p9lpts.jpg",
+          "headline": "It's a MUST buy!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The box it comes in",
+          "nickname": "Build2bfit",
+          "created_date": 1612319071225
+        },
+        {
+          "id": "327324710",
+          "review_id": 327324709,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hlpv0qtwjah1agbezabp.jpg",
+          "headline": "It's a MUST buy!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Directions on how to apply it",
+          "nickname": "Build2bfit",
+          "created_date": 1612319071225
+        },
+        {
+          "id": "327291661",
+          "review_id": 327291353,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xw5p7ljsdpwhkrfzhdrm.jpg",
+          "headline": "Skim left feeling tight",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great brand",
+          "nickname": "HeidiBee",
+          "created_date": 1612313823713
+        },
+        {
+          "id": "327152707",
+          "review_id": 327152727,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/h0kg0yl5witmkoxnpjzp.jpg",
+          "headline": "Nice moisturizer",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Moisturizer",
+          "nickname": "Chanelle W",
+          "created_date": 1612294932913
+        },
+        {
+          "id": "327119198",
+          "review_id": 327119170,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kjvau8wdip45ztvlxddy.jpg",
+          "headline": "Super moisturizing!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My skin looks better than never at age 39",
+          "nickname": "Hermy",
+          "created_date": 1612272920834
+        },
+        {
+          "id": "327119197",
+          "review_id": 327119170,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/eftmhekyt9zke9uy3xig.jpg",
+          "headline": "Super moisturizing!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "39 and loving my skin",
+          "nickname": "Hermy",
+          "created_date": 1612272920834
+        },
+        {
+          "id": "327098340",
+          "review_id": 327098315,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tt4mlizwyyxg4jpn7h0g.jpg",
+          "headline": "New favorite!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Size comparison",
+          "nickname": "Tiffnick1207",
+          "created_date": 1612247514564
+        },
+        {
+          "id": "327098325",
+          "review_id": 327098315,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tpmrusjsaf9wkxskf7fr.jpg",
+          "headline": "New favorite!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "In original packaging",
+          "nickname": "Tiffnick1207",
+          "created_date": 1612247514564
+        },
+        {
+          "id": "327089948",
+          "review_id": 327089976,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ndapazquoz44jmvyjbfi.jpg",
+          "headline": "Dermalogica Active Moist",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Abbie",
+          "created_date": 1612241393704
+        },
+        {
+          "id": "327058879",
+          "review_id": 327058872,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cb3sfmfpdkimf7ul35go.jpg",
+          "headline": "The perfect lightweight moisturizer for Winter",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Product comes in a tube instead of a jar",
+          "nickname": "thecheapsubscriber",
+          "created_date": 1612216899961
+        },
+        {
+          "id": "327037153",
+          "review_id": 327037158,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ty1hohfctq3vw0v3tn0b.jpg",
+          "headline": "Nice smell and perfect moisturizing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Keep it nice and cool in my fridge",
+          "nickname": "Liubov S",
+          "created_date": 1612202942529
+        },
+        {
+          "id": "327037143",
+          "review_id": 327037158,
+          "uri": "//res.cloudinary.com/powerreviews/video/upload/v1612202942/prod/vadxicjdnjtxkjzh9y3g.mp4",
+          "headline": "Nice smell and perfect moisturizing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "video",
+          "nickname": "Liubov S",
+          "created_date": 1612202942529
+        },
+        {
+          "id": "327035036",
+          "review_id": 327035029,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/p949nsmurz4obr8zywgv.jpg",
+          "headline": "Feels fantastic!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Beautiful packaging too",
+          "nickname": "Libby",
+          "created_date": 1612200680729
+        },
+        {
+          "id": "327029745",
+          "review_id": 327029730,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/l3qawwmunvgejkg4m2h4.jpg",
+          "headline": "Dermalogica Active Moist works great!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "sfont32",
+          "created_date": 1612194746939
+        },
+        {
+          "id": "327020899",
+          "review_id": 327020892,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/pdpgi7mmd6fe9mhtcsxs.jpg",
+          "headline": "One of the best",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Glowing after using for only 2 weeks",
+          "nickname": "Lynaya",
+          "created_date": 1612190987262
+        },
+        {
+          "id": "327016262",
+          "review_id": 327016235,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ok74rceucelgcnrz6smn.jpg",
+          "headline": "Great product",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love it",
+          "nickname": "Coco M",
+          "created_date": 1612186976934
+        },
+        {
+          "id": "327013744",
+          "review_id": 327013757,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fejcgprtmdnty9tbfl87.jpg",
+          "headline": "Great everyday moisturizer!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The Active Moist packaging!",
+          "nickname": "Caroline",
+          "created_date": 1612184882076
+        },
+        {
+          "id": "326981318",
+          "review_id": 326981317,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yirbbu1alrx8mmwopgxi.jpg",
+          "headline": "This is a perfect moisturizer for oily skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Gabi",
+          "created_date": 1612174623821
+        },
+        {
+          "id": "326953718",
+          "review_id": 326953717,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vuswv11pprg14kscmvuv.jpg",
+          "headline": "Absolutely incredible moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "my new moisturizer",
+          "nickname": "daniellee_215",
+          "created_date": 1612157482722
+        },
+        {
+          "id": "326950382",
+          "review_id": 326950381,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bfmz7tuedauxnryxucri.jpg",
+          "headline": "change in skin texture",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Nusky21",
+          "created_date": 1612155755226
+        },
+        {
+          "id": "326949984",
+          "review_id": 326949925,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bhhfcoalj0g39vxdqnwp.jpg",
+          "headline": "Just what my skin needed",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "just what my dry skin needed",
+          "nickname": "vmunoz",
+          "created_date": 1612155658371
+        },
+        {
+          "id": "326949290",
+          "review_id": 326949317,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/htxaoffqrjl2bi1vw3el.jpg",
+          "headline": "Good product",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dermalogica",
+          "nickname": "Bayamonsgirl08",
+          "created_date": 1612155484607
+        },
+        {
+          "id": "301753047",
+          "review_id": 301753041,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ycr6znqmoccjswqmnjwj.jpg",
+          "headline": "Amazing product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AJ",
+          "created_date": 1601507772254
+        },
+        {
+          "id": "286832711",
+          "review_id": 286832684,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/f0gezhswaknaiytwuibo.jpg",
+          "headline": "Love it",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mandy",
+          "created_date": 1596782196625
+        },
+        {
+          "id": "284197751",
+          "review_id": 284197701,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cfixg34u16bhv8dgfbst.jpg",
+          "headline": "Best face moisturizer in the land",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Plump skins",
+          "nickname": "Aline",
+          "created_date": 1595008445587
+        },
+        {
+          "id": "279588145",
+          "review_id": 279588144,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fngesesi8kvxe08hmtel.jpg",
+          "headline": "This will always be my moisturizer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ruth",
+          "created_date": 1591811419035
+        },
+        {
+          "id": "276225729",
+          "review_id": 276225485,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/x1nttqfkulccjmjjnfbl.jpg",
+          "headline": "I would buy this again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Not the best lighting or pic but here you go",
+          "nickname": "Chey",
+          "created_date": 1589308837518
+        },
+        {
+          "id": "248623535",
+          "review_id": 248623639,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/t1borwbblyooefxtjwys.jpg",
+          "headline": "Honestly thought I would love this",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "I've never had these many pimples in my life",
+          "nickname": "Callahan",
+          "created_date": 1566934223563
+        },
+        {
+          "id": "237633657",
+          "review_id": 237633656,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/nt1vqlyoucdesddpn9gs.jpg",
+          "headline": "Just OK",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dorcas",
+          "created_date": 1557452207342
+        },
+        {
+          "id": "236881671",
+          "review_id": 236881628,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/x5ehfswfxoj5znmxuud6.jpg",
+          "headline": "Love it!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Dorcas",
+          "created_date": 1556236647454
+        },
+        {
+          "id": "205829492",
+          "review_id": 205829487,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/g4vwjhee6elyomewxkyq.jpg",
+          "headline": "I will most definitely buy this product again!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Flyat57",
+          "created_date": 1537632506027
+        },
+        {
+          "id": "190272461",
+          "review_id": 190272427,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jecvu28fbmpvrbhagjnw.jpg",
+          "headline": "Good first impression",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "KitKat",
+          "created_date": 1520887517533
+        },
+        {
+          "id": "190272440",
+          "review_id": 190272426,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hruswypezn8scf4tfv3o.jpg",
+          "headline": "Good first impression",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "KitKat",
+          "created_date": 1520887231065
+        },
+        {
+          "id": "190272438",
+          "review_id": 190272407,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lagj5m5pewqvjyqkfyj9.jpg",
+          "headline": "Game changing product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Jessica P",
+          "created_date": 1520559093931
+        },
+        {
+          "id": "190272367",
+          "review_id": 190272386,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cyeetjjp6tufydlgfz4a.jpg",
+          "headline": "Surprisingly Hydrating",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Glamlifeofamom",
+          "created_date": 1519173966660
+        },
+        {
+          "id": "190272376",
+          "review_id": 190272358,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bpsemicm8f2v5otvhf5c.jpg",
+          "headline": "Lightweight and fresh faced",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Sam",
+          "created_date": 1519065497236
+        },
+        {
+          "id": "190272357",
+          "review_id": 190272375,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tkkc3pljvfq72uhexqy3.jpg",
+          "headline": "Love Love this Hydramist",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Looky Looky",
+          "nickname": "Gabby",
+          "created_date": 1518965442161
+        },
+        {
+          "id": "190272356",
+          "review_id": 190272117,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/uw1q1x2v2f3rr4md9n0m.jpg",
+          "headline": "Great  product",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Pranjali Beauty",
+          "created_date": 1518939199665
+        },
+        {
+          "id": "190272363",
+          "review_id": 190272362,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tlflnhsfhmi0ztc8rb7n.jpg",
+          "headline": "Amazing!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Ivette",
+          "created_date": 1518683237028
+        },
+        {
+          "id": "169938582",
+          "review_id": 169938533,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ltmgeonb3vrc7iw8szwo.jpg",
+          "headline": "Amazing!!!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Ivette",
+          "created_date": 1518683073428
+        },
+        {
+          "id": "190272116",
+          "review_id": 190272343,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yl7p1m7ugewxjawcwrep.jpg",
+          "headline": "Healthy skin",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Capyann",
+          "created_date": 1518217995289
+        },
+        {
+          "id": "190272313",
+          "review_id": 190272325,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/m6ugw7u8wjmykxpoout6.jpg",
+          "headline": "Awesome!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Anna",
+          "created_date": 1517960340326
+        },
+        {
+          "id": "190272293",
+          "review_id": 190272331,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/x09hevkjk3fm3oxmad8g.jpg",
+          "headline": "Brightens Up My Face And My Mood",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The Bottle Itself",
+          "nickname": "Chicks And Salsa",
+          "created_date": 1517940199525
+        },
+        {
+          "id": "190272302",
+          "review_id": 190272331,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tvnidoxvh7z093dk5ssp.jpg",
+          "headline": "Brightens Up My Face And My Mood",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "#Shelfie",
+          "nickname": "Chicks And Salsa",
+          "created_date": 1517940199525
+        },
+        {
+          "id": "190272270",
+          "review_id": 190272115,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tzo2dpole5vorc48jced.jpg",
+          "headline": "Wet",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Wet",
+          "nickname": "Cmella",
+          "created_date": 1517717707891
+        },
+        {
+          "id": "190272286",
+          "review_id": 190272114,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/i5qtjv0p9i18ymlxi92i.jpg",
+          "headline": "AntioXidant HydraMiSt",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Genna",
+          "created_date": 1517521369236
+        },
+        {
+          "id": "190272271",
+          "review_id": 190272248,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tbrxey7fhkabr0u0ofp8.jpg",
+          "headline": "I will never change this product for nothing else!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "In love with my Dermalogica products!!",
+          "nickname": "Yomi",
+          "created_date": 1517322969191
+        },
+        {
+          "id": "190272252",
+          "review_id": 190272261,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/on8ukunmmiucuqdrn6id.jpg",
+          "headline": "One if my favorites!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "MrsMaranta",
+          "created_date": 1517303885408
+        },
+        {
+          "id": "190272229",
+          "review_id": 190272220,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ydeti2g94aqd5avdu10t.jpg",
+          "headline": "Awesome refresh for my dry skin on a winter day!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Madi Rose",
+          "created_date": 1517275433063
+        },
+        {
+          "id": "190272228",
+          "review_id": 190272239,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/pvvw27lzazwnipbo0v5o.jpg",
+          "headline": "I loved it.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Fahlon Napolitano",
+          "created_date": 1517264154598
+        },
+        {
+          "id": "190272246",
+          "review_id": 190272238,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gbbpa3mcu42fbfgqlhuq.jpg",
+          "headline": "Not what I was expecting!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Lexi",
+          "created_date": 1517250755885
+        },
+        {
+          "id": "190272242",
+          "review_id": 190272232,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/b5xoznilviyptoeqyhy6.jpg",
+          "headline": "Have tried testing this out twice now! No luck",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Cierrawhite2011",
+          "created_date": 1517042542216
+        },
+        {
+          "id": "190272241",
+          "review_id": 190272231,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/chh5vlizyht7gxavtjvg.jpg",
+          "headline": "Dermatologica Hydramist",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Marz",
+          "created_date": 1517030083301
+        },
+        {
+          "id": "190272211",
+          "review_id": 190272198,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zqszcxioqkfnog3lh5md.jpg",
+          "headline": "An effective time hop",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Charity",
+          "created_date": 1516781464509
+        },
+        {
+          "id": "190272197",
+          "review_id": 190272017,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/x51pzzecvu88efizlvyh.jpg",
+          "headline": "Antioxidant HydraMist",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Luz",
+          "created_date": 1516769133114
+        },
+        {
+          "id": "190272183",
+          "review_id": 190272182,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wd7ernflwmzavaa224jd.jpg",
+          "headline": "Definitely will be a repeat buyer",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Excuse the nails",
+          "nickname": "Brooke. Let's get Slayed on fb",
+          "created_date": 1516574414052
+        },
+        {
+          "id": "190272158",
+          "review_id": 190272171,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/t2brrxi1pugm8ad8axqn.jpg",
+          "headline": "Refreshing!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Misshelhel",
+          "created_date": 1516389326316
+        },
+        {
+          "id": "190272164",
+          "review_id": 190272144,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/r2xfryazuavrhp7mkca9.jpg",
+          "headline": "Great product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Shortpattycakes",
+          "created_date": 1516310448930
+        },
+        {
+          "id": "190272132",
+          "review_id": 190271990,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/w5giznmhbhwlzqe7aozt.jpg",
+          "headline": "Refreshing!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "The CookinMama",
+          "created_date": 1516047935964
+        },
+        {
+          "id": "190272089",
+          "review_id": 190272102,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ytxvlxfazu3a7tzajxhh.jpg",
+          "headline": "I would definitely purchase.",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Carlij13",
+          "created_date": 1515812638335
+        },
+        {
+          "id": "190272077",
+          "review_id": 190272070,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hzgrp5yimq1nhhr6okvv.jpg",
+          "headline": "Legit the best mist ever!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Went to ulta to try out the new dermalogica anti oxidant hydramist 😍👏my no makeup face + no sleep for almost 24hours turned so fresh & hydrated ,i love how there's a little fresh scent to it. #antioxidanthydramist #dermalogica #contest @Influenster @dermalogica @ultabeauty  I make an appointment for sunday to try their facial using some dermalogica products and upgraded it to where they can do some extraction(harvest time) ❤ its going to be my first time trying facial service at ulta does anyone else here tried it before ?comment below i want to know your thoughts and experience 👪💌",
+          "nickname": "Kristiny mireny",
+          "created_date": 1515705306033
+        },
+        {
+          "id": "169938480",
+          "review_id": 169938542,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vavjtuwx2jbhi1je8wmk.jpg",
+          "headline": "A staple in my skincare regiment!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Marisa",
+          "created_date": 1515386984802
+        },
+        {
+          "id": "190272038",
+          "review_id": 190271986,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/t1tsl7urumqlqwvp5kvx.jpg",
+          "headline": "Love this!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Marisa",
+          "created_date": 1515386640426
+        },
+        {
+          "id": "190271997",
+          "review_id": 190272035,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mjyk8q3pmiw4jvz1hekl.jpg",
+          "headline": "Very hydrating!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Beautiful display",
+          "nickname": "Ashley",
+          "created_date": 1515300999361
+        },
+        {
+          "id": "190272008",
+          "review_id": 190272026,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bqqfxleulgctlhhl5e6x.jpg",
+          "headline": "GUYS I HAVE ONLY SAMPLED IT BUT...",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Mariuh",
+          "created_date": 1515284470625
+        },
+        {
+          "id": "190272032",
+          "review_id": 190271985,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zvyfthxonizyt4pmgcdn.jpg",
+          "headline": "The jury is still out",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Calves2753",
+          "created_date": 1515281095780
+        },
+        {
+          "id": "190272002",
+          "review_id": 190271980,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/eus9toqgowjhcwgilxtu.jpg",
+          "headline": "This products smells and feels great!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "shanasamples",
+          "created_date": 1515173832606
+        },
+        {
+          "id": "190271934",
+          "review_id": 190271839,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hytbyaxx9bukilyaqjmx.jpg",
+          "headline": "A instant hydrating refresher",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Refreshing my new years day look with Dermalogica's Antioxidant Hydramist!",
+          "nickname": "Star",
+          "created_date": 1514855590543
+        },
+        {
+          "id": "190271932",
+          "review_id": 190271838,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ajk29x3ih6vllsgxthk7.jpg",
+          "headline": "Curious to try",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Katie",
+          "created_date": 1514695041997
+        },
+        {
+          "id": "190271850",
+          "review_id": 190271864,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/d11lgc8n0soyu0sgpxyo.jpg",
+          "headline": "So hydrating",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Reyna",
+          "created_date": 1514414381579
+        },
+        {
+          "id": "190271858",
+          "review_id": 190271724,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gktia5y918yqagprsbu3.jpg",
+          "headline": "Face refreshed",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Reyna",
+          "created_date": 1514413741839
+        },
+        {
+          "id": "190271883",
+          "review_id": 190271849,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vx3qci9bjki592xwxcgc.jpg",
+          "headline": "love the product not the price",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "ULTA",
+          "nickname": "Case",
+          "created_date": 1514412551323
+        },
+        {
+          "id": "190271847",
+          "review_id": 190271780,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hvwarzvkfy41yqaz0nbo.jpg",
+          "headline": "I would Buy this product Again and again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Katherine",
+          "created_date": 1514365939683
+        },
+        {
+          "id": "190271819",
+          "review_id": 190271843,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xailjszetshih1dun0xn.jpg",
+          "headline": "Great item!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Katie K",
+          "created_date": 1514254792864
+        },
+        {
+          "id": "190271720",
+          "review_id": 190271803,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/os2oadl3fdbpukw0xmrz.jpg",
+          "headline": "Can't wait to buy it again! No more dry skin SoCal",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Gold",
+          "nickname": "Reet",
+          "created_date": 1513942269482
+        },
+        {
+          "id": "191283242",
+          "review_id": 191283241,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xxt5beqfdx2yivflmost.jpg",
+          "headline": "I look forward to my morning Misting",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Beth",
+          "created_date": 1510248079379
+        },
+        {
+          "id": "169915335",
+          "review_id": 169915378,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vlobikhmwudd0vgeixmg.jpg",
+          "headline": "Where has this been all my life?",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Ms Davis",
+          "created_date": 1492209254020
+        },
+        {
+          "id": "190192987",
+          "review_id": 190192966,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mznzq00byzcfxgryfdok.jpg",
+          "headline": "I've used this product for two years: Luxurious!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Anita",
+          "nickname": "The Woman",
+          "created_date": 1489847253358
+        },
+        {
+          "id": "169938416",
+          "review_id": 169938316,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/csijz8krr5l1uqxl7p8c.jpg",
+          "headline": "Cannot Live Without This!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Jamestown",
+          "created_date": 1483573397823
+        },
+        {
+          "id": "190271654",
+          "review_id": 190271577,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/l1tmrzumkvhr3suymvp1.jpg",
+          "headline": "I was not sure about this. But I really like it.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Dixie",
+          "created_date": 1474848728924
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "This is the 1st product I have ever reviewed in my life, but it is so good I just had to write this one. At the age of 44 after trying almost every eye product on the market I had resigned myself to the fact that the dark circles around my eyes were something I would just have to live with, everything I have ever tried in the past made not even the slightest bit of difference. I also have really sensitive eyes and wear contact lenses and as such a lot of products make my eyes really red and sore. After reading some amazing reviews on the Internet I decided to give Dermalogica a go and got a few samples of the various products to try out. Two of the samples were this one (age reversal eye complex) and the Power firm. I tried the Power Firm sample first and although it was a lovely product to use and it did reduce some of the fine lines around my eyes I didn't notice any difference to my dark circles. Before the Power Firm sample ran out I decided to try the Eye Complex. This cream is so gentle, it didn't effect my eyes at all, even though I started using it twice every day and not every other day as recommended. I must admit that during the first couple of days of using it I didn't really notice a difference in my eyes at all, however on the 3rd day after waking up I looked in the mirror and actually said out loud 'Oh My God!' I could not believe it - my dark circles were really diminished and my eyes in general looked so much tighter and, well, just younger. Even though I had only had about 6 hours sleep and quite a few drinks the night before I looked fresh as a daisy, just as if I had had 10 hours sleep. Actually my eyes don't ever look this good no matter how much beauty sleep I get! It's been a week now and I am not joking, every day my eyes seem to be looking younger and younger and the dark circles are now virtually gone. The one little sample has only just run out as you only need a small amount for each eye, it really goes a long long way. I can't stop looking in the mirror, yes I know that sounds really vain but after all these years of trying rubbish products that promise the earth I just can't believe I have found something that actually does what it promises. Thank you Dermalogica!!!! I will definately be investing in the full size product of this miracle eye cream.",
+        "headline": "My eyes look 10 years younger in 1 week!!!",
+        "rating": 5,
+        "ugc_id": 169913862
+      },
+      "faceoff_negative": {
+        "comments": "I've been using this product for over a month now, with a frequency of twice a day, as a preventative measure against wrinkles. You can see a difference immediately following application, as it smooths over the undereye area and evens out skin tone well. It's not magic, and I'm not noticing a major difference in my current fine lines, but the product feels nice and makes my make-up go on smoothly, so there is that.",
+        "headline": "Not bad, not bad...",
+        "rating": 3,
+        "ugc_id": 169913887
+      },
+      "name": "Age Reversal Eye Complex",
+      "variant_names": [
+        "active moist",
+        "age reversal eye complex",
+        "antioxidant hydramist"
+      ],
+      "native_review_count": 1917,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 2608,
+      "locale": "en_US"
+    }
+  }
+}

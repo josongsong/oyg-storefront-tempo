@@ -1,0 +1,704 @@
+{
+  "product_id": "pimprod2025279",
+  "product_url": "https://www.ulta.com/p/bronzed-duo-pimprod2025279",
+  "extracted_at": "2025-09-23T03:27:37.037215+00:00",
+  "product_name": "Juvia's PlaceBronzed Duo",
+  "brand": "Juvia's Place",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Face",
+    "Bronzer"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "face",
+    "bronzer"
+  ],
+  "currency": "USD",
+  "list_price": "24.00",
+  "sale_price": "16.80",
+  "availability": "in_stock",
+  "rating_avg": "4.8",
+  "rating_count": "418",
+  "images": [
+    "https://media.ulta.com/i/ulta/2583491?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2583491?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583491_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2583490cm_alt01?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryJuvia's Place Bronzed Duo: Designed to effortlessly define and sculpt facial features while warming up the complexion for a perfectly sun-kissed complexion.",
+  "details": "DetailsFormulated WithoutParabensSulfatesItem 2583491How To UseWith a powder brush gently swipe and blend powder in the hallows of your cheeks, fore head and areas that need definition and warm up.IngredientsTalc, Synthetic Fluorphlogopite, Magnesium Myristate, HDI/Trimethylol Hexyllactone Crosspolymer, Polymethyl Methacrylate, Dimethicone, Isodecyl Neopentanoate, Trimethylsiloxysilicate, Lauroyl Lysine, Polymethylsilsesquioxane, Diisostearyl Malate, Triethoxycaprylylsilane, Polypropylsilsesquioxane, Dimethiconol, Silica, Isostearyl Alcohol, Malic Acid, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Mica, Tin Oxide, Hexylene Glycol, Caprylyl Glycol, Phenoxyethanol May Contain: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Manganese Violet (CI 77742).",
+  "how_to_use": "With a powder brush gently swipe and blend powder in the hallows of your cheeks, fore head and areas that need definition and warm up.",
+  "ingredients": [
+    "Talc",
+    "Synthetic Fluorphlogopite",
+    "Magnesium Myristate",
+    "HDI/Trimethylol Hexyllactone Crosspolymer",
+    "Polymethyl Methacrylate",
+    "Dimethicone",
+    "Isodecyl Neopentanoate",
+    "Trimethylsiloxysilicate",
+    "Lauroyl Lysine",
+    "Polymethylsilsesquioxane",
+    "Diisostearyl Malate",
+    "Triethoxycaprylylsilane",
+    "Polypropylsilsesquioxane",
+    "Dimethiconol",
+    "Silica",
+    "Isostearyl Alcohol",
+    "Malic Acid",
+    "Calcium Sodium Borosilicate",
+    "Calcium Aluminum Borosilicate",
+    "Mica",
+    "Tin Oxide",
+    "Hexylene Glycol",
+    "Caprylyl Glycol",
+    "Phenoxyethanol May Contain: Titanium Dioxide (",
+    "Iron Oxides (",
+    "Manganese Violet ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "face",
+      "cosmetics"
+    ],
+    "finish": [
+      "powdery"
+    ],
+    "color": [
+      "brown"
+    ],
+    "ingredients": [
+      "synthetic"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "product_type": [],
+    "skin_type": [],
+    "special_features": []
+  },
+  "reviews": {
+    "product_id": "pimprod2025279",
+    "total_reviews": 418,
+    "reviews": [
+      {
+        "review_id": 556663778,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "I love Juvias products! They are really potent",
+        "nickname": "A.Nel.Gain",
+        "location": "Wesley Chapel",
+        "created_date": 1751657495697,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554532374,
+        "rating": 4,
+        "headline": "Great bronzer",
+        "comments": "This is a great bronzer for the price. I am pretry tan and this bronzer pulls a little warm but blends seamlessly and stays on all day.",
+        "nickname": "J",
+        "location": "California",
+        "created_date": 1749105065583,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554434565,
+        "rating": 5,
+        "headline": "Amazing Pigment!",
+        "comments": "It is so pigmented. A little goes a long way. I use it like blush. Love love love it!",
+        "nickname": "Bianca",
+        "location": "Michigan",
+        "created_date": 1748912693294,
+        "bottom_line": "Yes",
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553092373,
+        "rating": 5,
+        "headline": "Fantastic",
+        "comments": "Flattering color, great for contouring. Love the two shade option.",
+        "nickname": "SP",
+        "location": "Miami",
+        "created_date": 1746770650261,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552247118,
+        "rating": 5,
+        "headline": "Love, love, love",
+        "comments": "This is so amazing and affordable perfect shade range",
+        "nickname": "K",
+        "location": "NC",
+        "created_date": 1745469856466,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552247117,
+        "rating": 5,
+        "headline": "Love, love, love",
+        "comments": "This is so amazing and affordable perfect shade range",
+        "nickname": "K",
+        "location": "NC",
+        "created_date": 1745469855909,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551783091,
+        "rating": 5,
+        "headline": "Yes bc it's perfect",
+        "comments": "It's so good I would buy it again And again it lets your make up look so good what that color shade and other colors too like it's literally so good I would buy products from that brand again and again I bought like 5 of shade tan and medium there all so good and all the others products to 🔥 I love it",
+        "nickname": "",
+        "location": "Conroe",
+        "created_date": 1744755018996,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 549706829,
+        "rating": 5,
+        "headline": "That Girl",
+        "comments": "yess. I have had this product since highschool and she continues to give me that beautiful bronzed look. beginner friendly, high quality, tons of product. 10/10",
+        "nickname": "Alex",
+        "location": "Chico, CA",
+        "created_date": 1742691996825,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547958987,
+        "rating": 5,
+        "headline": "Works for Light Skin Tones",
+        "comments": "These two shades on the light palette work perfectly for my pale skin!",
+        "nickname": "Kelly J.",
+        "location": "Tulsa, Oklahoma",
+        "created_date": 1741408496345,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547403349,
+        "rating": 5,
+        "headline": "The bestt bronzer I ever tried😍",
+        "comments": "I recommend for suree",
+        "nickname": "Andrea",
+        "location": "CA",
+        "created_date": 1740542371166,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 546752414,
+        "rating": 5,
+        "headline": "Would Recommend",
+        "comments": "so good, very beginner friendly and will show you lots of love",
+        "nickname": "Alex",
+        "location": "Chico, CA",
+        "created_date": 1739660314797,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546137350,
+        "rating": 5,
+        "headline": "Love it!!",
+        "comments": "It has pigment plus it is very buildable!!",
+        "nickname": "Chicken Nuggets",
+        "location": "Mo",
+        "created_date": 1739121749213,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 544667820,
+        "rating": 5,
+        "headline": "LOVE",
+        "comments": "My first purchase from Juvia's Place and I am super satisfied with the product and proce point. I have fair skin and the lighter shades look great. Very natural and doesnt oxidize throughout the day. I really appreciate the compact and size of mirror; makes it easy to use on the go",
+        "nickname": "Sabrina",
+        "location": "Mount Laurel, New Jersey",
+        "created_date": 1738193516684,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542688276,
+        "rating": 5,
+        "headline": "BUY IT HOLY GRAIL",
+        "comments": "I love, very pigmented and last all day with my very oily skin.",
+        "nickname": "sky",
+        "location": "Greenville",
+        "created_date": 1736694826463,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538030800,
+        "rating": 5,
+        "headline": "Replaced my Charlotte Tilbury bronzer!",
+        "comments": "Smooth. Great color pay off. Easy to blend. The color bronzed tan has the most perfect bronzer color for neutral undertones. Not orange or too cool that it looks like contour. And the two colors make one perfect for summer and one for winter",
+        "nickname": "Shalimar",
+        "location": "Houston Texas",
+        "created_date": 1731950412607,
+        "bottom_line": "Yes",
+        "helpful_votes": 23,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537864199,
+        "rating": 5,
+        "headline": "Love this with a matte look",
+        "comments": "I like it love how it blends smells a but weird but i dont mind it",
+        "nickname": "Ana",
+        "location": "Texas",
+        "created_date": 1731642441045,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 537864234,
+        "rating": 5,
+        "headline": "Love this with a matte look",
+        "comments": "I like it love how it blends smells a but weird but i dont mind it",
+        "nickname": "Ana",
+        "location": "Texas",
+        "created_date": 1731642440709,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 537574030,
+        "rating": 5,
+        "headline": "The best BRONZER EVER",
+        "comments": "This is the best bromzer I have ever tried…. if they ever discontinue this line I will not be able to live",
+        "nickname": "KY",
+        "location": "CLT NC",
+        "created_date": 1731189588078,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 537313621,
+        "rating": 5,
+        "headline": "Love it..",
+        "comments": "The best bronzer I've tried thus far. I can't wait to use it again!",
+        "nickname": "Ashley",
+        "location": "Katy, TX",
+        "created_date": 1730755662137,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 533614913,
+        "rating": 5,
+        "headline": "Holy grail bronzer.",
+        "comments": "It can be natural and pigmented. Perfect shade for my skin tone. Your nose contour won't come off!",
+        "nickname": "ari",
+        "location": "Chester Virginia",
+        "created_date": 1726756469230,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 196,
+      "pages_total": 10,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2025279/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "BRONZERS",
+              "count": 1
+            },
+            {
+              "label": "Bronzer",
+              "count": 1
+            },
+            {
+              "label": "Bronzer, blush, or shadow",
+              "count": 1
+            },
+            {
+              "label": "contour",
+              "count": 1
+            },
+            {
+              "label": "Sun kissed look",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "BRONZERS",
+            "Bronzer",
+            "Bronzer, blush, or shadow",
+            "Sun kissed look",
+            "contour"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "MEDIUM GOLDEN UNDERTONES",
+              "count": 1
+            },
+            {
+              "label": "Fair skin",
+              "count": 1
+            },
+            {
+              "label": "Wanted natural bronze look",
+              "count": 1
+            },
+            {
+              "label": "Light skin",
+              "count": 1
+            },
+            {
+              "label": "40+",
+              "count": 1
+            },
+            {
+              "label": "Brown skin, brown eyes, blond hair, Fenty 400",
+              "count": 1
+            },
+            {
+              "label": "cool peach undertone",
+              "count": 1
+            },
+            {
+              "label": "makeup junkie",
+              "count": 1
+            },
+            {
+              "label": "medium tan skin",
+              "count": 1
+            },
+            {
+              "label": "oily skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "40+",
+            "Brown skin, brown eyes, blond hair, Fenty 400",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Fair skin",
+            "Light skin",
+            "MEDIUM GOLDEN UNDERTONES",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Wanted natural bronze look",
+            "Youthful",
+            "cool peach undertone",
+            "makeup junkie",
+            "medium tan skin",
+            "oily skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Easy application",
+              "count": 2
+            },
+            {
+              "label": "PIGMENT, SMOOTH NOT PATCHY",
+              "count": 1
+            },
+            {
+              "label": "THE TONE IS PERFECT",
+              "count": 1
+            },
+            {
+              "label": "Sun-kissed look",
+              "count": 1
+            },
+            {
+              "label": "Easy to blend",
+              "count": 1
+            },
+            {
+              "label": "Great color for my light skin",
+              "count": 1
+            },
+            {
+              "label": "Two shades",
+              "count": 1
+            },
+            {
+              "label": "Very Pigmented",
+              "count": 1
+            },
+            {
+              "label": "High Quality",
+              "count": 1
+            },
+            {
+              "label": "buildable, highly pigmented, blends well",
+              "count": 1
+            },
+            {
+              "label": "blends easily",
+              "count": 1
+            },
+            {
+              "label": "great shade range",
+              "count": 1
+            },
+            {
+              "label": "high quality",
+              "count": 1
+            },
+            {
+              "label": "huge pans",
+              "count": 1
+            },
+            {
+              "label": "not orange",
+              "count": 1
+            },
+            {
+              "label": "very pigmented",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Easy application",
+            "Easy to blend",
+            "Great color for my light skin",
+            "High Quality",
+            "PIGMENT, SMOOTH NOT PATCHY",
+            "Sun-kissed look",
+            "THE TONE IS PERFECT",
+            "Two shades",
+            "Very Pigmented",
+            "blends easily",
+            "buildable, highly pigmented, blends well",
+            "great shade range",
+            "high quality",
+            "huge pans",
+            "not orange",
+            "very pigmented"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        3,
+        9,
+        18,
+        20,
+        368
+      ],
+      "review_histogram": [
+        3,
+        9,
+        18,
+        20,
+        368
+      ],
+      "rating_count": 418,
+      "review_count": 418,
+      "average_rating": 4.77,
+      "recommended_ratio": 0.95,
+      "media": [
+        {
+          "id": "554434566",
+          "review_id": 554434565,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qmxcnv0ndk6psmqa5qts.jpg",
+          "headline": "Amazing Pigment!",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Amazing pigment",
+          "nickname": "Bianca",
+          "created_date": 1748912693294
+        },
+        {
+          "id": "516368151",
+          "review_id": 516367987,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/srdkp9pnwozclht1odrh.jpg",
+          "headline": "Found a bronze for my skin tone",
+          "rating": 4,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Looking sun kissed",
+          "nickname": "Myla",
+          "created_date": 1715650555000
+        },
+        {
+          "id": "513285995",
+          "review_id": 513286029,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wgh4ikanaaxn67johpg0.jpg",
+          "headline": "I would definitely recommend",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "This product is just amazing",
+          "nickname": "Asia",
+          "created_date": 1715181475587
+        },
+        {
+          "id": "514332098",
+          "review_id": 514332152,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xm4n5rkdnvfgzmxts63k.jpg",
+          "headline": "10/10",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Perfect",
+          "nickname": "Candi Ewy",
+          "created_date": 1709754431000
+        },
+        {
+          "id": "514332234",
+          "review_id": 514332233,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/c2udih3dzrezs50f8bfk.jpg",
+          "headline": "Get this is you love a great beat!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The deep bronzer and blush",
+          "nickname": "Roquestiononthefloor",
+          "created_date": 1690648873000
+        },
+        {
+          "id": "514332231",
+          "review_id": 514332240,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fjluomoz5c6cvhwuqnfu.jpg",
+          "headline": "Love it very pigmented",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Sunkissed",
+          "nickname": "Miraclef1570",
+          "created_date": 1681773019000
+        },
+        {
+          "id": "439541751",
+          "review_id": 439541673,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zqpe6hgtejhnwhmkbko2.jpg",
+          "headline": "I would buy it again",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Norma",
+          "created_date": 1672886418479
+        },
+        {
+          "id": "411664960",
+          "review_id": 411665057,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/k7jep0ju8wxe4ajp4kc6.jpg",
+          "headline": "SOOO underrated",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "I used the Light palette!!",
+          "nickname": "Grace",
+          "created_date": 1654548545187
+        },
+        {
+          "id": "376683309",
+          "review_id": 376683252,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lvt4epf81j4z7fwmtase.jpg",
+          "headline": "First Time Use, Would DEFINITELY Buy Again!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Absolutely love it!",
+          "nickname": "Jessica J",
+          "created_date": 1629379530754
+        },
+        {
+          "id": "361259946",
+          "review_id": 361259855,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/u1axzwtf2xzsg8n8t7gi.jpg",
+          "headline": "SO PRETTY",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Beautiful",
+          "nickname": "Santitty",
+          "created_date": 1625357027193
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Makes me look sunkissed I got shade Tan I love it so much. The pigment is there 😍😍🔥🔥🔥 go check out my instagram post with me having it on @li.miraclee",
+        "headline": "Love it very pigmented",
+        "rating": 5,
+        "ugc_id": 514332240
+      },
+      "faceoff_negative": {
+        "comments": "I own so many drug store bronzers that blow this one out of the water.  I am fair-neutral skinned and I feel like the light shade does not pull correctly on me.  for bronzing or contouring.  I just have so many other drug store bronzers that offer me a better tone and color, for half the price. maybe I should get a deeper color, but it's hard to believe being fair skinned that I would need to bump myself up to medium to get the results I want 🤷🏻‍♀️",
+        "headline": "not impressed",
+        "rating": 2,
+        "ugc_id": 421835622
+      },
+      "name": "Bronzed Duo",
+      "native_review_count": 196,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 222,
+      "locale": "en_US"
+    }
+  }
+}

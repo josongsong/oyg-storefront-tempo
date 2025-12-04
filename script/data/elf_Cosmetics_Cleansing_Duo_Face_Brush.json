@@ -1,0 +1,618 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/cleansing-duo-face-brush-xlsImpprod15481087",
+  "extracted_at": "2025-09-23T03:36:28.544354+00:00",
+  "product_name": "e.l.f. CosmeticsCleansing Duo Face Brush",
+  "brand": "e.l.f. Cosmetics",
+  "categories": [
+    "Home",
+    "Tools & Brushes",
+    "Skincare Tools",
+    "Cleansing Brushes"
+  ],
+  "category_keys": [
+    "home",
+    "tools-brushes",
+    "skincare-tools",
+    "brushes"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "14.00",
+  "availability": "in_stock",
+  "rating_avg": "3.8",
+  "rating_count": "195",
+  "images": [
+    "https://media.ulta.com/i/ulta/2506915?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2506915?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2506915cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2506915cm_alt02?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryEnjoy radiant, youthful skin by using the e.l.f. SKIN's Cleansing Duo Face Brush.",
+  "details": "DetailsFeaturesSoft, bristles help gently deep clean poresTextured silicone head massages & exfoliates skinFormulated WithoutPhthalates, parabens, nonylphenol ethoxylates, triclosan, triclocarban & hydroquinoneItem 2506915How To UseTo cleanse: Wet the brush side and apply a face cleanser onto the bristles. Using circular motions, rub the brush from the center of your face, outward, and down to your neck. Once you've covered all areas, rinse your face and brush. Use daily.To exfoliate: Apply an exfoliating scrub over moistened skin and using the silicone side of the brush, massage your face for 30 seconds to allow for deep cleaning. Rinse your face and brush. Use 2-3 times a week.",
+  "how_to_use": "To cleanse: Wet the brush side and apply a face cleanser onto the bristles. Using circular motions, rub the brush from the center of your face, outward, and down to your neck. Once you've covered all areas, rinse your face and brush. Use daily.To exfoliate: Apply an exfoliating scrub over moistened skin and using the silicone side of the brush, massage your face for 30 seconds to allow for deep cleaning. Rinse your face and brush. Use 2-3 times a week.",
+  "ingredients": "",
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/4d0e4c1b-748d-4287-b2f6-f50b785e95f1/960.webp",
+      "https://content.syndigo.com/asset/f50de4d7-a420-4830-ba39-fa247deffac4/960.webp",
+      "https://content.syndigo.com/asset/8d4b5ed0-de85-463d-9197-b7171cd08081/960.webp",
+      "https://content.syndigo.com/asset/cd154855-a48e-4a95-8879-0eae042b7c46/960.webp",
+      "https://content.syndigo.com/asset/4d0e4c1b-748d-4287-b2f6-f50b785e95f1/240.webp",
+      "https://content.syndigo.com/asset/f50de4d7-a420-4830-ba39-fa247deffac4/240.webp",
+      "https://content.syndigo.com/asset/8d4b5ed0-de85-463d-9197-b7171cd08081/240.webp",
+      "https://content.syndigo.com/asset/cd154855-a48e-4a95-8879-0eae042b7c46/240.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "skin-care",
+      "brushes",
+      "tools",
+      "skincare"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "finish": [
+      "dewy"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "exfoliating",
+      "brightening",
+      "purifying"
+    ],
+    "skin_type": [],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod15481087",
+    "total_reviews": 195,
+    "reviews": [
+      {
+        "review_id": 560401187,
+        "rating": 5,
+        "headline": "Amazing product!",
+        "comments": "Im allways looking for a better and faster way to cleanse my face, and this brush did  it ! It aplied evenly and only took abt a minute! The only thing that was kinda bugging me was that the brissels were real soft making it i little hard to blend in, but thats prob js me.",
+        "nickname": "SkfeStayingCool",
+        "location": "Phoenix AZ￼",
+        "created_date": 1755530147223,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 527235580,
+        "rating": 2,
+        "headline": "meh",
+        "comments": "i used the rougher part to exfoliate my face with my cleanser, but even that part just absorbed all the product. initially, i put it on the brush first, then my face, but even after applying it to my face first, there was very little product remaining. the bristles on the brush side are super soft, but also absorb a lot of product, so if you dont care about wasting product, go for it. i also dont even feel like it exfoilated my face very well.",
+        "nickname": "e",
+        "location": "USA",
+        "created_date": 1723599753624,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 485698396,
+        "rating": 3,
+        "headline": "Great brush for the price!",
+        "comments": "I love this brush but would love it even more if the soft sided end with bristles were a little bit more stiffer or rougher. To add to that, it would make it even more better if it was motorized via charging it or battery opperated. This is not a bad brush for its price and the rubber sidded side is awesome for getting dead skin off and exfoliating. I feel as if you used a foam cleanser the soft sidded bristle would be really good at foaming it up and applying it evenly over the face or even a face mask.",
+        "nickname": "Christina",
+        "location": "Minneapolis Minnesota",
+        "created_date": 1703317033840,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 444619856,
+        "rating": 5,
+        "headline": "A great cleansing brush, even for sensitive skin",
+        "comments": "This is a great cleansing brush for all skin types. It is gentle enough for the most sensitive skin, but still provides a deep clean because of the amount of packed bristles. I think others that are used to a more stiff brush head may not like it at first, but I would reccomend sticking with it to see the results. The very gentle exfoliation that occurs is great for skin without damaging it, and really cleans deep. I was skeptical at first as I was used to the clarisonic brush heads and this is very different but my skin has never been better. this brush has lasted me about 2 years and I will be repurchasing. P.s. I clean this brush about every week with diluted cleaning solution (which I reccomend for all face brushes to avoid mildew/bacteria)",
+        "nickname": "Lauren",
+        "location": "NJ",
+        "created_date": 1676647006150,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 396143707,
+        "rating": 3,
+        "headline": "I only like one side of the brush",
+        "comments": "The bristles of the brush part are too soft, I don't feel like I'm getting a good clean. The other side of the brush is better but I don't feel like I'm getting a deep clean.",
+        "nickname": "Marzbar",
+        "location": "Lower Lake, CA",
+        "created_date": 1643912821268,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 342921068,
+        "rating": 3,
+        "headline": "It's okay once wet the bristles stick together",
+        "comments": "When the bristles stick together it feels like I'm using the side of the bristles instead of the ends. I like using the silicon side to exfoliate my lips and remove long lasting lipsticks though!",
+        "nickname": "Ellie",
+        "location": "Indiana",
+        "created_date": 1619545949171,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 330972214,
+        "rating": 4,
+        "headline": "Soft!",
+        "comments": "Super soft bristles they feel so great on my face!",
+        "nickname": "Bunny",
+        "location": "Oxnard",
+        "created_date": 1614340725077,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 330912390,
+        "rating": 1,
+        "headline": "Fell apart",
+        "comments": "Loved it while it worked, then it fell literally fell apart in my hands. Had it less than a month.",
+        "nickname": "BN",
+        "location": "US",
+        "created_date": 1614286778637,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 288267655,
+        "rating": 2,
+        "headline": "Not Worth the Money",
+        "comments": "The bristles on the brush side are super soft so it's basically only good for applying your cleanser.  The rubber nubs on the reverse side are good for massaging some areas of your face but not necessarily for cleaning or exfoliating.  I would not recommend this product.",
+        "nickname": "GriffsGirl",
+        "location": "Tennessee",
+        "created_date": 1596999068745,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 283462305,
+        "rating": 5,
+        "headline": "Works like a charm",
+        "comments": "Easy to use and easy to clean. Creates a great lather to get your skin and pores clean.",
+        "nickname": "Reviews NY",
+        "location": "NY",
+        "created_date": 1594231476721,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 276886494,
+        "rating": 3,
+        "headline": "Smaller than expected, only one side really works.",
+        "comments": "The brush bristles are too soft it feels like you're painting your face. The silicone side however did help to remove blackheads so it's partly useful. It's about 5 inches long.",
+        "nickname": "Esme",
+        "location": "Fresno, California",
+        "created_date": 1590011198590,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 276375493,
+        "rating": 5,
+        "headline": "Brush",
+        "comments": "I absolutely LOVE this brush, I visibly have less blackheads and this brush feels so good on my face. Definitely recommend.",
+        "nickname": "Emily",
+        "location": "Muskegon",
+        "created_date": 1589472879896,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 276246183,
+        "rating": 2,
+        "headline": "Doesn't do the job",
+        "comments": "I wanted this brush to use to cleanse my face and exfoliate, but only found one side of the brush to be somewhat useful. One side of the brush had bristles that were way too soft to scrub anything. Also the side with the bristles took way to long to dry that by the time you needed to wash your face again the bristles were still wet, and eventually the brush began to get a bad smell. The only useful thing about this brush is the blue side for exfoliating.",
+        "nickname": "Isabel",
+        "location": "CA",
+        "created_date": 1589340093580,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 273299184,
+        "rating": 5,
+        "headline": "Excellent!!",
+        "comments": "Bristles are super soft and dual head is a winner! Great price, love all elf products and this one too.",
+        "nickname": "Makayla K",
+        "location": "Wisconsin",
+        "created_date": 1587660169564,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 273002540,
+        "rating": 3,
+        "headline": "I like this brush, but not for cleansing",
+        "comments": "I don't see this brush as super exfoliating because the bristles are too soft. that said, I really like this brush when it comes to washing off clay masks. I think it does a good job at washing away the excess product, and getting whatever's leftover into my skin. If you're looking for an exfoliating brush though...this isn't it",
+        "nickname": "Syd",
+        "location": "white plains, ny",
+        "created_date": 1587499838454,
+        "bottom_line": "No",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 270359599,
+        "rating": 4,
+        "headline": "I like this, but I don't love it",
+        "comments": "I was wanting a good exfoliating brush, and I settled on this one after much research. The bigger side is too soft, it just kind of smushes, and doesn't really do much. The exfoliating side does a great job, but it's small. Overall, I really like it, but would I make improvements? Yes.",
+        "nickname": "Sarah the Tomboy",
+        "location": "Mississippi",
+        "created_date": 1586458158934,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 268095355,
+        "rating": 4,
+        "headline": "In love",
+        "comments": "This is a perfect brush to soap up your face. I was so happy after I tried it.",
+        "nickname": "EricaC",
+        "location": "Las Vegas, Nevada",
+        "created_date": 1583470816161,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 267691126,
+        "rating": 5,
+        "headline": "It does it's job",
+        "comments": "I really like this. It works just fine. Affordable. Cleans my face. I like it.",
+        "nickname": "Just me.",
+        "location": "Texas.",
+        "created_date": 1582647863844,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 263670262,
+        "rating": 3,
+        "headline": "works okay but breaks easily",
+        "comments": "i bought this and was using it and then it broke! first use too! it was clearly not constructed the best",
+        "nickname": "Jo",
+        "location": "Boston",
+        "created_date": 1576903916532,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 262563637,
+        "rating": 2,
+        "headline": "Bristles too soft",
+        "comments": "I use this in the shower with my cleanser. With just my cleanser and hands, I don't find any makeup on my face after my shower, but this brush hasn't been able to get off all my makeup, let alone the oil in my pores",
+        "nickname": "Mads",
+        "location": "Brigham City",
+        "created_date": 1575155567204,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 42,
+      "pages_total": 3,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod15481087/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "gently cleansing my whole face",
+              "count": 1
+            },
+            {
+              "label": "Daily use",
+              "count": 1
+            },
+            {
+              "label": "taking off face masks",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Daily use",
+            "gently cleansing my whole face",
+            "taking off face masks"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Poor Quality",
+              "count": 1
+            },
+            {
+              "label": "Too  soft",
+              "count": 1
+            },
+            {
+              "label": "Not \"motorized\"",
+              "count": 1
+            },
+            {
+              "label": "One of the brushes is too soft",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Causes Streaks",
+            "Feels Rough On Skin",
+            "Not \"motorized\"",
+            "One of the brushes is too soft",
+            "Poor Quality",
+            "Too  soft",
+            "Too Small",
+            "Uneven Application",
+            "Wastes Make Up"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Budget Shopper",
+              "count": 1
+            },
+            {
+              "label": "Avid Do-It-Yourselfer",
+              "count": 1
+            },
+            {
+              "label": "Athletic",
+              "count": 1
+            },
+            {
+              "label": "Cruelty free all day",
+              "count": 1
+            },
+            {
+              "label": "Interested in beauty products",
+              "count": 1
+            },
+            {
+              "label": "Young",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Athletic",
+            "Avid Do-It-Yourselfer",
+            "Beginner",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Do-It-Yourselfer",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Cruelty free all day",
+            "Energetic/Active",
+            "Interested in beauty products",
+            "Professional",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Young",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Easy to use",
+              "count": 2
+            },
+            {
+              "label": "Applies Evenly",
+              "count": 1
+            },
+            {
+              "label": "Easy To Clean",
+              "count": 1
+            },
+            {
+              "label": "Smooth Finish",
+              "count": 1
+            },
+            {
+              "label": "Soft",
+              "count": 1
+            },
+            {
+              "label": "Cruelty free",
+              "count": 1
+            },
+            {
+              "label": "Soft bristles",
+              "count": 1
+            },
+            {
+              "label": "soft",
+              "count": 1
+            },
+            {
+              "label": "Makes skin feel great!",
+              "count": 1
+            },
+            {
+              "label": "Very affordable. Easy to use and it does work.",
+              "count": 1
+            },
+            {
+              "label": "Cruelty free brand",
+              "count": 1
+            },
+            {
+              "label": "Good for exfoliating",
+              "count": 1
+            },
+            {
+              "label": "Inexpensive",
+              "count": 1
+            },
+            {
+              "label": "Not too big",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Applies Evenly",
+            "Cruelty free",
+            "Cruelty free brand",
+            "Cruelty-Free",
+            "Easy To Clean",
+            "Easy to use",
+            "Good for exfoliating",
+            "High Quality",
+            "Inexpensive",
+            "Makes skin feel great!",
+            "Not too big",
+            "Smooth Finish",
+            "Soft",
+            "Soft bristles",
+            "Versatile",
+            "Very affordable. Easy to use and it does work.",
+            "soft"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        19,
+        23,
+        27,
+        37,
+        89
+      ],
+      "review_histogram": [
+        19,
+        23,
+        27,
+        37,
+        89
+      ],
+      "rating_count": 195,
+      "review_count": 195,
+      "average_rating": 3.79,
+      "recommended_ratio": 0.73,
+      "media": [
+        {
+          "id": "327451568",
+          "review_id": 327451435,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vcr4fb3d8npfjatoit35.jpg",
+          "headline": "10/10 for sensitive dry skin",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Before",
+          "nickname": "TheSloan",
+          "created_date": 1611362537000
+        },
+        {
+          "id": "327451522",
+          "review_id": 327451435,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tymak47d3rqvrmsjb6pe.jpg",
+          "headline": "10/10 for sensitive dry skin",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "After!",
+          "nickname": "TheSloan",
+          "created_date": 1611362537000
+        },
+        {
+          "id": "194020777",
+          "review_id": 194020767,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/iqxppclrkhcouq2uhpoh.jpg",
+          "headline": "Overall Great",
+          "rating": 4,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Damaged brush head",
+          "nickname": "Jackie427",
+          "created_date": 1532540893000
+        },
+        {
+          "id": "194020768",
+          "review_id": 194020767,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/nba45drue0ejgxtvmcqh.jpg",
+          "headline": "Overall Great",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Damaged brush head",
+          "nickname": "Jackie427",
+          "created_date": 1532540893000
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "The brush side is super soft and perfect for building up a lather and the blue bristles are good for massaging the skin. It's super soft and I loved it as soon as I tried it",
+        "headline": "Perfect",
+        "rating": 5,
+        "ugc_id": 147281047
+      },
+      "faceoff_negative": {
+        "comments": "I just received this brush today and I guess my expectations were too high. Since I have extremely oily skin that tends to get a gritty feel and look by the end of the day, I go for facial brushes instead of just my hands or a wash cloth. I use the Vanity Planet spin for perfect skin brush and I love it but I wanted a manual substitute that I could take when I traveled. Firstly, the bristle side (white side) is way too soft, like hair almost, and when you start buffing your skin it basically collapses to one side or the other. Secondly, the silicon side doesn't have bristles per say it's more like very tiny spikes which yield minimal to no lather at all! This brush may be more idle for the extremely sensitive skin types but people with oily or normal skin may want to look elsewhere. The brush does have a nice size, nice handle for gripping, and feels like it would last a good amount of time but its just not the one for me.",
+        "headline": "Not for me!",
+        "rating": 2,
+        "ugc_id": 140652419
+      },
+      "name": "Cleansing Duo Face Brush",
+      "variant_names": [
+        "Cleansing Duo Face Brush"
+      ],
+      "native_review_count": 42,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 153,
+      "locale": "en_US"
+    }
+  }
+}

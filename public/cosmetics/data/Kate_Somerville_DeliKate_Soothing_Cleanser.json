@@ -1,0 +1,335 @@
+{
+  "product_id": "pimprod2015720",
+  "product_url": "https://www.ulta.com/p/delikate-soothing-cleanser-pimprod2015720",
+  "extracted_at": "2025-09-23T03:45:24.455447+00:00",
+  "product_name": "Kate SomervilleDeliKate Soothing Cleanser",
+  "brand": "Kate Somerville",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "46.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "256",
+  "images": [
+    "https://media.ulta.com/i/ulta/2566770?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2566770?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2566770cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2566770cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2566770cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2566770cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2566770cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2566770cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2566770cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2566770cm_vid01/thumbs/c0c7a6e5-fb9a-4ce1-923e-00c5490e0c3c?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryWhether skin irritation is your daily reality or a frequent occurrence, Kate Somerville's DeliKate Soothing Cleanser is the calming cleanser of your dreams. Expertly formulated with a complex of Peptides + Ceramides + soothing botanicals to ease inflamed skin and restore skin’s protective barrier.",
+  "details": "DetailsBenefitsClinically tested safe for sensitive skinRelieve visible redness + tightnessComfort itchiness + restores skin barrierGently cleanses without strippingKey IngredientsPeptide Complex + Ceramides : Relieves visible redness and calms irritation, while working to restore skin’s protective barrier.Ginger Root Extract- Helps reduce visible rednessTasmannia Lanceolata Fruit Extract- Works to calm skinResearch ResultsAfter 1 week:*100% of women reported skin feels moisturized after cleansing.100% of women reported no residue.100% of women reported skin feeling softer.96% of women reported their skin barrier feeling restored*Results based on independent Clinical StudyItem 2566770How To UseGood for: Morning + EveningHow often: DailyApplication: Apply a small amount to wet skin and massage for 30 seconds. Rinse and gently pat dry.IngredientsAqua/Water/ Eau, Caprylic/Capric Triglyceride, Glycerin, Polyglyceryl-3 Methylglucose Distearate, Propanediol, Glyceryl Stearate, Cetearyl Alcohol, Xylitylglucoside, Betaine, Phospholipids, Linoleic Acid, Glycine Soja (Soybean) Sterols, Ceramide NP, Ceramide AP, Ceramide EOP, Phtosphingosine, Cholesterol, Aloe Barbadensis Leaf Juice, Tasmannia Lanceolata Fruit/Leaf Extract, Cucumis Sativus (Cucumber) Seed Oil, Ectoin, Hydroxyectoin, Sodium Lauroyl Lactylate, Zingiber Officinale (Ginger) Root Extract, Bisabolol, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Carbomer, Anhydroxylitol, Oryza Sativa (Rice) Bran Extract, 1,2-Hexanediol, Stearic Acid, Sodium Lauroyl Glutamate, Saccharide Isomerate, Xylitol, Trisodium Ethylenediamine Disuccinate, Caprylhydroxamic Acid, Helianthus Annuus (Sunflower) Seed Oil, Xanthan Gum, Citric Acid, Sodium Citrate.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Good for: Morning + EveningHow often: DailyApplication: Apply a small amount to wet skin and massage for 30 seconds. Rinse and gently pat dry.",
+  "ingredients": [
+    "Aqua/Water/ Eau",
+    "Caprylic/Capric Triglyceride",
+    "Glycerin",
+    "Polyglyceryl-3 Methylglucose Distearate",
+    "Propanediol",
+    "Glyceryl Stearate",
+    "Cetearyl Alcohol",
+    "Xylitylglucoside",
+    "Betaine",
+    "Phospholipids",
+    "Linoleic Acid",
+    "Glycine Soja (Soybean) Sterols",
+    "Ceramide NP",
+    "Ceramide AP",
+    "Ceramide EOP",
+    "Phtosphingosine",
+    "Cholesterol",
+    "Aloe Barbadensis Leaf Juice",
+    "Tasmannia Lanceolata Fruit/Leaf Extract",
+    "Cucumis Sativus (Cucumber) Seed Oil",
+    "Ectoin",
+    "Hydroxyectoin",
+    "Sodium Lauroyl Lactylate",
+    "Zingiber Officinale (Ginger) Root Extract",
+    "Bisabolol",
+    "Tocopherol",
+    "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+    "Carbomer",
+    "Anhydroxylitol",
+    "Oryza Sativa (Rice) Bran Extract",
+    "2-Hexanediol",
+    "Stearic Acid",
+    "Sodium Lauroyl Glutamate",
+    "Saccharide Isomerate",
+    "Xylitol",
+    "Trisodium Ethylenediamine Disuccinate",
+    "Caprylhydroxamic Acid",
+    "Helianthus Annuus (Sunflower) Seed Oil",
+    "Xanthan Gum",
+    "Citric Acid",
+    "Sodium Citrate"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "oil"
+    ],
+    "ingredients": [
+      "ceramides"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "natural",
+      "soothing",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2015720",
+    "total_reviews": 256,
+    "reviews": [
+      {
+        "review_id": 545744322,
+        "rating": 1,
+        "headline": "Smells Like Wet Towel",
+        "comments": "I don't know if I got an old one or what but this cleanser smells like a moldy wet towel. I hate it. The smell lingers on my hands and face. I'm going back to the goat milk cleanser.",
+        "nickname": "Alex",
+        "location": "Los Angeles, CA",
+        "created_date": 1738344792612,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536962753,
+        "rating": 3,
+        "headline": "Can't recommend",
+        "comments": "Smells.",
+        "nickname": "PLay",
+        "location": "Texas",
+        "created_date": 1730167368236,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 417867951,
+        "rating": 5,
+        "headline": "Yes!! Always a 5!",
+        "comments": "Whether you have sensitive skin or not do yourself a favor and use this Delikate line for your nite time routine. Don't confuse oily with healthy lipids that protect your skin after harsh exfoliants your choice such as retinol! This feels amazing and soothing, this will lock in your favorite serum's while protecting your skin barrier from harsh exfoliation. Little rule… HA for the day, Ceramide's let it ride 💕",
+        "nickname": "Karrie",
+        "location": "International Falls, Mn",
+        "created_date": 1658420311571,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 379684003,
+        "rating": 5,
+        "headline": "Yes, For Dry & Sensitive Skin",
+        "comments": "Gentle and will do no harm. Great for dry winter skin or if using tret/retinoids. I use as my morning/second PM cleanse.",
+        "nickname": "Egpgfa",
+        "location": "South Carolina",
+        "created_date": 1631157095376,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 353917579,
+        "rating": 5,
+        "headline": "Great for stressed sensitive skin",
+        "comments": "This cleanser is perfect for stressed , out sensitive skin. I love it. The consistency is perfect. I use this cleanser along with the Delikate serum , and moisturizer. I can not get over the drastic changes in my skin compare to 6 months ago. My skin looks youthful again and super healthy. I am so grateful for discovering this Delikate skincare line. Thank you Kate!!",
+        "nickname": "Diamondeyes",
+        "location": "Blackhawk",
+        "created_date": 1624607349224,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 349993456,
+        "rating": 1,
+        "headline": "Feels greasy",
+        "comments": "This left my skin feeling greasy. It didn't feel like it ever rinsed off and I hate that. It has a light scent, but there's nothing amazing about this product. Waste of money.",
+        "nickname": "artimake",
+        "location": "WV",
+        "created_date": 1623507597483,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 326075582,
+        "rating": 1,
+        "headline": "Meh",
+        "comments": "I usually normal to combo(dry) skin, it can be sensitive at times so I thought this would be great. My skin doesn't feel clean at all after washing with this cleanser.",
+        "nickname": "Ljkeefe",
+        "location": "Seattle, Wa",
+        "created_date": 1611417425243,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 324215626,
+        "rating": 2,
+        "headline": "It's okay",
+        "comments": "I have dry skin. I thought this would be great, especially since it's winter but it made my cheeks extremely dried. Felt like I never lotion my cheeks. This didn't work for me. Too bad.",
+        "nickname": "Bao",
+        "location": "Tulsa",
+        "created_date": 1610135129839,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 311914210,
+        "rating": 5,
+        "headline": "Amazing!!!",
+        "comments": "This Cleanser is amazing. I was in the middle of a bad breakout when I started using it and after only a week it has completely cleared up my face. It feels a little weird (almost greasy) as you're rinsing it off, but it doesn't leave a residue on your face or anything. It has made my skin super soft  and is keeping it from stinging during cleansing as we had to colder Temps. I just wish it did a little better at removing eye makeup residue that is left behind after makeup remover.",
+        "nickname": "Sugarpie479",
+        "location": "Pittsburgh",
+        "created_date": 1604097267034,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 9,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Everyday",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Everyday"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Doesn't remove makeup residue well",
+              "count": 1
+            },
+            {
+              "label": "Texture a little weird",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Doesn't remove makeup residue well",
+            "Texture a little weird"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Cleared skin",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Soft",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Cleared skin",
+            "Moisturizing",
+            "Soft"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        9,
+        3,
+        10,
+        29,
+        205
+      ],
+      "review_histogram": [
+        9,
+        3,
+        10,
+        29,
+        205
+      ],
+      "rating_count": 256,
+      "review_count": 256,
+      "average_rating": 4.63,
+      "recommended_ratio": 1.0,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "This Cleanser is amazing. I was in the middle of a bad breakout when I started using it and after only a week it has completely cleared up my face. It feels a little weird (almost greasy) as you're rinsing it off, but it doesn't leave a residue on your face or anything. It has made my skin super soft  and is keeping it from stinging during cleansing as we had to colder Temps. I just wish it did a little better at removing eye makeup residue that is left behind after makeup remover.",
+        "headline": "Amazing!!!",
+        "rating": 5,
+        "ugc_id": 311914210
+      },
+      "faceoff_negative": {
+        "comments": "So this cleanser leaves skin hydrated, soothed and feeling plump, my only issue is the scent.. because it's fragrance free it has a musty scent to it from the ingredients and sadly I can't get past it",
+        "headline": "Lovely cleanser, unsure on the smell!",
+        "rating": 3,
+        "ugc_id": 506528136
+      },
+      "name": "DeliKate Soothing Cleanser",
+      "native_review_count": 9,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 247,
+      "locale": "en_US"
+    }
+  }
+}

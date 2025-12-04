@@ -1,0 +1,114 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/gentle-cream-face-cleanser-makeup-remover-prod5013711",
+  "extracted_at": "2025-09-23T03:58:44.095726+00:00",
+  "product_name": "ExuvianceGentle Cream Face Cleanser + Makeup Remover",
+  "brand": "Exuviance",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "34.00",
+  "availability": "in_stock",
+  "rating_avg": "4.5",
+  "rating_count": "442",
+  "images": [
+    "https://media.ulta.com/i/ulta/2554748?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2554748?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2554748cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2554748cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2554748cm_alt04?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingExuviance Gentle Cream Face Cleanser + Makeup Remover is a milky soap-free comfort-rich facial cleanser and makeup remover with PHA and botanicals.",
+  "details": "DetailsBenefitsExuviance Gentle Cream Cleanser is formulated to gently cleanse away makeup, surface oils and impurities, while it lightly hydrates skinContains Gluconolactone, a Polyhydroxy Acid (PHA), along with skin conditioners and botanicals to target smoother skin textureSoap-freeRemoves makeupDermatologist and Allergy testedKey IngredientsGluconolactone (PHA)BotanicalsConditionersItem 2554748How To UseApply to moistened skin and massage using an upward circular motion. Tissue off or rinse thoroughly with warm water and pat dry. Recommended for use morning and evening.Precautions: For external use only. Use only as directed. Avoid contact with eyes. If contact occurs rinse well with water. If rash or irritation develops, discontinue use. Keep out of reach of children. If swallowed seek medical assistance.IngredientsAqua/water/eau, Isododecane, Propylene Glycol Dicaprylate/dicaprate, Glycerin, Ethylhexyl Isononanoate, Butylene Glycol, Glyceryl Stearate Se,PEG-100 Stearate, Triundecanoin, Cetyl Alcohol, Octyldodecanol, Stearyl Alcohol, Gluconolactone, Cetearyl Glucoside, Cucumis Sativus (cucumber) Fruit Extract, Aloe Barbadensis Leaf Juice, Althaeaofficinalis Root Extract, Chamomillarecutita (matricaria) Flower Extract,rosmarinus Officinalis (rosemary) Leaf Extract, Cetearyl Alcohol, Dimethicone, C13-14 Isoparaffin, Propylene Glycol, Laureth-7, Polyacrylamide, Disodium EDTA,chlorphenesin, Methylparaben, Parfum (fragrance), Benzyl Benzoate.Shipping & Coupon RestrictionsShipping Restrictions : This item cannot be shipped via air.This brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Apply to moistened skin and massage using an upward circular motion. Tissue off or rinse thoroughly with warm water and pat dry. Recommended for use morning and evening.Precautions: For external use only. Use only as directed. Avoid contact with eyes. If contact occurs rinse well with water. If rash or irritation develops, discontinue use. Keep out of reach of children. If swallowed seek medical assistance.",
+  "ingredients": [
+    "Aqua/water/eau",
+    "Isododecane",
+    "Propylene Glycol Dicaprylate/dicaprate",
+    "Glycerin",
+    "Ethylhexyl Isononanoate",
+    "Butylene Glycol",
+    "Glyceryl Stearate Se",
+    "PEG-100 Stearate",
+    "Triundecanoin",
+    "Cetyl Alcohol",
+    "Octyldodecanol",
+    "Stearyl Alcohol",
+    "Gluconolactone",
+    "Cetearyl Glucoside",
+    "Cucumis Sativus (cucumber) Fruit Extract",
+    "Aloe Barbadensis Leaf Juice",
+    "Althaeaofficinalis Root Extract",
+    "Chamomillarecutita (matricaria) Flower Extract",
+    "rosmarinus Officinalis (rosemary) Leaf Extract",
+    "Cetearyl Alcohol",
+    "Dimethicone",
+    "C13-14 Isoparaffin",
+    "Propylene Glycol",
+    "Laureth-7",
+    "Polyacrylamide",
+    "Disodium EDTA",
+    "chlorphenesin",
+    "Methylparaben",
+    "Parfum (fragrance)",
+    "Benzyl Benzoate"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser",
+      "moisturizer"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "fragrance",
+      "paraben-free"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "natural",
+      "hypoallergenic",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprodgentle-cream-face-cleanser-makeup-remover-prod5013711",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

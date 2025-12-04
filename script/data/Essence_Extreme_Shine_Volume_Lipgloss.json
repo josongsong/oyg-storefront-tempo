@@ -1,0 +1,608 @@
+{
+  "product_id": "pimprod2030534",
+  "product_url": "https://www.ulta.com/p/extreme-shine-volume-lipgloss-pimprod2030534",
+  "extracted_at": "2025-09-23T03:52:31.024183+00:00",
+  "product_name": "EssenceExtreme Shine Volume Lipgloss",
+  "brand": "Essence",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Lips",
+    "Lip Plumpers"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "lips",
+    "lip-plumpers"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "3.99",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "615",
+  "images": [
+    "https://media.ulta.com/i/ulta/2590851?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2590851?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2590851_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2590851_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2590851_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2590851_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2590851_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2590851_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2590851cm_alt01?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganGive BackEssence Extreme Shine Volume Lip gloss has a non-sticky, super smooth texture that nourishes lips while creating an ultra-shiny wet gloss look!",
+  "details": "DetailsFeaturesGives lips a natural glossy sheensuper smooth lipgloss textureNon-sticky lipgloss formulaSelect shades provide a subtle plumping effectCruelty-freeFormulated WithoutAnimal by-productFragranceGlutenOilParabensPreservativesItem 2590851How To UseUsing the doe foot applicator, apply essence Extreme Shine Volume Lip gloss to the lips. Wear alone for a natural sheen or pair with your favorite essence lipstick for a full glam look!Ingredients01 Crystal Clear: Polybutene, Octyldodecanol, Aroma (Flavor).",
+  "how_to_use": "Using the doe foot applicator, apply essence Extreme Shine Volume Lip gloss to the lips. Wear alone for a natural sheen or pair with your favorite essence lipstick for a full glam look!",
+  "ingredients": [
+    "01 Crystal Clear: Polybutene",
+    "Octyldodecanol",
+    "Aroma (Flavor)"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "lips",
+      "lip",
+      "cosmetics"
+    ],
+    "product_type": [
+      "serum",
+      "lip gloss"
+    ],
+    "finish": [
+      "glossy",
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "color": [
+      "purple"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural"
+    ],
+    "skin_type": [],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2030534",
+    "total_reviews": 615,
+    "reviews": [
+      {
+        "review_id": 562929605,
+        "rating": 5,
+        "headline": "SUNDbeauty buys over & over",
+        "comments": "Great colors, excellent moisture, shine & plumping for a reasonable price. Love these!",
+        "nickname": "Jane",
+        "location": "Midwest",
+        "created_date": 1757221873736,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 562122700,
+        "rating": 5,
+        "headline": "My only lip gloss",
+        "comments": "It is shiny and full of color and does not dry out your lips",
+        "nickname": "Rachel",
+        "location": "Wisconsin",
+        "created_date": 1756932577844,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561463341,
+        "rating": 4,
+        "headline": "would buy again!",
+        "comments": "one of the most glossiest- lip glosses i have ever owned. a little bit on the thicker side. blends amazing with my lip liners.",
+        "nickname": "allie",
+        "location": "westford, ma",
+        "created_date": 1756698989361,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561229527,
+        "rating": 4,
+        "headline": "Not plumping.",
+        "comments": "Nice gloss but not much plump.",
+        "nickname": "Rachael",
+        "location": "Rock Hill, SC",
+        "created_date": 1756334604039,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 560570751,
+        "rating": 5,
+        "headline": "Yes",
+        "comments": "10 out 10",
+        "nickname": "",
+        "location": "Florida",
+        "created_date": 1755805356278,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 560475271,
+        "rating": 4,
+        "headline": "Shine lip gloss",
+        "comments": "Great shine. I blend this with lip liner to add color. I also wear it alone for great shine on lips for casual wear.",
+        "nickname": "Tika",
+        "location": "Spring, TX",
+        "created_date": 1755641688293,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560450684,
+        "rating": 3,
+        "headline": "Lip Gloss , Zero Plumping",
+        "comments": "If you're looking for a nice lip gloss, this will work; but if you're wanting any lip-plumping, this is not it!  No burning, no tingling  - no plumping.",
+        "nickname": "Ellie",
+        "location": "Omaha, Ne",
+        "created_date": 1755617398777,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 560450352,
+        "rating": 5,
+        "headline": "I would buy this product again",
+        "comments": "I love the way gloss look 😍 It my repeat Item. I have to have this product.",
+        "nickname": "Only1",
+        "location": "Lakewood Co",
+        "created_date": 1755617049454,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559954580,
+        "rating": 5,
+        "headline": "Must have!!",
+        "comments": "Essence has really good lip products and this one does not disappoint! Since wearing it I've recieved so many compliments! It also has a pleasant yet faint cocoa butter smell",
+        "nickname": "KayB",
+        "location": "Lexington, KY",
+        "created_date": 1754941177469,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559865399,
+        "rating": 5,
+        "headline": "New Favorite!!",
+        "comments": "This gloss is amazing, nice soft colors, long lasting, not sticky and you can't beat the price! \nAdd a liner and you are good to go! Have worn it every day since I got it! Highly recommend!",
+        "nickname": "Tracey",
+        "location": "NY,NY",
+        "created_date": 1754753912431,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559385650,
+        "rating": 5,
+        "headline": "Beautiful color",
+        "comments": "Shade is \"candy shop\". Adds nice color to my pale lips. Not too dark not too light, good for pale skin. Definitely a \"warm pink\" and not good for cool undertones. A little gritty from the glitter but I do not mind. A little sticky but lasts",
+        "nickname": "Addie",
+        "location": "Ohio",
+        "created_date": 1754467615543,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559150432,
+        "rating": 5,
+        "headline": "Love love LOVEE",
+        "comments": "Truly one of my favorite lip products, has an amazing shine. Feels less like a lip oil and more like a gloss",
+        "nickname": "Ruby",
+        "location": "Wichita ks",
+        "created_date": 1754106924687,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558649714,
+        "rating": 4,
+        "headline": "Good gloss",
+        "comments": "This is a good gloss for tbe price point! No fancy changing colors or advanced shades but over all a decent selection. Some of the colors are misleading (ex: the purple) and wont show up at all on melanated skin. Over all a good lip gloss of you need something affordable but not my go-to brand or something I suggest if you have the opportunity to splurge on higher end products.",
+        "nickname": "No Name Beauty",
+        "location": "Baltimore, MD",
+        "created_date": 1753845721544,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558622081,
+        "rating": 5,
+        "headline": "Definitely would recommend",
+        "comments": "Bought this on a whim for a party… I absolutely love it! definitely recommend. Has a little tingle when you put it on but goes away after a bit …. Leaves the lips nice and plump.",
+        "nickname": "Erika A",
+        "location": "Moreno Valley, ca",
+        "created_date": 1753814281435,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558417959,
+        "rating": 5,
+        "headline": "Awesome I love it!",
+        "comments": "I had been looking for a good lip gloss that wasn't super sticky and lasted a while and this was perfect! It was a cute color and had a shimmer to it. Would totally buy again.",
+        "nickname": "",
+        "location": "Florida",
+        "created_date": 1753721159911,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558386223,
+        "rating": 5,
+        "headline": "best lipgloss",
+        "comments": "i am a teen and no dramaticness or anything the clear lipgloss is probably one of the best ones i've ever used!! when wearing i get so many compliments and my lips are so glossy and the gloss lasts a while.",
+        "nickname": "Ava",
+        "location": "New Jersey",
+        "created_date": 1753652350985,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557985041,
+        "rating": 2,
+        "headline": "wouldn't recommend",
+        "comments": "so my sister came in this lip gloss and when I tried it on the color was very pretty but the taste is disgusting and it's very sticky wouldn't recommend",
+        "nickname": "Pearly",
+        "location": "Florida miami",
+        "created_date": 1753138587601,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 557856043,
+        "rating": 5,
+        "headline": "it is awesome it stays on all day",
+        "comments": "it is awesome it stays on all day",
+        "nickname": "Avery",
+        "location": "Virginia",
+        "created_date": 1753012584478,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557444765,
+        "rating": 4,
+        "headline": "It was good",
+        "comments": "I love this product, but ,do not recommend buying the colored glosses unless you have bought them in person. I bought a colored gloss online but, I have darker lips so the shade was far too light for me. On the other hand the clear gloss is perfect for all shades and shaped lips and would definitely recommend",
+        "nickname": "Olivia",
+        "location": "Marlborough MA",
+        "created_date": 1752773950075,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556882899,
+        "rating": 5,
+        "headline": "Great volume product!",
+        "comments": "A nice color for a casual day and love the volume it gives to my lips",
+        "nickname": "Suzanne",
+        "location": "Wallingford Ct",
+        "created_date": 1752107390981,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 549,
+      "pages_total": 28,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2030534/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Everyday",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Everyday"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Friendly",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Friendly",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "affordable",
+              "count": 1
+            },
+            {
+              "label": "glossy",
+              "count": 1
+            },
+            {
+              "label": "no smell",
+              "count": 1
+            },
+            {
+              "label": "not sticky",
+              "count": 1
+            },
+            {
+              "label": "Smooth",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Smooth",
+            "affordable",
+            "glossy",
+            "no smell",
+            "not sticky"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        41,
+        25,
+        36,
+        83,
+        430
+      ],
+      "review_histogram": [
+        41,
+        25,
+        36,
+        83,
+        430
+      ],
+      "rating_count": 615,
+      "review_count": 615,
+      "average_rating": 4.36,
+      "recommended_ratio": 0.86,
+      "media": [
+        {
+          "id": "559385630",
+          "review_id": 559385650,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ihdja6kq5y4wcfsxhrwc.jpg",
+          "headline": "Beautiful color",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Addie",
+          "created_date": 1754467615543
+        },
+        {
+          "id": "559385651",
+          "review_id": 559385650,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/a2pciv9gthpjvx5b7we1.jpg",
+          "headline": "Beautiful color",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Addie",
+          "created_date": 1754467615543
+        },
+        {
+          "id": "559385629",
+          "review_id": 559385650,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cfiynbdojptcgowlgj2d.jpg",
+          "headline": "Beautiful color",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Addie",
+          "created_date": 1754467615543
+        },
+        {
+          "id": "555174338",
+          "review_id": 555174337,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lxydmfbqu4soooyf6hcb.jpg",
+          "headline": "I buy this every 3 weeks",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "It's so pretty I love the shine",
+          "nickname": "Lindie",
+          "created_date": 1750009161807
+        },
+        {
+          "id": "512176228",
+          "review_id": 512176573,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/l1gdzxh5dxmpinkolxxk.jpg",
+          "headline": "I love this gloss!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 1,
+          "type": "image",
+          "nickname": "Karen",
+          "created_date": 1713983972590
+        },
+        {
+          "id": "509537844",
+          "review_id": 509538162,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xktyftiuir0kb0ax59ag.jpg",
+          "headline": "Holy grail for black girls",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Don't mind my face lol",
+          "nickname": "Brie",
+          "created_date": 1711158513252
+        },
+        {
+          "id": "487093590",
+          "review_id": 487093558,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hef1toqcbzqbgjj3tdpj.jpg",
+          "headline": "So many compliments!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Sweet Dreams!!!!!",
+          "nickname": "Tenley",
+          "created_date": 1704766806180
+        },
+        {
+          "id": "487093559",
+          "review_id": 487093558,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bp2atynzjaikk1w2txjc.jpg",
+          "headline": "So many compliments!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Milky Way!!!!!",
+          "nickname": "Tenley",
+          "created_date": 1704766806180
+        },
+        {
+          "id": "453055703",
+          "review_id": 453055711,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/denayhmuyjpfsqmysgvi.jpg",
+          "headline": "Love this- flattering for many skin tones (shadow rose)",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Almost my natural color. Shadow Rose",
+          "nickname": "Serena",
+          "created_date": 1681685114313
+        },
+        {
+          "id": "438515753",
+          "review_id": 438515716,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fggopak3x206zswtm5m5.jpg",
+          "headline": "I LOVE THIS GLOSSSSSS",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ahmaya",
+          "created_date": 1671913092802
+        },
+        {
+          "id": "438515744",
+          "review_id": 438515716,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fjbyhno2dwxsafspxsid.jpg",
+          "headline": "I LOVE THIS GLOSSSSSS",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ahmaya",
+          "created_date": 1671913092802
+        },
+        {
+          "id": "436374343",
+          "review_id": 436374534,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/skx4y1uro1ecgbeurwt7.jpg",
+          "headline": "Purple Rain, Crystal Clear, Milky Way",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jackie",
+          "created_date": 1670228652963
+        },
+        {
+          "id": "399472105",
+          "review_id": 399472218,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xelucmrfcpz67mbd37m7.jpg",
+          "headline": "Best of All",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Licious Lips",
+          "nickname": "Gbomama",
+          "created_date": 1645113260061
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I have been searching for no.9 a deeper rose brownish tone lip gloss. The stores say it was a very good seller but perhaps has been replaced by a flesh colour? I need the original back please. Is there any Hope for its return to the displays that show this colour splash on the new display stand with lights?",
+        "headline": "Where did my No.9 lip gloss go?",
+        "rating": 5,
+        "ugc_id": 439718102
+      },
+      "faceoff_negative": {
+        "comments": "I used to LOVE essence lip gloss and other cosmetics . I used their lip gloss daily and preferred it over some of the higher prestigious brand of lipgloss's  until they change the formula and discontinued a lot of the colors . It is good that they added more colors but they should have added rather than discontinuing some of the brand favorites . I feel that the new colors are very sheer and not as opaque as the previous ones sold in the past. Although I do not like real sticky lipgloss I do like for it to stick and to Stay on . Therefore some stickiness/tackiness  is needed and preferred because then it does stay on and last . This  new formula is not lasting and the colors are too light /sheer . I bought one in every color and will be returning them all :( I am glad that I bought an abundance of lip glosses from the shine shine shine series ,  before they discontinued it . I hope I have enough until they improve and or change or possibly just revert back to the older shine shine shine series and add some more opaque colors preferably bring back the older ones and maybe add more . This sheer color and formula change is not an improvement at all ! I have one star because I had too leave something ! Seriously essence WHY change something that is working? I read the comments in the shine shine shine series regularly for most part  they were good and positive . No business of any kind is going to make everyone happy . Covid contributed alot to why sales have been down for a lot of businesses especially cosmetics  not formula and or colors of products . That  need to consider before making such huge changes as changing formula and  discontinuing customer favorite colors :(",
+        "headline": "Disappointed",
+        "rating": 1,
+        "ugc_id": 394144965
+      },
+      "name": "Extreme Shine Volume Lipgloss",
+      "native_review_count": 549,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 66,
+      "locale": "en_US"
+    }
+  }
+}

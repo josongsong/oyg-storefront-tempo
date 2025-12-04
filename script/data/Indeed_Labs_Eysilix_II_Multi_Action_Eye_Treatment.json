@@ -1,0 +1,389 @@
+{
+  "product_id": "pimprod2006894",
+  "product_url": "https://www.ulta.com/p/eysilix-ii-multi-action-eye-treatment-pimprod2006894",
+  "extracted_at": "2025-09-23T03:53:21.426920+00:00",
+  "product_name": "Indeed LabsEysilix II Multi-Action Eye Treatment",
+  "brand": "Indeed Labs",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Masks"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "masks"
+  ],
+  "currency": "USD",
+  "list_price": "13.99",
+  "sale_price": "10.49",
+  "availability": "in_stock",
+  "rating_avg": "4.8",
+  "rating_count": "166",
+  "images": [
+    "https://media.ulta.com/i/ulta/2551499?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2551499?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2551499_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2551499_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2551499_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2551499_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2551499_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsInnovative peptides, ceramides and probiotics come together in Indeed Labs' Eysilix II Eye Cream to combat puffiness, fine lines and dark circles.",
+  "details": "DetailsBenefitsConcentrated multi-functional eye cream that offers preventative and restorative results for daily eye concernsInstantly smoothens the appearance of fine lines, wrinkles and crow's feetBrightens skin and minimizes the appearance of dark circlesReduces puffinessImproves skin's firmness and elasticity around the eyeFatigue and stressed skin looks radiant and energizedFeaturesSkincare Concerns: Dryness, Dullness, Fines Lines and Wrinkles, HydrationSkin Type: Balanced, Dry, Combination and OilyIngredient Callouts: Free of Phthalates, Sulfates, Parabens, Colorants, Fragrance, Drying Alcohols and Mineral OilKey IngredientsNEODERMYLTM: This powerful collagen and elastin filler results in the visible reduction of deep wrinkles and improvement in skin firmness.DERMAXYL®: This active works to repair the skin's natural barrier function by stimulating cell communication, which smooths wrinkles and reduces age related damage.UPLEVITYTM PEPTIDE SOLUTION: This tetra peptide increases collagen & functional elastin production which allows skin to resume shape after stretching or contracting. The layer beneath the skin's surface (dermis) becomes significantly more structured and firmer, to better resist the effects of aging.REVITAL-EYES: An invigorating complex rich in probiotics, green tea extract, pomegranate extract and caffeine. Protects the eye area from environmental damage and diminishes dark circles and puffiness.Item 2551499How To UseAfter cleansing your face, gently pat a small amount of eysilix II™ around the contour of your eye. For best results, use daily in the morning and night.IngredientsWater (Aqua / Eau), Isononyl Isononanoate, Propanediol, Dimethicone, Arachidyl Alcohol, Phenyl Trimethicone, C12-15 Alkyl Benzoate, Behenyl Alcohol, Peg-100 Stearate, Palmitoyl Glycine, Butyrospermum Parkii (Shea) Butter, Hydrogenated Olive Oil, Glyceryl Stearate, Arachidyl Glucoside, Phenoxyethanol, Polysilicone-11, Caprylyl Glycol, Olea Europaea (Olive) Fruit Oil, Tribehenin, Panthenol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycerin, Isohexadecane, Xanthan Gum, Olea Europaea (Olive) Oil Unsaponifiables, Camelia Sinensis Leaf Extract, Disodium Edta, Lactobacillus Ferment Lysate, Punica Granatum Extract, Polysorbate 80, Ceramide Ng, Peg-10 Rapeseed Sterol, Methylglucoside Phosphate, Dunaliella Salina Extract, Glucose, Lactobacillus Ferment, Copper Lysinate/Prolinate, Caffeine, Citric Acid, Ethylhexylglycerin, Palmitoyl Tripeptide-5, Sodium Hyaluronate, Acetyl Tetrapeptide-2, Pantolactone, Potassium Sorbate, Palmitoyl Hexapeptide-12.Please be aware that ingredient lists may be updated from time to time - please refer to the ingredient list on the product package you receive.",
+  "how_to_use": "After cleansing your face, gently pat a small amount of eysilix II™ around the contour of your eye. For best results, use daily in the morning and night.",
+  "ingredients": [
+    "Water (Aqua / Eau)",
+    "Isononyl Isononanoate",
+    "Propanediol",
+    "Dimethicone",
+    "Arachidyl Alcohol",
+    "Phenyl Trimethicone",
+    "C12-15 Alkyl Benzoate",
+    "Behenyl Alcohol",
+    "Peg-100 Stearate",
+    "Palmitoyl Glycine",
+    "Butyrospermum Parkii (Shea) Butter",
+    "Hydrogenated Olive Oil",
+    "Glyceryl Stearate",
+    "Arachidyl Glucoside",
+    "Phenoxyethanol",
+    "Polysilicone-11",
+    "Caprylyl Glycol",
+    "Olea Europaea (Olive) Fruit Oil",
+    "Tribehenin",
+    "Panthenol",
+    "Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+    "Glycerin",
+    "Isohexadecane",
+    "Xanthan Gum",
+    "Olea Europaea (Olive) Oil Unsaponifiables",
+    "Camelia Sinensis Leaf Extract",
+    "Disodium Edta",
+    "Lactobacillus Ferment Lysate",
+    "Punica Granatum Extract",
+    "Polysorbate 80",
+    "Ceramide Ng",
+    "Peg-10 Rapeseed Sterol",
+    "Methylglucoside Phosphate",
+    "Dunaliella Salina Extract",
+    "Glucose",
+    "Lactobacillus Ferment",
+    "Copper Lysinate/Prolinate",
+    "Caffeine",
+    "Citric Acid",
+    "Ethylhexylglycerin",
+    "Palmitoyl Tripeptide-5",
+    "Sodium Hyaluronate",
+    "Acetyl Tetrapeptide-2",
+    "Pantolactone",
+    "Potassium Sorbate",
+    "Palmitoyl Hexapeptide-12.Please be aware that ingredient lists may be updated from time to time - please refer to the ingredient list on the product package you receive"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "oily",
+      "dry",
+      "combination",
+      "mature",
+      "normal"
+    ],
+    "finish": [
+      "matte",
+      "dewy",
+      "sheer",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "peptides",
+      "ceramides"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "natural",
+      "anti-aging",
+      "brightening",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2006894",
+    "total_reviews": 166,
+    "reviews": [
+      {
+        "review_id": 481414660,
+        "rating": 1,
+        "headline": "Not for Sensitive Skin",
+        "comments": "One application and i have little burning pimples around my eyes where the product was. Do NOT buy.",
+        "nickname": "LibrarianLady",
+        "location": "San Francisco",
+        "created_date": 1699860392646,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 273873844,
+        "rating": 5,
+        "headline": "I love using this product. I see the difference in 1 week",
+        "comments": "I apply in the morning and evening",
+        "nickname": "Shell",
+        "location": "South Plainfield, NJ",
+        "created_date": 1587929337908,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 265898669,
+        "rating": 2,
+        "headline": "Ineffective",
+        "comments": "I've been using this product for two months; I use it twice a day as per the instructions. I have not noticed a difference in the area around my eyes - my dark circles are still dark and my lines are still line-y. Perhaps the area around my eyes needs more help than this product can provide, or perhaps I need to give it even more time (I do intend to finish the tube). While I've found the claims this item makes not to apply to me, this is a nice moisturizer for the eye area. It's smooth and fragrance-free, and rubs in nicely without causing me to pull at the sensitive skin around my eye. I wouldn't buy it again, but I would probably recommend it to someone who's eye area needs a pick me up as opposed to an overhaul.",
+        "nickname": "King Pancake",
+        "location": "Los Angeles, CA",
+        "created_date": 1580355884169,
+        "bottom_line": "Yes",
+        "helpful_votes": 9,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 265533922,
+        "rating": 3,
+        "headline": "Nothing special",
+        "comments": "Burns the first minute or two when applying. Not very moisturizing. Returning.",
+        "nickname": "Jersey gal",
+        "location": "Nj",
+        "created_date": 1579800383662,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 244020423,
+        "rating": 5,
+        "headline": "Amazing",
+        "comments": "Love this eye treatment so much! I am in my 30s so fighting aging is my main concern especially around the eyes. I find this makes my eyes look bright and amazing!",
+        "nickname": "Plutogiel",
+        "location": "Ontario, Canada",
+        "created_date": 1563805863022,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 243529336,
+        "rating": 5,
+        "headline": "Used it for years",
+        "comments": "I first heard about the product from Caroline Hirons on YouTube. I've been using it for several years and am happy with it. I ran out of it recently and noticed my under eye area looking a little worse, so I've come to repurchase it again. \n\nI use it at night, because I haven't had great luck with it under makeup.",
+        "nickname": "Beth",
+        "location": "Michigan",
+        "created_date": 1563050353706,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 243306201,
+        "rating": 5,
+        "headline": "I would definitely buy backs this product again",
+        "comments": "I use this product day and night and noticed results quickly",
+        "nickname": "Dee",
+        "location": "Canada",
+        "created_date": 1562732112455,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 243263520,
+        "rating": 5,
+        "headline": "Love love this eyecream",
+        "comments": "Love this eye cream. I have very sensitive eyes and this does not irritate my eyes at all.  I'm use it everyday morning and night.  It helps alot with hydration under abs around the eyes.",
+        "nickname": "Sheesh",
+        "location": "Ontario canada",
+        "created_date": 1562654105481,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 243104406,
+        "rating": 5,
+        "headline": "Hands down one of the best eye creams I have used!",
+        "comments": "I have very sensitive skin and have been using this product for several years. It feels light on the skin and I love it!",
+        "nickname": "Trish",
+        "location": "Ontario",
+        "created_date": 1562366064515,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 243104141,
+        "rating": 5,
+        "headline": "I am so impressed with this product!",
+        "comments": "I used this product daily morning and night.",
+        "nickname": "Jo",
+        "location": "Alberta, Canada",
+        "created_date": 1562365994246,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 242972343,
+        "rating": 5,
+        "headline": "Will absolutely buy again!",
+        "comments": "I love indeed products because they are unscented! always good results....",
+        "nickname": "bm123",
+        "location": "QC",
+        "created_date": 1562186285538,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 3
+      }
+    ],
+    "paging": {
+      "total_results": 11,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Moisturizer",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Moisturizer"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "Mixed success under makeup",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Doesn't Work",
+            "Mixed success under makeup"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Moisturizing",
+              "count": 2
+            },
+            {
+              "label": "Good Price / Value",
+              "count": 2
+            },
+            {
+              "label": "Works",
+              "count": 1
+            },
+            {
+              "label": "Soothing and effective",
+              "count": 1
+            },
+            {
+              "label": "brightening",
+              "count": 1
+            },
+            {
+              "label": "smooth application",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Good Price / Value",
+            "Moisturizing",
+            "Soothing and effective",
+            "Works",
+            "brightening",
+            "smooth application"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        1,
+        1,
+        5,
+        17,
+        142
+      ],
+      "review_histogram": [
+        1,
+        1,
+        5,
+        17,
+        142
+      ],
+      "rating_count": 166,
+      "review_count": 166,
+      "average_rating": 4.8,
+      "recommended_ratio": 1.0,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I  received this product to test as part of the #trywithtopbox program. I have to admit, I am not normally an eye cream user. I think using the products on your face is perfectly fine for your eye too, with a few exceptions. But after trying this eye cream, I have to say I really liked using it. It doesn't irritate my super sensitive eyes and goes on really smoothly, absorbing in a short amount of time. It made my under eye very moisturized, I live in Canada and during the winter this is very important! It also reduced the appearance of fine lines and just made this area look more plumped. I haven't seen a reduction in dark circles but I don't really ever believe those claims, if you have dark circles, you have them; no cream is going to fix that. Overall, if you are looking for an under eye cream to add to your routine for a fresh and plumped result, I  would definitely recommend trying this product out.",
+        "headline": "Skeptic that was converted!",
+        "rating": 4,
+        "ugc_id": 472662577
+      },
+      "faceoff_negative": {
+        "comments": "I've been using this product for two months; I use it twice a day as per the instructions. I have not noticed a difference in the area around my eyes - my dark circles are still dark and my lines are still line-y. Perhaps the area around my eyes needs more help than this product can provide, or perhaps I need to give it even more time (I do intend to finish the tube). While I've found the claims this item makes not to apply to me, this is a nice moisturizer for the eye area. It's smooth and fragrance-free, and rubs in nicely without causing me to pull at the sensitive skin around my eye. I wouldn't buy it again, but I would probably recommend it to someone who's eye area needs a pick me up as opposed to an overhaul.",
+        "headline": "Ineffective",
+        "rating": 2,
+        "ugc_id": 265898669
+      },
+      "name": "Eysilix II Multi-Action Eye Treatment",
+      "native_review_count": 11,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 155,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,855 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/mineralize-powder-blush-xlsImpprod15921186",
+  "extracted_at": "2025-09-23T04:34:02.191852+00:00",
+  "product_name": "MACMineralize Powder Blush",
+  "brand": "MAC",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Face",
+    "Blush"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "face",
+    "blush"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "34.00",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "331",
+  "images": [
+    "https://media.ulta.com/i/ulta/2519160?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2519160?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2519160_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2519160_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2519160_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2519160_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2510875cm_alt01?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryMAC Mineralize Blush is a baked mineral-infused powder blush that provides an exceptionally sheer application of luminous color. A blush that builds lightly, layer after layer, without heavy coverage.",
+  "details": "DetailsBenefitsDermatologist-testedOphthalmologist-testedDoes not cause acneFeatures M·A·C Multi-Mineral ComplexSuitable for all skin typesFeaturesBaked minerals refined into a powder blush formula provide an exceptionally sheer applicationLightweight blush formula glides onto skin to achieve luminous colorSheer blush enhances the cheekbones with a veil of natural-looking, radiant color.Formulated WithoutPhthalatesParabenRetinyl PalmitateMineral OilPetrolatumFormaldehydePolyethyleneHydroquinoneTriclosanCoal TarTolueneLauryl SulfateLaureth SulfateOxybenzoneItem 2519160How To UseApply desired amount of blush using the appropriate brush and blend evenly.IngredientsMica, Talc, Dimethicone, Isopropyl Palmitate, Tocopheryl Acetate, Lauroyl Lysine, Simmondsia Chinensis (Jojoba) Seed Oil, Yeast Extract\\\\Faex\\\\Extrait De Levure, Cetearyl Ethylhexanoate, Isohexadecane, Octyldodecyl Stearoyl Stearate, Glyceryl Ethylhexanoate/Stearate/Adipate, Ethylhexyl Methoxycinnamate, Magnesium Aluminum Silicate, Calcium Aluminum Borosilicate, Calcium Sodium Borosilicate, Silica, Tin Oxide, Nylon-12, Synthetic Fluorphlogopite, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Zea Mays (Corn) Starch, Polysorbate 20, Polysorbate 80, Sorbitan Stearate, Phenoxyethanol, Sodium Dehydroacetate, \\[+/- Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499), Bismuth Oxychloride (Ci 77163), Blue 1 Lake (Ci 42090), Carmine (Ci 75470), Chromium Hydroxide Green (Ci 77289), Chromium Oxide Greens (Ci 77288), Ferric Ammonium Ferrocyanide (Ci 77510), Ferric Ferrocyanide (Ci 77510), Manganese Violet (Ci 77742), Red 6 (Ci 15850), Red 7 (Ci 15850), Red 7 Lake (Ci 15850), Ultramarines (Ci 77007), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985)\\] \\Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Apply desired amount of blush using the appropriate brush and blend evenly.",
+  "ingredients": [
+    "Mica",
+    "Talc",
+    "Dimethicone",
+    "Isopropyl Palmitate",
+    "Tocopheryl Acetate",
+    "Lauroyl Lysine",
+    "Simmondsia Chinensis (Jojoba) Seed Oil",
+    "Yeast Extract\\\\Faex\\\\Extrait De Levure",
+    "Cetearyl Ethylhexanoate",
+    "Isohexadecane",
+    "Octyldodecyl Stearoyl Stearate",
+    "Glyceryl Ethylhexanoate/Stearate/Adipate",
+    "Ethylhexyl Methoxycinnamate",
+    "Magnesium Aluminum Silicate",
+    "Calcium Aluminum Borosilicate",
+    "Calcium Sodium Borosilicate",
+    "Silica",
+    "Tin Oxide",
+    "Nylon-12",
+    "Synthetic Fluorphlogopite",
+    "Acrylamide/Sodium Acryloyldimethyltaurate Copolymer",
+    "Zea Mays (Corn) Starch",
+    "Polysorbate 20",
+    "Polysorbate 80",
+    "Sorbitan Stearate",
+    "Phenoxyethanol",
+    "Sodium Dehydroacetate",
+    "\\[+/- Titanium Dioxide (Ci 77891)",
+    "Iron Oxides (Ci 77491)",
+    "Iron Oxides (Ci 77492)",
+    "Iron Oxides (Ci 77499)",
+    "Bismuth Oxychloride (Ci 77163)",
+    "Blue 1 Lake (Ci 42090)",
+    "Carmine (Ci 75470)",
+    "Chromium Hydroxide Green (Ci 77289)",
+    "Chromium Oxide Greens (Ci 77288)",
+    "Ferric Ammonium Ferrocyanide (Ci 77510)",
+    "Ferric Ferrocyanide (Ci 77510)",
+    "Manganese Violet (Ci 77742)",
+    "Red 6 (Ci 15850)",
+    "Red 7 (Ci 15850)",
+    "Red 7 Lake (Ci 15850)",
+    "Ultramarines (Ci 77007)",
+    "Yellow 5 Lake (Ci 19140)",
+    "Yellow 6 Lake (Ci 15985)\\] \\"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "face",
+      "cosmetics"
+    ],
+    "product_type": [
+      "blush"
+    ],
+    "skin_type": [
+      "acne-prone",
+      "all skin types"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "powdery",
+      "oil"
+    ],
+    "color": [
+      "pink"
+    ],
+    "ingredients": [
+      "synthetic"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "natural",
+      "dermatologist-tested",
+      "brightening"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod15921186",
+    "total_reviews": 331,
+    "reviews": [
+      {
+        "review_id": 563549951,
+        "rating": 5,
+        "headline": "Natural Looking",
+        "comments": "Overall, I really like this blush It's very natural looking and stays on.",
+        "nickname": "Maria",
+        "location": "Novi",
+        "created_date": 1758131178942,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 562963174,
+        "rating": 5,
+        "headline": "My Favorite powder blush",
+        "comments": "This applies beautifully and lasts a long time. I absolutely LOVE it. Just bought this shade again.",
+        "nickname": "TyAnn",
+        "location": "Michigan",
+        "created_date": 1757286435247,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561462305,
+        "rating": 5,
+        "headline": "Beautiful shade",
+        "comments": "Perfect for a summer look.",
+        "nickname": "Jeanene",
+        "location": "Virginia",
+        "created_date": 1756694186879,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559208484,
+        "rating": 5,
+        "headline": "my first MAC blush",
+        "comments": "This was my first ever big girl purchase (along with a clinque foundation, and a mac lip stick) so I'm very sentimental. Before leaving for college I used my own money to buy expensive makeup, so I'm bias with this one. I got matched to the shade \"Dainty\" by a artist, on me its the perfect wash of color without being overwhelming. I'm not experienced with makeup, and very pale, so this is great for me.",
+        "nickname": "moony",
+        "location": "Dallas, TX",
+        "created_date": 1754247820868,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558578015,
+        "rating": 5,
+        "headline": "Such a beautiful color!!!",
+        "comments": "I would buy this blush again and again as it provides such a warm glow to your skin. It's soft and not over powering, but could be built up for a more dramatic look.",
+        "nickname": "Leslie",
+        "location": "Vacaville, CA",
+        "created_date": 1753802479999,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557353327,
+        "rating": 4,
+        "headline": "Love it !",
+        "comments": "The reason I gave 4 stars one of the blusher the clear cover on the top came out after I had  it for 2 months. Very disappointed. I try warm soul, love me and love joy. Love sll these colors on my tan askan skin.",
+        "nickname": "Orientalgal",
+        "location": "Virginia Beach",
+        "created_date": 1752655381954,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 554802518,
+        "rating": 5,
+        "headline": "Lots of color",
+        "comments": "When Janice the make up associate made up my face with it, I thought it was too late, but it is extremely rich color! Gives a sun-kissed look",
+        "nickname": "Jo",
+        "location": "Lakewood Ranch, FL",
+        "created_date": 1749496432423,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554736308,
+        "rating": 5,
+        "headline": "Love the Color",
+        "comments": "This is a great peach blush, it goes on smoothly and lasts a long time. The only thing is, I have a very hard time opening it.. I almost took it back to the store, but before I got in there, I tried it and well it opened for me!",
+        "nickname": "Amy",
+        "location": "Warren, MI",
+        "created_date": 1749400977795,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554486214,
+        "rating": 3,
+        "headline": "Hard to open !",
+        "comments": "I really like the blush is a very pretty color, but I don't know if it's me, but I cannot open the lid to save my soul. I know it's pretty easy, but maybe it's because of my nails are in the way??",
+        "nickname": "Amybuds",
+        "location": "Warren, MI",
+        "created_date": 1748999067752,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 553480068,
+        "rating": 5,
+        "headline": "I would definitely purchase this product again",
+        "comments": "I love Mac mineralized blushes. This was my first time purchasing this color. I'm a NC 20 and it looks great on my skin tone! Would recommend to a friend.",
+        "nickname": "Stefanny",
+        "location": "Capitola Ca",
+        "created_date": 1747495318426,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551962634,
+        "rating": 5,
+        "headline": "This is a great product!",
+        "comments": "I'm using the color \"warm soul.\" It says blush, but I'm using it as a bronzer because I have light skin and all the bronzers I've looked at were much too dark.",
+        "nickname": "Kelly",
+        "location": "Toledo, OH",
+        "created_date": 1744991797929,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550744595,
+        "rating": 5,
+        "headline": "I love it!",
+        "comments": "I really love the color-it's subtle but gives me a natural glow vs. looking like I have blush on my face. It has a subtle shimmer.",
+        "nickname": "MB",
+        "location": "Bay Area CA",
+        "created_date": 1743357927158,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 549382160,
+        "rating": 5,
+        "headline": "Beautiful for tan skin type 4",
+        "comments": "Beautiful pink color with just a hint of peach",
+        "nickname": "Lisa",
+        "location": "Ny",
+        "created_date": 1742347706574,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547520174,
+        "rating": 5,
+        "headline": "MAC Mineralize Powder Blush",
+        "comments": "Again the MAC line of make-up is new to me - but I love it!\nThank you for a fabulous product.",
+        "nickname": "Linda",
+        "location": "NY",
+        "created_date": 1740770791029,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546506065,
+        "rating": 5,
+        "headline": "LOVE it",
+        "comments": "This is the second time I have bought this and still love it!",
+        "nickname": "Celina",
+        "location": "Bastrop, Texas",
+        "created_date": 1739377079709,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536956518,
+        "rating": 5,
+        "headline": "The best one",
+        "comments": "I love it!!!",
+        "nickname": "Jen",
+        "location": "Chicago il",
+        "created_date": 1730155006002,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536956543,
+        "rating": 5,
+        "headline": "The best one",
+        "comments": "I love it!!!",
+        "nickname": "Jen",
+        "location": "Chicago il",
+        "created_date": 1730155005446,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536842425,
+        "rating": 5,
+        "headline": "Product was excellent!",
+        "comments": "Salesperson was extremely helpful and I will definitely be back to Ulta.",
+        "nickname": "Louise",
+        "location": "South Carolina",
+        "created_date": 1729989150638,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536097425,
+        "rating": 5,
+        "headline": "Absolutely love the color",
+        "comments": "Great Mac Blush",
+        "nickname": "Shelly",
+        "location": "Naples Florida",
+        "created_date": 1729012142113,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 535819722,
+        "rating": 1,
+        "headline": "Overhyped",
+        "comments": "An associate recommended this to me and when I tried it, it wasn't that great. This is very very subtle minimal color, fades into skin.",
+        "nickname": "Anna28",
+        "location": "IL",
+        "created_date": 1728582639746,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      }
+    ],
+    "paging": {
+      "total_results": 181,
+      "pages_total": 10,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod15921186/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Everyday",
+              "count": 42
+            },
+            {
+              "label": "All Skin Types",
+              "count": 19
+            },
+            {
+              "label": "Going Out",
+              "count": 16
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 12
+            },
+            {
+              "label": "Travel",
+              "count": 7
+            },
+            {
+              "label": "Adds hilights to a pale complexion",
+              "count": 1
+            },
+            {
+              "label": "face and neck",
+              "count": 1
+            },
+            {
+              "label": "I dropped trying to open and broke the blush.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Adds hilights to a pale complexion",
+            "All Skin Types",
+            "Everyday",
+            "Going Out",
+            "I dropped trying to open and broke the blush.",
+            "Sensitive Skin",
+            "Travel",
+            "face and neck"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Doesn't Stay On",
+              "count": 2
+            },
+            {
+              "label": "Poor Coverage",
+              "count": 2
+            },
+            {
+              "label": "If I'm not careful I could get too much color",
+              "count": 1
+            },
+            {
+              "label": "Alternatives",
+              "count": 1
+            },
+            {
+              "label": "Pricey",
+              "count": 1
+            },
+            {
+              "label": "Overpriced",
+              "count": 1
+            },
+            {
+              "label": "Bright",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "Transfers on clothing/sheet fabric.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Alternatives",
+            "Bright",
+            "Causes Breakouts",
+            "Clumpy",
+            "Difficult to Apply",
+            "Doesn't Stay On",
+            "Doesn't Work",
+            "Heavy",
+            "If I'm not careful I could get too much color",
+            "Irritates Skin",
+            "Overpriced",
+            "Poor Coverage",
+            "Pricey",
+            "Transfers on clothing/sheet fabric."
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Natural Style",
+              "count": 27
+            },
+            {
+              "label": "Classic Style",
+              "count": 12
+            },
+            {
+              "label": "Trendy Style",
+              "count": 9
+            },
+            {
+              "label": "Active Senior citizen",
+              "count": 1
+            },
+            {
+              "label": "sassy",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Active Senior citizen",
+            "Casual Dresser",
+            "Classic Style",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Natural Style",
+            "Stylish/Fashionista",
+            "Trendy Style",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "sassy"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Easy To Apply",
+              "count": 43
+            },
+            {
+              "label": "Blends Well",
+              "count": 42
+            },
+            {
+              "label": "Good Pigmentation",
+              "count": 41
+            },
+            {
+              "label": "Natural Looking",
+              "count": 35
+            },
+            {
+              "label": "Smooth",
+              "count": 33
+            },
+            {
+              "label": "Lightweight",
+              "count": 32
+            },
+            {
+              "label": "Long Lasting",
+              "count": 32
+            },
+            {
+              "label": "Easy To Take-off",
+              "count": 28
+            },
+            {
+              "label": "Noncomedogenic",
+              "count": 8
+            },
+            {
+              "label": "Seamless",
+              "count": 1
+            },
+            {
+              "label": "A little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "Blends Easily",
+              "count": 1
+            },
+            {
+              "label": "Long Wear Time",
+              "count": 1
+            },
+            {
+              "label": "It's a good color for my blonde coloring",
+              "count": 1
+            },
+            {
+              "label": "Color",
+              "count": 1
+            },
+            {
+              "label": "Sheer",
+              "count": 1
+            },
+            {
+              "label": "Texture",
+              "count": 1
+            },
+            {
+              "label": "Great Color Options",
+              "count": 1
+            },
+            {
+              "label": "Love the natural look",
+              "count": 1
+            },
+            {
+              "label": "Builds up",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A little goes a long way",
+            "Blends Easily",
+            "Blends Well",
+            "Builds up",
+            "Color",
+            "Easy To Apply",
+            "Easy To Take-off",
+            "Good Pigmentation",
+            "Great Color Options",
+            "It's a good color for my blonde coloring",
+            "Lightweight",
+            "Long Lasting",
+            "Long Wear Time",
+            "Love the natural look",
+            "Natural Looking",
+            "Noncomedogenic",
+            "Seamless",
+            "Sheer",
+            "Smooth",
+            "Texture"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        26,
+        10,
+        11,
+        40,
+        244
+      ],
+      "review_histogram": [
+        26,
+        10,
+        11,
+        40,
+        244
+      ],
+      "rating_count": 331,
+      "review_count": 331,
+      "average_rating": 4.41,
+      "recommended_ratio": 0.89,
+      "media": [
+        {
+          "id": "551691841",
+          "review_id": 551691867,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qjaorcuooppbvj6kxw1g.jpg",
+          "headline": "Favorite",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mystic0128",
+          "created_date": 1744635113001
+        },
+        {
+          "id": "510553832",
+          "review_id": 510553840,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/oknfpnxbzecbqmhcrqib.jpg",
+          "headline": "My products came used!",
+          "rating": 1,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Z",
+          "created_date": 1712269251076
+        },
+        {
+          "id": "510553842",
+          "review_id": 510553840,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fzfqklavna2elv69ezxn.jpg",
+          "headline": "My products came used!",
+          "rating": 1,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Z",
+          "created_date": 1712269251076
+        },
+        {
+          "id": "510553841",
+          "review_id": 510553840,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/d2xjyjneivjgklmudqlt.jpg",
+          "headline": "My products came used!",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Z",
+          "created_date": 1712269251076
+        },
+        {
+          "id": "483787447",
+          "review_id": 483787466,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zdlfxo6umnv3psqca3am.jpg",
+          "headline": "Gorgeous blush",
+          "rating": 5,
+          "helpful_votes": 2,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "C@riv",
+          "created_date": 1701937695820
+        },
+        {
+          "id": "483787434",
+          "review_id": 483787466,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ljkjrkvrh68w0mgtcd9c.jpg",
+          "headline": "Gorgeous blush",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "C@riv",
+          "created_date": 1701937695820
+        },
+        {
+          "id": "332563665",
+          "review_id": 332563664,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ccspszlesgyiil07sh1d.jpg",
+          "headline": "Warm soul blush",
+          "rating": 1,
+          "helpful_votes": 8,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Barbee",
+          "created_date": 1614864428155
+        },
+        {
+          "id": "308792356",
+          "review_id": 308792225,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ly85udjgf8eo9sdwl72f.jpg",
+          "headline": "Looking for a pink color perfect",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Pinina love ULTA",
+          "nickname": "Pinina",
+          "created_date": 1603553174449
+        },
+        {
+          "id": "308792312",
+          "review_id": 308792225,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fioobjjzqzgvvdryo0yn.jpg",
+          "headline": "Looking for a pink color perfect",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "ULTA has it all",
+          "nickname": "Pinina",
+          "created_date": 1603553174449
+        },
+        {
+          "id": "276884835",
+          "review_id": 276884850,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vxfg5xqmiamoxrsuy9eh.jpg",
+          "headline": "a used blush",
+          "rating": 1,
+          "helpful_votes": 2,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "y",
+          "created_date": 1590008281528
+        },
+        {
+          "id": "276884856",
+          "review_id": 276884850,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/klc0t5zonleb77qaj2p2.jpg",
+          "headline": "a used blush",
+          "rating": 1,
+          "helpful_votes": 2,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "y",
+          "created_date": 1590008281528
+        },
+        {
+          "id": "267680497",
+          "review_id": 267680441,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ljdvp3irtnbeuqyijfwi.jpg",
+          "headline": "Perfection",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sheryl",
+          "created_date": 1582627264929
+        },
+        {
+          "id": "215680333",
+          "review_id": 215680332,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ckaupzquodazinuwzhak.jpg",
+          "headline": "Gentle!",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Trixiebear1109",
+          "created_date": 1542495762548
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Uhh-Mazing. Best Blush On The Market. First let me say that this is NOT a review because I received a free sample. I am so tired of purchasing products based on great reviews only to find out the product is junk. I know quality when I see it. This blush is worth every penny. Even at full price. It blends AMAZINGLY well and the texture is like velvet. I purchased this in \"petal power\". It has just the right amount of shimmer and the quality beats everything else out there that I've purchased. HOWEVER....do NOT trust Ulta's photoshopped images. The colors are NOT accurate. Stick to the description and you won't have any surprises. \nP.S. Ulta you seriously need to work on that. Some products don't even show the color palette, just the packaging. And others the color is not even in the same rainbow.",
+        "headline": "Petal Power",
+        "rating": 5,
+        "ugc_id": 191256982
+      },
+      "faceoff_negative": {
+        "comments": "Ive been wearing the same blush for nearly 5 years. Firstly, not a big deal but the container is different and a little harder to open. Secondly, you get less than before in the old container for the same price. Thirdly, and most important, I wear warm soul and THE COLOR ISNT EVEN THE SAME ANYMORE!!!!!!! Im very disappointed. I love this blush and don't understand why they would change the color but call it by the same name.",
+        "headline": "Everything changed!!!",
+        "rating": 1,
+        "ugc_id": 188614248
+      },
+      "name": "Mineralize Powder Blush",
+      "variant_names": [
+        "Dainty",
+        "Flirting With Danger",
+        "Gentle",
+        "Gleeful",
+        "Happy-Go-Rosy",
+        "Hey, Coral, Hey...",
+        "Humour Me",
+        "Just A Wisp",
+        "Love Joy",
+        "Love Thing",
+        "Naturally Flawless",
+        "New Romance",
+        "Not Specified",
+        "Petal Power",
+        "Sweet Enough",
+        "Warm Soul"
+      ],
+      "native_review_count": 181,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 150,
+      "locale": "en_US"
+    }
+  }
+}

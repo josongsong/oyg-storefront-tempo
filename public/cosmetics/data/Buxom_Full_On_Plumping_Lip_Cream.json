@@ -1,0 +1,4279 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/full-on-plumping-lip-cream-xlsImpprod13631033",
+  "extracted_at": "2025-09-23T03:57:20.845497+00:00",
+  "product_name": "BuxomFull-On Plumping Lip Cream",
+  "brand": "Buxom",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Lips",
+    "Lip Plumpers"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "lips",
+    "lip-plumpers"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "25.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "2217",
+  "images": [
+    "https://media.ulta.com/i/ulta/2299249?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2299249?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2299249cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2299249cm_vid01/thumbs/9ad8b5fe-5533-4a02-8332-1638fa1da880?w=600&h=337&fmt=auto",
+    "https://media.ulta.com/v/ulta/2299249cm_vid02/thumbs/1dd83a1f-ce49-483e-9bbf-13e1d9246bb4?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryBuxom Full-On Plumping Lip Cream Gloss is a creamy, shimmer-free lip gloss that visibly plumps the appearance of lips with a tantalizing tingle.",
+  "details": "DetailsBenefitsWraps lips in lustrous, creamy colorInstantly plumpsNourishes, moisturizes & softensLeaves lips with a cool tingle & high-shine finishDelicious sugared vanilla scentKey IngredientsUnique Peptide Complex helps to visibly plump lipsHyaluronic acid filling spheres help to visibly plump, moisturize & fillVitamins A & E are known to provide lasting moistureFormulated WithoutParabensMineral oilPetroleumsPhthalatesItem 2299249How To UseWear alone or over lip stick to create the look of fuller, plumped, and more voluptuous lips. For a totally plumped look, pair Full-on Lip Cream with PlumpLine Lip Liner. Try Pink Lady Lip Cream with PlumpLine in Femme Fatale, or Berry Blast with PlumpLine in Scandalous.IngredientsWhite Russian: Hydrogenated Polyisobutene, Tridecyl Trimellitate, Pentaerythrityl Tetraisostearate, Octyldodecyl Stearoyl Stearate, Polyglyceryl-2 Diisostearate, Menthone Glycerin Acetal, Ethylhexyl Palmitate, VP/Hexadecene Copolymer, Silica, Microcrystalline Wax (Cera Microcristallina), Octyldodecanol, Trimethylolpropane Triisostearate, Benzyl Benzoate, Flavor (Aroma), Tribehenin, Tocopheryl Acetate, Silica Dimethyl Silylate, Sorbitan Isostearate, BHT, Sodium Saccharin, Butylene Glycol, Caprylyl Glycol, Phenoxyethanol, Retinyl Palmitate, Sodium Hyaluronate, Hexylene Glycol, Benzyl Alcohol, Palmitoyl Oligopeptide. May Contain: Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Yellow 5 Lake (CI 19140), Blue 1 Lake (CI 42090), Red 6 (CI 15850), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 30 Lake (CI 73360), Red 28 Lake (CI 45410).Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Wear alone or over lip stick to create the look of fuller, plumped, and more voluptuous lips. For a totally plumped look, pair Full-on Lip Cream with PlumpLine Lip Liner. Try Pink Lady Lip Cream with PlumpLine in Femme Fatale, or Berry Blast with PlumpLine in Scandalous.",
+  "ingredients": [
+    "White Russian: Hydrogenated Polyisobutene",
+    "Tridecyl Trimellitate",
+    "Pentaerythrityl Tetraisostearate",
+    "Octyldodecyl Stearoyl Stearate",
+    "Polyglyceryl-2 Diisostearate",
+    "Menthone Glycerin Acetal",
+    "Ethylhexyl Palmitate",
+    "VP/Hexadecene Copolymer",
+    "Silica",
+    "Microcrystalline Wax (Cera Microcristallina)",
+    "Octyldodecanol",
+    "Trimethylolpropane Triisostearate",
+    "Benzyl Benzoate",
+    "Flavor (Aroma)",
+    "Tribehenin",
+    "Tocopheryl Acetate",
+    "Silica Dimethyl Silylate",
+    "Sorbitan Isostearate",
+    "BHT",
+    "Sodium Saccharin",
+    "Butylene Glycol",
+    "Caprylyl Glycol",
+    "Phenoxyethanol",
+    "Retinyl Palmitate",
+    "Sodium Hyaluronate",
+    "Hexylene Glycol",
+    "Benzyl Alcohol",
+    "Palmitoyl Oligopeptide. May Contain: Mica",
+    "Titanium Dioxide (",
+    "Iron Oxides (",
+    "Yellow 5 Lake (",
+    "Blue 1 Lake (",
+    "Red 6 (",
+    "Red 7 Lake (",
+    "Red 33 Lake (",
+    "Red 30 Lake (",
+    "Red 28 Lake ("
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/f1d58521-38b2-488f-b21e-99ba709c6d49/960.webp",
+      "https://content.syndigo.com/asset/54787e78-7603-407b-be3f-2a52c1be0240/960.webp",
+      "https://content.syndigo.com/asset/3be3676d-a4b1-4fab-a28a-b743e737fe7e/960.webp",
+      "https://content.syndigo.com/asset/b41915f9-27d5-462c-ba9f-154bf2d5deaa/960.webp",
+      "https://content.syndigo.com/asset/465c0dde-c975-48b9-9963-a278dc52f52b/960.webp",
+      "https://content.syndigo.com/asset/cd641920-5040-45ea-9f99-9e275771fba7/960.webp",
+      "https://content.syndigo.com/asset/729358f8-34eb-4c2b-ac59-47e488e5915c/960.webp",
+      "https://content.syndigo.com/asset/6f1ed1fc-f132-4aea-ab61-513c51118e5b/960.webp",
+      "https://content.syndigo.com/asset/6da5cc6b-aa51-44b6-b13a-b461027795d0/960.webp",
+      "https://content.syndigo.com/asset/9aca5511-26ba-4d7e-b218-0b4ba319fb0d/960.webp",
+      "https://content.syndigo.com/asset/3a7827b0-b72e-4647-accc-98b0be19e89a/960.webp",
+      "https://content.syndigo.com/asset/04cc216f-43d6-4578-8639-41e47f3df766/960.webp",
+      "https://content.syndigo.com/asset/dd7a68d0-c2ef-4240-b6c5-8d44f8cffeb7/960.webp",
+      "https://content.syndigo.com/asset/cd641920-5040-45ea-9f99-9e275771fba7/240.webp",
+      "https://content.syndigo.com/asset/729358f8-34eb-4c2b-ac59-47e488e5915c/240.webp",
+      "https://content.syndigo.com/asset/6f1ed1fc-f132-4aea-ab61-513c51118e5b/240.webp",
+      "https://content.syndigo.com/asset/6da5cc6b-aa51-44b6-b13a-b461027795d0/240.webp",
+      "https://content.syndigo.com/asset/9aca5511-26ba-4d7e-b218-0b4ba319fb0d/240.webp",
+      "https://content.syndigo.com/asset/3a7827b0-b72e-4647-accc-98b0be19e89a/240.webp",
+      "https://content.syndigo.com/asset/04cc216f-43d6-4578-8639-41e47f3df766/240.webp",
+      "https://content.syndigo.com/asset/dd7a68d0-c2ef-4240-b6c5-8d44f8cffeb7/240.webp",
+      "https://content.syndigo.com/asset/3cbdb19f-c020-4359-babc-bf9e53b3e30f/240.jpeg",
+      "https://content.syndigo.com/asset/f55b244e-fdac-4ad3-96bd-a378ce3e91a6/240.jpeg",
+      "https://content.syndigo.com/asset/93f76aba-a3fc-48c3-abd9-46c6b8bddcc2/240.jpeg",
+      "https://content.syndigo.com/asset/6d67b173-fff5-42f9-ba5d-1f23519b394e/240.jpeg",
+      "https://content.syndigo.com/asset/02585840-f041-4305-9916-15b3222eb5c0/240.jpeg"
+    ]
+  },
+  "tags": {
+    "category": [
+      "makeup",
+      "lips",
+      "lip",
+      "cosmetics"
+    ],
+    "product_type": [
+      "moisturizer"
+    ],
+    "finish": [
+      "glossy",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "color": [
+      "purple"
+    ],
+    "ingredients": [
+      "peptides"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "skin_type": [],
+    "special_features": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod13631033",
+    "total_reviews": 2217,
+    "reviews": [
+      {
+        "review_id": 559966599,
+        "rating": 5,
+        "headline": "After 10 years, this is still my go to gloss.",
+        "comments": "Ever since I started using Buxom glosses it became my go-to and they still are. There are some other brands that are pretty good, but these are still the best. Buxom has the best color range with comfortable, cool tingling and are long lasting. Plus, the price is worth it compared to the other brands! Buxom is a little sticky, but I LOVE that. I cant stand runny glosses that end up mostly in my mouth. They wear super flattering and I hope they never change the formula because I would be truly devastated. Long live Buxom glosses 🩷💋",
+        "nickname": "Alex",
+        "location": "SD",
+        "created_date": 1754963423521,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559850152,
+        "rating": 2,
+        "headline": "White Russian a.k.a Glossy Concealer",
+        "comments": "I purchased White Russian and the color is not true to the ad at all. It came out looking like glossy concealer. Waste of money, since I definitely can't wear that.",
+        "nickname": "",
+        "location": "Indiana",
+        "created_date": 1754699746742,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559323777,
+        "rating": 5,
+        "headline": "plumping gloss",
+        "comments": "Nice, sheer color. Buildable. You can tell it is plumping based on the light tingling sensation. Not painful.",
+        "nickname": "emily",
+        "location": "Austin, TX",
+        "created_date": 1754415020966,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556698018,
+        "rating": 1,
+        "headline": "Do not buy Catching Rays matte",
+        "comments": "The color makes my lips disappear because it's that of natural complexion. Useless lip gloss.",
+        "nickname": "Iva",
+        "location": "Baltimore",
+        "created_date": 1751746075618,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 5
+      },
+      {
+        "review_id": 555226582,
+        "rating": 5,
+        "headline": "I love the way it smells like vanilla I love it",
+        "comments": "I just bought this product yesterday and I feel in love with it my daughter loves it too thanks Ulta Beauty",
+        "nickname": "Tiffany",
+        "location": "la California",
+        "created_date": 1750115178981,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554453457,
+        "rating": 5,
+        "headline": "Love this!",
+        "comments": "Really pleased with all the color options , this cream goes on smoothly , not tacky or sticky and smells like cotton candy.  I feel like it adds some plumpness to my lips.   Will buy again.",
+        "nickname": "Andra",
+        "location": "Tx",
+        "created_date": 1748963898678,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553229000,
+        "rating": 5,
+        "headline": "The OG",
+        "comments": "Its just the best. Cant go wrong.",
+        "nickname": "Victoria",
+        "location": "Houston",
+        "created_date": 1747083457249,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552975697,
+        "rating": 5,
+        "headline": "I Absolutely LOVE Buxom Berry Blast",
+        "comments": "I Absolutely LOVE Buxom Berry Blast  I am Italian and Puerto Rican so I have oil colored skin tone.  This shade is fabulous for me.  I receive so many compliments on my makeup 💄 since I have been using this lip cream color.  It is so creamy and smooth and my lips feel amazing and looks fabulous. Thank you so much.  \n\nTootles Luv and Stay Fabulous dear,\nDonna Marie 💋💋💋",
+        "nickname": "Donna Marie",
+        "location": "Rhode Island",
+        "created_date": 1746582375640,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551671631,
+        "rating": 5,
+        "headline": "Best lip gloss you can buy!!",
+        "comments": "Best lip gloss ever! The color and shine are great and my lips feel very moisturized for hours. This lip gloss stays on my lips longer than any other product I've tried - and I've tried expensive and cheap lip products. Enjoy the shine and color of Buxom Plumping Lip Crème!!",
+        "nickname": "Beth",
+        "location": "North Carolina",
+        "created_date": 1744583097641,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551583825,
+        "rating": 2,
+        "headline": "Dolly Color Change?",
+        "comments": "Did Dolly's color change?! It's such a light pink now and it used to be a deeper mauve. I have an older Dolly, the same exact gloss, and a new one. They are visibly SO different. Went to Ulta and the Dolly tester looks light pink too. Why change?",
+        "nickname": "Jamie",
+        "location": "OH",
+        "created_date": 1744401437050,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547558785,
+        "rating": 5,
+        "headline": "Great product",
+        "comments": "Works well, not too tacky like some other products",
+        "nickname": "",
+        "location": "Illinois",
+        "created_date": 1740851166612,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546937004,
+        "rating": 5,
+        "headline": "Love the color.",
+        "comments": "Love the color so much. Makes for a great everyday look and plumps my lips up very nicely.",
+        "nickname": "Amy",
+        "location": "Tampa, FL",
+        "created_date": 1739896268876,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 545896406,
+        "rating": 5,
+        "headline": "Buxom Plumping Lip Cream",
+        "comments": "I absolutely love this lip cream! It doesn't feel oily like other creams and has a faint hint of mint in it giving my lips a refreshed feeling",
+        "nickname": "Jennifer",
+        "location": "Kentucky",
+        "created_date": 1738673687463,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541641331,
+        "rating": 1,
+        "headline": "Don't waste your money!",
+        "comments": "I dont know how this has such great ratings! I have tried a lot of plumping products and none of them work. Dont't waste your money!",
+        "nickname": "Amy",
+        "location": "Chattanooga",
+        "created_date": 1734873113461,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 541234291,
+        "rating": 5,
+        "headline": "Second time purchasing",
+        "comments": "Gives a nice sheer glossy shine with faint pink hue.  Nice feel, not gloppy.",
+        "nickname": "Alexa",
+        "location": "Cleveland",
+        "created_date": 1734459431610,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538613825,
+        "rating": 5,
+        "headline": "Have used this product for several years",
+        "comments": "Product does not disappoint.",
+        "nickname": "Sande",
+        "location": "Sisters, Oregon",
+        "created_date": 1732566951511,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537551449,
+        "rating": 3,
+        "headline": "It's okay",
+        "comments": "Really good product just doesnt plump great for the price although it feels like it is lol, theres normally no difference in plumpness for me at least. Probably wouldn't buy again although it was nice to try out",
+        "nickname": "Shmo",
+        "location": "Columbus NC",
+        "created_date": 1731155034989,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 536340602,
+        "rating": 5,
+        "headline": "great gift!",
+        "comments": "mom loved this product! would recommend! great sparkle , super cutesy and very demure! great price! \n:)",
+        "nickname": "skyler",
+        "location": "florida",
+        "created_date": 1729288761796,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 536121766,
+        "rating": 5,
+        "headline": "Unfortunately love",
+        "comments": "I got this half off during a sale and unfortunately fell in love, its so good. I will replace at full price and I am not usually impressed by lip gloss. I got Moscow Mule. Alicis",
+        "nickname": "Alicia",
+        "location": "Midwest",
+        "created_date": 1729024195143,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 535994202,
+        "rating": 5,
+        "headline": "The GLOSS of glosses",
+        "comments": "My favorite gloss to compliment my lips, wish I could upload a before and after picture  to show how much plump it gives. The plum is a cool tingle nothing uncomfortable or burning. It'd pricey but splurge worthy.",
+        "nickname": "Lipgal",
+        "location": "New Jersey",
+        "created_date": 1728873740195,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 1775,
+      "pages_total": 89,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod13631033/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "30 Minutes",
+              "count": 42
+            },
+            {
+              "label": "10 Minutes",
+              "count": 26
+            },
+            {
+              "label": "1+ Hour",
+              "count": 10
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Anytime",
+              "count": 785
+            },
+            {
+              "label": "Everyday Use",
+              "count": 457
+            },
+            {
+              "label": "Going Out",
+              "count": 287
+            },
+            {
+              "label": "Daytime",
+              "count": 253
+            },
+            {
+              "label": "Special Occasions",
+              "count": 231
+            },
+            {
+              "label": "Dry Lips",
+              "count": 186
+            },
+            {
+              "label": "Daily Use",
+              "count": 68
+            },
+            {
+              "label": "On-the-go",
+              "count": 39
+            },
+            {
+              "label": "Women",
+              "count": 39
+            },
+            {
+              "label": "Everyday",
+              "count": 9
+            },
+            {
+              "label": "Weekly Use",
+              "count": 7
+            },
+            {
+              "label": "lips",
+              "count": 2
+            },
+            {
+              "label": "Men",
+              "count": 2
+            },
+            {
+              "label": "Lip gloss, lip moisturizer",
+              "count": 1
+            },
+            {
+              "label": "After liner",
+              "count": 1
+            },
+            {
+              "label": "Can be used alone or on top of any liner/stick",
+              "count": 1
+            },
+            {
+              "label": "lips moist and shiny",
+              "count": 1
+            },
+            {
+              "label": "Every day light color",
+              "count": 1
+            },
+            {
+              "label": "Best as a gloss",
+              "count": 1
+            },
+            {
+              "label": "Can look dressier with extra lip gloss",
+              "count": 1
+            },
+            {
+              "label": "Quick dash of color and gloss",
+              "count": 1
+            },
+            {
+              "label": "Alone or with lip liner",
+              "count": 1
+            },
+            {
+              "label": "Anytime and all the time!!!",
+              "count": 1
+            },
+            {
+              "label": "Everyday shade",
+              "count": 1
+            },
+            {
+              "label": "Wear over lipstick or on its own",
+              "count": 1
+            },
+            {
+              "label": "Dolly- nice neutral worn alone or over lipstick",
+              "count": 1
+            },
+            {
+              "label": "Limits lip chewing",
+              "count": 1
+            },
+            {
+              "label": "Lip plumping",
+              "count": 1
+            },
+            {
+              "label": "Lip wrinkle reducer",
+              "count": 1
+            },
+            {
+              "label": "Night out",
+              "count": 1
+            },
+            {
+              "label": "Lips",
+              "count": 1
+            },
+            {
+              "label": "Anytime you want to look polished",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Sheer tint",
+              "count": 1
+            },
+            {
+              "label": "Everyday, on the go,or a night out on the town!",
+              "count": 1
+            },
+            {
+              "label": "Casual Dresser",
+              "count": 1
+            },
+            {
+              "label": "Wear daily",
+              "count": 1
+            },
+            {
+              "label": "Dates / Night Out",
+              "count": 1
+            },
+            {
+              "label": "Date Night",
+              "count": 1
+            },
+            {
+              "label": "Everyday Wear",
+              "count": 1
+            },
+            {
+              "label": "School/College",
+              "count": 1
+            },
+            {
+              "label": "Work",
+              "count": 1
+            },
+            {
+              "label": "All Day / Long hrs on feet",
+              "count": 1
+            },
+            {
+              "label": "Alone",
+              "count": 1
+            },
+            {
+              "label": "Over lip liner",
+              "count": 1
+            },
+            {
+              "label": "Over a matte lipstick",
+              "count": 1
+            },
+            {
+              "label": "I love the selection of colors",
+              "count": 1
+            },
+            {
+              "label": "No time",
+              "count": 1
+            },
+            {
+              "label": "Plumping",
+              "count": 1
+            },
+            {
+              "label": "With a Lip Liner",
+              "count": 1
+            },
+            {
+              "label": "Date night",
+              "count": 1
+            },
+            {
+              "label": "Weekend out",
+              "count": 1
+            },
+            {
+              "label": "My Go to Gloss",
+              "count": 1
+            },
+            {
+              "label": "Pops on iphone photos!  Looks great!",
+              "count": 1
+            },
+            {
+              "label": "Plump lips",
+              "count": 1
+            },
+            {
+              "label": "For Travel",
+              "count": 1
+            },
+            {
+              "label": "Used over lip pencil",
+              "count": 1
+            },
+            {
+              "label": "Oily Skin",
+              "count": 1
+            },
+            {
+              "label": "Everyday wear",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "After liner",
+            "All Day / Long hrs on feet",
+            "Alone",
+            "Alone or with lip liner",
+            "Anytime",
+            "Anytime and all the time!!!",
+            "Anytime you want to look polished",
+            "Best as a gloss",
+            "Can be used alone or on top of any liner/stick",
+            "Can look dressier with extra lip gloss",
+            "Casual Dresser",
+            "Daily Use",
+            "Date Night",
+            "Date night",
+            "Dates / Night Out",
+            "Daytime",
+            "Dolly- nice neutral worn alone or over lipstick",
+            "Dry Lips",
+            "Every day light color",
+            "Everyday",
+            "Everyday Use",
+            "Everyday Wear",
+            "Everyday shade",
+            "Everyday wear",
+            "Everyday, on the go,or a night out on the town!",
+            "For Travel",
+            "Going Out",
+            "I love the selection of colors",
+            "Limits lip chewing",
+            "Lip gloss, lip moisturizer",
+            "Lip plumping",
+            "Lip wrinkle reducer",
+            "Lips",
+            "Men",
+            "Moisturizing",
+            "My Go to Gloss",
+            "Night out",
+            "No time",
+            "Oily Skin",
+            "On-the-go",
+            "Over a matte lipstick",
+            "Over lip liner",
+            "Plump lips",
+            "Plumping",
+            "Pops on iphone photos!  Looks great!",
+            "Quick dash of color and gloss",
+            "School/College",
+            "Sheer tint",
+            "Special Occasions",
+            "Used over lip pencil",
+            "Wear daily",
+            "Wear over lipstick or on its own",
+            "Weekend out",
+            "Weekly Use",
+            "With a Lip Liner",
+            "Women",
+            "Work",
+            "lips",
+            "lips moist and shiny"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Wears Off Easily",
+              "count": 162
+            },
+            {
+              "label": "Sticky",
+              "count": 146
+            },
+            {
+              "label": "Not True To Color",
+              "count": 39
+            },
+            {
+              "label": "Bad Tasting",
+              "count": 37
+            },
+            {
+              "label": "Drying",
+              "count": 10
+            },
+            {
+              "label": "Poor Color Selection",
+              "count": 8
+            },
+            {
+              "label": "None",
+              "count": 7
+            },
+            {
+              "label": "Clumpy Application",
+              "count": 7
+            },
+            {
+              "label": "Pricey / Poor Value",
+              "count": 5
+            },
+            {
+              "label": "Smells Bad",
+              "count": 4
+            },
+            {
+              "label": "sticky",
+              "count": 2
+            },
+            {
+              "label": "Doesn't last long",
+              "count": 2
+            },
+            {
+              "label": "Burning sensation",
+              "count": 2
+            },
+            {
+              "label": "Not Effective",
+              "count": 2
+            },
+            {
+              "label": "Would like more color intensity.",
+              "count": 1
+            },
+            {
+              "label": "There are no cons to this product",
+              "count": 1
+            },
+            {
+              "label": "stings a little when you first apply",
+              "count": 1
+            },
+            {
+              "label": "Hair gets stuck on sticky lips lol",
+              "count": 1
+            },
+            {
+              "label": "doesn't last long",
+              "count": 1
+            },
+            {
+              "label": "Not very plumping",
+              "count": 1
+            },
+            {
+              "label": "Leaves Residue after it Fades",
+              "count": 1
+            },
+            {
+              "label": "more clear than anything",
+              "count": 1
+            },
+            {
+              "label": "not plumping",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Plump",
+              "count": 1
+            },
+            {
+              "label": "Too expensive",
+              "count": 1
+            },
+            {
+              "label": "Menthol feeling",
+              "count": 1
+            },
+            {
+              "label": "doesn't plump",
+              "count": 1
+            },
+            {
+              "label": "LEAKS from container - several issues with this",
+              "count": 1
+            },
+            {
+              "label": "A lot lighter than I anticipated",
+              "count": 1
+            },
+            {
+              "label": "Not colorful enough, a little too sheer",
+              "count": 1
+            },
+            {
+              "label": "don't really notice a plumping effect",
+              "count": 1
+            },
+            {
+              "label": "Not long lasting",
+              "count": 1
+            },
+            {
+              "label": "Reapply frequently",
+              "count": 1
+            },
+            {
+              "label": "Can sometimes leak if upside down",
+              "count": 1
+            },
+            {
+              "label": "Doesn't last more than a month-ish",
+              "count": 1
+            },
+            {
+              "label": "Colors aren't always true",
+              "count": 1
+            },
+            {
+              "label": "Tingling",
+              "count": 1
+            },
+            {
+              "label": "Pricey",
+              "count": 1
+            },
+            {
+              "label": "I don't love the tingling",
+              "count": 1
+            },
+            {
+              "label": "No cons..... except maybe price",
+              "count": 1
+            },
+            {
+              "label": "Cost has gone up. Up a whole dollar.",
+              "count": 1
+            },
+            {
+              "label": "Weird taste",
+              "count": 1
+            },
+            {
+              "label": "Priced a tad high",
+              "count": 1
+            },
+            {
+              "label": "Doesn't plump",
+              "count": 1
+            },
+            {
+              "label": "Expensive",
+              "count": 1
+            },
+            {
+              "label": "didn't plump",
+              "count": 1
+            },
+            {
+              "label": "No crazy plumping",
+              "count": 1
+            },
+            {
+              "label": "Not as much color as I thought, but I still love",
+              "count": 1
+            },
+            {
+              "label": "Not very dark",
+              "count": 1
+            },
+            {
+              "label": "A little bit sticky, but not that bad",
+              "count": 1
+            },
+            {
+              "label": "Brush Applicator",
+              "count": 1
+            },
+            {
+              "label": "Too sheer",
+              "count": 1
+            },
+            {
+              "label": "Price!",
+              "count": 1
+            },
+            {
+              "label": "Too glossy",
+              "count": 1
+            },
+            {
+              "label": "Wish the application was more even",
+              "count": 1
+            },
+            {
+              "label": "Wish there was a greater color selection",
+              "count": 1
+            },
+            {
+              "label": "Burns",
+              "count": 1
+            },
+            {
+              "label": "Can irritate if worn frequently",
+              "count": 1
+            },
+            {
+              "label": "Too Minty",
+              "count": 1
+            },
+            {
+              "label": "not pleasant to wear when it's cold outside",
+              "count": 1
+            },
+            {
+              "label": "Streaky",
+              "count": 1
+            },
+            {
+              "label": "Uneven Application",
+              "count": 1
+            },
+            {
+              "label": "I wish it cost a little less but I love it anywa",
+              "count": 1
+            },
+            {
+              "label": "hard to finish a lot fe",
+              "count": 1
+            },
+            {
+              "label": "For the price the tube should last longer",
+              "count": 1
+            },
+            {
+              "label": "Slightly sticky",
+              "count": 1
+            },
+            {
+              "label": "SHEER, not creamy",
+              "count": 1
+            },
+            {
+              "label": "Yellowing",
+              "count": 1
+            },
+            {
+              "label": "Cost",
+              "count": 1
+            },
+            {
+              "label": "Burns your lips",
+              "count": 1
+            },
+            {
+              "label": "Color only seeps into lines",
+              "count": 1
+            },
+            {
+              "label": "Hard to get all of it out",
+              "count": 1
+            },
+            {
+              "label": "A little sticky on your lips.",
+              "count": 1
+            },
+            {
+              "label": "Settles into my fine lines",
+              "count": 1
+            },
+            {
+              "label": "Mint tingle",
+              "count": 1
+            },
+            {
+              "label": "Wish it was more pigmented",
+              "count": 1
+            },
+            {
+              "label": "Leaks from container",
+              "count": 1
+            },
+            {
+              "label": "burned lips and lower lip was swollen after 1use",
+              "count": 1
+            },
+            {
+              "label": "Taste",
+              "count": 1
+            },
+            {
+              "label": "none",
+              "count": 1
+            },
+            {
+              "label": "Unpleasant scent",
+              "count": 1
+            },
+            {
+              "label": "Color is pretty light",
+              "count": 1
+            },
+            {
+              "label": "Burns my lips",
+              "count": 1
+            },
+            {
+              "label": "It's a little sticky, but other that I love it",
+              "count": 1
+            },
+            {
+              "label": "Too thick",
+              "count": 1
+            },
+            {
+              "label": "Little sticky",
+              "count": 1
+            },
+            {
+              "label": "NONE!",
+              "count": 1
+            },
+            {
+              "label": "Not too plumping",
+              "count": 1
+            },
+            {
+              "label": "Weak pigment",
+              "count": 1
+            },
+            {
+              "label": "Does not plump like advertised",
+              "count": 1
+            },
+            {
+              "label": "Color pigmentation wears off",
+              "count": 1
+            },
+            {
+              "label": "VERY tingly, almost hot feeling",
+              "count": 1
+            },
+            {
+              "label": "Bad packaging",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A little bit sticky, but not that bad",
+            "A little sticky on your lips.",
+            "A lot lighter than I anticipated",
+            "Bad Tasting",
+            "Bad packaging",
+            "Brush Applicator",
+            "Burning sensation",
+            "Burns",
+            "Burns my lips",
+            "Burns your lips",
+            "Can irritate if worn frequently",
+            "Can sometimes leak if upside down",
+            "Clumpy Application",
+            "Color is pretty light",
+            "Color only seeps into lines",
+            "Color pigmentation wears off",
+            "Colors aren't always true",
+            "Complicated To Use",
+            "Cost",
+            "Cost has gone up. Up a whole dollar.",
+            "Does not plump like advertised",
+            "Doesn't Plump",
+            "Doesn't last long",
+            "Doesn't last more than a month-ish",
+            "Doesn't plump",
+            "Drying",
+            "Expensive",
+            "For the price the tube should last longer",
+            "Hair gets stuck on sticky lips lol",
+            "Hard to get all of it out",
+            "I don't love the tingling",
+            "I wish it cost a little less but I love it anywa",
+            "It's a little sticky, but other that I love it",
+            "LEAKS from container - several issues with this",
+            "Leaks from container",
+            "Leaves Residue after it Fades",
+            "Little sticky",
+            "Menthol feeling",
+            "Mint tingle",
+            "NONE!",
+            "No cons..... except maybe price",
+            "No crazy plumping",
+            "None",
+            "Not Effective",
+            "Not True To Color",
+            "Not as much color as I thought, but I still love",
+            "Not colorful enough, a little too sheer",
+            "Not long lasting",
+            "Not too plumping",
+            "Not very dark",
+            "Not very plumping",
+            "Poor Color Selection",
+            "Poor Texture",
+            "Price!",
+            "Priced a tad high",
+            "Pricey",
+            "Pricey / Poor Value",
+            "Reapply frequently",
+            "SHEER, not creamy",
+            "Settles into my fine lines",
+            "Slightly sticky",
+            "Smells Bad",
+            "Sticky",
+            "Streaky",
+            "Taste",
+            "There are no cons to this product",
+            "Tingling",
+            "Too Minty",
+            "Too expensive",
+            "Too glossy",
+            "Too sheer",
+            "Too thick",
+            "Uneven Application",
+            "Unpleasant scent",
+            "VERY tingly, almost hot feeling",
+            "Weak pigment",
+            "Wears Off Easily",
+            "Weird taste",
+            "Wish it was more pigmented",
+            "Wish the application was more even",
+            "Wish there was a greater color selection",
+            "Would like more color intensity.",
+            "Yellowing",
+            "burned lips and lower lip was swollen after 1use",
+            "didn't plump",
+            "doesn't last long",
+            "doesn't plump",
+            "don't really notice a plumping effect",
+            "hard to finish a lot fe",
+            "more clear than anything",
+            "none",
+            "not pleasant to wear when it's cold outside",
+            "not plumping",
+            "sticky",
+            "stings a little when you first apply"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Natural Style",
+              "count": 408
+            },
+            {
+              "label": "Classic Style",
+              "count": 346
+            },
+            {
+              "label": "Trendy Style",
+              "count": 134
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 46
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 27
+            },
+            {
+              "label": "I put on in morning lasts all day",
+              "count": 1
+            },
+            {
+              "label": "Middle aged woman who wants a natural look",
+              "count": 1
+            },
+            {
+              "label": "Fair cool toned",
+              "count": 1
+            },
+            {
+              "label": "senior Gamecock",
+              "count": 1
+            },
+            {
+              "label": "45 year old blond/silver minimalist",
+              "count": 1
+            },
+            {
+              "label": "48 year-old woman busy with family and career",
+              "count": 1
+            },
+            {
+              "label": "40",
+              "count": 1
+            },
+            {
+              "label": "40 is woman",
+              "count": 1
+            },
+            {
+              "label": "ASIAN INDIAN 50+",
+              "count": 1
+            },
+            {
+              "label": "Hippie chic. Love to mix it up",
+              "count": 1
+            },
+            {
+              "label": "BUSY! Mom/Wife/Sister/Daughter/Business Exec",
+              "count": 1
+            },
+            {
+              "label": "Latina, olive skin, dark brown hair & eyes",
+              "count": 1
+            },
+            {
+              "label": "Fair complexion",
+              "count": 1
+            },
+            {
+              "label": "Very fair complexion",
+              "count": 1
+            },
+            {
+              "label": "Blonde hair",
+              "count": 1
+            },
+            {
+              "label": "Blue eyes",
+              "count": 1
+            },
+            {
+              "label": "Makeup Junkie",
+              "count": 1
+            },
+            {
+              "label": "Mid 20s",
+              "count": 1
+            },
+            {
+              "label": "Natural to med makeup style",
+              "count": 1
+            },
+            {
+              "label": "fair skin, blue eyes, casual style",
+              "count": 1
+            },
+            {
+              "label": "blue eyes",
+              "count": 1
+            },
+            {
+              "label": "light/medium skin",
+              "count": 1
+            },
+            {
+              "label": "Dark hair",
+              "count": 1
+            },
+            {
+              "label": "Green eyes",
+              "count": 1
+            },
+            {
+              "label": "Medium skin",
+              "count": 1
+            },
+            {
+              "label": "Popping",
+              "count": 1
+            },
+            {
+              "label": "65+ years old",
+              "count": 1
+            },
+            {
+              "label": "Aquatic ecology scientist",
+              "count": 1
+            },
+            {
+              "label": "Makeup geek",
+              "count": 1
+            },
+            {
+              "label": "Wannabe Beautuber",
+              "count": 1
+            },
+            {
+              "label": "Natural",
+              "count": 1
+            },
+            {
+              "label": "Mid sixties and like to try new things",
+              "count": 1
+            },
+            {
+              "label": "Budget",
+              "count": 1
+            },
+            {
+              "label": "Not your teenage daughter",
+              "count": 1
+            },
+            {
+              "label": "40+",
+              "count": 1
+            },
+            {
+              "label": "Fair skin, blue eyes",
+              "count": 1
+            },
+            {
+              "label": "50ish",
+              "count": 1
+            },
+            {
+              "label": "Blue green eyes",
+              "count": 1
+            },
+            {
+              "label": "Fair to light medium skin",
+              "count": 1
+            },
+            {
+              "label": "Professional",
+              "count": 1
+            },
+            {
+              "label": "Mid 20s woman",
+              "count": 1
+            },
+            {
+              "label": "Energetic",
+              "count": 1
+            },
+            {
+              "label": "Medium skin tone",
+              "count": 1
+            },
+            {
+              "label": "35",
+              "count": 1
+            },
+            {
+              "label": "Nurse, mom, mascara and lip gloss junkie",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "35",
+            "40",
+            "40 is woman",
+            "40+",
+            "45 year old blond/silver minimalist",
+            "48 year-old woman busy with family and career",
+            "50ish",
+            "65+ years old",
+            "ASIAN INDIAN 50+",
+            "Aquatic ecology scientist",
+            "BUSY! Mom/Wife/Sister/Daughter/Business Exec",
+            "Blonde hair",
+            "Blue eyes",
+            "Blue green eyes",
+            "Brand Buyer",
+            "Budget",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Classic Style",
+            "Comfort-seeking",
+            "Dark hair",
+            "Energetic",
+            "Energetic/Active",
+            "Fair complexion",
+            "Fair cool toned",
+            "Fair skin, blue eyes",
+            "Fair to light medium skin",
+            "Green eyes",
+            "Hippie chic. Love to mix it up",
+            "I put on in morning lasts all day",
+            "Latina, olive skin, dark brown hair & eyes",
+            "Makeup Junkie",
+            "Makeup geek",
+            "Medium skin",
+            "Medium skin tone",
+            "Mid 20s",
+            "Mid 20s woman",
+            "Mid sixties and like to try new things",
+            "Middle aged woman who wants a natural look",
+            "Natural",
+            "Natural Style",
+            "Natural to med makeup style",
+            "Not your teenage daughter",
+            "Nurse, mom, mascara and lip gloss junkie",
+            "Popping",
+            "Professional",
+            "Stylish/Fashionista",
+            "Trendy Style",
+            "Trendy/Stylish Dresser",
+            "Very fair complexion",
+            "Wannabe Beautuber",
+            "Youthful",
+            "blue eyes",
+            "fair skin, blue eyes, casual style",
+            "light/medium skin",
+            "senior Gamecock"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Glossy Finish",
+              "count": 824
+            },
+            {
+              "label": "Great Color Selection",
+              "count": 666
+            },
+            {
+              "label": "Even Application",
+              "count": 641
+            },
+            {
+              "label": "Convenient Container",
+              "count": 558
+            },
+            {
+              "label": "Moisturizing",
+              "count": 540
+            },
+            {
+              "label": "True To Color",
+              "count": 519
+            },
+            {
+              "label": "Long Lasting",
+              "count": 459
+            },
+            {
+              "label": "Pleasant Tasting",
+              "count": 408
+            },
+            {
+              "label": "Easy To Use",
+              "count": 67
+            },
+            {
+              "label": "Smells Great",
+              "count": 60
+            },
+            {
+              "label": "Effective",
+              "count": 47
+            },
+            {
+              "label": "Good Value",
+              "count": 41
+            },
+            {
+              "label": "Lightweight",
+              "count": 35
+            },
+            {
+              "label": "Plumping",
+              "count": 8
+            },
+            {
+              "label": "Glossy",
+              "count": 7
+            },
+            {
+              "label": "Not sticky",
+              "count": 6
+            },
+            {
+              "label": "Long lasting",
+              "count": 5
+            },
+            {
+              "label": "Plumps lips",
+              "count": 5
+            },
+            {
+              "label": "Shiny",
+              "count": 4
+            },
+            {
+              "label": "Hydrating",
+              "count": 4
+            },
+            {
+              "label": "plumping",
+              "count": 4
+            },
+            {
+              "label": "Pigmented",
+              "count": 3
+            },
+            {
+              "label": "Long wear",
+              "count": 2
+            },
+            {
+              "label": "High shine",
+              "count": 2
+            },
+            {
+              "label": "Not Sticky",
+              "count": 2
+            },
+            {
+              "label": "Creamy",
+              "count": 2
+            },
+            {
+              "label": "Great color",
+              "count": 2
+            },
+            {
+              "label": "Long-lasting",
+              "count": 2
+            },
+            {
+              "label": "Tingly",
+              "count": 2
+            },
+            {
+              "label": "Feels great",
+              "count": 2
+            },
+            {
+              "label": "Non-sticky",
+              "count": 2
+            },
+            {
+              "label": "Not too sticky",
+              "count": 1
+            },
+            {
+              "label": "Tingling sensation",
+              "count": 1
+            },
+            {
+              "label": "Goes on well and matches the shade of my lips",
+              "count": 1
+            },
+            {
+              "label": "Thick enough but not too thick",
+              "count": 1
+            },
+            {
+              "label": "adds moisture without being sticky",
+              "count": 1
+            },
+            {
+              "label": "Never sticky, long lasting, perfect color",
+              "count": 1
+            },
+            {
+              "label": "Soft color",
+              "count": 1
+            },
+            {
+              "label": "Wear daily",
+              "count": 1
+            },
+            {
+              "label": "makes lips shiny",
+              "count": 1
+            },
+            {
+              "label": "Nice tingling sensation and subtle color",
+              "count": 1
+            },
+            {
+              "label": "The plump is real!",
+              "count": 1
+            },
+            {
+              "label": "White Russian beautiful pink nude",
+              "count": 1
+            },
+            {
+              "label": "Works great as a gloss",
+              "count": 1
+            },
+            {
+              "label": "A color slightly richer than a natural lip color",
+              "count": 1
+            },
+            {
+              "label": "Slightly glossy",
+              "count": 1
+            },
+            {
+              "label": "Silky",
+              "count": 1
+            },
+            {
+              "label": "Long Wearing",
+              "count": 1
+            },
+            {
+              "label": "Plumping Effect",
+              "count": 1
+            },
+            {
+              "label": "Looks Incredible",
+              "count": 1
+            },
+            {
+              "label": "subtle color",
+              "count": 1
+            },
+            {
+              "label": "Pretty Shade",
+              "count": 1
+            },
+            {
+              "label": "I would purchase every color if I could.",
+              "count": 1
+            },
+            {
+              "label": "I would purchase every color!",
+              "count": 1
+            },
+            {
+              "label": "Great color!",
+              "count": 1
+            },
+            {
+              "label": "Slight tingle.",
+              "count": 1
+            },
+            {
+              "label": "Think texture- stays on a long time.",
+              "count": 1
+            },
+            {
+              "label": "Tastes great",
+              "count": 1
+            },
+            {
+              "label": "without re applying",
+              "count": 1
+            },
+            {
+              "label": "works lips get plumper and stays  on long",
+              "count": 1
+            },
+            {
+              "label": "High shine, long-lasting, blends beautifully",
+              "count": 1
+            },
+            {
+              "label": "Comfortable",
+              "count": 1
+            },
+            {
+              "label": "Great color payoff",
+              "count": 1
+            },
+            {
+              "label": "Great as a \"starter\" Lip Polish for tweens",
+              "count": 1
+            },
+            {
+              "label": "Great for any and all ages and skintones",
+              "count": 1
+            },
+            {
+              "label": "Huge range of colors and coverage",
+              "count": 1
+            },
+            {
+              "label": "Makes your lips tingle but not overpowering",
+              "count": 1
+            },
+            {
+              "label": "New color mixes when used with lip liners",
+              "count": 1
+            },
+            {
+              "label": "Glossy, tastes good, stays on",
+              "count": 1
+            },
+            {
+              "label": "Smooth applicator",
+              "count": 1
+            },
+            {
+              "label": "tingle to plump lips, not sticky",
+              "count": 1
+            },
+            {
+              "label": "soft, light minty tingle, beautiful color",
+              "count": 1
+            },
+            {
+              "label": "Works well",
+              "count": 1
+            },
+            {
+              "label": "Doesn't irritate even though it feels tingly",
+              "count": 1
+            },
+            {
+              "label": "Smooth",
+              "count": 1
+            },
+            {
+              "label": "Long-wearing",
+              "count": 1
+            },
+            {
+              "label": "liked the color and it is not to thick",
+              "count": 1
+            },
+            {
+              "label": "Not tacky",
+              "count": 1
+            },
+            {
+              "label": "The colors are gorgeous",
+              "count": 1
+            },
+            {
+              "label": "They tingle on your lips",
+              "count": 1
+            },
+            {
+              "label": "You can add on a lipstick to give some sparkle",
+              "count": 1
+            },
+            {
+              "label": "Cooling sensation,no burning. Lips appear fuller",
+              "count": 1
+            },
+            {
+              "label": "Adds plump",
+              "count": 1
+            },
+            {
+              "label": "Doesn't dry out lips",
+              "count": 1
+            },
+            {
+              "label": "Stays on",
+              "count": 1
+            },
+            {
+              "label": "colors! texture, fairly long lasting",
+              "count": 1
+            },
+            {
+              "label": "Tingly creamy color",
+              "count": 1
+            },
+            {
+              "label": "Cools and moisturizes lips",
+              "count": 1
+            },
+            {
+              "label": "Love the tingling feeling and how moist it feels",
+              "count": 1
+            },
+            {
+              "label": "Long wearing",
+              "count": 1
+            },
+            {
+              "label": "Good tingle and smell",
+              "count": 1
+            },
+            {
+              "label": "Lip plumping",
+              "count": 1
+            },
+            {
+              "label": "Long lasting on lips",
+              "count": 1
+            },
+            {
+              "label": "Nice colors",
+              "count": 1
+            },
+            {
+              "label": "Goes on nice with great shine",
+              "count": 1
+            },
+            {
+              "label": "Glides on easily",
+              "count": 1
+            },
+            {
+              "label": "Smooth texture",
+              "count": 1
+            },
+            {
+              "label": "Love this lip cream as it isn't sticky or greasy",
+              "count": 1
+            },
+            {
+              "label": "Nice and creamy . Does not dry lips",
+              "count": 1
+            },
+            {
+              "label": "long-lasting",
+              "count": 1
+            },
+            {
+              "label": "Doesn't dry",
+              "count": 1
+            },
+            {
+              "label": "Goes on smoothly",
+              "count": 1
+            },
+            {
+              "label": "Lasts long enough",
+              "count": 1
+            },
+            {
+              "label": "Great color pigment",
+              "count": 1
+            },
+            {
+              "label": "Feels so good! 1 application lasts several hours",
+              "count": 1
+            },
+            {
+              "label": "Great tingly sensation and great colors",
+              "count": 1
+            },
+            {
+              "label": "Mint flavor",
+              "count": 1
+            },
+            {
+              "label": "Keeps your lips soft and hydrated....",
+              "count": 1
+            },
+            {
+              "label": "Rich, creamy and shiny - love this lipstick",
+              "count": 1
+            },
+            {
+              "label": "Colors are great, tingle is fun!!",
+              "count": 1
+            },
+            {
+              "label": "Lip Plumping",
+              "count": 1
+            },
+            {
+              "label": "Natural color",
+              "count": 1
+            },
+            {
+              "label": "Stays on well",
+              "count": 1
+            },
+            {
+              "label": "Flattering",
+              "count": 1
+            },
+            {
+              "label": "Makes my lips feel full and lush!!",
+              "count": 1
+            },
+            {
+              "label": "Stay on a long time.",
+              "count": 1
+            },
+            {
+              "label": "Just enough color & shine",
+              "count": 1
+            },
+            {
+              "label": "Feels nice and creamy",
+              "count": 1
+            },
+            {
+              "label": "Looks amazing on any skin tone",
+              "count": 1
+            },
+            {
+              "label": "Subtle but beautiful color",
+              "count": 1
+            },
+            {
+              "label": "Good Color Options",
+              "count": 1
+            },
+            {
+              "label": "Amazing vanilla smell",
+              "count": 1
+            },
+            {
+              "label": "Lips are FULL",
+              "count": 1
+            },
+            {
+              "label": "Nice coverage",
+              "count": 1
+            },
+            {
+              "label": "Excellent Coverage",
+              "count": 1
+            },
+            {
+              "label": "Feels good",
+              "count": 1
+            },
+            {
+              "label": "Looks good",
+              "count": 1
+            },
+            {
+              "label": "Subtle color (like a tint)",
+              "count": 1
+            },
+            {
+              "label": "Tingly!",
+              "count": 1
+            },
+            {
+              "label": "Great for every day use",
+              "count": 1
+            },
+            {
+              "label": "Minty to help remind you to reapply",
+              "count": 1
+            },
+            {
+              "label": "Smooth no glitter specks",
+              "count": 1
+            },
+            {
+              "label": "Feels tingly when applied",
+              "count": 1
+            },
+            {
+              "label": "Good amount of color",
+              "count": 1
+            },
+            {
+              "label": "Long lasting (for a gloss)",
+              "count": 1
+            },
+            {
+              "label": "glossy",
+              "count": 1
+            },
+            {
+              "label": "minty",
+              "count": 1
+            },
+            {
+              "label": "not sticky",
+              "count": 1
+            },
+            {
+              "label": "Feels great on the lips",
+              "count": 1
+            },
+            {
+              "label": "Great price",
+              "count": 1
+            },
+            {
+              "label": "It adds a neutral shine to your lips",
+              "count": 1
+            },
+            {
+              "label": "This plumper makes your lips look natural",
+              "count": 1
+            },
+            {
+              "label": "Fresh, tingling feeling",
+              "count": 1
+            },
+            {
+              "label": "Great layer build up",
+              "count": 1
+            },
+            {
+              "label": "Lip Plumbing",
+              "count": 1
+            },
+            {
+              "label": "Tingling feeling",
+              "count": 1
+            },
+            {
+              "label": "Minty",
+              "count": 1
+            },
+            {
+              "label": "Tingle",
+              "count": 1
+            },
+            {
+              "label": "People notice your lips",
+              "count": 1
+            },
+            {
+              "label": "Plumps your lips with addictive tingling",
+              "count": 1
+            },
+            {
+              "label": "Smells delicious",
+              "count": 1
+            },
+            {
+              "label": "Feels great on",
+              "count": 1
+            },
+            {
+              "label": "Cooling sensation",
+              "count": 1
+            },
+            {
+              "label": "Smells amazing",
+              "count": 1
+            },
+            {
+              "label": "Too expensive",
+              "count": 1
+            },
+            {
+              "label": "Everyday color",
+              "count": 1
+            },
+            {
+              "label": "Great plumping feel",
+              "count": 1
+            },
+            {
+              "label": "Mild Tingling",
+              "count": 1
+            },
+            {
+              "label": "BEST GLOSS Out there",
+              "count": 1
+            },
+            {
+              "label": "Flattering on Lips",
+              "count": 1
+            },
+            {
+              "label": "Love the tingly sensation.  Freshens breath.",
+              "count": 1
+            },
+            {
+              "label": "Tingles on application",
+              "count": 1
+            },
+            {
+              "label": "Nice Smell",
+              "count": 1
+            },
+            {
+              "label": "Allergen free!  And stays put!",
+              "count": 1
+            },
+            {
+              "label": "Refreshing tingling",
+              "count": 1
+            },
+            {
+              "label": "No question ; the best.",
+              "count": 1
+            },
+            {
+              "label": "Tingly feeling",
+              "count": 1
+            },
+            {
+              "label": "Smells great",
+              "count": 1
+            },
+            {
+              "label": "Cooling",
+              "count": 1
+            },
+            {
+              "label": "I lve how it make my lips tingle! Beutiful sprin",
+              "count": 1
+            },
+            {
+              "label": "its glossy and pretty",
+              "count": 1
+            },
+            {
+              "label": "Great packaging",
+              "count": 1
+            },
+            {
+              "label": "Plumping sensation",
+              "count": 1
+            },
+            {
+              "label": "Comfortable tingle",
+              "count": 1
+            },
+            {
+              "label": "This is such a beautiful color",
+              "count": 1
+            },
+            {
+              "label": "Beautiful",
+              "count": 1
+            },
+            {
+              "label": "Great Scent",
+              "count": 1
+            },
+            {
+              "label": "smells like cupcakes",
+              "count": 1
+            },
+            {
+              "label": "Smells Good",
+              "count": 1
+            },
+            {
+              "label": "Good pigmentation",
+              "count": 1
+            },
+            {
+              "label": "Nice Tingle-ey Feeling",
+              "count": 1
+            },
+            {
+              "label": "Plumps Lips",
+              "count": 1
+            },
+            {
+              "label": "Love the \"tingle\"",
+              "count": 1
+            },
+            {
+              "label": "Great color. Plumps the lips.",
+              "count": 1
+            },
+            {
+              "label": "Makes these ol lips look great",
+              "count": 1
+            },
+            {
+              "label": "Color practically clear so it's a great gloss",
+              "count": 1
+            },
+            {
+              "label": "Great smell",
+              "count": 1
+            },
+            {
+              "label": "Help with cracked lips",
+              "count": 1
+            },
+            {
+              "label": "Helps keeps lip moist",
+              "count": 1
+            },
+            {
+              "label": "goes on smooth",
+              "count": 1
+            },
+            {
+              "label": "great color",
+              "count": 1
+            },
+            {
+              "label": "long lasting",
+              "count": 1
+            },
+            {
+              "label": "nice finish",
+              "count": 1
+            },
+            {
+              "label": "Feels Amazing",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Long lasting.",
+              "count": 1
+            },
+            {
+              "label": "Long lasting shine",
+              "count": 1
+            },
+            {
+              "label": "Love this stays on feels cool on my lips",
+              "count": 1
+            },
+            {
+              "label": "Perfect",
+              "count": 1
+            },
+            {
+              "label": "Soft",
+              "count": 1
+            },
+            {
+              "label": "Feels great, not sticky",
+              "count": 1
+            },
+            {
+              "label": "Just the right amount of color and shine.",
+              "count": 1
+            },
+            {
+              "label": "Beautiful Color",
+              "count": 1
+            },
+            {
+              "label": "Slightly plumping",
+              "count": 1
+            },
+            {
+              "label": "I like the tingling sensation.",
+              "count": 1
+            },
+            {
+              "label": "Perfect Color",
+              "count": 1
+            },
+            {
+              "label": "Plumper",
+              "count": 1
+            },
+            {
+              "label": "looks pretty",
+              "count": 1
+            },
+            {
+              "label": "not sticky like other lipgloss",
+              "count": 1
+            },
+            {
+              "label": "Feels minty",
+              "count": 1
+            },
+            {
+              "label": "Great color pay off",
+              "count": 1
+            },
+            {
+              "label": "Unique tingly feel",
+              "count": 1
+            },
+            {
+              "label": "Beautiful scent!",
+              "count": 1
+            },
+            {
+              "label": "Beautiful Container",
+              "count": 1
+            },
+            {
+              "label": "Nice plumping sensation",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A color slightly richer than a natural lip color",
+            "Adds plump",
+            "Allergen free!  And stays put!",
+            "Amazing vanilla smell",
+            "BEST GLOSS Out there",
+            "Beautiful",
+            "Beautiful Color",
+            "Beautiful Container",
+            "Beautiful scent!",
+            "Color practically clear so it's a great gloss",
+            "Colors are great, tingle is fun!!",
+            "Comfortable",
+            "Comfortable tingle",
+            "Convenient Container",
+            "Cooling",
+            "Cooling sensation",
+            "Cooling sensation,no burning. Lips appear fuller",
+            "Cools and moisturizes lips",
+            "Creamy",
+            "Doesn't dry",
+            "Doesn't dry out lips",
+            "Doesn't irritate even though it feels tingly",
+            "Easy To Use",
+            "Effective",
+            "Even Application",
+            "Everyday color",
+            "Excellent Coverage",
+            "Feels Amazing",
+            "Feels good",
+            "Feels great",
+            "Feels great on",
+            "Feels great on the lips",
+            "Feels great, not sticky",
+            "Feels minty",
+            "Feels nice and creamy",
+            "Feels so good! 1 application lasts several hours",
+            "Feels tingly when applied",
+            "Flattering",
+            "Flattering on Lips",
+            "Fresh, tingling feeling",
+            "Glides on easily",
+            "Glossy",
+            "Glossy Finish",
+            "Glossy, tastes good, stays on",
+            "Goes on nice with great shine",
+            "Goes on smoothly",
+            "Goes on well and matches the shade of my lips",
+            "Good Color Options",
+            "Good Value",
+            "Good amount of color",
+            "Good pigmentation",
+            "Good tingle and smell",
+            "Great Color Selection",
+            "Great Scent",
+            "Great as a \"starter\" Lip Polish for tweens",
+            "Great color",
+            "Great color pay off",
+            "Great color payoff",
+            "Great color pigment",
+            "Great color!",
+            "Great color. Plumps the lips.",
+            "Great for any and all ages and skintones",
+            "Great for every day use",
+            "Great layer build up",
+            "Great packaging",
+            "Great plumping feel",
+            "Great price",
+            "Great smell",
+            "Great tingly sensation and great colors",
+            "Help with cracked lips",
+            "Helps keeps lip moist",
+            "High shine",
+            "High shine, long-lasting, blends beautifully",
+            "Huge range of colors and coverage",
+            "Hydrating",
+            "I like the tingling sensation.",
+            "I lve how it make my lips tingle! Beutiful sprin",
+            "I would purchase every color if I could.",
+            "I would purchase every color!",
+            "It adds a neutral shine to your lips",
+            "Just enough color & shine",
+            "Just the right amount of color and shine.",
+            "Keeps your lips soft and hydrated....",
+            "Lasts long enough",
+            "Lightweight",
+            "Lip Plumbing",
+            "Lip Plumping",
+            "Lip plumping",
+            "Lips are FULL",
+            "Long Lasting",
+            "Long Wearing",
+            "Long lasting",
+            "Long lasting (for a gloss)",
+            "Long lasting on lips",
+            "Long lasting shine",
+            "Long lasting.",
+            "Long wear",
+            "Long wearing",
+            "Long-lasting",
+            "Long-wearing",
+            "Looks Incredible",
+            "Looks amazing on any skin tone",
+            "Looks good",
+            "Love the \"tingle\"",
+            "Love the tingling feeling and how moist it feels",
+            "Love the tingly sensation.  Freshens breath.",
+            "Love this lip cream as it isn't sticky or greasy",
+            "Love this stays on feels cool on my lips",
+            "Makes my lips feel full and lush!!",
+            "Makes these ol lips look great",
+            "Makes your lips tingle but not overpowering",
+            "Mild Tingling",
+            "Mint flavor",
+            "Minty",
+            "Minty to help remind you to reapply",
+            "Moisturizing",
+            "Natural color",
+            "Never sticky, long lasting, perfect color",
+            "New color mixes when used with lip liners",
+            "Nice Smell",
+            "Nice Tingle-ey Feeling",
+            "Nice and creamy . Does not dry lips",
+            "Nice colors",
+            "Nice coverage",
+            "Nice plumping sensation",
+            "Nice tingling sensation and subtle color",
+            "No question ; the best.",
+            "Non-sticky",
+            "Not Sticky",
+            "Not sticky",
+            "Not tacky",
+            "Not too sticky",
+            "People notice your lips",
+            "Perfect",
+            "Perfect Color",
+            "Pigmented",
+            "Pleasant Tasting",
+            "Plumper",
+            "Plumping",
+            "Plumping Effect",
+            "Plumping sensation",
+            "Plumps Lips",
+            "Plumps lips",
+            "Plumps your lips with addictive tingling",
+            "Pretty Shade",
+            "Refreshing tingling",
+            "Rich, creamy and shiny - love this lipstick",
+            "Sensitive skin",
+            "Shiny",
+            "Silky",
+            "Slight tingle.",
+            "Slightly glossy",
+            "Slightly plumping",
+            "Smells Good",
+            "Smells Great",
+            "Smells amazing",
+            "Smells delicious",
+            "Smells great",
+            "Smooth",
+            "Smooth applicator",
+            "Smooth no glitter specks",
+            "Smooth texture",
+            "Soft",
+            "Soft color",
+            "Stay on a long time.",
+            "Stays on",
+            "Stays on well",
+            "Subtle but beautiful color",
+            "Subtle color (like a tint)",
+            "Tastes great",
+            "The colors are gorgeous",
+            "The plump is real!",
+            "They tingle on your lips",
+            "Thick enough but not too thick",
+            "Think texture- stays on a long time.",
+            "This is such a beautiful color",
+            "This plumper makes your lips look natural",
+            "Tingle",
+            "Tingles on application",
+            "Tingling feeling",
+            "Tingling sensation",
+            "Tingly",
+            "Tingly creamy color",
+            "Tingly feeling",
+            "Tingly!",
+            "Too expensive",
+            "True To Color",
+            "Unique tingly feel",
+            "Wear daily",
+            "White Russian beautiful pink nude",
+            "Works great as a gloss",
+            "Works well",
+            "You can add on a lipstick to give some sparkle",
+            "adds moisture without being sticky",
+            "colors! texture, fairly long lasting",
+            "glossy",
+            "goes on smooth",
+            "great color",
+            "its glossy and pretty",
+            "liked the color and it is not to thick",
+            "long lasting",
+            "long-lasting",
+            "looks pretty",
+            "makes lips shiny",
+            "minty",
+            "nice finish",
+            "not sticky",
+            "not sticky like other lipgloss",
+            "plumping",
+            "smells like cupcakes",
+            "soft, light minty tingle, beautiful color",
+            "subtle color",
+            "tingle to plump lips, not sticky",
+            "without re applying",
+            "works lips get plumper and stays  on long"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        51,
+        68,
+        102,
+        294,
+        1702
+      ],
+      "review_histogram": [
+        51,
+        68,
+        102,
+        294,
+        1702
+      ],
+      "rating_count": 2217,
+      "review_count": 2217,
+      "average_rating": 4.59,
+      "recommended_ratio": 0.92,
+      "media": [
+        {
+          "id": "556697929",
+          "review_id": 556698018,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/c9egncwxhiykcd2awjsn.jpg",
+          "headline": "Do not buy Catching Rays matte",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Catching rays lip gloss matte",
+          "nickname": "Iva",
+          "created_date": 1751746075618
+        },
+        {
+          "id": "554453458",
+          "review_id": 554453457,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/p8u95pzlmzxbbq6d92gq.jpg",
+          "headline": "Love this!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Pink champagne",
+          "nickname": "Andra",
+          "created_date": 1748963898678
+        },
+        {
+          "id": "552975715",
+          "review_id": 552975697,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mis3cymrstbmob8vqjzd.jpg",
+          "headline": "I Absolutely LOVE Buxom Berry Blast",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "And Still Love It  💋💋💋",
+          "nickname": "Donna Marie",
+          "created_date": 1746582375640
+        },
+        {
+          "id": "552975714",
+          "review_id": 552975697,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kwas4tqkswdsyj6ptvfu.jpg",
+          "headline": "I Absolutely LOVE Buxom Berry Blast",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love It  💋💋",
+          "nickname": "Donna Marie",
+          "created_date": 1746582375640
+        },
+        {
+          "id": "552975683",
+          "review_id": 552975697,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/acayicad1kfr9owwd0vm.jpg",
+          "headline": "I Absolutely LOVE Buxom Berry Blast",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love It  💋",
+          "nickname": "Donna Marie",
+          "created_date": 1746582375640
+        },
+        {
+          "id": "513721034",
+          "review_id": 513721043,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ih54yik2zzser8d1lx8w.jpg",
+          "headline": "The perfect lip plumping gloss!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rae D.",
+          "created_date": 1715695948323
+        },
+        {
+          "id": "513721044",
+          "review_id": 513721043,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bfhlhfcgvk66kre0xijl.jpg",
+          "headline": "The perfect lip plumping gloss!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rae D.",
+          "created_date": 1715695948323
+        },
+        {
+          "id": "513146260",
+          "review_id": 513146206,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/sjz1fvmhviyyiq89zweu.jpg",
+          "headline": "Great everyday shade!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jessyo",
+          "created_date": 1715014527479
+        },
+        {
+          "id": "513011032",
+          "review_id": 513010926,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/eh5tgsnqpaddgmt54ukz.jpg",
+          "headline": "Must have!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Abby",
+          "created_date": 1714859158810
+        },
+        {
+          "id": "512671748",
+          "review_id": 512671761,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jikx6j4gzusdddutujz7.jpg",
+          "headline": "Fully plump lips",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Alexg007",
+          "created_date": 1714501106892
+        },
+        {
+          "id": "512662069",
+          "review_id": 512662195,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/j6dt2dq464wv0a6ptmna.jpg",
+          "headline": "Beautiful color and subtle plump",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Mimi",
+          "created_date": 1714492570916
+        },
+        {
+          "id": "512289240",
+          "review_id": 512289205,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jmhyxwlsnslei4lhciaf.jpg",
+          "headline": "Love all colors",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "VianeyB",
+          "created_date": 1714108356957
+        },
+        {
+          "id": "512254058",
+          "review_id": 512254161,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/n0taludm3ayxdrqrv3re.jpg",
+          "headline": "Hydrating on the lips",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Maddy",
+          "created_date": 1714068278336
+        },
+        {
+          "id": "512193047",
+          "review_id": 512193135,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gbhvgn26ar4xagdm2rjg.jpg",
+          "headline": "Lip plumper",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Color",
+          "nickname": "Preeti",
+          "created_date": 1713998983146
+        },
+        {
+          "id": "512193143",
+          "review_id": 512193135,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/krmnsrb56vxwiqk5mkvb.jpg",
+          "headline": "Lip plumper",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Product",
+          "nickname": "Preeti",
+          "created_date": 1713998983146
+        },
+        {
+          "id": "512164440",
+          "review_id": 512164432,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ofztoabw0ltzs1rcaxpq.jpg",
+          "headline": "Very Suprised!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ambs",
+          "created_date": 1713975757556
+        },
+        {
+          "id": "511976327",
+          "review_id": 511976365,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/swqrcxxlkvogz0cpmw99.jpg",
+          "headline": "Really nice Plumping Gloss",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Coco",
+          "created_date": 1713831122174
+        },
+        {
+          "id": "511913394",
+          "review_id": 511913319,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mp3rthzvflqn0vljyiqp.jpg",
+          "headline": "Great longevity and gentle plumping",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Julia",
+          "created_date": 1713744191790
+        },
+        {
+          "id": "511913393",
+          "review_id": 511913319,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/awu7ozexxizpsexpizki.jpg",
+          "headline": "Great longevity and gentle plumping",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Julia",
+          "created_date": 1713744191790
+        },
+        {
+          "id": "511888170",
+          "review_id": 511888049,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bvf95jjxg7oemupkkvwz.jpg",
+          "headline": "Plumping Lip Gloss",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "9erica1",
+          "created_date": 1713714957212
+        },
+        {
+          "id": "511677940",
+          "review_id": 511677911,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ylbanmgyh3uico9dygdy.jpg",
+          "headline": "Meh.. nothing to write home about",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AngPanda",
+          "created_date": 1713468030138
+        },
+        {
+          "id": "511677903",
+          "review_id": 511677911,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ukqgzpz2dwi3zo0xfif9.jpg",
+          "headline": "Meh.. nothing to write home about",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AngPanda",
+          "created_date": 1713468030138
+        },
+        {
+          "id": "511677892",
+          "review_id": 511677911,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bfjepv2e1sctwmzerlfw.jpg",
+          "headline": "Meh.. nothing to write home about",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AngPanda",
+          "created_date": 1713468030138
+        },
+        {
+          "id": "511677891",
+          "review_id": 511677911,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/h3pqgpmxv1sgnrv1vkcf.jpg",
+          "headline": "Meh.. nothing to write home about",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AngPanda",
+          "created_date": 1713468030138
+        },
+        {
+          "id": "511677845",
+          "review_id": 511677911,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tqi7xgfu7dlij1ylxv7f.jpg",
+          "headline": "Meh.. nothing to write home about",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AngPanda",
+          "created_date": 1713468030138
+        },
+        {
+          "id": "511678241",
+          "review_id": 511678136,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mw1yubogcbb9axdrelbv.jpg",
+          "headline": "my new fav lip plumper!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "perfect daily plump",
+          "nickname": "Haley",
+          "created_date": 1713467833607
+        },
+        {
+          "id": "511654684",
+          "review_id": 511654683,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ffmvhdpoggxs8n0tjaye.jpg",
+          "headline": "Great lip gloss",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Vicksheva",
+          "created_date": 1713445680243
+        },
+        {
+          "id": "511619745",
+          "review_id": 511619772,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qk6f1ehf5hvpbger7mwa.jpg",
+          "headline": "Stays put",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "On the lips",
+          "nickname": "LilyoftheValley",
+          "created_date": 1713392148703
+        },
+        {
+          "id": "511619744",
+          "review_id": 511619772,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ojgneg5egx209o4d1rpw.jpg",
+          "headline": "Stays put",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Product and its color",
+          "nickname": "LilyoftheValley",
+          "created_date": 1713392148703
+        },
+        {
+          "id": "511600748",
+          "review_id": 511600747,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xrpbfmhtwnwmsf3nulmb.jpg",
+          "headline": "Love love love",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "LemonsLimes",
+          "created_date": 1713372249970
+        },
+        {
+          "id": "511549200",
+          "review_id": 511549169,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/fgg3frsixvwljah4tyta.jpg",
+          "headline": "PURFECT GLOSS/ MUST HAVE LIPPIE",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "dolly on my lips",
+          "nickname": "rose",
+          "created_date": 1713299359296
+        },
+        {
+          "id": "511549096",
+          "review_id": 511549169,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cp5gypstfdxnxjruxjym.jpg",
+          "headline": "PURFECT GLOSS/ MUST HAVE LIPPIE",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "packaging is clean and smooth",
+          "nickname": "rose",
+          "created_date": 1713299359296
+        },
+        {
+          "id": "511549136",
+          "review_id": 511549169,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zdpeaj385mfnaooplwsf.jpg",
+          "headline": "PURFECT GLOSS/ MUST HAVE LIPPIE",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "super glossy and shiny 😍",
+          "nickname": "rose",
+          "created_date": 1713299359296
+        },
+        {
+          "id": "511547235",
+          "review_id": 511547271,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zkepkqi4aqizh2vyt3mp.jpg",
+          "headline": "Dolly- Your lips but better!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Only Dolly Plumping Gloss on and after 10mins of application.",
+          "nickname": "CayceeCat",
+          "created_date": 1713296446134
+        },
+        {
+          "id": "511547208",
+          "review_id": 511547271,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/w9cgbv8atooq9ssstpol.jpg",
+          "headline": "Dolly- Your lips but better!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Nothing on lips- before any gloss",
+          "nickname": "CayceeCat",
+          "created_date": 1713296446134
+        },
+        {
+          "id": "511506458",
+          "review_id": 511506427,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qjjdjihhpuhv75mf5p5i.jpg",
+          "headline": "Good gloss, lacking \"plump\"",
+          "rating": 3,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Upon arrival the box was sleek and pristine.",
+          "nickname": "Louie",
+          "created_date": 1713242748500
+        },
+        {
+          "id": "511497844",
+          "review_id": 511497855,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/blsodetwyqkwp4vrklit.jpg",
+          "headline": "Perfect pink",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lyssalaane",
+          "created_date": 1713228913103
+        },
+        {
+          "id": "511474729",
+          "review_id": 511474607,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xopmfwdalyjyzklt6w9x.jpg",
+          "headline": "Lovely glossy color!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Pretty color!",
+          "nickname": "ALane",
+          "created_date": 1713208066929
+        },
+        {
+          "id": "511457472",
+          "review_id": 511457247,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/faueqhni5unsdl8sdbli.jpg",
+          "headline": "Would buy again",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ms.maryjane",
+          "created_date": 1713201979725
+        },
+        {
+          "id": "511457471",
+          "review_id": 511457247,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/nxm3jo6dcnb03kdjettf.jpg",
+          "headline": "Would buy again",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ms.maryjane",
+          "created_date": 1713201979725
+        },
+        {
+          "id": "511457461",
+          "review_id": 511457247,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/tiwnfyim2lmfnhblve01.jpg",
+          "headline": "Would buy again",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ms.maryjane",
+          "created_date": 1713201979725
+        },
+        {
+          "id": "511457396",
+          "review_id": 511457247,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/yifqjye5fzwnzw9tzmou.jpg",
+          "headline": "Would buy again",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ms.maryjane",
+          "created_date": 1713201979725
+        },
+        {
+          "id": "511412679",
+          "review_id": 511412726,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rpvvwcmjpt9sstrjtqe2.jpg",
+          "headline": "I've been using it, it's really great.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sangsang",
+          "created_date": 1713196923887
+        },
+        {
+          "id": "511412727",
+          "review_id": 511412726,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/h5yrmrucdqwbqev1l1hb.jpg",
+          "headline": "I've been using it, it's really great.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sangsang",
+          "created_date": 1713196923887
+        },
+        {
+          "id": "511411523",
+          "review_id": 511411496,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ijy2eqct4j8pj2tl48oe.jpg",
+          "headline": "I love this gloss!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AC",
+          "created_date": 1713196800954
+        },
+        {
+          "id": "511406009",
+          "review_id": 511406160,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/llembiqn3smd5xbxu6pq.jpg",
+          "headline": "Awesome lip gloss",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Diana Huizar",
+          "created_date": 1713196159739
+        },
+        {
+          "id": "511403950",
+          "review_id": 511403892,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mrxwvc3oyjwrgzpmt4jx.jpg",
+          "headline": "I love it!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jen Jen",
+          "created_date": 1713196132659
+        },
+        {
+          "id": "511402793",
+          "review_id": 511402792,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/aqfyspaye6mejnekjqbe.jpg",
+          "headline": "Gorge",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "tatsi1313",
+          "created_date": 1713194210570
+        },
+        {
+          "id": "511370742",
+          "review_id": 511370760,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bkrqbhgfemrf3uymzj18.jpg",
+          "headline": "Love it!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Full-On™ Plumping Lip Cream Dolly",
+          "nickname": "S",
+          "created_date": 1713157852607
+        },
+        {
+          "id": "511309231",
+          "review_id": 511309218,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cn8fnzc1koti6qytoe1m.jpg",
+          "headline": "Really pretty shine",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Nice Packaging",
+          "nickname": "Gheebird",
+          "created_date": 1713070061201
+        },
+        {
+          "id": "511302301",
+          "review_id": 511302380,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/caq2ifzghyxedxhml27t.jpg",
+          "headline": "Best Tingling Lip Cream",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Must Buy",
+          "nickname": "Mally",
+          "created_date": 1713059816927
+        },
+        {
+          "id": "511244815",
+          "review_id": 511244587,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/knpbscfuuk994vehrxb4.jpg",
+          "headline": "Phenomenal",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "How pretty. So iconic!",
+          "nickname": "Lola",
+          "created_date": 1712983037321
+        },
+        {
+          "id": "511241904",
+          "review_id": 511241893,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/awwikkdyv3lvntgucsd2.jpg",
+          "headline": "I would definitely buy another shade ✨",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Obsessed!",
+          "nickname": "Kika",
+          "created_date": 1712977719132
+        },
+        {
+          "id": "511234042",
+          "review_id": 511234070,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/azp921x9sjzumd0ewbix.jpg",
+          "headline": "Applicator",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Tj",
+          "created_date": 1712965071248
+        },
+        {
+          "id": "511234071",
+          "review_id": 511234070,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/l9bavwdafrzbcopl0lbz.jpg",
+          "headline": "Applicator",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Tj",
+          "created_date": 1712965071248
+        },
+        {
+          "id": "511218765",
+          "review_id": 511218867,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hugyv3uuga563sx301tn.jpg",
+          "headline": "I would buy and gift this product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "BUXOM Full-On Plumping Lip Cream in the shade Dolly.",
+          "nickname": "Nori",
+          "created_date": 1712950904198
+        },
+        {
+          "id": "511183461",
+          "review_id": 511183388,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gkckqgdlnegjz86khfp5.jpg",
+          "headline": "Hydrating, plumping, no sticky residue",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Buxom Full-on Plumping Lip Cream. Shade: Dolly",
+          "nickname": "Tiffshep93",
+          "created_date": 1712938100806
+        },
+        {
+          "id": "511183389",
+          "review_id": 511183388,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mghbfqc2tslhlj6mdkdi.jpg",
+          "headline": "Hydrating, plumping, no sticky residue",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Before and after applying Buxom full-on plumping lip cream. Shade, Dolly",
+          "nickname": "Tiffshep93",
+          "created_date": 1712938100806
+        },
+        {
+          "id": "511148789",
+          "review_id": 511149038,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ogzpf61xnen6jqiq4tt8.jpg",
+          "headline": "Beautiful gloss that compliments all skins tones",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Photo or box",
+          "nickname": "Candy",
+          "created_date": 1712887771791
+        },
+        {
+          "id": "511149082",
+          "review_id": 511149038,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wnwzeoqgnf3h9uygxou4.jpg",
+          "headline": "Beautiful gloss that compliments all skins tones",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Buxom take out of the box",
+          "nickname": "Candy",
+          "created_date": 1712887771791
+        },
+        {
+          "id": "511143080",
+          "review_id": 511143072,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dwe3fvj6cfzgflwmlij9.jpg",
+          "headline": "Amazing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Brittnay",
+          "created_date": 1712878624808
+        },
+        {
+          "id": "511140764",
+          "review_id": 511140758,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cqrycpt0rxobt8epu3vt.jpg",
+          "headline": "I recommend!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "AngelsQueen",
+          "created_date": 1712874844288
+        },
+        {
+          "id": "511138315",
+          "review_id": 511138370,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/thymhcxpqwrxntmfiqgf.jpg",
+          "headline": "hydrating lip gloss",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Hydrating lip gloss",
+          "nickname": "Beee16",
+          "created_date": 1712871953963
+        },
+        {
+          "id": "511068424",
+          "review_id": 511068394,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/puaxzeemrzpu0u3orhde.jpg",
+          "headline": "Amazing new addition to my makeup bag",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Amazing shade",
+          "nickname": "MaggieQ",
+          "created_date": 1712796763387
+        },
+        {
+          "id": "511068490",
+          "review_id": 511068394,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ssrvmyh5zkk6uvmz56db.jpg",
+          "headline": "Amazing new addition to my makeup bag",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Such a pretty packaging",
+          "nickname": "MaggieQ",
+          "created_date": 1712796763387
+        },
+        {
+          "id": "511068257",
+          "review_id": 511068394,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qx8dk7b4ocysajejqrwl.jpg",
+          "headline": "Amazing new addition to my makeup bag",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love it",
+          "nickname": "MaggieQ",
+          "created_date": 1712796763387
+        },
+        {
+          "id": "511068413",
+          "review_id": 511068394,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dtvarwdow50wlydbkhms.jpg",
+          "headline": "Amazing new addition to my makeup bag",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Prettiest mauve shade",
+          "nickname": "MaggieQ",
+          "created_date": 1712796763387
+        },
+        {
+          "id": "511068414",
+          "review_id": 511068394,
+          "uri": "//res.cloudinary.com/powerreviews/video/upload/v1712796731/prod/htp0dpjsje6ipomszoyd.mp4",
+          "headline": "Amazing new addition to my makeup bag",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "video",
+          "caption": "Amazing lip cream! Love it!",
+          "nickname": "MaggieQ",
+          "created_date": 1712796763387
+        },
+        {
+          "id": "511061922",
+          "review_id": 511061990,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zqkh11jwc0b3scisuhu3.jpg",
+          "headline": "Good, but…",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Initial Application",
+          "nickname": "Elle's",
+          "created_date": 1712788091496
+        },
+        {
+          "id": "511061991",
+          "review_id": 511061990,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dm7zil53vnntxcvgpjrl.jpg",
+          "headline": "Good, but…",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "1 hr after",
+          "nickname": "Elle's",
+          "created_date": 1712788091496
+        },
+        {
+          "id": "511052249",
+          "review_id": 511052300,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zfdox2yxbs8atrmeb5im.jpg",
+          "headline": "I would buy this product again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Rolly",
+          "created_date": 1712777676827
+        },
+        {
+          "id": "511039253",
+          "review_id": 511039251,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/epywiwq4qmptfzeteywp.jpg",
+          "headline": "I would always buy this",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Barb babe",
+          "created_date": 1712767890853
+        },
+        {
+          "id": "511039252",
+          "review_id": 511039251,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/c6pi8i4xxxohkpyypf7z.jpg",
+          "headline": "I would always buy this",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Barb babe",
+          "created_date": 1712767890853
+        },
+        {
+          "id": "511036433",
+          "review_id": 511036432,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/b5uz2fzy5q9jfx2gpyct.jpg",
+          "headline": "Beautiful color, super tingly!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Color",
+          "nickname": "Rayyoon",
+          "created_date": 1712764333848
+        },
+        {
+          "id": "511036357",
+          "review_id": 511036354,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zqybzacf6bvm9khkw0hd.jpg",
+          "headline": "Long lasting",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Bulgarian_rose",
+          "created_date": 1712763633308
+        },
+        {
+          "id": "511036356",
+          "review_id": 511036354,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/utspkrxmg4tfe6hsqewx.jpg",
+          "headline": "Long lasting",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Bulgarian_rose",
+          "created_date": 1712763633308
+        },
+        {
+          "id": "511036355",
+          "review_id": 511036354,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qbareabe4bmpqusxluwm.jpg",
+          "headline": "Long lasting",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Bulgarian_rose",
+          "created_date": 1712763633308
+        },
+        {
+          "id": "511032082",
+          "review_id": 511031887,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/khtmv8ywcg1g2mwz5ipq.jpg",
+          "headline": "Great product to add to my collection",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Britt",
+          "created_date": 1712760600876
+        },
+        {
+          "id": "510999203",
+          "review_id": 510999149,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/pvbtjbpmxksx6ak1o8cb.jpg",
+          "headline": "THE PERFECT PLUMPER",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "HollyS",
+          "created_date": 1712697913194
+        },
+        {
+          "id": "510999162",
+          "review_id": 510999149,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ue7hqu0oxj94qo9u6hmq.jpg",
+          "headline": "THE PERFECT PLUMPER",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "HollyS",
+          "created_date": 1712697913194
+        },
+        {
+          "id": "510999056",
+          "review_id": 510999149,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/okrumdpltolt4tmvpsjx.jpg",
+          "headline": "THE PERFECT PLUMPER",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "HollyS",
+          "created_date": 1712697913194
+        },
+        {
+          "id": "510942274",
+          "review_id": 510942322,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/do1qvut4rdkf8sjjzfzc.jpg",
+          "headline": "I need all the shades!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Before during and after use",
+          "nickname": "Jacq",
+          "created_date": 1712691462664
+        },
+        {
+          "id": "510921225",
+          "review_id": 510921068,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hajc2ob3lnwmi0jqtryv.jpg",
+          "headline": "I like it",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Swatch",
+          "nickname": "Kylee",
+          "created_date": 1712682346026
+        },
+        {
+          "id": "510921203",
+          "review_id": 510921068,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ktdakowsz2d7h2vve9ea.jpg",
+          "headline": "I like it",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Packaging",
+          "nickname": "Kylee",
+          "created_date": 1712682346026
+        },
+        {
+          "id": "510921215",
+          "review_id": 510921068,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/we6dr4lfslzyrbdmoyyl.jpg",
+          "headline": "I like it",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Product",
+          "nickname": "Kylee",
+          "created_date": 1712682346026
+        },
+        {
+          "id": "510860730",
+          "review_id": 510860704,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wnyqv3n6csmmvjrovjkp.jpg",
+          "headline": "Overall a good product",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sarah",
+          "created_date": 1712611137359
+        },
+        {
+          "id": "510799441",
+          "review_id": 510799524,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kkvw8u93tbdqalgqz6yy.jpg",
+          "headline": "Goes on smooth",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kim",
+          "created_date": 1712575152765
+        },
+        {
+          "id": "510721153",
+          "review_id": 510721078,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bfiii4k4kvpntiwe01jc.jpg",
+          "headline": "Amazing would definitely try the next color",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Krissy",
+          "created_date": 1712464913976
+        },
+        {
+          "id": "510644363",
+          "review_id": 510644362,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ssu3fdbmuewdmbinctzz.jpg",
+          "headline": "The BEST plumping gloss!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Shade Dolly",
+          "nickname": "Gizem K",
+          "created_date": 1712358671071
+        },
+        {
+          "id": "510640830",
+          "review_id": 510640772,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mywcf8ux74rxnj9e4unw.jpg",
+          "headline": "Plumping",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Lip cream",
+          "nickname": "Meli",
+          "created_date": 1712353119910
+        },
+        {
+          "id": "509898871",
+          "review_id": 509898870,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rs5r6j1tsdagqdxcxopt.jpg",
+          "headline": "Love the formula, but not true to color.",
+          "rating": 4,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Left: Dolly, Right: Hot Toddy",
+          "nickname": "Alex",
+          "created_date": 1711562808402
+        },
+        {
+          "id": "482479347",
+          "review_id": 482479512,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/iezznhr13xxfxjmm2kto.jpg",
+          "headline": "Buy in-person, Online colors are deceiving",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Desiree",
+          "created_date": 1701016401422
+        },
+        {
+          "id": "482479456",
+          "review_id": 482479512,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ojegzgqe7szzllxerwhp.jpg",
+          "headline": "Buy in-person, Online colors are deceiving",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Desiree",
+          "created_date": 1701016401422
+        },
+        {
+          "id": "445185912",
+          "review_id": 445185879,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jehxrqxe5bxe0cdocmbj.jpg",
+          "headline": "Not The Color It Should Be",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Elise",
+          "created_date": 1677168216254
+        },
+        {
+          "id": "442371823",
+          "review_id": 442371822,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kahfsewkcjiowb2arcte.jpg",
+          "headline": "My favorite color",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My fav",
+          "nickname": "Coco",
+          "created_date": 1675187487768
+        },
+        {
+          "id": "403297449",
+          "review_id": 403297521,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bcmvlhxfncus6lqy5930.jpg",
+          "headline": "Love it!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Desiree",
+          "nickname": "Desiree",
+          "created_date": 1648306733204
+        },
+        {
+          "id": "340387520",
+          "review_id": 340387519,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/czc8hgzg94fakv5basg8.jpg",
+          "headline": "Just a hint of color with lots of shine",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "French martini",
+          "nickname": "Brea the boss",
+          "created_date": 1617662946085
+        },
+        {
+          "id": "339591191",
+          "review_id": 339591209,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/djaxs9dujq6e4x9dyomb.jpg",
+          "headline": "Love it. The color is great and it's a nice smooth formula.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Judajustine",
+          "created_date": 1616773960690
+        },
+        {
+          "id": "338974876",
+          "review_id": 338974866,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/k4zce6ci4woczemti6vf.jpg",
+          "headline": "Great Plumping Lip Gloss",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Buxom Pink Lady & Rose Julep",
+          "nickname": "Cillajane23",
+          "created_date": 1616600835477
+        },
+        {
+          "id": "272357849",
+          "review_id": 272357842,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mxn4gxbovzfbwha4rz8z.jpg",
+          "headline": "I would buy more",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love ❤️ y",
+          "nickname": "Surfdiva",
+          "created_date": 1587328543149
+        },
+        {
+          "id": "272339065",
+          "review_id": 272339106,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/g6lmbai9pqhjdusrzznz.jpg",
+          "headline": "Beautiful",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "BenevolentLee",
+          "created_date": 1587309862286
+        },
+        {
+          "id": "272276743",
+          "review_id": 272276749,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/azebgkwsyxtar7nkjdyq.jpg",
+          "headline": "These are the best lipglosses ever!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Wearing this amazing lipgloss by itself",
+          "nickname": "Wen",
+          "created_date": 1587239844151
+        },
+        {
+          "id": "270172179",
+          "review_id": 270172135,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vgjf2wqdbcpnoejsvesm.jpg",
+          "headline": "Long lasting",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "The pink is dolly and the brown is Moscow mule. For anyone my skin tone curious to know what it looks like",
+          "nickname": "Pinket",
+          "created_date": 1586284968538
+        },
+        {
+          "id": "268495421",
+          "review_id": 268495420,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zrmzu8iqslkybapafxgn.jpg",
+          "headline": "Best lip product EVER",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "with vs. without",
+          "nickname": "I'mJustABoringOldOrange",
+          "created_date": 1584221759851
+        },
+        {
+          "id": "268495391",
+          "review_id": 268495420,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/idobafevdsaspchnwf7k.jpg",
+          "headline": "Best lip product EVER",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "with vs. without",
+          "nickname": "I'mJustABoringOldOrange",
+          "created_date": 1584221759851
+        },
+        {
+          "id": "239488967",
+          "review_id": 239488937,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wwg8e20kxgwewlpzlfsj.jpg",
+          "headline": "Best lip product by FAR",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Winn",
+          "created_date": 1560026107812
+        },
+        {
+          "id": "236216371",
+          "review_id": 236216356,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/inzrvmerx1ilqcywjear.jpg",
+          "headline": "I LOVE LOVE this stuff!!",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My lip gloss is poppin! ;)",
+          "nickname": "Nurse D",
+          "created_date": 1555094067467
+        },
+        {
+          "id": "235784993",
+          "review_id": 235784977,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/l2fljgsgkidgtsen0oqq.jpg",
+          "headline": "Great price and in love with color",
+          "rating": 4,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dolly, paired with a purple/orange/berry eye look",
+          "nickname": "Sexy",
+          "created_date": 1554368515901
+        },
+        {
+          "id": "235511131",
+          "review_id": 235511097,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cc59wshar0dstokrbvgk.jpg",
+          "headline": "I bought the polish so I decided to buy this one too!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dolly top lip, rose julep bottom lip",
+          "nickname": "t",
+          "created_date": 1553929951471
+        },
+        {
+          "id": "197203084",
+          "review_id": 197203091,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/idupdr9cijk1nvd666kk.jpg",
+          "headline": "Best!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kace",
+          "created_date": 1535579765767
+        },
+        {
+          "id": "197203083",
+          "review_id": 197203091,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/exkp5rpcyqnl9ttx3q9j.jpg",
+          "headline": "Best!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kace",
+          "created_date": 1535579765767
+        },
+        {
+          "id": "197203101",
+          "review_id": 197203091,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/uw6hmg2vzy45z4m188ip.jpg",
+          "headline": "Best!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kace",
+          "created_date": 1535579765767
+        },
+        {
+          "id": "197203092",
+          "review_id": 197203091,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ks7sey3xqzdyi6wl50ft.jpg",
+          "headline": "Best!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Kace",
+          "created_date": 1535579765767
+        },
+        {
+          "id": "196668711",
+          "review_id": 196668707,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cheiwl43rkpmbeyggifk.jpg",
+          "headline": "Best lip gloss",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Gigi",
+          "created_date": 1534609424319
+        },
+        {
+          "id": "190836305",
+          "review_id": 190836298,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ynfpzxkbitppklc7w1ar.jpg",
+          "headline": "Favorite lip gloss",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Pauline",
+          "created_date": 1528661455030
+        },
+        {
+          "id": "191212787",
+          "review_id": 191212799,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ntv2lbgednosb39fbmzi.jpg",
+          "headline": "What's not to love? 😍",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "ariellemiquelle",
+          "created_date": 1523028032114
+        },
+        {
+          "id": "190836175",
+          "review_id": 190836184,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/k0qlzicl1pydvjk2kiyk.jpg",
+          "headline": "Used lip cream?!",
+          "rating": 1,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Wendy",
+          "created_date": 1519773751313
+        },
+        {
+          "id": "190836165",
+          "review_id": 190836152,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bsvjjgogzt5ftclvnj5u.jpg",
+          "headline": "BEST GLOSS OUT THERE!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "B",
+          "created_date": 1515726655240
+        },
+        {
+          "id": "190836086",
+          "review_id": 190836095,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vefuewciqmzeouomcq7e.jpg",
+          "headline": "I ABSOLUTELY LOVE This Product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Nicole Nathanson",
+          "nickname": "Nicole, Beauty Biz No BS Boho",
+          "created_date": 1503676113348
+        },
+        {
+          "id": "190836076",
+          "review_id": 190836070,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dfqurwmfprhkg7x4iptx.jpg",
+          "headline": "Holy Grail, White  Russian 10 Stars!!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Miss Boss",
+          "created_date": 1500868078865
+        },
+        {
+          "id": "191212762",
+          "review_id": 191212700,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/wdmxtp4dkxulpdvgsrih.jpg",
+          "headline": "Perfect Shade. I can't get enough!! I need 5 more",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Ohaelise",
+          "created_date": 1493948586645
+        },
+        {
+          "id": "191212699",
+          "review_id": 191212757,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ic1ouxpoduvqynu9js7y.jpg",
+          "headline": "I love the color and little plump to it.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Love",
+          "created_date": 1493060112283
+        },
+        {
+          "id": "190836004",
+          "review_id": 190835996,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ia27by8wvz3o0zsgzmkk.jpg",
+          "headline": "Love it my fave",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dolly",
+          "nickname": "Dee",
+          "created_date": 1491404182229
+        },
+        {
+          "id": "190835842",
+          "review_id": 190835840,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zz5bsfpchy4dkq1tlrgr.jpg",
+          "headline": "Not as good as their other lip glosses",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Kir Royale swatch",
+          "nickname": "Tlc_936",
+          "created_date": 1490285299177
+        },
+        {
+          "id": "190835829",
+          "review_id": 190835840,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ekdzfbijiupwzhyonire.jpg",
+          "headline": "Not as good as their other lip glosses",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Kir Royale swatch",
+          "nickname": "Tlc_936",
+          "created_date": 1490285299177
+        },
+        {
+          "id": "191212668",
+          "review_id": 191212676,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/qklkzvzqdodmxwfcn0ju.jpg",
+          "headline": "Absolutely gorgeous !!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Gissele Valladares",
+          "created_date": 1489431397671
+        },
+        {
+          "id": "190835798",
+          "review_id": 190835802,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/nhi0iog51qyvrdu5bvyf.jpg",
+          "headline": "Best lip gloss I have ever purchased!",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Caroline",
+          "created_date": 1484839798260
+        },
+        {
+          "id": "190835698",
+          "review_id": 190835707,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cgjmf5w1fcnafhb5r0hv.jpg",
+          "headline": "Oh how I've missed this product!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Last night",
+          "nickname": "Jwyatt14",
+          "created_date": 1475158753959
+        },
+        {
+          "id": "190835674",
+          "review_id": 190835682,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/donk7zfwnxj6gipfp98w.jpg",
+          "headline": "White Russian is a perfect light, Nude Shade",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Ms. Jenny",
+          "nickname": "Ms. Jenny",
+          "created_date": 1470940188316
+        },
+        {
+          "id": "190835681",
+          "review_id": 190835673,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/a9creayqa3ahtsjhrfa7.jpg",
+          "headline": "Dolly is the Perfect Shade",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Ms. Jenny",
+          "nickname": "Ms. Jenny",
+          "created_date": 1470938609924
+        },
+        {
+          "id": "190835659",
+          "review_id": 190835610,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rogwcv72bjwr5wez32km.jpg",
+          "headline": "Love this product!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Hope",
+          "created_date": 1469547205325
+        },
+        {
+          "id": "190835649",
+          "review_id": 190835648,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/mntjfhfsygijfb86499y.jpg",
+          "headline": "Love this",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Sarah",
+          "created_date": 1468422594809
+        },
+        {
+          "id": "190835620",
+          "review_id": 190835619,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/w9ha52rewdhu6z7dwjbn.jpg",
+          "headline": "Love!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 1,
+          "type": "image",
+          "caption": "",
+          "nickname": "Whitley",
+          "created_date": 1465836381732
+        },
+        {
+          "id": "190835578",
+          "review_id": 190835577,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/prarwjhu1euayux4iapj.jpg",
+          "headline": "I honestly would buy this product again and again.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "KP",
+          "created_date": 1462028239382
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "At the age of 38 my lips are starting to wrinkle. This has caused most of my lip products to spread onto the outside of my lip line. So I just changed to liquid lipsticks. What I have found is that liquid lipsticks make my lips super dry. I recently tried one of these lip glosses and fell in love. The color white Russian can go over any liquid lip without changing the color and adding moisture and minty feel. I thought White Russian would be that nude light color but it ended up functioning well over any other bright lip color. However the lavender shade is a very beautiful nude color and not purple at all. Overall I love the product because I can use it as a top coat for my liquid lipsticks or as a moisturizing gloss.",
+        "headline": "Love it my fave",
+        "rating": 5,
+        "ugc_id": 190835996
+      },
+      "faceoff_negative": {
+        "comments": "I was excited to get this on sale but was totally disappointed. I got Kir Royale, and I was expecting a full color lip gloss that was like The Gabby polish just without the glitter. What I got was this sheer gloss that was only a fraction of the color it was supposed to be. \n\nThe gloss itself is very thin for a buxom gloss, but still has that lovely buxom tingle that I love. When I applied the gloss it went on smooth like I expected, but when I looked closer, all the color had seeped into the fine lines on my lips (esp along the edge) and it kind of looked awful. I thought maybe it's because I applied too thin of a layer, so I applied another layer and all that did was accentuate the lines even more. \n\nMaybe I got a defective one or an old one, but this is not a good product. When someone says lip cream, I expect a full color, liquid lipstick type of color, not a sheer gloss with color in it. Maybe my expectations are too high, but come on buxom, this is your same old gloss that's not mixed properly or doesn't have the correct amount of color added to it. With Gabby and Brandi, I never had the color seep directly into my fine lines and make me look older or like I don't know how to apply lip products. It literally looks like a clear gloss on my lips with this feathered crackled look of color. \n\nI'm going to try it again later and see if it gets any better, if not then I'm gonna try another color or just return it. Good luck to those who bought this, I hope my experience isn't your own. \n\nI'm attaching 2 pictures of a swatch on my hand to show you what happened, but the camera kind of blurs the extent of the color seeping into the lines because of the glossiness, and the color is slightly darker than in the pics (natural sunlight and all).",
+        "headline": "Not as good as their other lip glosses",
+        "rating": 2,
+        "ugc_id": 190835840
+      },
+      "name": "Full-On Plumping Lip Cream",
+      "native_review_count": 1775,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 442,
+      "locale": "en_US"
+    }
+  }
+}

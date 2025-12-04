@@ -1,0 +1,686 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/fiber-xlsImpprod10271096",
+  "extracted_at": "2025-09-23T03:55:02.297065+00:00",
+  "product_name": "American CrewFiber",
+  "brand": "American Crew",
+  "categories": [
+    "Home",
+    "Hair",
+    "Styling Products",
+    "Wax & Pomade"
+  ],
+  "category_keys": [
+    "home",
+    "hair",
+    "styling-products",
+    "wax--pomade"
+  ],
+  "currency": "USD",
+  "list_price": "23.00",
+  "sale_price": "16.10",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "72",
+  "images": [
+    "https://media.ulta.com/i/ulta/6027046?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/6027046?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6027046_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6027046_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6027046_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6027046_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6027046_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/6027046_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/6027046_vid01/thumbs/6a1af50e-1610-4794-bf6a-dcb58d98fd9f?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryAmerican Crew Fiber has unsurpassed hold, a humectant and emollient that provides a smooth feel. Protects against moisture loss while providing total control.",
+  "details": "DetailsBenefitsHumectant and emollient responsible for unsurpassed hold.Provides a smooth after feel.Is a fine conditioner and an excellent emulsifier.Beeswax: Protects against moisture loss while providing total control.Item 6027046How To UseFor best results, rub a small amount evenly between palms before working into hair. Distribute evenly through damp or dry hair and style as desired.IngredientsAqua (Water) (Eau), Lanolin Cera (Lanolin Wax) (Cire De Lanoline), Cetearyl Alcohol, PVP, Tridecyl Stearate, Tribehenin, Propylene Glycol, Alcohol Denat., Tridecyl Trimellitate, Ceteareth-25, PEG-8 Beeswax, PEG-40 Castor Oil, Dipentaerythrityl Hexacaprylate/Hexacaprate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Tetrasodium EDTA, Parfum (Fragrance), Benzyl Alcohol, Limonene, Citronellol, Geraniol, Linalool, Phenoxyethanol, Ethylparaben, Methylparaben, Caramel, CI 19140 (Yellow 5).",
+  "how_to_use": "For best results, rub a small amount evenly between palms before working into hair. Distribute evenly through damp or dry hair and style as desired.",
+  "ingredients": [
+    "Aqua (Water) (Eau)",
+    "Lanolin Cera (Lanolin Wax) (Cire De Lanoline)",
+    "Cetearyl Alcohol",
+    "PVP",
+    "Tridecyl Stearate",
+    "Tribehenin",
+    "Propylene Glycol",
+    "Alcohol Denat",
+    "Tridecyl Trimellitate",
+    "Ceteareth-25",
+    "PEG-8 Beeswax",
+    "PEG-40 Castor Oil",
+    "Dipentaerythrityl Hexacaprylate/Hexacaprate",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Triethanolamine",
+    "Tetrasodium EDTA",
+    "Parfum (Fragrance)",
+    "Benzyl Alcohol",
+    "Limonene",
+    "Citronellol",
+    "Geraniol",
+    "Linalool",
+    "Phenoxyethanol",
+    "Ethylparaben",
+    "Methylparaben",
+    "Caramel"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/26ed4446-e501-4abf-9b66-26e8d9d23a11/480.webp",
+      "https://content.syndigo.com/asset/40590a0d-ba0b-4f7b-8983-d9e84fb9fae9/480.webp",
+      "https://content.syndigo.com/asset/6be82733-5946-4d18-910a-d101ce74d12d/480.webp",
+      "https://content.syndigo.com/asset/3864e9c4-8214-43d5-ac9e-0cda172b70da/480.webp",
+      "https://content.syndigo.com/asset/cecdf9b3-e426-4d47-aa02-ef4d41055f34/150.png",
+      "https://content.syndigo.com/asset/615558e8-6253-4f31-821e-17e72969e2a8/150.png",
+      "https://content.syndigo.com/asset/5f5860b2-4a0b-462a-8cd7-3e876c180e9d/150.png",
+      "https://content.syndigo.com/asset/8fa64f14-c8b5-4ffc-ba94-74cb31a88a20/150.png",
+      "https://content.syndigo.com/asset/7d55049f-9d70-493a-906a-3db28f2e639c/150.png",
+      "https://content.syndigo.com/asset/734f10f5-d5c3-4c57-85de-63509df1182f/150.png"
+    ]
+  },
+  "tags": {
+    "category": [
+      "hair",
+      "haircare"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "fragrance",
+      "paraben-free"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "product_type": [],
+    "special_features": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod10271096",
+    "total_reviews": 72,
+    "reviews": [
+      {
+        "review_id": 548590749,
+        "rating": 5,
+        "headline": "American Crew",
+        "comments": "American Crew Fiber works really well for me, been ussing it for years! I absolutely love the smell of this. Just make sure before buying you understand the type of hair you have!",
+        "nickname": "Jay",
+        "location": "Los Angeles",
+        "created_date": 1741725847516,
+        "bottom_line": null,
+        "helpful_votes": 11,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546956072,
+        "rating": 4,
+        "headline": "Men's Hair Crème",
+        "comments": "4 out of 5 stars because it's a good product but if I'm being honest I like strong/firm hold hair crème this crème could be a little stronger hold for me and a little less oilier.",
+        "nickname": "Michael",
+        "location": "Novi, MI",
+        "created_date": 1739913198670,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 534820375,
+        "rating": 4,
+        "headline": "Great product!",
+        "comments": "My husband loved this. It worked well in his hair.",
+        "nickname": "Kathy",
+        "location": "Casco, MI",
+        "created_date": 1727561179606,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 478868318,
+        "rating": 5,
+        "headline": "User friendly",
+        "comments": "User friendly product , smells great , small amount works great , works well with my straight/ wavy hair and it does not make my hair look greasy , wet or look darker ….from just getting my hair cut to the next cut this product helps me style my hair .",
+        "nickname": "",
+        "location": "Fort Wayne",
+        "created_date": 1698753005731,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 448880861,
+        "rating": 5,
+        "headline": "Yes I would buy this product again",
+        "comments": "For my grandson who has a short textured style. This product works great and controls his hard to manage spots. It washes out easily. You don't need to apply a lot to get the look you want.",
+        "nickname": "Teresa",
+        "location": "Levittown, PA",
+        "created_date": 1679079326892,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 421976425,
+        "rating": 5,
+        "headline": "I will buy this afain",
+        "comments": "It has a good hold without buildup and keep my hair soft.",
+        "nickname": "",
+        "location": "Washington, DC",
+        "created_date": 1661442919224,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 408058799,
+        "rating": 1,
+        "headline": "No I did not like it.  Would like to return.",
+        "comments": "It feels greasy so I only used once and would like to return.",
+        "nickname": "Don't have one",
+        "location": "Myrtle Beach, SC",
+        "created_date": 1652193295331,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 399518911,
+        "rating": 5,
+        "headline": "This product is great for men with a short hair...",
+        "comments": "I use the fiber paste to keep my hair in place without it feeling like hay. My hair stays soft to the touch as if I used nothing at all.",
+        "nickname": "Dave",
+        "location": "Rochester, NY",
+        "created_date": 1645161406624,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 385587832,
+        "rating": 5,
+        "headline": "I love how flexible it is and works in my hair",
+        "comments": "Works great in my short hair",
+        "nickname": "Treebee",
+        "location": "Hanford, Ca",
+        "created_date": 1635220507878,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 322018577,
+        "rating": 4,
+        "headline": "This product is great!",
+        "comments": "Works great on my hair!",
+        "nickname": "Noah",
+        "location": "Tuscaloosa",
+        "created_date": 1608998200142,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 276657286,
+        "rating": 5,
+        "headline": "Looking great throughout the quarantine",
+        "comments": "My husband gets his hair trimmed once every three weeks. His hair is thick and curly. It has been 3 months and his hair doesn't look bad at all. This product has kept his curls from going crazy and although it's a lot.lknger than he likes, he has maintained a neat, professional style throughout our hairdresser being shut down. It is not too stiff nor is it greasy.",
+        "nickname": "DJustin",
+        "location": "NW, Ohio",
+        "created_date": 1589753644866,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 269022453,
+        "rating": 1,
+        "headline": "Weak Hold",
+        "comments": "This stuff works for the first 5 minutes of applying it. Then the hairs immediately start to separate and just start losing there hold all together. If I add any more, it works fine for a few minutes then everything starts falling right away. So what I end up with is a bunch of thin groups of hair and a greasy residue. This stuff just doesn't do a good job holding the hair in place or holding the hair together.",
+        "nickname": "J",
+        "location": "TN",
+        "created_date": 1585242727541,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 257425835,
+        "rating": 5,
+        "headline": "My husband is OBSESSED",
+        "comments": "My husband has been using this product for ooooohho over 12 years. He doesn't go a day without it. He has very fine hair and this is one of the few products that doesn't weigh it down. it also holds style all day long.",
+        "nickname": "CrewWife",
+        "location": "Norman, OK",
+        "created_date": 1570718338430,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190337301,
+        "rating": 5,
+        "headline": "Excellent product",
+        "comments": "Holds hair without that greasy wet look.  Both my husband and son love it!",
+        "nickname": "Maggie",
+        "location": "WA",
+        "created_date": 1527231600000,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 190337288,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "My fiancé loves that it doesn't give him gel flakes.",
+        "nickname": "Cindy",
+        "location": "Tustin, CA",
+        "created_date": 1526886000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190337270,
+        "rating": 3,
+        "headline": "Buy for gift",
+        "comments": "Never have many in stock. Had a deal buy two get one free. Never have quantity in so I could buy that amount. Happens every time special",
+        "nickname": "Warren",
+        "location": "Chesterfield va",
+        "created_date": 1521183600000,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 9
+      },
+      {
+        "review_id": 190337287,
+        "rating": 1,
+        "headline": "Would not buy again",
+        "comments": "Smells like a yummy lemon dessert. Product is not easy to use.  Difficulty getting it out of jar.  Clumps and is not easily distributed when rubbed between fingers prior to application.",
+        "nickname": "Loo",
+        "location": "Algonquin, Illinois",
+        "created_date": 1519977600000,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 190337219,
+        "rating": 5,
+        "headline": "My son is loyal to this product",
+        "comments": "I bought it for him as part of a Valentine delivery to college.  He has been using it since grade school.  His hair is thick and wavy. He needs it for height. He loves this.",
+        "nickname": "Freddie's mom",
+        "location": "MN",
+        "created_date": 1519372800000,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190337279,
+        "rating": 4,
+        "headline": "Husband loves the Fiber clay!",
+        "comments": "Great flexible hold. Need to apply to damp hair otherwise it clumps*",
+        "nickname": "Alena",
+        "location": "Pinole, CA",
+        "created_date": 1513584000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 190337269,
+        "rating": 5,
+        "headline": "Repurchase over amd over",
+        "comments": "My bf insists this didbthe only product that works properly for his hair! Gives just the right amount of hold and still allows his hair to move around a bit.",
+        "nickname": "Jillybean",
+        "location": "Olympia,  WA",
+        "created_date": 1509433200000,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 72,
+      "pages_total": 4,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod10271096/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "10 Minutes",
+              "count": 3
+            },
+            {
+              "label": "1+ Hour",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 27
+            },
+            {
+              "label": "Straight Hair",
+              "count": 15
+            },
+            {
+              "label": "Thick Hair",
+              "count": 7
+            },
+            {
+              "label": "Fine Hair",
+              "count": 5
+            },
+            {
+              "label": "Men",
+              "count": 4
+            },
+            {
+              "label": "Travel",
+              "count": 3
+            },
+            {
+              "label": "Women",
+              "count": 2
+            },
+            {
+              "label": "Curly Hair",
+              "count": 2
+            },
+            {
+              "label": "On-the-go",
+              "count": 1
+            },
+            {
+              "label": "Weekly Use",
+              "count": 1
+            },
+            {
+              "label": "Short Hair",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Curly Hair",
+            "Daily Use",
+            "Fine Hair",
+            "Men",
+            "Oily Skin",
+            "On-the-go",
+            "Short Hair",
+            "Straight Hair",
+            "Thick Hair",
+            "Travel",
+            "Weekly Use",
+            "Women"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Sticky",
+              "count": 4
+            },
+            {
+              "label": "Dries-Out Hair",
+              "count": 2
+            },
+            {
+              "label": "Heavy",
+              "count": 2
+            },
+            {
+              "label": "A little hard to get it pliable at first.",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "Works well but you need to mix it well first.",
+              "count": 1
+            },
+            {
+              "label": "Tricky Application",
+              "count": 1
+            },
+            {
+              "label": "Very hard consistency and it's difficult to use",
+              "count": 1
+            },
+            {
+              "label": "Doesnt hold shape for very long",
+              "count": 1
+            },
+            {
+              "label": "Requires a little hairspray",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A little hard to get it pliable at first.",
+            "Doesn't Work",
+            "Doesnt hold shape for very long",
+            "Dries-Out Hair",
+            "Greasy",
+            "Heavy",
+            "Requires a little hairspray",
+            "Sticky",
+            "Strong Odor",
+            "Tricky Application",
+            "Very hard consistency and it's difficult to use",
+            "Works well but you need to mix it well first."
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 18
+            },
+            {
+              "label": "Beauty Conscious",
+              "count": 9
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 4
+            },
+            {
+              "label": "Product Junkie",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Beauty Conscious",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Product Junkie",
+            "Survivalist / Minimalist"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "hairtype",
+          "name": "Hair Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Straight Hair",
+              "count": 28
+            },
+            {
+              "label": "Wavy Hair",
+              "count": 8
+            },
+            {
+              "label": "Very Curly Hair",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Straight Hair",
+            "Very Curly Hair",
+            "Wavy Hair"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Easy To Use",
+              "count": 30
+            },
+            {
+              "label": "Smells Great",
+              "count": 22
+            },
+            {
+              "label": "Strong Hold",
+              "count": 19
+            },
+            {
+              "label": "Lightweight",
+              "count": 17
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 17
+            },
+            {
+              "label": "Controls Frizz",
+              "count": 7
+            },
+            {
+              "label": "Effective",
+              "count": 4
+            },
+            {
+              "label": "No Shine",
+              "count": 1
+            },
+            {
+              "label": "Good Value",
+              "count": 1
+            },
+            {
+              "label": "Adds volume",
+              "count": 1
+            },
+            {
+              "label": "Good Hold",
+              "count": 1
+            },
+            {
+              "label": "Leaves hair soft",
+              "count": 1
+            },
+            {
+              "label": "Not too shiny",
+              "count": 1
+            },
+            {
+              "label": "Workable hold",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Adds volume",
+            "Controls Frizz",
+            "Easy To Use",
+            "Effective",
+            "Good Hold",
+            "Good Value",
+            "Leaves hair soft",
+            "Lightweight",
+            "No Shine",
+            "Non-Greasy",
+            "Not too shiny",
+            "Smells Great",
+            "Strong Hold",
+            "Workable hold"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        6,
+        0,
+        2,
+        17,
+        47
+      ],
+      "review_histogram": [
+        6,
+        0,
+        2,
+        17,
+        47
+      ],
+      "rating_count": 72,
+      "review_count": 72,
+      "average_rating": 4.38,
+      "recommended_ratio": 0.89,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "This is a solid performing product, but I'm not sure that it is as good as it used to be in regard to the hold factor. The scent is fresh (lemony) and goes not last very long. The issue with this product is that it can be tricky to work it in. It can be put in dry (I prefer to put in products dry), but sometimes it does not work well with other products. The optimal way to put it in is to have your hair freshly washed and only barely damp; the product will then blend in well and have a good hold. There are other better cream-paste-wax combination products available at Ulta that are more versatile (wet or dry) and have a better hold.",
+        "headline": "Solid Standard",
+        "rating": 4,
+        "ugc_id": 190337275
+      },
+      "faceoff_negative": {
+        "comments": "Normally, I alternate between Mitch Reformer and Aveda Thickening Paste, but I thought I'd give this a try since there was a really good sale on it.  True to form, I was underwhelmed as I usually am with American Crew products.  I've never understood the popularity of this brand.  Anyway, Fiber is basically a really hard wax that comes out of the can kind of chunky instead of smooth, so it's a little hard to get just the right amount.  While it does a decent job, I've noticed that it can make your hair look a little greasy if you put it in when it's a little too damp.  If you wait until your hair is dry to put it in, it's really, really hard to work through and makes you feel like you're pulling your hair out.  If you like this, good for you.  I don't.",
+        "headline": "There Are Better",
+        "rating": 3,
+        "ugc_id": 190337217
+      },
+      "name": "Fiber",
+      "native_review_count": 72,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

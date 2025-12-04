@@ -1,0 +1,113 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/multivitamin-power-firm-eye-cream-prod2152650",
+  "extracted_at": "2025-09-23T04:39:38.110203+00:00",
+  "product_name": "DermalogicaMultivitamin Power Firm Eye Cream",
+  "brand": "Dermalogica",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "69.00",
+  "availability": "in_stock",
+  "rating_avg": "4.5",
+  "rating_count": "742",
+  "images": [
+    "https://media.ulta.com/i/ulta/2152650?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2152650?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152650cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152650cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152650cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152650cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152650cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152650cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152650cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2152650cm_vid01/thumbs/dd6d30c0-60b3-45bb-af51-0861cbeab558?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackPacked with vitamins A (retinol), C and E, Dermalogica's Multivitamin Power Firm Eye Cream brightens and moisturizes under eyes, while firming and minimizing the appearance of wrinkles around the delicate eye area.",
+  "details": "DetailsBenefitsPowerful firming eye treatmentHelps accelerate skin's natural repair process by combating visible lines around the eye-area with skin-rebuilding antioxidant vitamins, protective silicones and red seaweed extractIncreases skin resilience and firmnessProtects against moisture loss to help minimize fine dryness linesIdeal for those concerned with mature skin, fine lines and wrinkles, loss of firmness and elasticity, and dark circlesKey IngredientsVitamin A: helps reduce the appearance of wrinkles while also evening skin tone and textureVitamin C: brightens and exfoliates to improve damage from age and sun spotsVitamin E: nourishes and protects skin from damage caused by free radical pollution including UV raysFormulated WithoutParabensSulfatesPhthalatesSynthetic FragranceItem 2152650How To UseSmooth around eyes, concentrating on areas of visible aging.IngredientsCyclopentasiloxane, Bis-Diglyceryl Polyacyladipate-2, Dimethicone Crosspolymer, Cetyl Ethylhexanoate, Polylactic Acid, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Camellia Sinensis Leaf Extract, Chamomilla Recutita (Matricaria) Extract, Spilanthes Acmella Flotheyr Extract, Corallina Officinalis Extract, Carthamus Tinctorius (Safflotheyr) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Ascorbic Acid, Glycyrrhetinic Acid, Boron Nitride, Retinyl Palmitate, Tocopherol, Hydrogenated Soybean Oil, Benzyl Alcohol, Flavor/Aroma.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Smooth around eyes, concentrating on areas of visible aging.",
+  "ingredients": [
+    "Cyclopentasiloxane",
+    "Bis-Diglyceryl Polyacyladipate-2",
+    "Dimethicone Crosspolymer",
+    "Cetyl Ethylhexanoate",
+    "Polylactic Acid",
+    "Tocopheryl Acetate",
+    "Caprylic/Capric Triglyceride",
+    "Camellia Sinensis Leaf Extract",
+    "Chamomilla Recutita (Matricaria) Extract",
+    "Spilanthes Acmella Flotheyr Extract",
+    "Corallina Officinalis Extract",
+    "Carthamus Tinctorius (Safflotheyr) Seed Oil",
+    "Vitis Vinifera (Grape) Seed Oil",
+    "Ascorbic Acid",
+    "Glycyrrhetinic Acid",
+    "Boron Nitride",
+    "Retinyl Palmitate",
+    "Tocopherol",
+    "Hydrogenated Soybean Oil",
+    "Benzyl Alcohol",
+    "Flavor/Aroma"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "lactic-acid"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "anti-aging"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprodmultivitamin-power-firm-eye-cream-prod2152650",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

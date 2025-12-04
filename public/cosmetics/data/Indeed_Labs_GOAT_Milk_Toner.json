@@ -1,0 +1,99 @@
+{
+  "product_id": "pimprod2050474",
+  "product_url": "https://www.ulta.com/p/goat-milk-toner-pimprod2050474",
+  "extracted_at": "2025-09-23T04:03:01.996376+00:00",
+  "product_name": "Indeed LabsG.O.A.T Milk Toner",
+  "brand": "Indeed Labs",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Toner"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "toner"
+  ],
+  "currency": "USD",
+  "list_price": "14.99",
+  "sale_price": "11.24",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2637165?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2637165?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2637165_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2637165_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2637165_alt03?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsMeet Indeed Labs G.O.A.T. Milk Toner, your new silky, milky toner that absorbs quickly, delivering a triple action of deep hydration + oil and shine control + reduced breakouts – leaving your skin dewy and plump all day long.",
+  "details": "DetailsBenefitsHydratingRegulates sebum productionSupports skin barrierKey IngredientsSuccinic Acid: Works synergistically with Carnitine to refine skin texture, enhance barrier function, and support a more even complexion.Carnitine: Naturally regulates sebum production in the skin to prevent excess oil production, thereby minimizing pore appearance by unclogging the skins pores. Reduces the appearance of shine on the face giving a less shiny appearance to the skin.Formulated WithoutparabensphthalatesfragranceItem 2637165How To UseAfter cleansing, apply 3-4 drops to your hands. Gently sweep over your face and neck, letting it fully absorb into your skin.Precautions: For external use only. Avoid direct contact with eyes. If irritation occurs, discontinue use and consult a physician. Keep out of reach of children. Store in a cool, dry place.IngredientsWater, Glycerin, Dicaprylyl Carbonate, Caprylic/Capric Triglyceride, Succinic acid, Carnitine, C12-20 Alkyl Glucoside, C14-22 Alcohols, Caprylyl Glycol, Glyceryl Stearate, PEG-100 Stearate, Cellulose Gum, Phenoxyethanol, Microcrystalline Cellulose, Sphingomonas Ferment Extract, Citric Acid Sodium Citrate, Sodium Stearoyl Glutamate, Disodium EDTA, Sodium Hydroxide.California Prop65 WarningWARNING: This product can expose you to chemicals which are known to the state of California to cause cancerLearn more at www.P65Warnings.ca.gov",
+  "how_to_use": "After cleansing, apply 3-4 drops to your hands. Gently sweep over your face and neck, letting it fully absorb into your skin.Precautions: For external use only. Avoid direct contact with eyes. If irritation occurs, discontinue use and consult a physician. Keep out of reach of children. Store in a cool, dry place.",
+  "ingredients": [
+    "Water",
+    "Glycerin",
+    "Dicaprylyl Carbonate",
+    "Caprylic/Capric Triglyceride",
+    "Succinic acid",
+    "Carnitine",
+    "C12-20 Alkyl Glucoside",
+    "C14-22 Alcohols",
+    "Caprylyl Glycol",
+    "Glyceryl Stearate",
+    "PEG-100 Stearate",
+    "Cellulose Gum",
+    "Phenoxyethanol",
+    "Microcrystalline Cellulose",
+    "Sphingomonas Ferment Extract",
+    "Citric Acid Sodium Citrate",
+    "Sodium Stearoyl Glutamate",
+    "Disodium EDTA",
+    "Sodium Hydroxide"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "cleanser",
+      "toner"
+    ],
+    "skin_type": [
+      "dry",
+      "acne-prone"
+    ],
+    "finish": [
+      "dewy",
+      "glossy",
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "natural",
+      "hydrating",
+      "purifying"
+    ],
+    "category": [],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2050474",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

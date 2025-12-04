@@ -1,0 +1,725 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/eye-cream-xlsImpprod18731233",
+  "extracted_at": "2025-09-23T03:52:49.359151+00:00",
+  "product_name": "Mad HippieEye Cream",
+  "brand": "Mad Hippie",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "26.99",
+  "sale_price": "18.89",
+  "availability": "in_stock",
+  "rating_avg": "4.1",
+  "rating_count": "191",
+  "images": [
+    "https://media.ulta.com/i/ulta/2530014?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2530014?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530014_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530014_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530014_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530014_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530014_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackHSA/FSA eligibleMad Hippie Eye Cream unites the power of peptides & antioxidants to help reduce the dreaded crow's feet to those tiring bags under the eyes.",
+  "details": "DetailsFeaturesRecyclable through TerraCycleBio-Resin tubes: sugarcane plastic sourced from environmentally responsible farms - 100% recycled packagingKey IngredientsMatrixyl Synthe '6 - Advanced peptide with skin rejuvenating benefitsRegu-age - Peptide complex designed to address many of the esthetic issues related to the skin directly around the eyesSyn-Eye - Peptide designed specifically to improve the appearance of the under-eye regionHesperidin - A plant flavonoid that has been shown to reduce the appearance of under eye discolorationKakadu Plum - One of nature's highest concentrations of vitamin C, kakadu plum works to brighten the appearance of skin discolorationLicorice Extract - rich in flavonoids, this skin nourishing ingredient also reduces the appearance of discolorationPomegranate - Potent antioxidant that is a high source of ellagic acidVitamin C - One of the most vital ingredients in any effective skin care regimen, Vitamin C is a powerful antioxidant and can help reduce the appearance of wrinkles & discolorationCaffeine - Reduces the appearance of fine lines, wrinkles & under eye discolorationVitamin B3 - Helps even skin tone & reduce the appearance of fine lines & wrinklesArgan Oil - Excellent source of vitamin E, essential fatty acids & phytosterols; works to moisturize & soothe the skin while reducing the appearance of wrinklesWhite Tea - Delicately harvested new growth tea leaves rich in antioxidantsCeramide - Forms a thin lipid barrier that holds in moisture, while protecting & nourishing the skinVitamin E - Powerful antioxidant with skin rejuvenating benefitsFormulated WithoutParabens, petrochemicals, animal ingredients, GMOs, phthalates, SLS, silicone, PEGs, synthetic fragrance and dyesItem 2530014How To UseGently Massage this nourishing blend into the skin beside and below the eyes twice daily.IngredientsDeionized Water (Aqua), Caprylic/Capric Triglycerides, Shea Butter (Butyrospermum Parkii), Niacinamide, Syn-Eye (Peptide: Palmitoyl Tripeptide 5-Panthenol-Sodium Hyaluronate), Glyceryl Stearate, Glycerin, Matrixyl Synthe '6 (Peptide: Glycerin-Aqua-Hydroxypropyl Cyclodextrin-Palmitoyl Tripeptide-38), Polyglyceryl-2 Stearate, Glyceryl Stearate, Stearyl Alcohol, Regu-Age (Peptide: Glycine Soja [Soybean] Protein-Hydrolyzed Rice Protein-Superoxide Dismutase), Vitamin C (Sodium Ascorbyl Phosphate), Squalane, Caffeine, Hesperidin, Licorice (Glycyrrhiza Glabra Extract), Isopropyl Palmitate, Argan Oil (Argania Spinosa), Superox-C (Glycerin-Aqua-Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract), Microcrystalline Cellulose (and) Cellulose Gum, Vitamin E (Tocopherol), Chamomile (Matricaria Recutita Flower Extract), Phenethyl Alcohol, Caprylyl Glycol, Ethylhexyl Glycerin, Pomegranate Seed Oil (Punica Granatum), Xanthan Gum, Camellia Sinensis (White Tea) Extract , Steam Distilled Citrus Aurantifolia (Lime) Extract, Ceramide 3.Please refer to packaging for the most up to date ingredient listing.",
+  "how_to_use": "Gently Massage this nourishing blend into the skin beside and below the eyes twice daily.",
+  "ingredients": [
+    "Deionized Water (Aqua)",
+    "Caprylic/Capric Triglycerides",
+    "Shea Butter (Butyrospermum Parkii)",
+    "Niacinamide",
+    "Syn-Eye (Peptide: Palmitoyl Tripeptide 5-Panthenol-Sodium Hyaluronate)",
+    "Glyceryl Stearate",
+    "Glycerin",
+    "Matrixyl Synthe '6 (Peptide: Glycerin-Aqua-Hydroxypropyl Cyclodextrin-Palmitoyl Tripeptide-38)",
+    "Polyglyceryl-2 Stearate",
+    "Glyceryl Stearate",
+    "Stearyl Alcohol",
+    "Regu-Age (Peptide: Glycine Soja [Soybean] Protein-Hydrolyzed Rice Protein-Superoxide Dismutase)",
+    "Vitamin C (Sodium Ascorbyl Phosphate)",
+    "Squalane",
+    "Caffeine",
+    "Hesperidin",
+    "Licorice (Glycyrrhiza Glabra Extract)",
+    "Isopropyl Palmitate",
+    "Argan Oil (Argania Spinosa)",
+    "Superox-C (Glycerin-Aqua-Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract)",
+    "Microcrystalline Cellulose (and) Cellulose Gum",
+    "Vitamin E (Tocopherol)",
+    "Chamomile (Matricaria Recutita Flower Extract)",
+    "Phenethyl Alcohol",
+    "Caprylyl Glycol",
+    "Ethylhexyl Glycerin",
+    "Pomegranate Seed Oil (Punica Granatum)",
+    "Xanthan Gum",
+    "Camellia Sinensis (White Tea) Extract",
+    "Steam Distilled Citrus Aurantifolia (Lime) Extract",
+    "Ceramide 3.Please refer to packaging for the most up to date ingredient listing"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "niacinamide",
+      "vitamin-c",
+      "vitamin-e",
+      "peptides",
+      "ceramides"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "anti-aging",
+      "hydrating"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod18731233",
+    "total_reviews": 191,
+    "reviews": [
+      {
+        "review_id": 560441873,
+        "rating": 5,
+        "headline": "my FAVORITE",
+        "comments": "I have very sensitive, acne prone skin. I've used so many different eye creams- high end/luxury and affordable- and have never noticed a difference in my 31 year old eyes (fine lines). this stuff is magic! my eyes look so youthful and plump. I absolutely love it. the first couple times I tried it, I had to start slow because I did feel a slight burning. but now I've been using this a few months and have no sensitivity to it. will be re-purchasing!",
+        "nickname": "rick",
+        "location": "ny",
+        "created_date": 1755603142804,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553354448,
+        "rating": 5,
+        "headline": "Very good",
+        "comments": "This bottle has so many different actives in it I was blown away.  A slew of peptides, caffeine, hesperidin, literally everything that helps with under eye bags.  I've been using for about 45 days and the results are significant.  I feel like I don't have to wear concealer anymore.",
+        "nickname": "Gagi",
+        "location": "Denver, CO",
+        "created_date": 1747257771955,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553252271,
+        "rating": 5,
+        "headline": "A natural product that really works",
+        "comments": "So many of the natural skincare brands I've tried just don't bring results.  Mad Hippie is different thouhg.  I've been using their products for several years and this one is definitely a staple.  My eyes look brighter and the discoloration I sometimes get right under my eyes is pretty much gone.",
+        "nickname": "Ava",
+        "location": "Bastrop, Texas",
+        "created_date": 1747138414671,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551668216,
+        "rating": 5,
+        "headline": "Finally a product that helps",
+        "comments": "It's hard to find a clean eye cream that has real active ingredients in it.  After doing a bit of research I wanted to give this one a try and I'm so happy I did.  I think it's really helped with my saggy skin under my eyes.  I look a bit more refreshed and this product doesn't have any bad ingredients in it.",
+        "nickname": "Jenni",
+        "location": "Seattle",
+        "created_date": 1744576344434,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551228074,
+        "rating": 5,
+        "headline": "My eyes look way more awake!",
+        "comments": "I used to layer concealer like crazy and now I barely need it. My eyes look more awake and way less tired, even when I'm not sleeping great. This one's a keeper.",
+        "nickname": "Sam",
+        "location": "Austin",
+        "created_date": 1744135590481,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551227923,
+        "rating": 5,
+        "headline": "actually see a difference",
+        "comments": "Obsessed. It feels super lightweight but somehow makes my whole eye area look brighter and more hydrated. I've been using it morning and night and can actually see a difference.",
+        "nickname": "renee",
+        "location": "Nashville, TN",
+        "created_date": 1744135477560,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551227924,
+        "rating": 5,
+        "headline": "a little goes a long way",
+        "comments": "I was skeptical (aren't eye creams just expensive moisturizers?) but this one actually does something. My under-eyes look smoother and less puffy in the mornings. A little goes a long way too, which I love.",
+        "nickname": "andrea",
+        "location": "CT",
+        "created_date": 1744135412677,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551047571,
+        "rating": 1,
+        "headline": "Horrible",
+        "comments": "Horrible me irrito los ojos",
+        "nickname": "Luciana",
+        "location": "Jacksonville Fl",
+        "created_date": 1743796912856,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 548876373,
+        "rating": 5,
+        "headline": "eye cream",
+        "comments": "Light and absorbing formula.  Feels really good on my skin.  I like the smell and feel and would buy this again for sure.  Licorice is a great ingredient to have as its good for your dark circles under the eyes.  I think it has really helped me a lot.",
+        "nickname": "Tomi",
+        "location": "Miami",
+        "created_date": 1742156774730,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547998302,
+        "rating": 5,
+        "headline": "What I'd been searching for",
+        "comments": "Peptides, niacinamide and caffeine is exactly what you need for your delicate skin around the eyes.  It's just so hard to find a product with these ingredients that is natural.  Do yourself a favor and pick this little bottle up and you can thank me later :)",
+        "nickname": "Krista",
+        "location": "Charlotte",
+        "created_date": 1741451959281,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547905787,
+        "rating": 5,
+        "headline": "for the price its a winner",
+        "comments": "I seem to drift around from brand and brand when it comes to eye cream.  I like a lighter cream in the summer and a heavier one in the winter.  This product has been a regular in my schedule.  It falls right in the middle for moisture, which I do like",
+        "nickname": "Ginny",
+        "location": "Chicago",
+        "created_date": 1741357587187,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547869877,
+        "rating": 5,
+        "headline": "Really good",
+        "comments": "This product has a lot of niacinamide.  I can feel it tingle when I put it on, which I personally love.  It has brightened my eye area a lot which I think is probably the niacinamide and the peptides.  I love that it is all natural and doesn't have harmful ingredients like a lot of eye creams I've used.",
+        "nickname": "Adriana",
+        "location": "Austin, Texas",
+        "created_date": 1741288095748,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547420696,
+        "rating": 5,
+        "headline": "My all time fav",
+        "comments": "This eye cream just does it. It's hydrating and the circles under my eyes have def become less noticeable. So yeah, I would have to say it's my favorite eye cream out there. Oh and the ingredients are super clean so that's another plus for me. 10/10",
+        "nickname": "Ezze",
+        "location": "LA, California",
+        "created_date": 1740586064035,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547379831,
+        "rating": 1,
+        "headline": "Gave my face a reaction",
+        "comments": "About 5 minutes after I applyed onto my eyes, my face started getting hot and I looked in the mirror and both of my cheeks and forehead were red, burning and slightly puffy. Ive never had this reaction before from any skincare product and I know it was this eye cream because it was the only new product I had used. I really was hoping I'd love this due to their branding, ingredients and price. The irritation lasted for almost an hour and was very bright red.",
+        "nickname": "Brianna",
+        "location": "Middletown, DE",
+        "created_date": 1740493211492,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 546948774,
+        "rating": 5,
+        "headline": "great eye cream",
+        "comments": "I have minor wrinkles around my eyes and often wake to puffiness.  I think this product has actually helped a lot as my wrinkles seem less pronounced than before.  I also notice I don't have as much puffiness around my eyes when I wake.  I am pretty impressed overall.",
+        "nickname": "Vega",
+        "location": "Boston",
+        "created_date": 1739901938024,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546738196,
+        "rating": 5,
+        "headline": "Discoloration gone after a month",
+        "comments": "This product I was a bit skeptical of at first but it really does what it promises.  I think it's the peptides and the caffeine but it truly has helped with the discoloration under my eyes.  I used to wake up and have to ice around my eyes to not look like a freak but now with this product I no longer am needing ice.  My mom is now using it and also is a fan.",
+        "nickname": "Dee",
+        "location": "Charlotte",
+        "created_date": 1739630034415,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546134957,
+        "rating": 1,
+        "headline": "No",
+        "comments": "Bad reaction to this cream. Burning and red reaction to the cream.",
+        "nickname": "Sheila",
+        "location": "Mechanicsburg, PA",
+        "created_date": 1739115476575,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 545829127,
+        "rating": 5,
+        "headline": "LOVE THIS!",
+        "comments": "A low fuss, high quality eye cream. I'll be buying this again and again. It was irritating at all (even after sweating/possibly getting it into my eyes), and my eyes looked noticably refreshed. Plus, it smells good and the package is made from a bio material versus traditional plastic (yay!).",
+        "nickname": "han",
+        "location": "Austin, TX",
+        "created_date": 1738523329811,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543647966,
+        "rating": 5,
+        "headline": "best natural eye cream",
+        "comments": "I was so happy to see ulta start carrying this product.  I have been a fan of mad hippie for a bit and found them at an organic grocery store near me in Denver.  This product is probably my favorite though.  It sinks right in to the skin and my skin just loves it.",
+        "nickname": "Amber",
+        "location": "Denver",
+        "created_date": 1737389999651,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543218434,
+        "rating": 5,
+        "headline": "Loving this",
+        "comments": "It has a lot of niacinamide, which is amazing for the skin.  It can make me a bit tingly after, but it has really helped with my wrinkles andd under eye bags.  I would definitley recommend to anyone looking for a good eye cream.",
+        "nickname": "Tami",
+        "location": "Austin, TX",
+        "created_date": 1737036725205,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 112,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod18731233/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Wrinkles",
+              "count": 3
+            },
+            {
+              "label": "Puffiness",
+              "count": 2
+            },
+            {
+              "label": "Tired Eyes",
+              "count": 2
+            },
+            {
+              "label": "Everyday",
+              "count": 1
+            },
+            {
+              "label": "Dry Undereyes",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Dark Circles",
+            "Dry Undereyes",
+            "Everyday",
+            "Loose Skin",
+            "Puffiness",
+            "Tired Eyes",
+            "Wrinkles"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Irritates Eyes",
+              "count": 2
+            },
+            {
+              "label": "Not Effective",
+              "count": 2
+            },
+            {
+              "label": "watermelon odor",
+              "count": 1
+            },
+            {
+              "label": "no smell",
+              "count": 1
+            },
+            {
+              "label": "not a luxe feel",
+              "count": 1
+            },
+            {
+              "label": "Small bottle",
+              "count": 1
+            },
+            {
+              "label": "Does not absorb well",
+              "count": 1
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 1
+            },
+            {
+              "label": "Too Dry",
+              "count": 1
+            },
+            {
+              "label": "Unpleasant Scent",
+              "count": 1
+            },
+            {
+              "label": "Residue with makeup",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Does not absorb well",
+            "Irritates Eyes",
+            "Irritates Skin",
+            "Not Effective",
+            "Residue with makeup",
+            "Small bottle",
+            "Too Dry",
+            "Too Greasy",
+            "Unpleasant Scent",
+            "no smell",
+            "not a luxe feel",
+            "watermelon odor"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brand Buyer",
+              "count": 2
+            },
+            {
+              "label": "65+ looking for an age-defying eye cream.",
+              "count": 1
+            },
+            {
+              "label": "30's",
+              "count": 1
+            },
+            {
+              "label": "combo skin",
+              "count": 1
+            },
+            {
+              "label": "fair skin tone",
+              "count": 1
+            },
+            {
+              "label": "Clean product buyer",
+              "count": 1
+            },
+            {
+              "label": "Skin care product junkie",
+              "count": 1
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 1
+            },
+            {
+              "label": "21, fair, dry skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "21, fair, dry skin",
+            "30's",
+            "65+ looking for an age-defying eye cream.",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Clean product buyer",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Skin care product junkie",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "combo skin",
+            "fair skin tone"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Gentle",
+              "count": 3
+            },
+            {
+              "label": "Effective",
+              "count": 2
+            },
+            {
+              "label": "Lightweight",
+              "count": 2
+            },
+            {
+              "label": "Organic",
+              "count": 2
+            },
+            {
+              "label": "Soothing",
+              "count": 2
+            },
+            {
+              "label": "Great price. Little dot goes a long way.",
+              "count": 1
+            },
+            {
+              "label": "a little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "bottle lasts a while",
+              "count": 1
+            },
+            {
+              "label": "creamy",
+              "count": 1
+            },
+            {
+              "label": "day or night",
+              "count": 1
+            },
+            {
+              "label": "everyday use",
+              "count": 1
+            },
+            {
+              "label": "natural based ingredients",
+              "count": 1
+            },
+            {
+              "label": "Hydrating for sure and no scent which I love!",
+              "count": 1
+            },
+            {
+              "label": "Very moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "delicate,soft, effective",
+              "count": 1
+            },
+            {
+              "label": "one drop of crean per eye",
+              "count": 1
+            },
+            {
+              "label": "the size is a plus fits in makeup bag",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 1
+            },
+            {
+              "label": "Refreshing",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Effective",
+            "Gentle",
+            "Good Value",
+            "Great price. Little dot goes a long way.",
+            "Hydrating",
+            "Hydrating for sure and no scent which I love!",
+            "Lightweight",
+            "Moisturizing",
+            "Non-Greasy",
+            "Organic",
+            "Refreshing",
+            "Smells Great",
+            "Soothing",
+            "Very moisturizing",
+            "a little goes a long way",
+            "bottle lasts a while",
+            "creamy",
+            "day or night",
+            "delicate,soft, effective",
+            "everyday use",
+            "natural based ingredients",
+            "one drop of crean per eye",
+            "the size is a plus fits in makeup bag"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dry",
+              "count": 1
+            },
+            {
+              "label": "Normal",
+              "count": 1
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        21,
+        10,
+        18,
+        26,
+        116
+      ],
+      "review_histogram": [
+        21,
+        10,
+        18,
+        26,
+        116
+      ],
+      "rating_count": 191,
+      "review_count": 191,
+      "average_rating": 4.08,
+      "recommended_ratio": 0.78,
+      "media": [
+        {
+          "id": "541746660",
+          "review_id": 541746671,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/uxi4zaevic2h9dsyriss.jpg",
+          "headline": "Don't buy this",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "created_date": 1735079177687
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I have been using this product for about 4-5 months semi-regularly and haven't run out yet. I am happy with it and have no reason to dislike it! On the flip side, I wouldn't be upset if it was sold out and I had to purchase a different eye cream. I am still open to options but this is doing the job. It goes on nicely and does not cause me any problems. I can't tell if the product is working and doing all the things it claims to, but I'm not about to use it on only one eye to compare results, so --- I am happy with it and only gave it 4 stars because it doesn't make me insanely excited or like I feel it's the best eye cream ever. It's just good :)",
+        "headline": "Great baseline eye cream",
+        "rating": 4,
+        "ugc_id": 341891956
+      },
+      "faceoff_negative": {
+        "comments": "I had used the old formula for a year and really liked it; felt that it helped with fine lines, discoloration and even to decrease some under-eye puffiness. I have been using this new formula for a few weeks now and do not like it. I feel like it actually causes under-eye puffiness, almost like a reaction to this new formula under my right eye specifically. I stopped using it for a couple of days and the puffiness went away. Tried it again and it came back.\nAs a side note- though I really liked the old formula, I did go snow skiing for a full day this past winter on a beautiful sunny day. Lots of rays! The next several days I had quite puffy under-eye areas to both sides. I had not used any other products, no sunscreen (yes, I forgot to apply and forgot my sunglasses!) and felt that I had a reaction to this product.\nUnfortunately, I will not be repurchasing this product.",
+        "headline": "Ok eye cream",
+        "rating": 2,
+        "ugc_id": 343952965
+      },
+      "name": "Eye Cream",
+      "native_review_count": 112,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 79,
+      "locale": "en_US"
+    }
+  }
+}

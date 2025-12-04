@@ -1,0 +1,123 @@
+{
+  "product_id": "pimprod2054262",
+  "product_url": "https://www.ulta.com/p/collagen-glow-firming-cleanser-pimprod2054262",
+  "extracted_at": "2025-09-23T03:38:44.137941+00:00",
+  "product_name": "MEDIHEALCollagen Glow Firming Cleanser",
+  "brand": "MEDIHEAL",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "12.00",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2648311?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2648311?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648311_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648311_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648311_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648311_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2648311_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryMediheal's Collagen Glow Firming Cleanser boosts skin's bounce with a rich foam that firms, smooths, and reveals your natural glow.",
+  "details": "DetailsBenefitsEnhances elasticity and firmness while thoroughly cleansing, leaving skin plump, soft, and revitalized with its creamy foam texture for a luxurious cleanse.With a pale pink, stretchy, elastic texture, this low-irritant foam maintains a mildly alkaline pH range of 9.5–10.5.Featuring a dense whipped-cream foam, it gently deep cleanses with fine, tightly packed micro-bubbles.Key Ingredients98% Hydrolyzed Collagen - Improves skin firmness and resilience300 Da Low-Molecular Collagen - Supports deeper absorption for skin benefitsResearch ResultsSebum control improvement (non-comedogenic): +105.34% after 2 weeks.Item 2648311How To UseAdd water to create a creamy foam, gently massage onto the face, then rinse. Suitable for daily facial cleansing.IngredientsWater, Glycerin, Hydrogenated Palm Acid, Potassium Hydroxide, Potassium Cocoyl Glycinate, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Glyceryl Stearate, Polyquaternium-7, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, Sodium Phytate, Dextrin, Capryloyl Salicylic Acid, Gluconolactone, Hydrolyzed Sodium Hyaluronate, Papain, Butylene Glycol, 1,2-Hexanediol, Hydrolyzed Extensin, Acetyl Hexapeptide-8, Ascorbic Acid Polypeptide, Acetyl Octapeptide-3, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Tetrapeptide-5, Acetyl Tetrapeptide-9, Carnosine, Copper Tripeptide-1, Nonapeptide-1, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Palmitoyl Tripeptide-5, Sodium Benzoate, Fragrance(Parfum), Gardenia Florida Fruit Extract.",
+  "how_to_use": "Add water to create a creamy foam, gently massage onto the face, then rinse. Suitable for daily facial cleansing.",
+  "ingredients": [
+    "Water",
+    "Glycerin",
+    "Hydrogenated Palm Acid",
+    "Potassium Hydroxide",
+    "Potassium Cocoyl Glycinate",
+    "Hydrolyzed Hyaluronic Acid",
+    "Sodium Hyaluronate",
+    "Glyceryl Stearate",
+    "Polyquaternium-7",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Sodium Polyacrylate",
+    "Sodium Phytate",
+    "Dextrin",
+    "Capryloyl Salicylic Acid",
+    "Gluconolactone",
+    "Hydrolyzed Sodium Hyaluronate",
+    "Papain",
+    "Butylene Glycol",
+    "2-Hexanediol",
+    "Hydrolyzed Extensin",
+    "Acetyl Hexapeptide-8",
+    "Ascorbic Acid Polypeptide",
+    "Acetyl Octapeptide-3",
+    "Acetyl Tetrapeptide-2",
+    "Acetyl Tetrapeptide-3",
+    "Acetyl Tetrapeptide-5",
+    "Acetyl Tetrapeptide-9",
+    "Carnosine",
+    "Copper Tripeptide-1",
+    "Nonapeptide-1",
+    "Palmitoyl Pentapeptide-4",
+    "Palmitoyl Tripeptide-1",
+    "Palmitoyl Tripeptide-5",
+    "Sodium Benzoate",
+    "Fragrance(Parfum)",
+    "Gardenia Florida Fruit Extract"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "mature"
+    ],
+    "finish": [
+      "dewy",
+      "creamy",
+      "cream",
+      "foam"
+    ],
+    "ingredients": [
+      "hyaluronic-acid",
+      "salicylic-acid",
+      "peptides",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "natural",
+      "non-comedogenic",
+      "anti-aging",
+      "purifying"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2054262",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

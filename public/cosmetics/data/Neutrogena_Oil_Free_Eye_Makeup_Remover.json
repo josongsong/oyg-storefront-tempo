@@ -1,0 +1,108 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/oil-free-eye-makeup-remover-prod2109669",
+  "extracted_at": "2025-09-23T04:44:21.992058+00:00",
+  "product_name": "NeutrogenaOil-Free Eye Makeup Remover",
+  "brand": "Neutrogena",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Makeup Remover"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "makeup"
+  ],
+  "currency": "USD",
+  "list_price": "11.99",
+  "sale_price": "8.99",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "5887",
+  "images": [
+    "https://media.ulta.com/i/ulta/2109669?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2109669?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2554283cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2554283cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2554283cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2554283cm_vid01/thumbs/a3022e30-cd6b-4cf8-acd3-765affb14e13?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsVeganSustainable PackagingGive BackNeutrogena gentle oil-free liquid eye makeup remover helps to remove all eye makeup, even waterproof mascara. Non-greasy makeup removing cleanser is safe for sensitive eyes and contact lens wearers.",
+  "details": "DetailsBenefitsNeutrogena 100% oil-free liquid eye makeup remover and cleanser for sensitive eyesThis makeup cleanser helps remove all eye makeup, even stubborn waterproof mascaraGentle makeup remover formulated for sensitive eyes and safe for contact lens wearersA liquid makeup remover that activates when shaken to effectively remove all eye makeupDual phase makeup remover Dermatologist developed and ophthalmologist tested for gentle applicationOil-free, non-greasy makeup remover formula leaves skin feeling clean and fresh with no oily residueFor best use, apply liquid makeup remover with cotton pad on closed eyelids and rinse with waterKey IngredientsContains aloe & cucumber extracts to soothe skin & work gently without tugging, pulling or stingingFormulated WithoutOilItem 2109669How To UseSHAKE WELL. Apply with cotton pad on closed eyelids. Gently rinse with warm water.IngredientsWater, Cyclopentasiloxane, Cyclohexasiloxane, Aloe Barbadensis Leaf Juice, Benzyl Alcohol, Sodium Chloride, Dipropylene Glycol, Poloxamer 182, Allantoin, Tripotassium EDTA, Benzalkonium Chloride, Glycerin, Cucumis Sativus (Cucumber) Fruit Extract, Potassium Phosphate, Dipotassium Phosphate.",
+  "how_to_use": "SHAKE WELL. Apply with cotton pad on closed eyelids. Gently rinse with warm water.",
+  "ingredients": [
+    "Water",
+    "Cyclopentasiloxane",
+    "Cyclohexasiloxane",
+    "Aloe Barbadensis Leaf Juice",
+    "Benzyl Alcohol",
+    "Sodium Chloride",
+    "Dipropylene Glycol",
+    "Poloxamer 182",
+    "Allantoin",
+    "Tripotassium EDTA",
+    "Benzalkonium Chloride",
+    "Glycerin",
+    "Cucumis Sativus (Cucumber) Fruit Extract",
+    "Potassium Phosphate",
+    "Dipotassium Phosphate"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/a0927d9e-bd7b-45d5-aa2b-4e8d89163cbc/480.webp",
+      "https://content.syndigo.com/asset/18d91995-6595-4308-ba0d-861cab91e5ac/480.webp",
+      "https://content.syndigo.com/asset/e8129016-6b28-460f-a7d8-7476d66b92ca/480.webp",
+      "https://content.syndigo.com/asset/9ee02feb-2b88-49d9-86a1-4b8ab4a948c9/480.webp",
+      "https://content.syndigo.com/asset/cab988c9-fba2-4f00-94b0-57d6c85e0d51/240.png",
+      "https://content.syndigo.com/asset/98583ec4-42f3-4ccd-aab8-5c0bf26864b5/240.png",
+      "https://content.syndigo.com/asset/087cb75c-910b-456f-a64b-6ea8bdeeea03/240.png"
+    ]
+  },
+  "tags": {
+    "category": [
+      "makeup",
+      "cosmetics"
+    ],
+    "product_type": [
+      "cleanser",
+      "oil"
+    ],
+    "skin_type": [
+      "oily",
+      "sensitive"
+    ],
+    "finish": [
+      "sheer",
+      "waterproof",
+      "liquid",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "special_features": [
+      "vegan",
+      "oil-free",
+      "soothing"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprodoil-free-eye-makeup-remover-prod2109669",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

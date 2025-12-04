@@ -1,0 +1,123 @@
+{
+  "product_id": "pimprod2047326",
+  "product_url": "https://www.ulta.com/p/tea-tree-water-toner-water-pimprod2047326",
+  "extracted_at": "2025-09-23T05:23:31.541913+00:00",
+  "product_name": "LUSHTea Tree Water Toner Water",
+  "brand": "LUSH",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Toner"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "toner"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "14.00",
+  "availability": "in_stock",
+  "rating_avg": "5",
+  "rating_count": "1",
+  "images": [
+    "https://media.ulta.com/i/ulta/2631540?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2631540?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2631540_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2631540_alt02?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryDon't punish oily or spot-prone skin, gently refresh and hydrate your complexion with Lush's clarifying and alcohol-free Tea Tree Water Toner Water.",
+  "details": "DetailsBenefitsBrings oily, dull and tired skin back into balanceClarifies and refreshes skinKey IngredientsGrapefruit water brightensTea tree water cleanses and clarifiesJuniper berry water balancesItem 2631540How To UseMist your skin to gently refresh and hydrate complexions going through a hard time.IngredientsTea Tree Water, Grapefruit Water, Juniperberry Water, *Limonene, Fragrance, Methylparaben.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Mist your skin to gently refresh and hydrate complexions going through a hard time.",
+  "ingredients": [
+    "Tea Tree Water",
+    "Grapefruit Water",
+    "Juniperberry Water",
+    "*Limonene",
+    "Fragrance",
+    "Methylparaben"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "cleanser",
+      "toner"
+    ],
+    "skin_type": [
+      "oily"
+    ],
+    "finish": [
+      "matte",
+      "oil"
+    ],
+    "ingredients": [
+      "fragrance",
+      "paraben-free"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "alcohol-free"
+    ],
+    "category": []
+  },
+  "reviews": {
+    "product_id": "pimprod2047326",
+    "total_reviews": 1,
+    "reviews": [
+      {
+        "review_id": 550140557,
+        "rating": 5,
+        "headline": "Great Product!",
+        "comments": "I have used 2 bottles so far. The mist is so refreshing and this product is easy to use. I love the smell and the way it makes my skin feel. I would recommend this product!",
+        "nickname": "KoKo",
+        "location": "Charlotte, NC",
+        "created_date": 1743159584694,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 1,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rating_count": 1,
+      "review_count": 1,
+      "average_rating": 5.0,
+      "recommended_ratio": 0.0,
+      "media": [],
+      "name": "Tea Tree Water Toner Water",
+      "native_review_count": 1,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "product_id": "pimprod2046001",
+  "product_url": "https://www.ulta.com/p/snoxin-ii-under-eye-patches-pimprod2046001",
+  "extracted_at": "2025-09-23T05:13:01.455670+00:00",
+  "product_name": "Indeed LabsSnoxin II Under Eye Patches",
+  "brand": "Indeed Labs",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Masks"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "masks"
+  ],
+  "currency": "USD",
+  "list_price": "19.99",
+  "sale_price": "14.99",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "71",
+  "images": [
+    "https://media.ulta.com/i/ulta/2629443?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2629443?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629443_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2629443_alt02?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsIndeed Labs' Snoxin II Under Eye Patches are an instant and ''needle-free'' solution for tired and puffy-looking eyes.",
+  "details": "DetailsBenefitsBiodegradable hydrogel patchesKey IngredientsAcetyl hexapeptide-8: gives a smoothing effect by reducing the look of fine linesNiacinamide & Soothing Plant Extracts: help to depuff and brighten, giving a refreshed appearanceItem 2629443How To UsePlace 1 pair of patches onto clean, dry under-eye area for 10 minutes, or more. Discard after use and massage remaining serum into skin.Warning: For external use only. Avoid contact with eyes. If product gets into eyes, immediately rinse well with water. If irritation occurs, discontinue use.IngredientsWater (Aqua/Eau), Glycerin, Butylene Glycol, Hydroxyacetophenone, 1,2-Hexanediol, Peg/Ppg-17/6 Copolymer, Trehalose, Betaine, Hydroxyethylcellulose, Sodium Hyaluronate, Propanediol, Aloe Barbadensis Leaf Extract, Andrographis Paniculata Extract, Anemarrhena Asphodeloides Root Extract, Arctium Lappa Seed Extract, Centella Asiatica Extract, Forsythia Suspensa Fruit Extract, Glycyrrhiza Uralensis (Licorice) Root Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Nelumbo Nucifera Seed Extract, Propolis Extract, Niacinamide, Retinol, Collagen, Argireline(Acetyl Hexapeptide-8), Euglena Gracilis Polysaccharide, Hydrolyzed Collagen.",
+  "how_to_use": "Place 1 pair of patches onto clean, dry under-eye area for 10 minutes, or more. Discard after use and massage remaining serum into skin.Warning: For external use only. Avoid contact with eyes. If product gets into eyes, immediately rinse well with water. If irritation occurs, discontinue use.",
+  "ingredients": [
+    "Water (Aqua/Eau)",
+    "Glycerin",
+    "Butylene Glycol",
+    "Hydroxyacetophenone",
+    "2-Hexanediol",
+    "Peg/Ppg-17/6 Copolymer",
+    "Trehalose",
+    "Betaine",
+    "Hydroxyethylcellulose",
+    "Sodium Hyaluronate",
+    "Propanediol",
+    "Aloe Barbadensis Leaf Extract",
+    "Andrographis Paniculata Extract",
+    "Anemarrhena Asphodeloides Root Extract",
+    "Arctium Lappa Seed Extract",
+    "Centella Asiatica Extract",
+    "Forsythia Suspensa Fruit Extract",
+    "Glycyrrhiza Uralensis (Licorice) Root Extract",
+    "Lonicera Japonica (Honeysuckle) Flower Extract",
+    "Nelumbo Nucifera Seed Extract",
+    "Propolis Extract",
+    "Niacinamide",
+    "Retinol",
+    "Collagen",
+    "Argireline(Acetyl Hexapeptide-8)",
+    "Euglena Gracilis Polysaccharide",
+    "Hydrolyzed Collagen"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "gel"
+    ],
+    "ingredients": [
+      "retinol",
+      "niacinamide",
+      "peptides",
+      "collagen"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2046001",
+    "total_reviews": 71,
+    "reviews": [
+      {
+        "review_id": 535973472,
+        "rating": 1,
+        "headline": "Hard Plastic and Too Big",
+        "comments": "These patches are awful.  They are a thick sheet of firm plastic, not flexible at all, that dries hard and crispy. The moisture is nice and cooling but they are oversized to the point where it's covering half the cheek and they do not curve around the eye nicely.",
+        "nickname": "Gianna",
+        "location": "New York, NY",
+        "created_date": 1728843710054,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 9
+      },
+      {
+        "review_id": 529436082,
+        "rating": 5,
+        "headline": "The best!",
+        "comments": "I love how these eye patches make my under eyes so smooth and a lot less puffy in only 15 minutes which is needed with how little sleep I get.",
+        "nickname": "Melissa",
+        "location": "Buffalo",
+        "created_date": 1724861623158,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 2,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        1,
+        0,
+        2,
+        20,
+        48
+      ],
+      "review_histogram": [
+        1,
+        0,
+        2,
+        20,
+        48
+      ],
+      "rating_count": 71,
+      "review_count": 71,
+      "average_rating": 4.61,
+      "recommended_ratio": 0.5,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I was excited to try Indeed Labs Snoxin II under eye patches for fine lines, puffiness and dark circles. There were 30 biodegradable hydogel eye patches in the container. The eye patches are refreshing and cooling after 10 minute use. It is even better if one places it in the fridge. It is easier to take out the delicate eye patch with the spatula to prevent tearing of the jelly like eye patch. I also found it easier to use the spatula to smooth it on after placed under the eye. If you notice in the picture I smoothed it on the right side and not on the left side. After 10 minutes I took off the eye patches and gently rubs the remainder serum into my face. It had no noticable scent. I found they are very hydrating for a refreshed look. I found that it softened and smothed my fine lines. I was pleased that it helped brighten my under eye area and helped reduced my puffy eyes. I really liked enjoyed using them. I would highly recommend. I received this product for free from Topbox Marketing for testing and review purposes.",
+        "headline": "Softened & Smothed Fine Lines",
+        "rating": 5,
+        "ugc_id": 512678804
+      },
+      "faceoff_negative": {
+        "comments": "Easy to use eye patches. These were not my first nor my favourite eye patches. I found that they weren't hydrating enough for under my eyes as a mid-30s female but I liked using them for my neck and it helped to \"refresh\" that area that I don't normally pamper. The gel-like consistency of the patches initially felt cool to the touch but they \"warm\" up to my skin very quickly and the patches would rip easily. When I did use them under my eyes, I would put another facial sheet mask on top so that I could multi-task and they wouldn't slip. I would say that the packaging is more eco-friendly than other eye patches I've had as each pair of patches aren't individually wrapped and the price is reasonable. If there's a neck version of this, I would consider purchasing it for my neck. I received this product for free from Topbox Marketing for testing and review purposes.",
+        "headline": "Decent effectiveness eye patches",
+        "rating": 3,
+        "ugc_id": 512678617
+      },
+      "native_review_count": 2,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 69,
+      "locale": "en_US"
+    }
+  }
+}

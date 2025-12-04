@@ -1,0 +1,860 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/perfect-precision-lip-liner-xlsImpprod18871041",
+  "extracted_at": "2025-09-23T04:47:52.510721+00:00",
+  "product_name": "L.A. GirlPerfect Precision Lip Liner",
+  "brand": "L.A. Girl",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Lips",
+    "Lip Liner"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "lips",
+    "lip-liner"
+  ],
+  "currency": "USD",
+  "list_price": "3.50",
+  "sale_price": "2.45",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "306",
+  "images": [
+    "https://media.ulta.com/i/ulta/2534011?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2534011?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2534011_sm?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryThe L.A. Girl Perfect Precision Lip Liner creates precise lines to customize your lip shape without skipping. Wear with lipstick or alone as all over color.",
+  "details": "DetailsFeaturesRich, intense colorMade of wood sourced from sustainable forestsEasy to sharpenBenefitsSmooth, long-wearing formulaNo tugging, or skippingItem 2534011How To UseLine upper and lower lips.Precautions: If irritation occurs, discontinue use.IngredientsC10-18 Triglycerides, Talc, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Rhus Succedanea Fruit Cera, BHT, Mica, Methylparaben, Propylparaben. May Contain: Iron Oxides (CI 77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891), Yellow 5 Lake (CI 19140).",
+  "how_to_use": "Line upper and lower lips.Precautions: If irritation occurs, discontinue use.",
+  "ingredients": [
+    "C10-18 Triglycerides",
+    "Talc",
+    "Hydrogenated Vegetable Oil",
+    "Caprylic/Capric Triglyceride",
+    "Rhus Succedanea Fruit Cera",
+    "BHT",
+    "Mica",
+    "Methylparaben",
+    "Propylparaben. May Contain: Iron Oxides (",
+    "Titanium Dioxide (",
+    "Yellow 5 Lake ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "lips",
+      "lip",
+      "cosmetics"
+    ],
+    "product_type": [
+      "lip liner",
+      "eyeliner"
+    ],
+    "finish": [
+      "long-wear",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "paraben-free"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "skin_type": [],
+    "special_features": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod18871041",
+    "total_reviews": 306,
+    "reviews": [
+      {
+        "review_id": 560576507,
+        "rating": 5,
+        "headline": "A Staple In My Collection!!!",
+        "comments": "These lip liners are pigmented, easy to apply and super duper long lasting! If you want a more difused look, work quickly as one they are set, they are set for life. For the price, they are comparable to some high end lip liners!",
+        "nickname": "J",
+        "location": "NY",
+        "created_date": 1755814628316,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560002099,
+        "rating": 3,
+        "headline": "This was a good low priced lip pencil but too dark color",
+        "comments": "The lip linger was good not to hard - but color too dark berry plum.",
+        "nickname": "Judy",
+        "location": "OH",
+        "created_date": 1755022759374,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 559894622,
+        "rating": 5,
+        "headline": "Great lip liner",
+        "comments": "Very happy with the color and the smooth way it goes on.",
+        "nickname": "Sonia",
+        "location": "Yonkers,NY",
+        "created_date": 1754844756686,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 558307249,
+        "rating": 5,
+        "headline": "AMAZINGGG",
+        "comments": "So pigmented and creamy slides on like butter frfr",
+        "nickname": "Fati",
+        "location": "Oakland",
+        "created_date": 1753489751976,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555153008,
+        "rating": 5,
+        "headline": "Love this lip liner",
+        "comments": "Love love love love this lip liner in the color blushing! Chartette tilbury pillow talk dupe! Great price",
+        "nickname": "jcrvi",
+        "location": "San Diego, CA",
+        "created_date": 1749938774504,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554289894,
+        "rating": 5,
+        "headline": "Love the color. just wish it stayed on longer..",
+        "comments": "All the sales associates are so pleasant and helpful..Thank you for that..",
+        "nickname": "patricia",
+        "location": "North Carolina",
+        "created_date": 1748626135502,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553078787,
+        "rating": 5,
+        "headline": "Fav Drugstore Lip Liner",
+        "comments": "You cannot beat the price and quality with this lip liner. I always have the colors Sugar & Spice and Blushing in stock, and i even have backup. How can i not when it's less that $4?? Not to mention, it's a really huge size so it'll last a WHILE. I mean, honestly, pls do not listen to the bad reviews, this lip liner is 100 out of 10 and you will not break your bank trying to look fabulous.",
+        "nickname": "Laura",
+        "location": "Los Angeles, CA",
+        "created_date": 1746735427630,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551922418,
+        "rating": 4,
+        "headline": "nice!",
+        "comments": "you get what you pay for!! its nice just doesnt stay in place but super creamy and nice color :)",
+        "nickname": "velychi",
+        "location": "davis, CA",
+        "created_date": 1744960327693,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551922417,
+        "rating": 4,
+        "headline": "nice!",
+        "comments": "you get what you pay for!! its nice just doesnt stay in place but super creamy and nice color :)",
+        "nickname": "velychi",
+        "location": "davis, CA",
+        "created_date": 1744960327057,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551595534,
+        "rating": 5,
+        "headline": "Incredibly long lasting",
+        "comments": "I haven't been impressed with a drugstore lip liner as much as I have with this one. Cafe is the perfect nude shade for light skin. I ate wings, has several drinks, and this liner did not budge. So impressed I plan to buy multiples.",
+        "nickname": "Eva",
+        "location": "San Diego, CA",
+        "created_date": 1744437361870,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 549680828,
+        "rating": 5,
+        "headline": "Best lip liner",
+        "comments": "L.A. Girl is the best lip liner ever! I will never buy another high end lip liner again. This lip liner goes on matte bit, not drying. Stays on. Not creamy. I hope they never stop making this.",
+        "nickname": "Chris",
+        "location": "Pittsburgh",
+        "created_date": 1742642152147,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 548691693,
+        "rating": 5,
+        "headline": "Hands down best liner",
+        "comments": "Doesn't tug, lasts all day long",
+        "nickname": "Evelyn",
+        "location": "La puente California",
+        "created_date": 1741896492217,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546601546,
+        "rating": 5,
+        "headline": "This is my go-to lip liner",
+        "comments": "I LOVE this lip liner, it's got unbelievable performance for the price point. After using more expensive liners, trying more than 6 other brands, I have come back to repurchase this. It's really really long-wear, and I can eat, drink, +12 hour wear.",
+        "nickname": "Meher",
+        "location": "Massachusetts",
+        "created_date": 1739477653382,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543809229,
+        "rating": 4,
+        "headline": "So creamy but does not last long AT ALL!",
+        "comments": "I really do love the product. I never run out of it and it is so creamy! The one deal breaker for me is that it doesn't last more than 15 minutes without fading or just disappearing completely! To test this out, I just put some on the back of my hand and patted it lightly, it faded so badly that it became barely noticable. If you are looking for a long lasting highly pigmented blush, I would search elsewhere. For some recommendations, I would say try the Elf lip liner, it is also very affordable ($2 I think) and I have heard amazing things about it. If you are looking for a minor flush or shadow to your lips this is the product for you!\n\n-Your Secret Beauty Superstar, Catherine",
+        "nickname": "Catherined13",
+        "location": "Farmington, CT",
+        "created_date": 1737508566082,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543562454,
+        "rating": 2,
+        "headline": "It's okay",
+        "comments": "The one I have does not set and spreads because it is super creamy! So, for me, its not something I reach for often unless I'm using it all over the lip with a gloss on top.",
+        "nickname": "Phets",
+        "location": "Washington",
+        "created_date": 1737171003961,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 541387486,
+        "rating": 5,
+        "headline": "Great for the price",
+        "comments": "Personally I have bought it three times now, only in the \"sugar and spice\" shade so I cannot comment on the other ones, but it is my go to for the color, long lasting, and price.",
+        "nickname": "Yules",
+        "location": "Az",
+        "created_date": 1734498807769,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538925399,
+        "rating": 5,
+        "headline": "love it",
+        "comments": "the liner is creamy and pigmented. it blends well with others lip products. 10/10 I recommend for baddies on a budget.",
+        "nickname": "jenn",
+        "location": "tampa",
+        "created_date": 1733291591651,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538313399,
+        "rating": 5,
+        "headline": "Great product for low price",
+        "comments": "This lip liner is very nice!!! Super creamy and easy to apply and a good color pay off. love how inexpensive it is aswell!!",
+        "nickname": "Lee",
+        "location": "Jacksonville, Fl",
+        "created_date": 1732198183390,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537706775,
+        "rating": 5,
+        "headline": "I would buy this again and again.",
+        "comments": ".",
+        "nickname": "Deisy",
+        "location": "Easton MD",
+        "created_date": 1731421057013,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 536479175,
+        "rating": 5,
+        "headline": "Fav lipliner ever",
+        "comments": "Ive tried multiple lipliners and this is my fav. I like it better than NYX because it stays on long and it applies smoothly. I dont have to reapply as much as I do with other liners.  Loooveee",
+        "nickname": "Aly",
+        "location": "Chicago,IL",
+        "created_date": 1729532200462,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 297,
+      "pages_total": 15,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod18871041/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Anytime",
+              "count": 3
+            },
+            {
+              "label": "everyday",
+              "count": 1
+            },
+            {
+              "label": "Nude lipstick blending",
+              "count": 1
+            },
+            {
+              "label": "Blending nude lipstick",
+              "count": 1
+            },
+            {
+              "label": "Granddaughters can play \"dress\" with it",
+              "count": 1
+            },
+            {
+              "label": "Everyday",
+              "count": 1
+            },
+            {
+              "label": "Lip liner",
+              "count": 1
+            },
+            {
+              "label": "Everyday Use",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Anytime",
+            "Blending nude lipstick",
+            "Daytime",
+            "Dry Lips",
+            "Everyday",
+            "Everyday Use",
+            "Going Out",
+            "Granddaughters can play \"dress\" with it",
+            "Lip liner",
+            "Nude lipstick blending",
+            "Special Occasions",
+            "everyday"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Color",
+              "count": 1
+            },
+            {
+              "label": "Not durable",
+              "count": 1
+            },
+            {
+              "label": "Don't this shade very often",
+              "count": 1
+            },
+            {
+              "label": "I don't like to spend a lot of money on a shade",
+              "count": 1
+            },
+            {
+              "label": "I wouldn't use very often",
+              "count": 1
+            },
+            {
+              "label": "Don't use nude lip liner very often",
+              "count": 1
+            },
+            {
+              "label": "Dried out.",
+              "count": 1
+            },
+            {
+              "label": "color is off",
+              "count": 1
+            },
+            {
+              "label": "drying",
+              "count": 1
+            },
+            {
+              "label": "Comes off easily",
+              "count": 1
+            },
+            {
+              "label": "Doesn't last long",
+              "count": 1
+            },
+            {
+              "label": "Lighter than my lip color",
+              "count": 1
+            },
+            {
+              "label": "Wood sharpener",
+              "count": 1
+            },
+            {
+              "label": "Clumpy Application",
+              "count": 1
+            },
+            {
+              "label": "Drying",
+              "count": 1
+            },
+            {
+              "label": "Not True To Color",
+              "count": 1
+            },
+            {
+              "label": "Wears Off Easily",
+              "count": 1
+            },
+            {
+              "label": "Nude color looks almost white",
+              "count": 1
+            },
+            {
+              "label": "Didn't last very long on lips",
+              "count": 1
+            },
+            {
+              "label": "Didn't stay in place",
+              "count": 1
+            },
+            {
+              "label": "Smeared too easily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Tasting",
+            "Clumpy Application",
+            "Color",
+            "Comes off easily",
+            "Didn't last very long on lips",
+            "Didn't stay in place",
+            "Doesn't last long",
+            "Don't this shade very often",
+            "Don't use nude lip liner very often",
+            "Dried out.",
+            "Drying",
+            "I don't like to spend a lot of money on a shade",
+            "I wouldn't use very often",
+            "Lighter than my lip color",
+            "Not True To Color",
+            "Not durable",
+            "Nude color looks almost white",
+            "Poor Color Selection",
+            "Smeared too easily",
+            "Smells Bad",
+            "Sticky",
+            "Wears Off Easily",
+            "Wood sharpener",
+            "color is off",
+            "drying"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Classic Style",
+              "count": 3
+            },
+            {
+              "label": "60+ gal who needs moisture filled products",
+              "count": 1
+            },
+            {
+              "label": "Big lips",
+              "count": 1
+            },
+            {
+              "label": "Love makeup",
+              "count": 1
+            },
+            {
+              "label": "Unique",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "60+ gal who needs moisture filled products",
+            "Big lips",
+            "Casual Dresser",
+            "Classic Style",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Love makeup",
+            "Natural Style",
+            "Stylish/Fashionista",
+            "Trendy Style",
+            "Trendy/Stylish Dresser",
+            "Unique",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Creamy",
+              "count": 4
+            },
+            {
+              "label": "Pigmented",
+              "count": 3
+            },
+            {
+              "label": "Good Price / Value",
+              "count": 2
+            },
+            {
+              "label": "Nice color",
+              "count": 2
+            },
+            {
+              "label": "Convenient Container",
+              "count": 2
+            },
+            {
+              "label": "High Quality",
+              "count": 1
+            },
+            {
+              "label": "pigment",
+              "count": 1
+            },
+            {
+              "label": "Blends well with most nude lip shades",
+              "count": 1
+            },
+            {
+              "label": "Makes nude lipstick look more neat",
+              "count": 1
+            },
+            {
+              "label": "Not messy or crappie",
+              "count": 1
+            },
+            {
+              "label": "Available in different shades of nude",
+              "count": 1
+            },
+            {
+              "label": "Still blends in with lipstick and looks good",
+              "count": 1
+            },
+            {
+              "label": "You put nude lipstick more efficiently",
+              "count": 1
+            },
+            {
+              "label": "Color",
+              "count": 1
+            },
+            {
+              "label": "Lasts all day",
+              "count": 1
+            },
+            {
+              "label": "Smooth application",
+              "count": 1
+            },
+            {
+              "label": "Last all day and very  pigmented",
+              "count": 1
+            },
+            {
+              "label": "Doesn't have  perfume odor.",
+              "count": 1
+            },
+            {
+              "label": "Precise and easy application",
+              "count": 1
+            },
+            {
+              "label": "Blendable",
+              "count": 1
+            },
+            {
+              "label": "Great for Medium skin tones",
+              "count": 1
+            },
+            {
+              "label": "pigmented",
+              "count": 1
+            },
+            {
+              "label": "Smooth Application",
+              "count": 1
+            },
+            {
+              "label": "Thick",
+              "count": 1
+            },
+            {
+              "label": "Inexpensive",
+              "count": 1
+            },
+            {
+              "label": "Good for overlining",
+              "count": 1
+            },
+            {
+              "label": "Goes on easily",
+              "count": 1
+            },
+            {
+              "label": "Low price",
+              "count": 1
+            },
+            {
+              "label": "Even Application",
+              "count": 1
+            },
+            {
+              "label": "Great Color Selection",
+              "count": 1
+            },
+            {
+              "label": "Long Lasting",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "True To Color",
+              "count": 1
+            },
+            {
+              "label": "Versatile",
+              "count": 1
+            },
+            {
+              "label": "Price",
+              "count": 1
+            },
+            {
+              "label": "Smooth liner",
+              "count": 1
+            },
+            {
+              "label": "Long lasting",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Available in different shades of nude",
+            "Blendable",
+            "Blends well with most nude lip shades",
+            "Color",
+            "Convenient Container",
+            "Creamy",
+            "Doesn't have  perfume odor.",
+            "Even Application",
+            "Glossy Finish",
+            "Goes on easily",
+            "Good Price / Value",
+            "Good for overlining",
+            "Great Color Selection",
+            "Great for Medium skin tones",
+            "High Quality",
+            "Inexpensive",
+            "Last all day and very  pigmented",
+            "Lasts all day",
+            "Long Lasting",
+            "Long lasting",
+            "Low price",
+            "Makes nude lipstick look more neat",
+            "Moisturizing",
+            "Nice color",
+            "Not messy or crappie",
+            "Pigmented",
+            "Pleasant Tasting",
+            "Precise and easy application",
+            "Price",
+            "Smooth Application",
+            "Smooth application",
+            "Smooth liner",
+            "Still blends in with lipstick and looks good",
+            "Thick",
+            "True To Color",
+            "Versatile",
+            "You put nude lipstick more efficiently",
+            "pigment",
+            "pigmented"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        13,
+        22,
+        16,
+        41,
+        214
+      ],
+      "review_histogram": [
+        13,
+        22,
+        16,
+        41,
+        214
+      ],
+      "rating_count": 306,
+      "review_count": 306,
+      "average_rating": 4.38,
+      "recommended_ratio": 0.89,
+      "media": [
+        {
+          "id": "473648880",
+          "review_id": 473648824,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vltcsh5lh5w0xq8dvtoi.jpg",
+          "headline": "I buy this lip liner over and over again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "My nude go to lip liner",
+          "nickname": "Sandy",
+          "created_date": 1695749979483
+        },
+        {
+          "id": "426213507",
+          "review_id": 426213506,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/xsznuypih5thnaydlfvj.jpg",
+          "headline": "Good Value",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Jess",
+          "created_date": 1664244083566
+        },
+        {
+          "id": "283714169",
+          "review_id": 283714192,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/plji6z90ldvq9vpyrfnh.jpg",
+          "headline": "Perfect to go with any shade red lipstick",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Paige",
+          "created_date": 1594482056822
+        },
+        {
+          "id": "283714159",
+          "review_id": 283714167,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cwefozk0gynijk0esjdl.jpg",
+          "headline": "Perfect for bright orange, corals or red/orange lip combos",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Perfect",
+          "nickname": "Paige",
+          "created_date": 1594481934757
+        },
+        {
+          "id": "283106196",
+          "review_id": 283106175,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/de0ruemwvhyrdmwi9yth.jpg",
+          "headline": "Love These!",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Lovely shades.",
+          "nickname": "Mx27",
+          "created_date": 1594100056939
+        },
+        {
+          "id": "237371501",
+          "review_id": 237371491,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gwkxdkqqi9uwsm2b7z7w.jpg",
+          "headline": "Incredible for the price",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "This is flesh",
+          "nickname": "Nelle",
+          "created_date": 1556953459029
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I love these! They apply on so smoothly and aren't streaky compared to other lip liners. I use them as lipsticks because lipsticks just don't have enough pigment. I used to use liquid lipsticks, but they dry out my lips and causes cracks if I re-apply. These are pretty long lasting and can be re-applied without looking a mess. If you're ordering online and have never seen the colors in person before, some of them are similar to each other. The nude shades are almost the same. \"Bare\" comes off as a more pale nude while \"Cafe\" is a warm nude, and \"Sugar & Spice\" has more of a brown tone. I couldn't see a difference between \"Blushing\" and \"Satin Plum.\" \nThe only thing I don't like about these is that you have to sharpen them.",
+        "headline": "Love These!",
+        "rating": 5,
+        "ugc_id": 283106175
+      },
+      "faceoff_negative": {
+        "comments": "I bought the color Bare at the recommendation of a beauty blogger, but I don't think I'll repurchase. The color itself is very ashy and not flattering. I found the formula very drying and crumbly. It was difficult to apply in that if your lips were dry its patchy and really thick in some areas, but if your lips are moisturized it doesn't apply at all.",
+        "headline": "Not My Favorite",
+        "rating": 2,
+        "ugc_id": 229494971
+      },
+      "name": "Perfect Precision Lip Liner",
+      "native_review_count": 297,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 9,
+      "locale": "en_US"
+    }
+  }
+}

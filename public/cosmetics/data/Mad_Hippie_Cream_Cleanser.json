@@ -1,0 +1,879 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/cream-cleanser-xlsImpprod18731237",
+  "extracted_at": "2025-09-23T03:41:04.481185+00:00",
+  "product_name": "Mad HippieCream Cleanser",
+  "brand": "Mad Hippie",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "16.99",
+  "sale_price": "11.89",
+  "availability": "in_stock",
+  "rating_avg": "4.3",
+  "rating_count": "306",
+  "images": [
+    "https://media.ulta.com/i/ulta/2530016?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2530016?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530016_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530016_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530016_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530016_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2530016_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackMad Hippie's Cream Cleanser is mildly acidic with pH perfection, supporting the skin's natural balance of protective oils.",
+  "details": "DetailsKey IngredientsOrganic Jojoba Oil - closely resembles skin's own lubricant, sebum, and is readily absorbed into the skin and works to help provide a protective barrierOrchid Extract - rich in minerals and moisturizing compounds that have long been used for their beneficial effectsOrganic Macadamia Oil - contains high levels of the naturally occurring skin protectant palmitoleic acid, an essential part of sebum and absorbs quickly into the skin to provide instant moisturizing effectsSodium Hyaluronate - works to moisturize the skin while reducing the appearance of wrinklesAlgae Extract - mineral and antioxidant rich algae extract nourishes aging skin and moisturizes through its water binding propertiesSesame Oil - rich in several potent antioxidants, including vitamin E and vitamin A which help to even skin tone and reduce the appearance of wrinklesGreen Tea - powerful antioxidant from tea leavesSodium PCA - works to effectively hydrate the skin by absorbing and binding moisture to the skinShea Butter - rich source of the powerful antioxidants vitamin A and E, crucial fatty acids and cinnamic acidFormulated WithoutParabens, petrochemicals, animal ingredients, GMOs, phthalates, SLS, silicone, PEGs, synthetic fragrance and dyesItem 2530016How To UseLightly massage cleanser into dampened skin for 20 seconds, then rinse with warm water.IngredientsDeionized Water, Sesame Oil (Sesamum Indicum), Caprylic/capric Triglycerides, Shea Butter (Butyrospermum Parkii), Cetearyl Glucoside, Carrageenan Gum, Vegetable Glycerin, Caprylhydroxamic Acid, Caprylyl Glycol, Sodium PCA, Green Tea (Camellia Sinensis Leaf), Jojoba (Simmondsia Chinensis), Squalene, Organic Macadamia Oil (Macadamia Ternifolia Seed Oil), Organic Jojoba Oil (Simmondsia Chinesis), Yeast Extract, Glucosamine HCL, Vitamin E (Tocopheryl), Sodium Hyaluronate, Algae Extract, Orchid Extract (Orchis Mascula), Titanium Dioxide.",
+  "how_to_use": "Lightly massage cleanser into dampened skin for 20 seconds, then rinse with warm water.",
+  "ingredients": [
+    "Deionized Water",
+    "Sesame Oil (Sesamum Indicum)",
+    "Caprylic/capric Triglycerides",
+    "Shea Butter (Butyrospermum Parkii)",
+    "Cetearyl Glucoside",
+    "Carrageenan Gum",
+    "Vegetable Glycerin",
+    "Caprylhydroxamic Acid",
+    "Caprylyl Glycol",
+    "Sodium PCA",
+    "Green Tea (Camellia Sinensis Leaf)",
+    "Jojoba (Simmondsia Chinensis)",
+    "Squalene",
+    "Organic Macadamia Oil (Macadamia Ternifolia Seed Oil)",
+    "Organic Jojoba Oil (Simmondsia Chinesis)",
+    "Yeast Extract",
+    "Glucosamine HCL",
+    "Vitamin E (Tocopheryl)",
+    "Sodium Hyaluronate",
+    "Algae Extract",
+    "Orchid Extract (Orchis Mascula)",
+    "Titanium Dioxide"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/07a174df-6c63-4733-b89a-8820ac287508/960.webp",
+      "https://content.syndigo.com/asset/4a559810-1706-4c80-bfb3-c67cd033e321/960.webp",
+      "https://content.syndigo.com/asset/e6cf1b13-50f7-4fde-aa06-f9b7a18d5959/1920.webp",
+      "https://content.syndigo.com/asset/e6cf1b13-50f7-4fde-aa06-f9b7a18d5959/240.webp",
+      "https://content.syndigo.com/asset/c3b02b10-5a80-461d-b3d3-241775441c6b/480.webp",
+      "https://content.syndigo.com/asset/88c2854c-6167-4887-a9e3-69eb00fac9b1/480.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser",
+      "moisturizer"
+    ],
+    "skin_type": [
+      "dry",
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "vitamin-e",
+      "organic"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "organic",
+      "natural",
+      "anti-aging",
+      "hydrating"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod18731237",
+    "total_reviews": 306,
+    "reviews": [
+      {
+        "review_id": 562474423,
+        "rating": 5,
+        "headline": "Super gentle but works",
+        "comments": "This feels like washing with a face cream - i just love it!  My skin feels super moistuirzed after using.  I follow with the mad hippie vitamin C serum and then night cream before bed and when i wake my skin is just glowing",
+        "nickname": "Nikki",
+        "location": "San Francisco",
+        "created_date": 1756997908168,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560930166,
+        "rating": 5,
+        "headline": "I have sensitive skin",
+        "comments": "My skin likes this. I have sensitive acne prone skin as a 50 year old. This cleanser cleans all the stuff on my face off at the end of a long day with just one use. My face is soft not left greasy. After rubbing it around my face with my finger tips i remove it with a damp washcloth. Smell is herbal I think",
+        "nickname": "Laurah217",
+        "location": "SoCal",
+        "created_date": 1755912012686,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 560360521,
+        "rating": 1,
+        "headline": "disappointed",
+        "comments": "I tried using this on its own and following cleansing with Mad Hippie's jelly cleanser and both were a disappojtment. Didnt cleanse well and my face felt like there was a residue.",
+        "nickname": "Keepitcleanbeauti",
+        "location": "California",
+        "created_date": 1755440069452,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557870909,
+        "rating": 1,
+        "headline": "Dried my face out the smell is terrible",
+        "comments": "I read such great reviews with this item, but as with all the other products I tried it is terrible. The first thing I noticed was the bad smell. The next problem is my skin is slightly sensitive and this product completely dried my skin out. I would not recommend any of their products unfortunately and I really wanted to like them.",
+        "nickname": "Ginny",
+        "location": "Phoenix, AZ",
+        "created_date": 1753038782062,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 557025120,
+        "rating": 1,
+        "headline": "EW, formula changed.",
+        "comments": "One of my most hated ingredients was added to this formula. Carrageenan! WHY MAD HIPPIE?!!!! \nI've been using this cream cleanser for years, mainly in the morning when I'm not wearing make up. It never broke me out, helped balance pH level, didn't irritate if it got in your eyes. I LOVED it but unfortunately I will never be buying this again. Also the ingredient Titanium dioxide?!!! It's a shame that Mad Hippie is doing what most other companies do just to fill their pockets more.",
+        "nickname": "CECE",
+        "location": "Florida",
+        "created_date": 1752361860354,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554870223,
+        "rating": 5,
+        "headline": "Great Cleanser!",
+        "comments": "Since entering my forties, my skin hasn't been the same. What used to work for me doesn't anymore. My face was feeling very irritated, oily yet dry, and I had a bunch of texture all over. I was at the end of my rope with all the skincare lines that I own. Until I remembered I bought this a while back. I started using this for my only cleansing step and my skin is loving it!\n\nI don't follow the recommended way to use this cleanser. I apply on dry skin, work it in for a bit, and then I add a little water to emulsify. I remove with a warm, damp reusable cotton round (I love the Garnier reusable face pads). It gets everything off, and my face feels clean and moisturized at the same time. The only con is I wish it came in a bigger bottle.",
+        "nickname": "B",
+        "location": "Texas",
+        "created_date": 1749583717606,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553801022,
+        "rating": 3,
+        "headline": "Not bad",
+        "comments": "A little hard to rinse for my tastes.",
+        "nickname": "Adrienne",
+        "location": "New York",
+        "created_date": 1747927406120,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 550824760,
+        "rating": 4,
+        "headline": "more of a winter cleanser",
+        "comments": "i do love this cleanser but i dont think it helps necessarily with acne prone skin or oily skin. i tend to use this cleanser more in the winter since it is so hydrating. im not too big of a fan that it doesnt really bubble up when washing my face, and it feels like you have to use a lot of product because of it. wish it came in a bigger bottle & bubbled more.",
+        "nickname": "bri",
+        "location": "muskegon, mi",
+        "created_date": 1743524986143,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 549710217,
+        "rating": 1,
+        "headline": "Does not remove makeup",
+        "comments": "This product does not remove make up....double cleansed with this and I still had foundation on my face.",
+        "nickname": "CleanIngredient",
+        "location": "Oregon",
+        "created_date": 1742706014777,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546509443,
+        "rating": 5,
+        "headline": "Gentle on skin ￼",
+        "comments": "Been using this face wash for a couple of years and I love it! It's the only face wash that doesn't dry out my skin or make it breakout! I love Mad hippie!",
+        "nickname": "Hayes",
+        "location": "Washington  ￼",
+        "created_date": 1739384067042,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 544142524,
+        "rating": 5,
+        "headline": "Love this!",
+        "comments": "I hughly recommend this face wash. I have struggled wifh acne and i couldnt find anyhting that cleared my skin up, but this did!",
+        "nickname": "Lil",
+        "location": "Wilmington, NC",
+        "created_date": 1737764598493,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542032903,
+        "rating": 5,
+        "headline": "I will be buying this product again",
+        "comments": "Really like how it makes my face feel clean.  I like the ingredients and how soft my face feels after using it.",
+        "nickname": "",
+        "location": "Washington",
+        "created_date": 1735604582860,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541763599,
+        "rating": 5,
+        "headline": "2nd time for buying",
+        "comments": "Love this cleanser. Gentle on the skin, and with a pleasant scent. Amazing that it comes in a glass bottle !!!!!",
+        "nickname": "Viola",
+        "location": "Minnesota",
+        "created_date": 1735135474150,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538199666,
+        "rating": 2,
+        "headline": "I was so hopeful",
+        "comments": "I wanted this produce to work for me but it didnt :( I definitely have combination skin. I was using this in the morning and night. It is creamy and smooth but doesnt get foamy. Because of the lack of foam…I do not think it cleaned the oil from my skin before bed, result in breakouts.",
+        "nickname": "Allie Cat",
+        "location": "Indiana",
+        "created_date": 1732146829070,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 537455717,
+        "rating": 5,
+        "headline": "Great cleanser",
+        "comments": "Love the feel of it on my face. Nice and light. Not thick or heavy feeling. Also a nice light scent which is not over bearing. I usually go scentless with everything I purchase.  I will continue to buy this in the future.",
+        "nickname": "Viola",
+        "location": "Minnesota",
+        "created_date": 1730996503402,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 522435152,
+        "rating": 5,
+        "headline": "My favorite",
+        "comments": "I have dry skin. This cleanser cleans my skin (leaves that clean skin feeling post-wash), moisurizes it, and eventually provided an even texture and tone to my skin. I ALSO have radiance in my skin. I noticed improvement from this product about 2-3 weeks of use. I never knew a face wash could make that much of a difference. I have used this product for 1 year now. Personally don't recommend for oily skin. Downside- can't travel with this bottle.",
+        "nickname": "Say",
+        "location": "Dc",
+        "created_date": 1718167284957,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 518608022,
+        "rating": 5,
+        "headline": "Moisturizing Cleaner",
+        "comments": "I LOVE this cleanser! It cleans my skin and makes it feel so moisturized! This creamy cleanser feels so good on my normal combination skin.",
+        "nickname": "N/A",
+        "location": "Katy Tx",
+        "created_date": 1716864691764,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 515879622,
+        "rating": 1,
+        "headline": "I got breakouts due to this cleanser",
+        "comments": "I wanted to like this cleanser so bad but I have been using it for a week now and started noticing pimples popping up out of no where. I know this from the cleanser because its the only new product I started using on my face. Also the scent is horrendous and my face feels oily all day after using it :(",
+        "nickname": "Maritza",
+        "location": "California",
+        "created_date": 1716265631033,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 513350336,
+        "rating": 5,
+        "headline": "favorite dry/normal cleanser",
+        "comments": "love, love, LOVE this product. its so clean, creamy and leaves my skin so hydrated and this cleanser doesnt strip the skin. i have dry, sensitive, acne prone skin and this product works wonders for me. i wish that it did come in a bigger bottle, i use twice a day and this lasts me abt a month. not a fan of the pump like other reviews are saying it is a bit annoying but would recommend this brand to anyone with a similar skin type + likes clean natural ingredients for a great price!",
+        "nickname": "sarah",
+        "location": "Massachusetts",
+        "created_date": 1715222535099,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 511210048,
+        "rating": 5,
+        "headline": "10/10",
+        "comments": "Love the way this product smells, feels, and works. It really helps with cleansing the skin and keeping it smooth. My acne-prone + sensitive skin doesn't always react the best with new products, but has done well with mad hippie. I plan on buying again.",
+        "nickname": "Trinity",
+        "location": "Pooler, GA",
+        "created_date": 1712942905672,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 202,
+      "pages_total": 11,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod18731237/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "All Skin Types",
+              "count": 8
+            },
+            {
+              "label": "Daily Use",
+              "count": 7
+            },
+            {
+              "label": "Dry Skin",
+              "count": 7
+            },
+            {
+              "label": "Combination Skin",
+              "count": 6
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 6
+            },
+            {
+              "label": "Oily Skin",
+              "count": 4
+            },
+            {
+              "label": "Acne-Prone Skin",
+              "count": 2
+            },
+            {
+              "label": "Gentle but complete cleansing",
+              "count": 1
+            },
+            {
+              "label": "Nightly",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "Second cleanser for double cleanse",
+              "count": 1
+            },
+            {
+              "label": "Everyday",
+              "count": 1
+            },
+            {
+              "label": "Makeup remover",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne-Prone Skin",
+            "All Skin Types",
+            "Combination Skin",
+            "Daily Use",
+            "Dry Skin",
+            "Everyday",
+            "Gentle but complete cleansing",
+            "Makeup remover",
+            "Nightly",
+            "None",
+            "Oily Skin",
+            "Second cleanser for double cleanse",
+            "Sensitive Skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Doesn't Remove Makeup",
+              "count": 3
+            },
+            {
+              "label": "Doesn't lather like a soap",
+              "count": 1
+            },
+            {
+              "label": "Don't help",
+              "count": 1
+            },
+            {
+              "label": "Still oily",
+              "count": 1
+            },
+            {
+              "label": "Goes rancid before finishing the bottle.",
+              "count": 1
+            },
+            {
+              "label": "Not easy to travel with due to the pump",
+              "count": 1
+            },
+            {
+              "label": "Cleanser is nothing special",
+              "count": 1
+            },
+            {
+              "label": "Not enough cleanser",
+              "count": 1
+            },
+            {
+              "label": "Does not clean or rinse well",
+              "count": 1
+            },
+            {
+              "label": "breakouts",
+              "count": 1
+            },
+            {
+              "label": "Wish it came in larger container",
+              "count": 1
+            },
+            {
+              "label": "Dries Out Skin",
+              "count": 1
+            },
+            {
+              "label": "Greasy",
+              "count": 1
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Cleanser is nothing special",
+            "Does not clean or rinse well",
+            "Doesn't Remove Makeup",
+            "Doesn't Work",
+            "Doesn't lather like a soap",
+            "Don't help",
+            "Dries Out Skin",
+            "Goes rancid before finishing the bottle.",
+            "Greasy",
+            "Irritates Skin",
+            "Messy",
+            "Not easy to travel with due to the pump",
+            "Not enough cleanser",
+            "Still oily",
+            "Wish it came in larger container",
+            "breakouts"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brand Buyer",
+              "count": 8
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 2
+            },
+            {
+              "label": "79 y/o",
+              "count": 1
+            },
+            {
+              "label": "Live in arid climate",
+              "count": 1
+            },
+            {
+              "label": "I have oily skin",
+              "count": 1
+            },
+            {
+              "label": "Acne prone",
+              "count": 1
+            },
+            {
+              "label": "Dry in the winter",
+              "count": 1
+            },
+            {
+              "label": "Skin care product junkie",
+              "count": 1
+            },
+            {
+              "label": "Combo skin",
+              "count": 1
+            },
+            {
+              "label": "Fanatic for natural beauty",
+              "count": 1
+            },
+            {
+              "label": "I am 42 and have tried numerous products.",
+              "count": 1
+            },
+            {
+              "label": "Not acne prone",
+              "count": 1
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Combination Acne-Prone skin",
+              "count": 1
+            },
+            {
+              "label": "Fair complexion",
+              "count": 1
+            },
+            {
+              "label": "Hormonal breakouts",
+              "count": 1
+            },
+            {
+              "label": "Clean beauty seeker",
+              "count": 1
+            },
+            {
+              "label": "40's, Dry Skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "40's, Dry Skin",
+            "79 y/o",
+            "Acne prone",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Clean beauty seeker",
+            "Combination Acne-Prone skin",
+            "Combo skin",
+            "Comfort-seeking",
+            "Dry in the winter",
+            "Energetic/Active",
+            "Fair complexion",
+            "Fanatic for natural beauty",
+            "Hormonal breakouts",
+            "I am 42 and have tried numerous products.",
+            "I have oily skin",
+            "Live in arid climate",
+            "Not acne prone",
+            "Oily",
+            "Sensitive skin",
+            "Skin care product junkie",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Gentle",
+              "count": 15
+            },
+            {
+              "label": "Moisturizing",
+              "count": 14
+            },
+            {
+              "label": "Balances Skin",
+              "count": 9
+            },
+            {
+              "label": "Not Greasy",
+              "count": 9
+            },
+            {
+              "label": "Leaves Clean Feel",
+              "count": 8
+            },
+            {
+              "label": "Smells Great",
+              "count": 8
+            },
+            {
+              "label": "Improves Skin Texture",
+              "count": 7
+            },
+            {
+              "label": "Creamy",
+              "count": 2
+            },
+            {
+              "label": "Hydration",
+              "count": 1
+            },
+            {
+              "label": "Smell",
+              "count": 1
+            },
+            {
+              "label": "Gentle but effective cleanse",
+              "count": 1
+            },
+            {
+              "label": "Natural",
+              "count": 1
+            },
+            {
+              "label": "Not stripping",
+              "count": 1
+            },
+            {
+              "label": "Combines pros of water- and oil-based cleaners.",
+              "count": 1
+            },
+            {
+              "label": "Good for sensitive skin.",
+              "count": 1
+            },
+            {
+              "label": "Lasts a long time",
+              "count": 1
+            },
+            {
+              "label": "Smells great",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "Nice Consistency",
+              "count": 1
+            },
+            {
+              "label": "Not irritating",
+              "count": 1
+            },
+            {
+              "label": "Good on sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Light and creamy. Does not dry your skin out.",
+              "count": 1
+            },
+            {
+              "label": "Gentle, nice light scent, doesnt sud.",
+              "count": 1
+            },
+            {
+              "label": "creamy, non-drying",
+              "count": 1
+            },
+            {
+              "label": "gentle",
+              "count": 1
+            },
+            {
+              "label": "natural",
+              "count": 1
+            },
+            {
+              "label": "not stripping",
+              "count": 1
+            },
+            {
+              "label": "Calming",
+              "count": 1
+            },
+            {
+              "label": "Glowing skin",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Non acnegenic",
+              "count": 1
+            },
+            {
+              "label": "Does not irritate my face",
+              "count": 1
+            },
+            {
+              "label": "Gentle on skin",
+              "count": 1
+            },
+            {
+              "label": "Gentle, smells great, clean ingredients",
+              "count": 1
+            },
+            {
+              "label": "Gentle, Effective, Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Doesn't leave skin feeling tight",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Balances Skin",
+            "Calming",
+            "Combines pros of water- and oil-based cleaners.",
+            "Creamy",
+            "Does not irritate my face",
+            "Doesn't leave skin feeling tight",
+            "Gentle",
+            "Gentle but effective cleanse",
+            "Gentle on skin",
+            "Gentle, Effective, Moisturizing",
+            "Gentle, nice light scent, doesnt sud.",
+            "Gentle, smells great, clean ingredients",
+            "Glowing skin",
+            "Good for sensitive skin.",
+            "Good on sensitive skin",
+            "Hydrating",
+            "Hydration",
+            "Improves Skin Texture",
+            "Lasts a long time",
+            "Leaves Clean Feel",
+            "Light and creamy. Does not dry your skin out.",
+            "Moisturizing",
+            "Natural",
+            "Nice Consistency",
+            "Non acnegenic",
+            "None",
+            "Not Greasy",
+            "Not irritating",
+            "Not stripping",
+            "Smell",
+            "Smells Great",
+            "Smells great",
+            "creamy, non-drying",
+            "gentle",
+            "natural",
+            "not stripping"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 5
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        22,
+        14,
+        26,
+        27,
+        217
+      ],
+      "review_histogram": [
+        22,
+        14,
+        26,
+        27,
+        217
+      ],
+      "rating_count": 306,
+      "review_count": 306,
+      "average_rating": 4.32,
+      "recommended_ratio": 0.8,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I've been a lifelong facial cleanser hater. I hate the stinging eyes, the tight skin and the icky feeling of water dripping down my arms and neck when I rinse. Admittedly that last one is a me thing not a products fault. I've tried so many over the years and just never enjoyed the experience but I enjoy healthy skin so ya gotta do what ya gotta do. Then I found this cleanser.\nI'm fully aware I sound nutty but I actually look forward to using this cleanser. It feels so good on my skin! It doesn't sting my eyes and never leaves my dry skin feeling stripped. It doesn't foam so it's easy to rinse by wiping off a few times with a wet muslin cloth. When I wear makeup I use a cleansing balm first then this but it's effective enough to remove everything leftover and on no makeup days it removes my spf like a champ. My toner cotton pad always comes away clean when I've used this.\nAs long as Mad Hippie makes this, I'll keep buying! Speaking of MH, I'm slowly integrating more of their products into my routine and I'm loving this brand!",
+        "headline": "The Cleanser I've Always Wanted",
+        "rating": 5,
+        "ugc_id": 255179746
+      },
+      "faceoff_negative": {
+        "comments": "I've bought this from Ulta twice, and both times it went rancid before the bottle was finished. With the second bottle, I know I bought it online from Ulta in November 2020, and it had been manufactured in September 2019. (The manufacturing information was given by the Transparency App QR code on the packaging.) I'm not quite done with the bottle yet, but it's rancid, like rancid oil.\n\nThis isn't a fault with the product, per se. Oils go rancid, some sooner than others. Products have shelf-lives. Some environments are better for keeping oils fresh than others. But it would be good to have expected expiration dates, and an easier way to be sure that you're buying a fresher product.\n\nAll I can suggest is to buy it in person, so you can check the manufacture dates yourself on the package before you buy, and maybe don't store it in your bathroom. (It's not like my bathroom is poorly vented or usually steamy, and I've never had this problem before with other toiletries--even oil based products--but maybe keeping it in the coolest area of your house is a good idea.)",
+        "headline": "I love this stuff, but it goes rancid quickly.",
+        "rating": 3,
+        "ugc_id": 342694409
+      },
+      "name": "Cream Cleanser",
+      "native_review_count": 202,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 104,
+      "locale": "en_US"
+    }
+  }
+}

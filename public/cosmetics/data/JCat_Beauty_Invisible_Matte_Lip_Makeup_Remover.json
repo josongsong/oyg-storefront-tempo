@@ -1,0 +1,322 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/invisible-matte-lip-makeup-remover-xlsImpprod15451051",
+  "extracted_at": "2025-09-23T04:17:45.155919+00:00",
+  "product_name": "J.Cat BeautyInvisible Matte Lip Makeup Remover",
+  "brand": "J.Cat Beauty",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Makeup Remover"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "makeup"
+  ],
+  "currency": "USD",
+  "list_price": "5.00",
+  "sale_price": "3.25",
+  "availability": "in_stock",
+  "rating_avg": "4.9",
+  "rating_count": "13",
+  "images": [
+    "https://media.ulta.com/i/ulta/2506154?w=500&h=500"
+  ],
+  "detailed_images": [],
+  "summary": "SummaryJ.Cat Beauty's Invisible Matte Lip Makeup Remover does not require lip rubbing to remove any long-wearing lip colors.",
+  "details": "DetailsFeaturesNon-drying formula that leaves smooth lips at the end of the dayItem 2506154How To UseUse one of J.Cat Beauty's \"Lipfinity\" Matte Lips. Apply a generous amount of Invisible Matte Lip Makeup Remover on your lips. Massage gently using your fingers and leave on for approximately 3-5 seconds. Use cotton to remove.IngredientsPalmitate, Hydrogenated Ethylene / Propylene / Styrene Copolymer, Isohexadecane, Propylparabem, Tocopherol Acetate.",
+  "how_to_use": "Use one of J.Cat Beauty's \"Lipfinity\" Matte Lips. Apply a generous amount of Invisible Matte Lip Makeup Remover on your lips. Massage gently using your fingers and leave on for approximately 3-5 seconds. Use cotton to remove.",
+  "ingredients": [
+    "Palmitate",
+    "Hydrogenated Ethylene / Propylene / Styrene Copolymer",
+    "Isohexadecane",
+    "Propylparabem",
+    "Tocopherol Acetate"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "cosmetics"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "oily",
+      "dry"
+    ],
+    "finish": [
+      "matte",
+      "long-wear",
+      "creamy"
+    ],
+    "color": [
+      "clear"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "ingredients": [],
+    "special_features": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod15451051",
+    "total_reviews": 13,
+    "reviews": [
+      {
+        "review_id": 537800001,
+        "rating": 5,
+        "headline": "Works like a charm!",
+        "comments": "This clear gloss-like lip product is awesome. I love longwear lipstick but I hate how my lips feel when I try to remove it. I decided to try this because it was so cheap and I am impressed. You swipe it on like any lip product, wait a few seconds, then wipe all traces of lipstick away. It's  easy to use and completely portable. Definitely worth a try!",
+        "nickname": "RissM",
+        "location": "Dover, PA",
+        "created_date": 1731549224450,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 523690032,
+        "rating": 5,
+        "headline": "Hidden Gem!",
+        "comments": "This product is a hidden gem! I got it on sale for practically nothing and was not expecting it to work so well. I wear a lot of matte lipsticks and this is a very effective tool to remove it. My only complaint would be if \nyou squeeze the tube too hard a lot of product will come out and end up being wasted, so squeeze lightly. I would definitely purchase this again.",
+        "nickname": "Gigi",
+        "location": "Corona, CA",
+        "created_date": 1719378247200,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 455516580,
+        "rating": 5,
+        "headline": "Shocking",
+        "comments": "this product works great. it's a little messy if used directly from component to the lips. to keep the component clean suggest using finger  to apply. the hardest lip products to remove are no match for this. you may  need to spot apply a 2nd time (color that settles in lip line) but wipe away in seconds.",
+        "nickname": "kuky",
+        "location": "Maryland",
+        "created_date": 1682559965943,
+        "bottom_line": null,
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 435411864,
+        "rating": 4,
+        "headline": "The best!",
+        "comments": "It takes Jeffrey star's matte lipstick right off. Usually would have to scrub with makeup remover wipes!",
+        "nickname": "Kate.",
+        "location": "West Virginia",
+        "created_date": 1669593270330,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 408593316,
+        "rating": 5,
+        "headline": "I love this item",
+        "comments": "I highly recommend. It does what I need it to do at an affordable price.",
+        "nickname": "JaninaTylr",
+        "location": "Alabama",
+        "created_date": 1652550943044,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 345886951,
+        "rating": 5,
+        "headline": "Love it",
+        "comments": "Does exactly what it says it will. Makes taking off matte lipsticks so much easier.",
+        "nickname": "Kupcake",
+        "location": "MI",
+        "created_date": 1621904761050,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 345523523,
+        "rating": 5,
+        "headline": "WOW!!!",
+        "comments": "No more scrubbing your lips to death! A little bit goes a long way! It goes on just like lip gloss and with one single wipe that cute stubborn matte lipstick is gone. Incredible product will be buying over and over haven't seen any other product like it!",
+        "nickname": "Sandra",
+        "location": "Midwest",
+        "created_date": 1621785742655,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 330550537,
+        "rating": 5,
+        "headline": "works wonders",
+        "comments": "does the job with one application and I still can't believe it. going to stockpile it now",
+        "nickname": "Bee",
+        "location": "Austin Tx",
+        "created_date": 1613965788968,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 276894807,
+        "rating": 5,
+        "headline": "❤️Great product ❤️",
+        "comments": "It makes my life sooo much easier... zero stress when taking off a lipstick, lip tint, all liquid lip stains... whatever it is no matter what it comes off so easy and fast... I use to damage my lips from swiping and swiping trying to take off my lip makeup and now they even feel softer after using this lip makeup remover!!! Never stop making this🙌🏻🙌🏻🙌🏻🙌🏻❤️",
+        "nickname": "Gaby",
+        "location": "Texas",
+        "created_date": 1590031053912,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 264905137,
+        "rating": 5,
+        "headline": "A great buy!!",
+        "comments": "I got this on a whim because I wanted to try it (although mostly because I just needed to spend a few more dollars to qualify for a coupon lol). It's amazing!!! I tested it with a Jeffree Star velour liquid lip (No Tea No Shade) & it's crazy how well this works. There's no scent, & no aftertaste in case you get some in your mouth lol. So glad I bought it before it became out of stock!!",
+        "nickname": "HorrorQueen",
+        "location": "Phoenix, Arizona",
+        "created_date": 1578895534459,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 262058747,
+        "rating": 5,
+        "headline": "Works better than anything else",
+        "comments": "I love this. I use a lot of liquid matte lips, and I often destroy my lips trying remove it, especially the Loreal mattes.",
+        "nickname": "kfarley287",
+        "location": "Warren, Michigan",
+        "created_date": 1574555622101,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 191190354,
+        "rating": 5,
+        "headline": "AMAZING",
+        "comments": "this stuff is SO AMAZING it takes off even the most stuck on and impossible to remove liquid to matte lipsticks with no scrubbing, you just have to put a dollop on and rub it over your lips and wipe clean and nothing, NOTHING is left behind, it leaves my lips feeling soft and smooth too with no nasty make up remover taste i cannot recommend this stuff enough and its so cheap!",
+        "nickname": "RiverStyxx",
+        "location": "Lampasas TX",
+        "created_date": 1522998000000,
+        "bottom_line": "Yes",
+        "helpful_votes": 11,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 191190347,
+        "rating": 5,
+        "headline": "amazing!!",
+        "comments": "It's so easy to use and takes off all my long-wear matte lipsticks without leaving any staining behind or even having to rub excessively hard! Definitely a great purchase!!",
+        "nickname": "meemee",
+        "location": "Arizona",
+        "created_date": 1486540800000,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 13,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dramatic",
+              "count": 1
+            },
+            {
+              "label": "Trendy Style",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Classic Style",
+            "Dramatic",
+            "Natural Style",
+            "Trendy Style"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Easy To Use",
+              "count": 1
+            },
+            {
+              "label": "Effective",
+              "count": 1
+            },
+            {
+              "label": "Gentle",
+              "count": 1
+            },
+            {
+              "label": "Non-greasy",
+              "count": 1
+            },
+            {
+              "label": "Soothing",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Easy To Use",
+            "Effective",
+            "Gentle",
+            "Non-greasy",
+            "Soothing"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        1,
+        12
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        1,
+        12
+      ],
+      "rating_count": 13,
+      "review_count": 13,
+      "average_rating": 4.92,
+      "recommended_ratio": 1.0,
+      "media": [],
+      "name": "Invisible Matte Lip Makeup Remover",
+      "native_review_count": 13,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

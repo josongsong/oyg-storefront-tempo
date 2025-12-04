@@ -1,0 +1,800 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/turnaround-overnight-revitalizing-moisturizer-xlsImpprod12221031",
+  "extracted_at": "2025-09-23T05:33:53.006328+00:00",
+  "product_name": "CliniqueTurnaround Overnight Revitalizing Moisturizer",
+  "brand": "Clinique",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Night Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "night-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "55.00",
+  "availability": "in_stock",
+  "rating_avg": "4.7",
+  "rating_count": "151",
+  "images": [
+    "https://media.ulta.com/i/ulta/2287175?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2287175?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2287175cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2287175cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2287175cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2287175cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2287175cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2287175cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2287175cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2287175cm_vid01/thumbs/f5f277d4-e32b-49ba-a29d-ff4d989fd012?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingClinique Turnaround Overnight Revitalizing Moisturizer works overnight to reveal more luminous skin.",
+  "details": "DetailsBenefitsAll Skin Types.Rich, nourishing moisturizer helps exfoliate to gently clear away dulling dead skin cells, supporting skin’s natural turnover process.Replenishes skin with barrier-supporting moisture.Skin feels plumped and smooth and looks radiant.Free of: parabens, phthalates, oil.Dermatologist tested. Allergy tested. 100% fragrance free.More Responsible Packaging: 50ml is packed in a recyclable glass jar. To recycle the glass jar, remove the cap, then rinse the jar and place in a recycling bin. Carton is made from responsibly sourced paperboard. Please recycle.Research Results90% say skin looks revitalized overnight.*97% say skin feels smoother instantly.**96% say skin’s texture feels renewed.****Consumer testing on 176 women.**Consumer testing on 176 women after using product once.***Consumer testing on 176 women after using product nightly for 2 weeks.Item 2287175How To UseUse nightly after Turnaround Accelerated Renewal Serum.IngredientsWater\\Aqua\\Eau, Isostearyl Palmitate, Cetyl Ricinoleate, Dimethicone, Butylene Glycol, Squalane, Glyceryl Stearate, Peg-100 Stearate, Cetyl Alcohol, Stearic Acid, Arginine, Sigesbeckia Orientalis (St. Paul'S Wort) Extract, Hordeum Vulgare (Barley) Extract\\Extrait D'Orge, Castanea Sativa (Chestnut) Seed Extract, Cucumis Sativus (Cucumber) Fruit Extract, Yeast Extract\\Faex\\Extrait De Levure, Rosmarinus Officinalis (Rosemary) Extract, Trehalose, Salicylic Acid, Creatine, Ethylhexylglycerin, Propylene Glycol Dicaprate, Lecithin, Acetyl Glucosamine, Hydroxyethyl Urea, Petrolatum, Helianthus Annuus (Sunflower) Seed Extract, Arginine Ferulate, Polysilicone-11, Tromethamine, Caprylyl Glycol, Sodium Rna, Tocopheryl Acetate, Glycerin, Phospholipids, Hexylene Glycol, Sodium Hyaluronate, Disodium Nadh, Micrococcus Lysate, Laurdimonium Hydroxypropyl Hydrolyzed Soy Protein, Xanthan Gum, Adenosine Phosphate, Carbomer, Ascorbyl Tocopheryl Maleate, Nordihydroguaiaretic Acid, Disodium Edta, Sodium Metabisulfite, Sorbic Acid, Chlorphenesin, Potassium Sorbate, Phenoxyethanol.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Use nightly after Turnaround Accelerated Renewal Serum.",
+  "ingredients": [
+    "Water\\Aqua\\Eau",
+    "Isostearyl Palmitate",
+    "Cetyl Ricinoleate",
+    "Dimethicone",
+    "Butylene Glycol",
+    "Squalane",
+    "Glyceryl Stearate",
+    "Peg-100 Stearate",
+    "Cetyl Alcohol",
+    "Stearic Acid",
+    "Arginine",
+    "Sigesbeckia Orientalis (St. Paul'S Wort) Extract",
+    "Hordeum Vulgare (Barley) Extract\\Extrait D'Orge",
+    "Castanea Sativa (Chestnut) Seed Extract",
+    "Cucumis Sativus (Cucumber) Fruit Extract",
+    "Yeast Extract\\Faex\\Extrait De Levure",
+    "Rosmarinus Officinalis (Rosemary) Extract",
+    "Trehalose",
+    "Salicylic Acid",
+    "Creatine",
+    "Ethylhexylglycerin",
+    "Propylene Glycol Dicaprate",
+    "Lecithin",
+    "Acetyl Glucosamine",
+    "Hydroxyethyl Urea",
+    "Petrolatum",
+    "Helianthus Annuus (Sunflower) Seed Extract",
+    "Arginine Ferulate",
+    "Polysilicone-11",
+    "Tromethamine",
+    "Caprylyl Glycol",
+    "Sodium Rna",
+    "Tocopheryl Acetate",
+    "Glycerin",
+    "Phospholipids",
+    "Hexylene Glycol",
+    "Sodium Hyaluronate",
+    "Disodium Nadh",
+    "Micrococcus Lysate",
+    "Laurdimonium Hydroxypropyl Hydrolyzed Soy Protein",
+    "Xanthan Gum",
+    "Adenosine Phosphate",
+    "Carbomer",
+    "Ascorbyl Tocopheryl Maleate",
+    "Nordihydroguaiaretic Acid",
+    "Disodium Edta",
+    "Sodium Metabisulfite",
+    "Sorbic Acid",
+    "Chlorphenesin",
+    "Potassium Sorbate",
+    "Phenoxyethanol"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "moisturizer",
+      "night cream"
+    ],
+    "skin_type": [
+      "dry",
+      "all skin types"
+    ],
+    "finish": [
+      "matte",
+      "dewy",
+      "sheer",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "salicylic-acid"
+    ],
+    "brand": [
+      "luxury",
+      "premium"
+    ],
+    "special_features": [
+      "natural",
+      "dermatologist-tested",
+      "hypoallergenic",
+      "fragrance-free",
+      "hydrating",
+      "brightening"
+    ],
+    "category": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod12221031",
+    "total_reviews": 151,
+    "reviews": [
+      {
+        "review_id": 559170654,
+        "rating": 5,
+        "headline": "Great Nighttime Product",
+        "comments": "Wonderful for overnight moisturizing!",
+        "nickname": "Susan",
+        "location": "Miami, FL",
+        "created_date": 1754154694262,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553619832,
+        "rating": 3,
+        "headline": "Have they changed the formula?",
+        "comments": "I used to work for Clinique and this was one of my favorites. It would bring impurities to the surface, even skin texture and encourage cell turnover. However, outside of moisturizing, it doesn't seem to do much of anything now. New formula??",
+        "nickname": "CR",
+        "location": "Lake Wylie, SC",
+        "created_date": 1747750812190,
+        "bottom_line": "No",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552142052,
+        "rating": 5,
+        "headline": "I plan on buying again",
+        "comments": "It is the perfect addition to my bedtime routine.",
+        "nickname": "Deyanna",
+        "location": "Cleveland Ohio",
+        "created_date": 1745281271277,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551896509,
+        "rating": 5,
+        "headline": "This is an excellent overnight moisturizer!",
+        "comments": "Clinique makes products that you cannot go wrong with! This overnight moisturizer pairs perfectly with a retinol as part of a nighttime routine that will have your skin feeling and looking it's best! I cannot recommend it enough!",
+        "nickname": "Megan",
+        "location": "Kansas",
+        "created_date": 1744904289513,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546489028,
+        "rating": 5,
+        "headline": "The only product I use!",
+        "comments": "Dont have a long night care routine but this alone makes me feel great in the morning!",
+        "nickname": "Cassie",
+        "location": "Arkansas",
+        "created_date": 1739331105543,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537159830,
+        "rating": 5,
+        "headline": "I love this product.  Have used it for years!",
+        "comments": "When I see friends only once a year, they often ask why I don't have many wrinkles!",
+        "nickname": "Joyce",
+        "location": "Sugar Land, Texas",
+        "created_date": 1730476010725,
+        "bottom_line": "Yes",
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533498148,
+        "rating": 5,
+        "headline": "Another PERFECT Clinique product",
+        "comments": "I added this moisturizer to my nighttime routine, and i am so happy with the outcome. I saw results in no time, and it feels so good on my skin.",
+        "nickname": "Monica",
+        "location": "Longview, WA",
+        "created_date": 1726620042870,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 532985101,
+        "rating": 5,
+        "headline": "Great hydration",
+        "comments": "Non greasy and wonderful moisturizer",
+        "nickname": "Ewa",
+        "location": "IL",
+        "created_date": 1726248408152,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 519373249,
+        "rating": 5,
+        "headline": "Amazing moisturizer!!",
+        "comments": "I love this clinique moisturizer i can honestly say that this is the very first moisturizer that ive worn for 2 weeks now and has not caused me any breakouts at all! I am so happy I purchased this magic cream in a jar and yes a little goes a long way. So no need to use alot on your face. It was worth the price!!!",
+        "nickname": "Lezzy",
+        "location": "Los angeles, ca",
+        "created_date": 1717249510301,
+        "bottom_line": null,
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 511526976,
+        "rating": 5,
+        "headline": "I love this overnight moisturizer.",
+        "comments": "I love this overnight moisturizer! When I wake up in the morning I noticed that my skin looks great whenever I use this moisturizer. It doesn't irritate my skin and it is enough moisture for my dry skin.",
+        "nickname": "Beauty612",
+        "location": "Naperville, Il",
+        "created_date": 1713279212662,
+        "bottom_line": null,
+        "helpful_votes": 10,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 507264117,
+        "rating": 5,
+        "headline": "Love it",
+        "comments": "Helps my make up gin on smooth",
+        "nickname": "Linda",
+        "location": "West Union sc",
+        "created_date": 1709240722771,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 496694210,
+        "rating": 5,
+        "headline": "Love this Moisturizer",
+        "comments": "I started using Clinique a little over a year ago and so far I really love the way it's working for my skin.",
+        "nickname": "Pam",
+        "location": "Washougal,WA",
+        "created_date": 1705859472489,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 484317064,
+        "rating": 5,
+        "headline": "I buy this cream before I run out of it. That's how good it",
+        "comments": "I cannot go to bed without washing my face and putting this cream on at night",
+        "nickname": "Maria",
+        "location": "Grand Rapids,MI",
+        "created_date": 1702311738054,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 467716751,
+        "rating": 1,
+        "headline": "Not for me",
+        "comments": "I love clinque so so so much, but this product is NOT for me. The moisturizer broke me out, and honestly i was in shock once my skin started reacting the way it did because i have never had a moisturizer break me out before. Therefore, I would not suggest this if you have clear skin like me.",
+        "nickname": "melinda",
+        "location": "Olympia Wa",
+        "created_date": 1691385533952,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 5
+      },
+      {
+        "review_id": 460477963,
+        "rating": 5,
+        "headline": "Truly works!",
+        "comments": "I have been using Clinique DDML for years now but I needed something additional at night to add some moisture and hey reveal new skin? Yes!!! That is exactly what this Turn Around face cream does. A thin layer over my DDML does the trick. My face looks, fresh, soft, glowing and younger in the morning. So many people have told me I have beautiful skin and I really hope that Clinique does not discontinue this. I am middle aged and people think I am in my early 40's. Yeah!!",
+        "nickname": "Mary-June",
+        "location": "Woodland Hills, CA",
+        "created_date": 1686282511652,
+        "bottom_line": "Yes",
+        "helpful_votes": 17,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 450801300,
+        "rating": 5,
+        "headline": "LOVE!!!",
+        "comments": "I absolutely LOVE this product!!! Not greasy at all and is very moisturizing!!! 10/10 would recommend!",
+        "nickname": "Erin",
+        "location": "Maine",
+        "created_date": 1680482481238,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 448794890,
+        "rating": 5,
+        "headline": "Can't do without this moisturizer",
+        "comments": "I recently tried to replace this with a less expensive, different brand, but within two days my skin was so dry that I had to go back to this.",
+        "nickname": "Noreen",
+        "location": "La Crosse, WI",
+        "created_date": 1678987412608,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 445931867,
+        "rating": 1,
+        "headline": "Not for me",
+        "comments": "It broke me out. Itchiness redness like crazy Feels like I have a bad sunburn on my face",
+        "nickname": "Tanya",
+        "location": "Pennsylvania",
+        "created_date": 1677680563316,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 443753497,
+        "rating": 5,
+        "headline": "My favorite Clinique moisturizer!",
+        "comments": "I suffer from chronic dry/flaky skin and discoloration around my mouth and this is one of the only products that has turned it around. I live in MN and the dry, cold winters are especially hard on skin, but this cream is essential in getting through them. In winter I use it morning and night - it goes well enough under makeup. It really isn't greasy. In warmer months, I use this at night and dramatically different moisturizing lotion during the day.",
+        "nickname": "Ari",
+        "location": "MN",
+        "created_date": 1676346188440,
+        "bottom_line": null,
+        "helpful_votes": 13,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 442906757,
+        "rating": 5,
+        "headline": "I love this product",
+        "comments": "I first received a travel size of this in a Clinique bonus. I only recently started using because it's been so cold and my skin has been drier. I decided it was doing a good job as a night cream and invested in the full size jar. Happy I did!",
+        "nickname": "Kathy",
+        "location": "St. Louis",
+        "created_date": 1675525024762,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      }
+    ],
+    "paging": {
+      "total_results": 151,
+      "pages_total": 8,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod12221031/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 52
+            },
+            {
+              "label": "Deep Moisturization",
+              "count": 33
+            },
+            {
+              "label": "After Shower/Bath",
+              "count": 22
+            },
+            {
+              "label": "Dryness",
+              "count": 20
+            },
+            {
+              "label": "Bedtime",
+              "count": 3
+            },
+            {
+              "label": "Dry/Chapped Skin",
+              "count": 3
+            },
+            {
+              "label": "Winter Dryness",
+              "count": 2
+            },
+            {
+              "label": "Anti-aging, cell turn over, lessen wrinkles",
+              "count": 1
+            },
+            {
+              "label": "Forehead and laugh lines.",
+              "count": 1
+            },
+            {
+              "label": "I use at night. When the weather changes i use i",
+              "count": 1
+            },
+            {
+              "label": "Before Bed",
+              "count": 1
+            },
+            {
+              "label": "Night after face wash",
+              "count": 1
+            },
+            {
+              "label": "Skin glows in the morning",
+              "count": 1
+            },
+            {
+              "label": "Every night before bed",
+              "count": 1
+            },
+            {
+              "label": "Nightly Use",
+              "count": 1
+            },
+            {
+              "label": "At night on clean skin",
+              "count": 1
+            },
+            {
+              "label": "Night time",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "After Shower/Bath",
+            "Anti-aging, cell turn over, lessen wrinkles",
+            "At night on clean skin",
+            "Bedtime",
+            "Before Bed",
+            "Daily Use",
+            "Deep Moisturization",
+            "Dry/Chapped Skin",
+            "Dryness",
+            "Eczema",
+            "Every night before bed",
+            "Forehead and laugh lines.",
+            "I use at night. When the weather changes i use i",
+            "Night after face wash",
+            "Night time",
+            "Nightly Use",
+            "Skin glows in the morning",
+            "Winter Dryness"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Expensive, but a little will go a long way",
+              "count": 1
+            },
+            {
+              "label": "Not cheap. But Clinique is worth it.",
+              "count": 1
+            },
+            {
+              "label": "none",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Absorb Well",
+              "count": 1
+            },
+            {
+              "label": "Not Long-Lasting",
+              "count": 1
+            },
+            {
+              "label": "caused break outs",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Doesn't Absorb Well",
+            "Expensive, but a little will go a long way",
+            "Not Long-Lasting",
+            "Not cheap. But Clinique is worth it.",
+            "Too Greasy Or Heavy",
+            "caused break outs",
+            "none"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Beauty Conscious",
+              "count": 50
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 9
+            },
+            {
+              "label": "Minimalist",
+              "count": 5
+            },
+            {
+              "label": "Acne prone",
+              "count": 1
+            },
+            {
+              "label": "Oil prone skin",
+              "count": 1
+            },
+            {
+              "label": "Redness",
+              "count": 1
+            },
+            {
+              "label": "Fair skin, brunette, 40ish",
+              "count": 1
+            },
+            {
+              "label": "Male. 53 yo.",
+              "count": 1
+            },
+            {
+              "label": "saw a difference in my face within 3 days of use",
+              "count": 1
+            },
+            {
+              "label": "53 year old woman with aging skin",
+              "count": 1
+            },
+            {
+              "label": "Beauty Expert",
+              "count": 1
+            },
+            {
+              "label": "Skin Care Professional",
+              "count": 1
+            },
+            {
+              "label": "Grandma who wants to take care of her aging skin",
+              "count": 1
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 1
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "53 year old woman with aging skin",
+            "Acne prone",
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Fair skin, brunette, 40ish",
+            "Grandma who wants to take care of her aging skin",
+            "Male. 53 yo.",
+            "Minimalist",
+            "Oil prone skin",
+            "Redness",
+            "Skin Care Professional",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "saw a difference in my face within 3 days of use"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Moisturizes Well",
+              "count": 62
+            },
+            {
+              "label": "Goes On Smoothly",
+              "count": 59
+            },
+            {
+              "label": "Not Greasy",
+              "count": 56
+            },
+            {
+              "label": "Absorbs Quickly",
+              "count": 52
+            },
+            {
+              "label": "Long Lasting",
+              "count": 39
+            },
+            {
+              "label": "Smells Great",
+              "count": 18
+            },
+            {
+              "label": "Softens Skin",
+              "count": 3
+            },
+            {
+              "label": "Effective Sun Protection",
+              "count": 2
+            },
+            {
+              "label": "Light weight",
+              "count": 1
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 1
+            },
+            {
+              "label": "No smell, easy to apply, non-irritating",
+              "count": 1
+            },
+            {
+              "label": "Works within 5-10 minutes.",
+              "count": 1
+            },
+            {
+              "label": "This product is good with the darks spots too.",
+              "count": 1
+            },
+            {
+              "label": "face looks younger",
+              "count": 1
+            },
+            {
+              "label": "Great night cream for my 53 yr old skin",
+              "count": 1
+            },
+            {
+              "label": "I love it because it makes my skin looks so you",
+              "count": 1
+            },
+            {
+              "label": "Smooths skin texture",
+              "count": 1
+            },
+            {
+              "label": "Fine lines less noticeable",
+              "count": 1
+            },
+            {
+              "label": "No Scent",
+              "count": 1
+            },
+            {
+              "label": "Glowing skin",
+              "count": 1
+            },
+            {
+              "label": "Helps with blemishes",
+              "count": 1
+            },
+            {
+              "label": "Soft skin",
+              "count": 1
+            },
+            {
+              "label": "This is joy in a jar for dry skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Absorbs Quickly",
+            "Effective Sun Protection",
+            "Fine lines less noticeable",
+            "Glowing skin",
+            "Goes On Smoothly",
+            "Great night cream for my 53 yr old skin",
+            "Helps with blemishes",
+            "I love it because it makes my skin looks so you",
+            "Light weight",
+            "Long Lasting",
+            "Moisturizes Well",
+            "No Scent",
+            "No smell, easy to apply, non-irritating",
+            "Non-Greasy",
+            "Not Greasy",
+            "Smells Great",
+            "Smooths skin texture",
+            "Soft skin",
+            "Softens Skin",
+            "This is joy in a jar for dry skin",
+            "This product is good with the darks spots too.",
+            "Works within 5-10 minutes.",
+            "face looks younger"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 2
+            },
+            {
+              "label": "Dry",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        4,
+        2,
+        5,
+        14,
+        126
+      ],
+      "review_histogram": [
+        4,
+        2,
+        5,
+        14,
+        126
+      ],
+      "rating_count": 151,
+      "review_count": 151,
+      "average_rating": 4.7,
+      "recommended_ratio": 0.96,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I first tried this night cream when I had very oily, acne prone skin, and it was not compatible with my skin type. It clogged my pores and caused breakouts. However, despite the flare up in acne, it didn't even my complexion and brighten my skin. But to me, the added acne (on top of the acne I already had) wasn't worth it, so I tossed the product. Recently, I was put on accutane and have very sensitive (sometimes to the point of being red from irritation), combination skin (my t-zone remains oily, but I still have very dry skin at the same time) and I decided to give this another shot. Now that I have sensitive skin thats more on the dry-combo side, this doesn't clog my pores anymore or cause breakouts, and gives me that \"I got a full 8 hours of sleep last night\", natural looking, dewy, moisturized glow.\nAll in all, this product does what it says it does, but don't get this if you expect a deep moisture cream. I'd give it an 8.5/10 on moisture, so if you are looking for a deep moisturizing night cream and dryness is your one and only concern, you will need something else with this. Be mindful of your skin type! I would recommend this to people with combination to very dry skin, not oily people.",
+        "headline": "Know your skin type!",
+        "rating": 4,
+        "ugc_id": 190613920
+      },
+      "faceoff_negative": {
+        "comments": "I asked a question regarding the jar on this site - plastic or glass? and the official answer was that it was glass. I ordered online and received the jar and it is PLASTIC. I am not going to buy this again. How can I trust the answers to these questions posted on here if you're going to straight out lie?\n\nThe cream itself is average. There are better ones out there, in better packaging.",
+        "headline": "Plastic jar, NOT glass.",
+        "rating": 1,
+        "ugc_id": 265316917
+      },
+      "name": "Turnaround Overnight Revitalizing Moisturizer",
+      "native_review_count": 151,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

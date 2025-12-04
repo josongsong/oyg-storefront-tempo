@@ -1,0 +1,914 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/cucumber-cleansing-lotion-xlsImpprod6200759",
+  "extracted_at": "2025-09-23T03:41:56.833333+00:00",
+  "product_name": "Mario BadescuCucumber Cleansing Lotion",
+  "brand": "Mario Badescu",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Toner"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "toner"
+  ],
+  "currency": "USD",
+  "list_price": "16.00",
+  "sale_price": "11.20",
+  "availability": "in_stock",
+  "rating_avg": "4.5",
+  "rating_count": "258",
+  "images": [
+    "https://media.ulta.com/i/ulta/2210015?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2210015?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2210015cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2210015cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2210015cm_alt03?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryMario Badescu's Refreshing Cucumber Cleansing Lotion gives skin a cooling boost while sweeping away excess oil and surface impurities. This cucumber-infused astringent with amino acids helps tone the complexion and minimize t-zone shine - leaving oily skin feeling exceptionally clean and refreshed.",
+  "details": "DetailsBenefitsAstringentInfused with mineral-rich Cucumber ExtractRemoves excess oil and shineCools, soothes, and helps clarifyItem 2210015How To UseTwice daily after cleansing, apply to skin with a cotton ball or pad. Wipe in sweeping, outward motions until the cotton comes up clean. Avoid eye area. If product gets into eyes, rinse well with water.IngredientsAqua (Water, Eau), Isopropyl Alcohol, Propylene Glycol, Cucumis Sativus (Cucumber) Fruit Extract, Polysorbate 20, Parfum (Fragrance), Sodium Chloride, Citronellol, Coumarin, Alpha-Isomethyl Ionone, CI 19140 (Yellow 5), CI 42090 (Blue 1).Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Twice daily after cleansing, apply to skin with a cotton ball or pad. Wipe in sweeping, outward motions until the cotton comes up clean. Avoid eye area. If product gets into eyes, rinse well with water.",
+  "ingredients": [
+    "Aqua (Water",
+    "Eau)",
+    "Isopropyl Alcohol",
+    "Propylene Glycol",
+    "Cucumis Sativus (Cucumber) Fruit Extract",
+    "Polysorbate 20",
+    "Parfum (Fragrance)",
+    "Sodium Chloride",
+    "Citronellol",
+    "Coumarin",
+    "Alpha-Isomethyl Ionone"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "cleanser",
+      "moisturizer",
+      "toner"
+    ],
+    "skin_type": [
+      "oily"
+    ],
+    "finish": [
+      "oil"
+    ],
+    "ingredients": [
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "purifying"
+    ],
+    "category": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod6200759",
+    "total_reviews": 258,
+    "reviews": [
+      {
+        "review_id": 563583482,
+        "rating": 3,
+        "headline": "Would not repurchase",
+        "comments": "So i feel the efficacy of this product is contingent on personal skin goals. In my case, I tried this because im in my late 30's and have been struggling with hormonal acne, mostly on my chin/jawline area. This has not cleared up any of my acne, all it did was dry out my face. However, I feel that this toner would be great for a teen or someone who is just trying to control an oily face, not someone with active hormonal acne. Its definitely not for anyone whose skin is dry/combo because all it will do is strip the moisture from your skin. I use the acne exfoliating toner by Peach Slices now and it is much more effective for me.",
+        "nickname": "Kristina",
+        "location": "Savannah, GA",
+        "created_date": 1758196954989,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 478838576,
+        "rating": 5,
+        "headline": "Sincerely Clean & Gentle",
+        "comments": "I used to use witch hazel, but I switched to this toner about 10 years ago, after I read an article about Mally Roncal, who mentioned using it, and she has amazing, ageless skin. I have sensitive, aging, combination skin, but this toner just \"clears the decks\" without any over-drying or irritation, and makes it seems like I have great, balanced, healthy young skin. I am now in my mid-forties and people never think so, which leads them to ask what products I use on my skin and I always tell them: Mario Basdescu. I hope Ulta keeps selling it in stores and if you are on the fence, just go for it! (And if you are looking to pair it w/ a great moisturizer, I love Mario Badescu's oil free moisturizer with SPF 30 too.)",
+        "nickname": "Kelly",
+        "location": "New Mexico",
+        "created_date": 1698700785708,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 453002525,
+        "rating": 5,
+        "headline": "Gentle",
+        "comments": "My skin is very sensitive to most toner type products and this works so good and actually calms any reactions.",
+        "nickname": "Jess",
+        "location": "Buffalo",
+        "created_date": 1681656454180,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 449042910,
+        "rating": 5,
+        "headline": "My go to toner",
+        "comments": "This is the best toner for my extremely oily skin & nothing even comes close to this price point. I don't plan on ever using anything else.",
+        "nickname": "DollFace",
+        "location": "Parma, OH",
+        "created_date": 1679275248738,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 421769713,
+        "rating": 5,
+        "headline": "Please put the big ones back on the shelf",
+        "comments": "I love this product.  I use it as a toner.  It gets dirt off without drying.  I've been to several Ultas and they haven't been on the shelf.  MB, please don't get rid of this.",
+        "nickname": "Robin",
+        "location": "Fredericksburg, VA",
+        "created_date": 1661286873959,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 405378568,
+        "rating": 5,
+        "headline": "Great product!",
+        "comments": "At first I was very turned off because this product smells like a baby wipe, but it works really well! I have very oily skin and break out often. I've been using this for a week and have already noticed an improvement in my skin. Even though it has alcohol, I don't find it to be drying. I used to moisturize religiously at night but my skin doesn't feel dry or thirsty after using this so I've been slipping moisturizer for the most part. In the morning I use a hydrating primer and it's a perfect combo.",
+        "nickname": "Sam",
+        "location": "WI",
+        "created_date": 1650080839618,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 403868817,
+        "rating": 5,
+        "headline": "Bacne cure",
+        "comments": "My husband and brother both struggle with occasional cystic back pimples, and then one appeared on my back the other day after switching birth control brands. For years, had used this cleaning lotion as a facial toner after washing my face in the shower. I gave it a go on my back and décolletage in attempts to remedy my bacne pimple— the next day it was gone! I told my husband and brother immediately and they are sold for life now, too! My husband's back has never looked and felt so smooth and beautiful. When I asked about his results, my brother called it \"alchemy,\" a \"miracle cure.\" \n\nIt's fab for the face, too.",
+        "nickname": "Love good skin",
+        "location": "NYC",
+        "created_date": 1648745758204,
+        "bottom_line": null,
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 402341586,
+        "rating": 5,
+        "headline": "I will forever use this produce!",
+        "comments": "I have tried multiple toners in my life and NONE compare to this! Will forever be my favorite 🤩",
+        "nickname": "Kayla",
+        "location": "Denver",
+        "created_date": 1647470629882,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 340396465,
+        "rating": 5,
+        "headline": "Great Toner",
+        "comments": "I use this product along with some other Mario Badescu products and it works wonders on my skin. I love the scent, it doesn't burn or irritate my face in any way.",
+        "nickname": "H Dawg",
+        "location": "Arkansas",
+        "created_date": 1617678994708,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 330223263,
+        "rating": 5,
+        "headline": "Soothing",
+        "comments": "I use this once a day and after applying Badescu's Witch Hazel and Lavender toner. My skin feels so smooth, and I've only used it for less than a week.",
+        "nickname": "Kathleen",
+        "location": "CALIFORNIA",
+        "created_date": 1613611018083,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 329164113,
+        "rating": 5,
+        "headline": "IN MY BASIC BEAUTY ROTATION FOR YEARS!",
+        "comments": "I use a number of products on my facial skin each day including a moderate coverage foundation. This removes every last vestige of product from my skin, even after thorough cleansing.",
+        "nickname": "Luka",
+        "location": "New Jersey",
+        "created_date": 1613076309194,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 326225561,
+        "rating": 5,
+        "headline": "Cured my acne",
+        "comments": "I have super dry sensitive skin with horrendously bad hormonal acne. This product is my new holy grail — got rid of almost everything.",
+        "nickname": "jane",
+        "location": "new york city",
+        "created_date": 1611575545543,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 317490283,
+        "rating": 5,
+        "headline": "Great for a quick clean!",
+        "comments": "This is my go-to after a workout or just to freshen my face without doing a full face wash. PSA: I never got a break out from this! (Which says a lot because everything makes me break out!)",
+        "nickname": "Tiff",
+        "location": "Tulsa, OK",
+        "created_date": 1606192222107,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 301679543,
+        "rating": 1,
+        "headline": "no just no",
+        "comments": "NO THANK YOU! Used this once and its horrible. It has zero benificial ingredients and has a lot of parfum. The smell is super disgusting and overpowering. It didn't cleanse my skin at all it felt like nothing. A couple minutes later my skin was red and burning. Horrible product don't waste your money. Just dont but it.",
+        "nickname": "IDC :)",
+        "location": "Lafayette CA",
+        "created_date": 1601417610129,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 5
+      },
+      {
+        "review_id": 300142192,
+        "rating": 5,
+        "headline": "my ride or die",
+        "comments": "I've been using this product for about a year and a half now and cannot get enough of it. I change my skincare routine quite a lot but this is always a part of it- nothing gets my skin feeling as clean without drying it out as this does. It smells lovely and is a great step after a heavier cleanser and before moisturizer (or even as a cleanser on its own for those lazy days!) About to purchase my fourth bottle, I cannot recommend this product enough and I can almost guarantee it will be friendly to all skin types.",
+        "nickname": "Lily",
+        "location": "Louisville, KY",
+        "created_date": 1600410511772,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 285911212,
+        "rating": 2,
+        "headline": "Irritating and drying",
+        "comments": "This product is mostly alcohol, which I am just now learning is awful for your skin! It might feel like it is sucking up the excess oil in the beginning, but I've been using this for about a month now and my painful cystic acne in my T zone is only getting worse. After doing some research on ingredients I've now learned that alcohol only exacerbates oil production in the long run and makes acne worse. While this product feels like it's working (leaves skin feeling tight and clean), it's going to cause issues down the line. I wouldn't use this product with any skin type! Not good all around.",
+        "nickname": "Jenna",
+        "location": "CA",
+        "created_date": 1596643332041,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 281124822,
+        "rating": 2,
+        "headline": "Would not buy again",
+        "comments": "Smells very strong. As soon as I put it on my face, I broke out.",
+        "nickname": "AJ",
+        "location": "USA",
+        "created_date": 1592911953461,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 280847444,
+        "rating": 5,
+        "headline": "Love this product",
+        "comments": "I love this product and have been using it for years! I love buying it in the larger format because I use it twice a day. My skin feels so refreshed and clean afterwards.",
+        "nickname": "Joslyn",
+        "location": "CA",
+        "created_date": 1592618505466,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 277563453,
+        "rating": 4,
+        "headline": "Use as a quick cleanse",
+        "comments": "I use it as a quick cleanse when I get home to remove make up or after exercise. Get me by before I wash my face with actual face wash before bed.  No effect on my skin noticed otherwise.",
+        "nickname": "JJ",
+        "location": "California",
+        "created_date": 1590502205065,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 276121540,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "I bought the travel size cleanser, moisturizer and toner to try it out first. So far I'm loving all of the products! They leave my face feeling so soft and smooth! I have combo to oily skin. This works wonders!",
+        "nickname": "Annie",
+        "location": "Texas",
+        "created_date": 1589169118458,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 258,
+      "pages_total": 13,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod6200759/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination Skin",
+              "count": 100
+            },
+            {
+              "label": "Daily Use",
+              "count": 92
+            },
+            {
+              "label": "Acne-Prone Skin",
+              "count": 72
+            },
+            {
+              "label": "Oily Skin",
+              "count": 68
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 64
+            },
+            {
+              "label": "All Skin Types",
+              "count": 52
+            },
+            {
+              "label": "Dry Skin",
+              "count": 21
+            },
+            {
+              "label": "Removes all makeup residue",
+              "count": 1
+            },
+            {
+              "label": "After cleansing face",
+              "count": 1
+            },
+            {
+              "label": "Morning and Night",
+              "count": 1
+            },
+            {
+              "label": "morning cleanser",
+              "count": 1
+            },
+            {
+              "label": "Cleansing",
+              "count": 1
+            },
+            {
+              "label": "every night",
+              "count": 1
+            },
+            {
+              "label": "removing makeup",
+              "count": 1
+            },
+            {
+              "label": "Before moisturizing",
+              "count": 1
+            },
+            {
+              "label": "After Shower/Bath",
+              "count": 1
+            },
+            {
+              "label": "Bedtime",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Acne-Prone Skin",
+            "After Shower/Bath",
+            "After cleansing face",
+            "All Skin Types",
+            "Bedtime",
+            "Before moisturizing",
+            "Cleansing",
+            "Combination Skin",
+            "Daily Use",
+            "Deep Moisturization",
+            "Dry Skin",
+            "Dry/Chapped Skin",
+            "Eczema",
+            "Morning and Night",
+            "Oily Skin",
+            "Removes all makeup residue",
+            "Sensitive Skin",
+            "Winter Dryness",
+            "every night",
+            "morning cleanser",
+            "removing makeup"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dries Out Skin",
+              "count": 9
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 9
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 5
+            },
+            {
+              "label": "Bad Smell",
+              "count": 4
+            },
+            {
+              "label": "Doesn't Remove Makeup",
+              "count": 4
+            },
+            {
+              "label": "Greasy",
+              "count": 2
+            },
+            {
+              "label": "drying",
+              "count": 1
+            },
+            {
+              "label": "irritating",
+              "count": 1
+            },
+            {
+              "label": "can make my skin a little dry",
+              "count": 1
+            },
+            {
+              "label": "does not remove heavy makeup",
+              "count": 1
+            },
+            {
+              "label": "Contains alcohol",
+              "count": 1
+            },
+            {
+              "label": "Drying",
+              "count": 1
+            },
+            {
+              "label": "Irritated skin",
+              "count": 1
+            },
+            {
+              "label": "Will run out quicker than a normal cream lotion",
+              "count": 1
+            },
+            {
+              "label": "clogs pores",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "there's nothing bad about this product",
+              "count": 1
+            },
+            {
+              "label": "It has fragrance in the ingredients",
+              "count": 1
+            },
+            {
+              "label": "Goes Fast",
+              "count": 1
+            },
+            {
+              "label": "Pricey / Poor Value",
+              "count": 1
+            },
+            {
+              "label": "Doesn't foam",
+              "count": 1
+            },
+            {
+              "label": "Pricey",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Contains alcohol",
+            "Doesn't Remove Makeup",
+            "Doesn't Work",
+            "Doesn't foam",
+            "Dries Out Skin",
+            "Drying",
+            "Goes Fast",
+            "Greasy",
+            "Irritated skin",
+            "Irritates Skin",
+            "It has fragrance in the ingredients",
+            "Messy",
+            "None",
+            "Pricey",
+            "Pricey / Poor Value",
+            "Will run out quicker than a normal cream lotion",
+            "can make my skin a little dry",
+            "clogs pores",
+            "does not remove heavy makeup",
+            "drying",
+            "irritating",
+            "there's nothing bad about this product"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Budget Shopper",
+              "count": 99
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 66
+            },
+            {
+              "label": "Discerning older beauty shopper.",
+              "count": 1
+            },
+            {
+              "label": "combination/dry",
+              "count": 1
+            },
+            {
+              "label": "combo",
+              "count": 1
+            },
+            {
+              "label": "sensitive",
+              "count": 1
+            },
+            {
+              "label": "54 year old African American female",
+              "count": 1
+            },
+            {
+              "label": "Combination Skin",
+              "count": 1
+            },
+            {
+              "label": "Dry Skin",
+              "count": 1
+            },
+            {
+              "label": "Very Sensitive Skin",
+              "count": 1
+            },
+            {
+              "label": "Avid skincare user",
+              "count": 1
+            },
+            {
+              "label": "college girl",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "54 year old African American female",
+            "Avid skincare user",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Combination Skin",
+            "Comfort-seeking",
+            "Discerning older beauty shopper.",
+            "Dry Skin",
+            "Energetic/Active",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Very Sensitive Skin",
+            "Youthful",
+            "college girl",
+            "combination/dry",
+            "combo",
+            "sensitive"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Leaves Clean Feel",
+              "count": 161
+            },
+            {
+              "label": "Gentle",
+              "count": 146
+            },
+            {
+              "label": "Balances Skin",
+              "count": 127
+            },
+            {
+              "label": "Smells Great",
+              "count": 122
+            },
+            {
+              "label": "Not Greasy",
+              "count": 118
+            },
+            {
+              "label": "Improves Skin Texture",
+              "count": 106
+            },
+            {
+              "label": "Moisturizing",
+              "count": 60
+            },
+            {
+              "label": "Refreshing",
+              "count": 2
+            },
+            {
+              "label": "Cost effective, subtle scent",
+              "count": 1
+            },
+            {
+              "label": "gentle",
+              "count": 1
+            },
+            {
+              "label": "Deeply cleans",
+              "count": 1
+            },
+            {
+              "label": "Does not burn sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Pleasant Smell",
+              "count": 1
+            },
+            {
+              "label": "Refreshing Smell",
+              "count": 1
+            },
+            {
+              "label": "smells nice",
+              "count": 1
+            },
+            {
+              "label": "tightens pores",
+              "count": 1
+            },
+            {
+              "label": "non-drying",
+              "count": 1
+            },
+            {
+              "label": "Light weight",
+              "count": 1
+            },
+            {
+              "label": "cleansing",
+              "count": 1
+            },
+            {
+              "label": "cooling",
+              "count": 1
+            },
+            {
+              "label": "refreshing",
+              "count": 1
+            },
+            {
+              "label": "Brightening",
+              "count": 1
+            },
+            {
+              "label": "I don't care for the smell too much..",
+              "count": 1
+            },
+            {
+              "label": "Non-drying",
+              "count": 1
+            },
+            {
+              "label": "Improves skins appearance",
+              "count": 1
+            },
+            {
+              "label": "Helps with acne",
+              "count": 1
+            },
+            {
+              "label": "Removes extra dirt from pores",
+              "count": 1
+            },
+            {
+              "label": "soothing",
+              "count": 1
+            },
+            {
+              "label": "Helps my oily skin",
+              "count": 1
+            },
+            {
+              "label": "Makes Skin Feel So Fresh",
+              "count": 1
+            },
+            {
+              "label": "Makes Skin Feel So Soft",
+              "count": 1
+            },
+            {
+              "label": "Removes Any Dirt Or Oil",
+              "count": 1
+            },
+            {
+              "label": "Clear skin",
+              "count": 1
+            },
+            {
+              "label": "Tones skin",
+              "count": 1
+            },
+            {
+              "label": "1cleanser",
+              "count": 1
+            },
+            {
+              "label": "Mild Like A Toner",
+              "count": 1
+            },
+            {
+              "label": "Absorbs Quickly",
+              "count": 1
+            },
+            {
+              "label": "Goes On Smoothly",
+              "count": 1
+            },
+            {
+              "label": "Long Lasting",
+              "count": 1
+            },
+            {
+              "label": "Softens Skin",
+              "count": 1
+            },
+            {
+              "label": "Great Fragrance",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1cleanser",
+            "Absorbs Quickly",
+            "Balances Skin",
+            "Brightening",
+            "Clear skin",
+            "Cost effective, subtle scent",
+            "Deeply cleans",
+            "Does not burn sensitive skin",
+            "Gentle",
+            "Goes On Smoothly",
+            "Great Fragrance",
+            "Helps my oily skin",
+            "Helps with acne",
+            "I don't care for the smell too much..",
+            "Improves Skin Texture",
+            "Improves skins appearance",
+            "Leaves Clean Feel",
+            "Light weight",
+            "Long Lasting",
+            "Makes Skin Feel So Fresh",
+            "Makes Skin Feel So Soft",
+            "Mild Like A Toner",
+            "Moisturizes Well",
+            "Moisturizing",
+            "Non-drying",
+            "Not Greasy",
+            "Pleasant Smell",
+            "Refreshing",
+            "Refreshing Smell",
+            "Removes Any Dirt Or Oil",
+            "Removes extra dirt from pores",
+            "Smells Great",
+            "Softens Skin",
+            "Tones skin",
+            "cleansing",
+            "cooling",
+            "gentle",
+            "non-drying",
+            "refreshing",
+            "smells nice",
+            "soothing",
+            "tightens pores"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        12,
+        7,
+        14,
+        42,
+        183
+      ],
+      "review_histogram": [
+        12,
+        7,
+        14,
+        42,
+        183
+      ],
+      "rating_count": 258,
+      "review_count": 258,
+      "average_rating": 4.46,
+      "recommended_ratio": 0.9,
+      "media": [
+        {
+          "id": "301679550",
+          "review_id": 301679543,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/siswzjmisyg6gxvjdiuj.jpg",
+          "headline": "no just no",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Yikes..",
+          "nickname": "IDC :)",
+          "created_date": 1601417610129
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I have used many different toners and don't ask much of them. All they have to do is remove any final traces of makeup and leave my skin feeling clean, fresh, and balanced. This toner does all of that, and it has also reduced my breakouts, which I did not expect! I have been using toners/toning pads for over 10 years (basically, once I started getting bad acne), and none of them- not even the ones with salicylic acid- have been as effective at acne treatment as the Mario Badescu Cucumber Cleansing lotion. It's so natural, refreshing, and effective- I highly recommend it to my acne-prone, oily-combination-skinned ladies (and men). I get the best results when I use it twice a day after cleansing. There are literally cucumber particles in the bottle, too, which I think is awesome.",
+        "headline": "Holy grail toner",
+        "rating": 5,
+        "ugc_id": 192802531
+      },
+      "faceoff_negative": {
+        "comments": "This product has alcohol, which is terrible for your skin when used daily! It dries out your skin to the point where ur skin feels the need produce more oil to compensate. I developed terrible under the skin acne that pained like crazy and left horrible scar. On my quest for clear skin this one was a MAJOR setback. I wouldn't recommend this for anyone. It smells nice (cucumber scent) but that doesn't make up for a terrible reaction it gave me. Never again!!!!",
+        "headline": "Beware - has alcohol!!!",
+        "rating": 2,
+        "ugc_id": 192802660
+      },
+      "name": "Cucumber Cleansing Lotion",
+      "native_review_count": 258,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

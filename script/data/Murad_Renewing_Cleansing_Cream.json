@@ -1,0 +1,863 @@
+{
+  "product_id": "pimprod2049021",
+  "product_url": "https://www.ulta.com/p/renewing-cleansing-cream-pimprod2049021",
+  "extracted_at": "2025-09-23T05:01:13.347804+00:00",
+  "product_name": "MuradRenewing Cleansing Cream",
+  "brand": "Murad",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Face Wash"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "36.00",
+  "availability": "in_stock",
+  "rating_avg": "4.7",
+  "rating_count": "131",
+  "images": [
+    "https://media.ulta.com/i/ulta/2631729?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2631729?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2631729_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2631729_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2631729_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2631729_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2631729_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2631729_vid01/thumbs/34940a19-4d5b-4b00-ba2e-480ac430e566?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeMurad's Renewing Cleansing Cream with lactic acid, peptides, and vitamin E gently exfoliates and refreshes without over-drying - restoring a youthful glow.",
+  "details": "DetailsBenefitsSilky cream cleanser lifts away dirt, oil and impurities while nourishing skinNon-drying, comforting lather replenishes skin and provides intense hydrationScientifically proven and dermatologist developedKey IngredientsGentle lactic acid, rejuvenating peptide and antioxidant vitamin E blend: helps smooth and renew for a more youthful-looking complexionApricot and starflower oils: provide intense hydration and replenish for more nourished skinEssential fatty acids: rich in omegas from evening primrose and apricot oil to help maintain skin's moistureFormulated WithoutParabens, sulfates, phthalates, gluten, mineral oil, formaldehyde, oxybenzone, petrolatum, animal-derived ingredientsItem 2631729How To UseTo Use: AM and PMMassage over dampened face and neck. Rinse and pat dry.Avoid contact with eyes.IngredientsWater/Aqua/Eau, Sodium Cocoyl Isethionate, Glyceryl Stearate SE, Glycerin, Stearic Acid, Cetyl Alcohol, Prunus Armeniaca (Apricot) Kernel Oil, Palmitoyl Tripeptide-5, Butyrospermum Parkii (Shea) Butter Extract, Cocamidopropyl Dimethylamine, Lactic Acid, Hydrated Silica, Phenylethyl Resorcinol, Hydrolyzed Corn Starch, Sodium Hydroxide, Urea, Yeast Amino Acids, Trehalose , Inositol, Taurine, Betaine, Borago Officinalis Seed Oil, Oenothera Biennis (Evening Primrose) Seed Extract, Serenoa Serrulata Fruit Extract, Panthenol, Chondrus Crispus Extract, Chamomilla Recutita (Matricaria) Flower Extract, Sodium Hyaluronate, Imperata Cylindrica Root Extract, Benzophenone-4, Butylene Glycol, PEG-8, Benzalkonium Chloride, Carbomer, Xanthan Gum, Phenoxyethanol, Caprylyl Glycol, Chlorphenesin, Fragrance (Parfum).Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "To Use: AM and PMMassage over dampened face and neck. Rinse and pat dry.Avoid contact with eyes.",
+  "ingredients": [
+    "Water/Aqua/Eau",
+    "Sodium Cocoyl Isethionate",
+    "Glyceryl Stearate SE",
+    "Glycerin",
+    "Stearic Acid",
+    "Cetyl Alcohol",
+    "Prunus Armeniaca (Apricot) Kernel Oil",
+    "Palmitoyl Tripeptide-5",
+    "Butyrospermum Parkii (Shea) Butter Extract",
+    "Cocamidopropyl Dimethylamine",
+    "Lactic Acid",
+    "Hydrated Silica",
+    "Phenylethyl Resorcinol",
+    "Hydrolyzed Corn Starch",
+    "Sodium Hydroxide",
+    "Urea",
+    "Yeast Amino Acids",
+    "Trehalose",
+    "Inositol",
+    "Taurine",
+    "Betaine",
+    "Borago Officinalis Seed Oil",
+    "Oenothera Biennis (Evening Primrose) Seed Extract",
+    "Serenoa Serrulata Fruit Extract",
+    "Panthenol",
+    "Chondrus Crispus Extract",
+    "Chamomilla Recutita (Matricaria) Flower Extract",
+    "Sodium Hyaluronate",
+    "Imperata Cylindrica Root Extract",
+    "Benzophenone-4",
+    "Butylene Glycol",
+    "PEG-8",
+    "Benzalkonium Chloride",
+    "Carbomer",
+    "Xanthan Gum",
+    "Phenoxyethanol",
+    "Caprylyl Glycol",
+    "Chlorphenesin",
+    "Fragrance (Parfum)"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "cleanser",
+      "moisturizer"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "ingredients": [
+      "lactic-acid",
+      "peptides",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "hydrating",
+      "soothing",
+      "purifying",
+      "repairing"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2049021",
+    "total_reviews": 131,
+    "reviews": [
+      {
+        "review_id": 555720326,
+        "rating": 5,
+        "headline": "Worked very well on my sensitive skin",
+        "comments": "I have very sensitive skin - i cannot use most moisturizers and cleansers for this reason. I tried this on a whim, and it is amazing. I use this every night for my double cleanse before acne treatments, and it has changed the game. It eliminates all my daily grime and oil without making my skin too dry and irritated. I would recommend this to people with sensitive skin who have problems with oily/acne prone skin - it has greatly helped me in both of these areas.",
+        "nickname": "Pilar",
+        "location": "Birmingham, AL",
+        "created_date": 1750656262997,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553592463,
+        "rating": 5,
+        "headline": "Trustworthy quality",
+        "comments": "I have used Murad products before and I trust their quality. But I hated and I wanted to try something more appropriate to my aging skin. I think I found it in this product.",
+        "nickname": "Maria",
+        "location": "Missouri",
+        "created_date": 1747681769868,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 528380873,
+        "rating": 3,
+        "headline": "Murad comments",
+        "comments": "Murad is convenient because such a little bottle lasts a long time, but my skin has irritated to it somewhat.",
+        "nickname": "",
+        "location": "anonymous",
+        "created_date": 1724465330670,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 524507500,
+        "rating": 5,
+        "headline": "Great face wash",
+        "comments": "This is a great product, I have been using it for over 10 years.",
+        "nickname": "Donna",
+        "location": "Athens,AL",
+        "created_date": 1720452145443,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 482676492,
+        "rating": 2,
+        "headline": "It's ok",
+        "comments": "I got this on sale in October, have used it a few different times and everytime I add it to my facial routine I break out. I'm 37 with combo skin. I use Foreo and Peach & Lily cleansers daily. Maybe it will work for you, but this product wasn't for me.",
+        "nickname": "kriemom2",
+        "location": "MI",
+        "created_date": 1701203572577,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 482452768,
+        "rating": 5,
+        "headline": "Nice middle of the road cleanser",
+        "comments": "I switch off with Tula and Murad. This line of Murad is now my favorite. I don't feel tight or greasy after cleansing. Just need a good pre-cleanse for heavy makeup days—especially for wsterproof mascara. Otherwise cleanses well on normal days.",
+        "nickname": "Shelly",
+        "location": "Fox valley, Illinois",
+        "created_date": 1700963949069,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 449123842,
+        "rating": 5,
+        "headline": "I would buy this product again and again!",
+        "comments": "I am so glad that Ulta carries Murad. Ulta is a great store!",
+        "nickname": "Sheri",
+        "location": "Tamarac, Florida",
+        "created_date": 1679329060330,
+        "bottom_line": "Yes",
+        "helpful_votes": 8,
+        "not_helpful_votes": 8
+      },
+      {
+        "review_id": 420145292,
+        "rating": 5,
+        "headline": "I LOVE this cleanser!!",
+        "comments": "It makes my face feel clean and softer:)",
+        "nickname": "Michele",
+        "location": "Covington Ky",
+        "created_date": 1659802179105,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 404202277,
+        "rating": 4,
+        "headline": "I use it everyday",
+        "comments": "Great for cleaning and refreshing your skin love it so much I use it everyday",
+        "nickname": "Kitty",
+        "location": "New Jersey",
+        "created_date": 1649021155167,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 399765413,
+        "rating": 5,
+        "headline": "I am beginning to Bible by this!!!!",
+        "comments": "Easy to use and great for sensitive skin!!!! Works well w combinationnskin",
+        "nickname": "e",
+        "location": "Torrance,CA",
+        "created_date": 1645385254163,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 10
+      },
+      {
+        "review_id": 339643169,
+        "rating": 5,
+        "headline": "My favorite Facewash!💚",
+        "comments": "Use this face was in the  morning and at night, it leaves your face looking so smooth and soft and clean!! I've been using MURAD Resurgence Renewing Cleansing cream since March 2020, and this one bottle lasted me a whole year. I just purchased my 2nd one. Just a little goes a long way!  Buy it you will see the different in the first use! Worth every penny!",
+        "nickname": "Mari",
+        "location": "Los Angeles",
+        "created_date": 1616858185511,
+        "bottom_line": "Yes",
+        "helpful_votes": 6,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 333613256,
+        "rating": 1,
+        "headline": "Can't wait to return this product",
+        "comments": "I've used Murad for years. Recently Murad discontinued my facial cleanser so I decided to try this product. Horrible. Product claims to be ultra moisturizing formulated to renew dull, dry skin. Left my skin dry and ashy with lots of blackheads.",
+        "nickname": "mzdov",
+        "location": "Midwest",
+        "created_date": 1615095027418,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 284009778,
+        "rating": 5,
+        "headline": "Love this cleanser!",
+        "comments": "Great for sensitive, dry skin.  Leaves my skin feeling clean & soft.",
+        "nickname": "Sandy",
+        "location": "Huntley, Illinois",
+        "created_date": 1594841459627,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 283466083,
+        "rating": 4,
+        "headline": "Nice cleanser, but did not work for my skin",
+        "comments": "I had been using the Tatcha exfoliating cleanser for a year (as well as the rice polisher). It was great, but I wanted to change things up. I tried this Murad cleanser for a week. It seemed fine for the first few days, but nothing special. At the end week I got a huge whitehead (which hadn't happened for years) and my face felt greasy.. Last night I washed my face with it and did not use any moisturizer. Woke up with a very oily face! I liked everything about it -texture (gel), scent, etc.-it just didn't work for my skin type. I also noticed blackheads on my chin which weren't there when I used the Tatcha cleanser. Going back to Tatcha.",
+        "nickname": "Anna",
+        "location": "Boston, MA",
+        "created_date": 1594236332853,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 276002292,
+        "rating": 5,
+        "headline": "I love it",
+        "comments": "Very moisturizing which is what I was looking for. Works great for me. I am in my 40's with some fine lines and my skin was getting dry in some areas. I don't wear a ton of makeup so this gets everything except my mascara so I just take that off first. This is a great product.",
+        "nickname": "Gloria",
+        "location": "Columbia, MO",
+        "created_date": 1589082412983,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 270684870,
+        "rating": 5,
+        "headline": "Amazing!",
+        "comments": "I never had acne or any other issues with my skin until about 22. For years I couldn't find anything that would work for my combination skin. This is the only cleanser that works for my sensitive, yet oily, and sometimes dry skin. It's not tough enough to break through thick oil. So I do use the exfoliating cleanser from Murads purple line every other day.",
+        "nickname": "Harleyy",
+        "location": "Minneapolis",
+        "created_date": 1586704485119,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 269994013,
+        "rating": 5,
+        "headline": "Great Cleanser",
+        "comments": "I tried this for the first time & was impressed by the results. It's a wonderful cleanser and a little goes a long way! Great buy!",
+        "nickname": "Kay",
+        "location": "Chicago, IL",
+        "created_date": 1586044547808,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 265928710,
+        "rating": 5,
+        "headline": "I changed back because it worked",
+        "comments": "I switched to a product I could purchase in my hometown but after 2 years I looked wrinkled and older. I switched back and my skin looks hreaty",
+        "nickname": "CathyM",
+        "location": "N. C.",
+        "created_date": 1580401825322,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 261393057,
+        "rating": 5,
+        "headline": "clear soft skin",
+        "comments": "I got this in a kit and didn't really try it bc I thought it was just another basic cleanser but I ran out one day and this was all I had so I used it and...amazing! It leaves my skin smooth and very clean, not dry or tight but the best is that it cleared my skin up. I have occasional hormonal acne and after I started using this it's all but disappeared. I would recommend trying this as a part of an adult acne regimen if you feel like your acne products are doing an ok job but you're still struggling with occasional clogged pores, the lactic acid seems to have really helped the performance of my other acne and retinoid products. I massage it into my face, work into a lather then allow it to stay on for at least 2 minutes while I use my clarisonic and it works great! You don't have to use much and the tube lasts a while, it's a nice cleanser and good value.",
+        "nickname": "Cassie",
+        "location": "Tuscaloosa, AL",
+        "created_date": 1573671589891,
+        "bottom_line": "Yes",
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 238679334,
+        "rating": 5,
+        "headline": "Acne prone skin type (that's me)😊",
+        "comments": "This cleaner is amazing for sensitive, acne prone skin. Not harsh but provides a gentle exfoliation but cleans without stripping. I been using it for a little over a year and it's awesome.",
+        "nickname": "Mickey",
+        "location": "Chicago",
+        "created_date": 1559142308485,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 131,
+      "pages_total": 7,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2049021/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 79
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 51
+            },
+            {
+              "label": "Combination Skin",
+              "count": 33
+            },
+            {
+              "label": "All Skin Types",
+              "count": 30
+            },
+            {
+              "label": "Dry Skin",
+              "count": 26
+            },
+            {
+              "label": "Fine Lines/Wrinkles",
+              "count": 10
+            },
+            {
+              "label": "Acne-Prone Skin",
+              "count": 8
+            },
+            {
+              "label": "Oily Skin",
+              "count": 7
+            },
+            {
+              "label": "Redness/ Blotchiness",
+              "count": 4
+            },
+            {
+              "label": "Enlarged Pores",
+              "count": 2
+            },
+            {
+              "label": "Uneven Skin Tone",
+              "count": 2
+            },
+            {
+              "label": "Mature skin",
+              "count": 2
+            },
+            {
+              "label": "Facial cleanser",
+              "count": 1
+            },
+            {
+              "label": "Irritated my skin; returned product",
+              "count": 1
+            },
+            {
+              "label": "Gentle exfoliant",
+              "count": 1
+            },
+            {
+              "label": "I Use It Two Times A Day",
+              "count": 1
+            },
+            {
+              "label": "Aging skin",
+              "count": 1
+            },
+            {
+              "label": "Removes Eye Makeup too",
+              "count": 1
+            },
+            {
+              "label": "50 Year Old Skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "50 Year Old Skin",
+            "Acne-Prone Skin",
+            "Aging skin",
+            "All Skin Types",
+            "Combination Skin",
+            "Daily Use",
+            "Dry Skin",
+            "Enlarged Pores",
+            "Facial cleanser",
+            "Fine Lines/Wrinkles",
+            "Gentle exfoliant",
+            "I Use It Two Times A Day",
+            "Irritated my skin; returned product",
+            "Mature skin",
+            "Oily Skin",
+            "Redness/ Blotchiness",
+            "Removes Eye Makeup too",
+            "Sensitive Skin",
+            "Uneven Skin Tone"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Bad Smell",
+              "count": 4
+            },
+            {
+              "label": "Doesn't Remove Makeup",
+              "count": 3
+            },
+            {
+              "label": "Price",
+              "count": 2
+            },
+            {
+              "label": "Expensive",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "Dries Out Skin",
+              "count": 1
+            },
+            {
+              "label": "Greasy",
+              "count": 1
+            },
+            {
+              "label": "Too much perfume to put on skin",
+              "count": 1
+            },
+            {
+              "label": "Smells Plastic-y",
+              "count": 1
+            },
+            {
+              "label": "NA",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "Won't remove all mascara",
+              "count": 1
+            },
+            {
+              "label": "Pricey / Poor Value",
+              "count": 1
+            },
+            {
+              "label": "A Little Dry After",
+              "count": 1
+            },
+            {
+              "label": "Leaves Skin A Bit Dry",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A Little Dry After",
+            "Bad Smell",
+            "Doesn't Remove Makeup",
+            "Doesn't Work",
+            "Dries Out Skin",
+            "Expensive",
+            "Greasy",
+            "Heavy",
+            "Irritates Skin",
+            "Leaves Skin A Bit Dry",
+            "Messy",
+            "NA",
+            "None",
+            "Not Effective",
+            "Price",
+            "Pricey / Poor Value",
+            "Smells Plastic-y",
+            "Too much perfume to put on skin",
+            "Won't remove all mascara"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brand Buyer",
+              "count": 45
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 39
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 9
+            },
+            {
+              "label": "Beauty Conscious",
+              "count": 8
+            },
+            {
+              "label": "30 yrs old",
+              "count": 1
+            },
+            {
+              "label": "Lady with aging skin",
+              "count": 1
+            },
+            {
+              "label": "age 59, combo skin",
+              "count": 1
+            },
+            {
+              "label": "Beauty Expert",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "30 yrs old",
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Lady with aging skin",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "age 59, combo skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Leaves Clean Feel",
+              "count": 80
+            },
+            {
+              "label": "Gentle",
+              "count": 79
+            },
+            {
+              "label": "Not Greasy",
+              "count": 67
+            },
+            {
+              "label": "Improves Skin Texture",
+              "count": 64
+            },
+            {
+              "label": "Balances Skin",
+              "count": 61
+            },
+            {
+              "label": "Moisturizing",
+              "count": 61
+            },
+            {
+              "label": "Smells Great",
+              "count": 40
+            },
+            {
+              "label": "Softens Skin",
+              "count": 15
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 12
+            },
+            {
+              "label": "Moisturizes",
+              "count": 10
+            },
+            {
+              "label": "Lightweight",
+              "count": 9
+            },
+            {
+              "label": "Soothes Skin",
+              "count": 8
+            },
+            {
+              "label": "A little goes a long way",
+              "count": 2
+            },
+            {
+              "label": "Everything",
+              "count": 1
+            },
+            {
+              "label": "Gentle, Fragrant and Effective",
+              "count": 1
+            },
+            {
+              "label": "This use to be a wonderful, soothing cleanser",
+              "count": 1
+            },
+            {
+              "label": "BEST Cleansing Cream",
+              "count": 1
+            },
+            {
+              "label": "only need a small amount to cover face",
+              "count": 1
+            },
+            {
+              "label": "Really Helps Cleanse",
+              "count": 1
+            },
+            {
+              "label": "Gentle cleansing",
+              "count": 1
+            },
+            {
+              "label": "Great product",
+              "count": 1
+            },
+            {
+              "label": "Easy to use",
+              "count": 1
+            },
+            {
+              "label": "It Work On Skin Of Color",
+              "count": 1
+            },
+            {
+              "label": "Removes makeup well",
+              "count": 1
+            },
+            {
+              "label": "Soothing",
+              "count": 1
+            },
+            {
+              "label": "MAKEUP REMOVER",
+              "count": 1
+            },
+            {
+              "label": "Non-Drying",
+              "count": 1
+            },
+            {
+              "label": "Foaming",
+              "count": 1
+            },
+            {
+              "label": "Gets My Eye Makeup Off",
+              "count": 1
+            },
+            {
+              "label": "You Need Only A Little",
+              "count": 1
+            },
+            {
+              "label": "Little goes a long way",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A little goes a long way",
+            "BEST Cleansing Cream",
+            "Balances Skin",
+            "Easy to use",
+            "Everything",
+            "Foaming",
+            "Gentle",
+            "Gentle cleansing",
+            "Gentle, Fragrant and Effective",
+            "Gets My Eye Makeup Off",
+            "Great product",
+            "Improves Skin Texture",
+            "It Work On Skin Of Color",
+            "Leaves Clean Feel",
+            "Lightweight",
+            "Little goes a long way",
+            "MAKEUP REMOVER",
+            "Moisturizes",
+            "Moisturizing",
+            "Non-Drying",
+            "Non-Greasy",
+            "Not Greasy",
+            "Really Helps Cleanse",
+            "Removes makeup well",
+            "Smells Great",
+            "Softens Skin",
+            "Soothes Skin",
+            "Soothing",
+            "This use to be a wonderful, soothing cleanser",
+            "You Need Only A Little",
+            "only need a small amount to cover face"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 15
+            },
+            {
+              "label": "Dry",
+              "count": 4
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        3,
+        1,
+        1,
+        23,
+        103
+      ],
+      "review_histogram": [
+        3,
+        1,
+        1,
+        23,
+        103
+      ],
+      "rating_count": 131,
+      "review_count": 131,
+      "average_rating": 4.69,
+      "recommended_ratio": 0.98,
+      "media": [
+        {
+          "id": "284009779",
+          "review_id": 284009778,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/l4lvqnxjves2wiccbdkv.jpg",
+          "headline": "Love this cleanser!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sandy",
+          "created_date": 1594841459627
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I am normally a budget-buyer but I will not skimp when it comes to my facial skin.  My sister and daughter both use Murad and I thought that I would give it a try and since then, I have not gone back...it is simply the best.  This works well for my skin as it is mature, deep wrinkles in my forehead and drying.  I wet my face, put just a small amount of cleanser on my finger (think the size of toothpaste on your toothbrush) and then spot apply it to my face and work it around BEFORE getting it too wet.  I find that this spreads it out so much better than wetting it in my hands and then putting it on my face - I was losing parts of the product down the sink before it ever got on my face.  Anyway, then I wet what's on my hands, rub into a lather and gently cleanse my face.  It rinses beautifully and leaves my skin feeling clean and fresh and NOT dry.  Does it work overnight?  Of course not so if you're expecting miracles, it's not going to happen.  I've been using this about 3 or 4 months now and can see a definite improvement in the texture of my skin.  It seems so much smoother, better tone quality and the pores seem to be not nearly as noticeable.  I am quite satisfied with this product; in fact, I love the entire Resurgence line for my needs.",
+        "headline": "Love Murad!!",
+        "rating": 5,
+        "ugc_id": 190225136
+      },
+      "faceoff_negative": {
+        "comments": "I really wanted to like this product however i didn't feel my face was truly clean after using. Also i started breaking out more and in areas i never used to get acne. Now that i stopped using this product my acne has lessened and almost disappeared. If a product works well I do not care about the price.",
+        "headline": "Doesn't feel like my fash got clean",
+        "rating": 1,
+        "ugc_id": 190225194
+      },
+      "name": "Renewing Cleansing Cream",
+      "native_review_count": 131,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

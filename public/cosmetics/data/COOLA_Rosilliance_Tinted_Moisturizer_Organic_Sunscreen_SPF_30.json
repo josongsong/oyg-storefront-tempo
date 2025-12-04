@@ -1,0 +1,717 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/rosilliance-tinted-moisturizer-organic-sunscreen-spf-30-xlsImpprod17761877",
+  "extracted_at": "2025-09-23T05:05:58.199849+00:00",
+  "product_name": "COOLARosilliance Tinted Moisturizer Organic Sunscreen SPF 30",
+  "brand": "COOLA",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Tinted Moisturizer"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "tinted-moisturizer"
+  ],
+  "currency": "USD",
+  "list_price": "52.00",
+  "sale_price": "39.00",
+  "availability": "in_stock",
+  "rating_avg": "3.7",
+  "rating_count": "131",
+  "images": [
+    "https://media.ulta.com/i/ulta/2523612?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2523612?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2523612_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2523612_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2523612_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2523612_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2523612_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2523612_vid01/thumbs/6a606c94-f05f-45af-8ebf-ee26897cb99a?w=600&h=1071&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeSustainable PackagingGive BackHSA/FSA eligibleCOOLA's Rosilliance Tinted Moisturizer Organic Sunscreen SPF 30 is a lightly-tinted multitasker with SPF that nourishes and protects, while promoting a youthful and glowing complexion.",
+  "details": "DetailsBenefitsA sheer SPF 30 moisturizer that boosts skin’s natural undertones.New Rosilliance formula, same glow - now with non-nano zinc oxide, enhanced blendability and added blue light protection.Lightweight, non-nano Zinc Oxide mineral protection with a hint of glow BlueScreen Digital De-Stress Technology mitigates the effects of blue light and environmental stressorsUse Fresh Rose for cool undertones, Golden Hour for warm undertones and Bronze Goddess for olive undertones70%+ certified organic ingredientsBroad Spectrum SPF 30 UVA/UVB protectionKey IngredientsNon-Nano Zinc Oxide 14.2% - provides broad spectrum UVA/UVB protectionRose Stem Cell Actives- Infused with antioxidant-rich Pale, Damas, White & Apothecary Rose Stem Cells to help combat free radicals while boosting the look of skin's natural warmthResearch Results92% agree it's lightweight88% agree it nourishes skin84% agree it's moisturizing80% agree it evens out complexionin an independent consumer testing panel of 250 participantsItem 2523612How To UseDispense one pump onto the back of your hand and then gently pat the product into your skin. Start in the center of the face and work your way out. Use your fingers or your favorite foundation brush for additional glow, and apply more if needed.IngredientsActive: Zinc Oxide 14.2%.Inactive: Water, Oryza Sativa (Rice) Bran Oil (ORGANIC), Butyloctyl Salicylate, Carthamus Tinctorius (Safflower) Seed Oil (ORGANIC), Glycerin (ORGANIC), Sucrose Stearate, Euterpe Oleracea Fruit Oil (ORGANIC), Aloe Barbadensis Leaf Juice (ORGANIC), Helianthus Annuus (Sunflower) Seed Oil (ORGANIC), Rosmarinus Officinalis (Rosemary) Leaf Extract (ORGANIC), Theobroma Cacao (Cocoa) Seed Extract, Jasminum Sambac (Jasmine) Leaf Cell Extract, Mangostin, Schinus Molle Extract, Withania Somnifera Root Extract, Commiphora Myrrha Leaf Cell Extract, Rosa Damascena Leaf Cell Extract, Rosa Gallica Leaf Cell Extract, Rosa Centifolia Leaf Cell Extract, Rosa Alba Leaf Cell Extract, Acacia Senegal Gum, Xanthan Gum, Propanediol, Butylene Glycol, Caprylhydroxamic Acid, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Ethylhexyl Methoxycrylene, Polyhydroxystearic Acid, Iron Oxides, Octyldodecyl Oleate, Sodium Polyacryloyldimethyl Taurate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Fructose, Sodium Citrate, Citric Acid, Fragrance* (Natural).*Fragrance Constituents: Triethyl Citrate, Citronellol, Geraniol, Peppermint Oil, Phenyl Ethyl Alcohol, Geranyl Acetate, Amyl Cinnamic Aldehyde, Clove Leaf Oil Redistilled, Geranium Oil, Cis-3-Hexenol, Ethanol, Cinnamic Alcohol, Rose Absolute, Damascenone.",
+  "how_to_use": "Dispense one pump onto the back of your hand and then gently pat the product into your skin. Start in the center of the face and work your way out. Use your fingers or your favorite foundation brush for additional glow, and apply more if needed.",
+  "ingredients": [
+    "Active: Zinc Oxide 14.2%.Inactive: Water",
+    "Oryza Sativa (Rice) Bran Oil (ORGANIC)",
+    "Butyloctyl Salicylate",
+    "Carthamus Tinctorius (Safflower) Seed Oil (ORGANIC)",
+    "Glycerin (ORGANIC)",
+    "Sucrose Stearate",
+    "Euterpe Oleracea Fruit Oil (ORGANIC)",
+    "Aloe Barbadensis Leaf Juice (ORGANIC)",
+    "Helianthus Annuus (Sunflower) Seed Oil (ORGANIC)",
+    "Rosmarinus Officinalis (Rosemary) Leaf Extract (ORGANIC)",
+    "Theobroma Cacao (Cocoa) Seed Extract",
+    "Jasminum Sambac (Jasmine) Leaf Cell Extract",
+    "Mangostin",
+    "Schinus Molle Extract",
+    "Withania Somnifera Root Extract",
+    "Commiphora Myrrha Leaf Cell Extract",
+    "Rosa Damascena Leaf Cell Extract",
+    "Rosa Gallica Leaf Cell Extract",
+    "Rosa Centifolia Leaf Cell Extract",
+    "Rosa Alba Leaf Cell Extract",
+    "Acacia Senegal Gum",
+    "Xanthan Gum",
+    "Propanediol",
+    "Butylene Glycol",
+    "Caprylhydroxamic Acid",
+    "Caprylyl Glycol",
+    "Trisodium Ethylenediamine Disuccinate",
+    "Ethylhexyl Methoxycrylene",
+    "Polyhydroxystearic Acid",
+    "Iron Oxides",
+    "Octyldodecyl Oleate",
+    "Sodium Polyacryloyldimethyl Taurate",
+    "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+    "Fructose",
+    "Sodium Citrate",
+    "Citric Acid",
+    "Fragrance* (Natural).*Fragrance Constituents: Triethyl Citrate",
+    "Citronellol",
+    "Geraniol",
+    "Peppermint Oil",
+    "Phenyl Ethyl Alcohol",
+    "Geranyl Acetate",
+    "Amyl Cinnamic Aldehyde",
+    "Clove Leaf Oil Redistilled",
+    "Geranium Oil",
+    "Cis-3-Hexenol",
+    "Ethanol",
+    "Cinnamic Alcohol",
+    "Rose Absolute",
+    "Damascenone"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "moisturizer",
+      "sunscreen"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "dewy",
+      "sheer",
+      "oil"
+    ],
+    "ingredients": [
+      "organic",
+      "natural",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "organic",
+      "natural",
+      "spf",
+      "hydrating"
+    ],
+    "category": []
+  },
+  "reviews": {
+    "product_id": "xlsImpprod17761877",
+    "total_reviews": 131,
+    "reviews": [
+      {
+        "review_id": 558011980,
+        "rating": 1,
+        "headline": "Formula changed",
+        "comments": "I first got this a few months ago and while it was pricey, I decided it was worth it. It was highly rated by Yuka, it smelled nice, and it gave me such a nice glow. Like the others have said, they changed the formula, and now everything good about it is gone. It smells weird, it doesn't give any glow, Yuka now rates it as Poor, AND it has mica in it now :( will be returning. Bring the old formula back please!",
+        "nickname": "S",
+        "location": "KC",
+        "created_date": 1753192869428,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 557502678,
+        "rating": 5,
+        "headline": "great coverage and sun coverage.",
+        "comments": "this is hands down the best cover up. love this stuff.",
+        "nickname": "ginia",
+        "location": "Wenatchee, WA",
+        "created_date": 1752869170546,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556757260,
+        "rating": 3,
+        "headline": "Coverage is nice but the PILLING!!",
+        "comments": "I really wanted to love this. The coverage, tone, and finish is really nice BUT the PILLING is terrible. Regardless of if i apply it over other products or onto bare skin it pills severely. Also if you have any texture it will accentuate it. A bummer",
+        "nickname": "Estie",
+        "location": "Seattle",
+        "created_date": 1751905012284,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555996179,
+        "rating": 2,
+        "headline": "Unpleasant Sent",
+        "comments": "Sent is very unpleasant, smells like old musty lotion.",
+        "nickname": "jen",
+        "location": "Rochester, MN",
+        "created_date": 1751124344995,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553972671,
+        "rating": 2,
+        "headline": "Pilling and No Coverage",
+        "comments": "This has very very sheer coverage, where it is almost impossible to build coverage. It's difficult to apply with the fingers and with a brush, as the formula ends up pilling very easily. Honestly, due to its sheerness, I highly doubt there is any actual SPF coverage.",
+        "nickname": "JJ",
+        "location": "Miami, FL",
+        "created_date": 1748214583467,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547865001,
+        "rating": 4,
+        "headline": "The quality is great",
+        "comments": "But I don't think I'll buy it again. Once I put it on I looked like I'm dead. The hue was very gray and pale. I'd try it again if they came up with new shades. But the quality and texture is absolutely flawless",
+        "nickname": "Daria",
+        "location": "Lafayette, LA",
+        "created_date": 1741283285338,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 544302665,
+        "rating": 5,
+        "headline": "SPF and a clean glowy look for grown up skin!",
+        "comments": "I use the rose tint and it is fabulous. Just enough coverage to temper a bad night's sleep and it gives my skin the perfect amount of glow. Packed with moisture and an SPF, it is my only makeup during the day. Im already on my second bottle and I anticipate this will be a long term love.",
+        "nickname": "B",
+        "location": "Atl, GA",
+        "created_date": 1737989964914,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533127421,
+        "rating": 5,
+        "headline": "love it",
+        "comments": "i bought in shade fresh rose. the only tited sunscreen that isn't too orange. makeup sits well on it. the only one i use now.",
+        "nickname": "alice",
+        "location": "Boston, MA",
+        "created_date": 1726419526745,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 528442344,
+        "rating": 5,
+        "headline": "BUY THIS",
+        "comments": "I had an extra discount on Coola so I decided to give this tinted spf a shot. Instantly fell in love to the point to wearing this out for my birthday and it lasted ALL night. I just purchased my second bottle after scraping the product out the first. My skin has such a healthy glow and the coverage actually covers my rosacea without irritation. It goes on smooth and doesn't disrupt skincare or other makeup products I use in combination with this. I could rave for days about this spf!! Instant staple in my routine.",
+        "nickname": "KD",
+        "location": "Rhode Island",
+        "created_date": 1724498657099,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 527769331,
+        "rating": 3,
+        "headline": "Hit or miss",
+        "comments": "This will either be a hit or a miss. Thankfully I'm more tan during the summer and the bronze goddess was the best shade match but it is great because of the SPF. So I definitely recommend this more if you're going on to the pool or beach. But this can only be applied with your hands. I don't know why it needs to be warmed up with your hands to put on, but I've noticed when I try to use a brush or a beauty blender it starts to peel so the best method i found was to apply it by using your hands. I even use the coola primer to try and achieve the best results. I love how Bronze and protective it is but it's definitely a hit or miss just because there's only three available shades.",
+        "nickname": "Mileidy",
+        "location": "Las Vegas",
+        "created_date": 1724306609742,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 525423976,
+        "rating": 2,
+        "headline": "Should have returned",
+        "comments": "I'm sad I missed the return window for this product. I knew it wasnt perfect but I thought I would still use it. Unfortunately 3 months later I never grab for it. It's streaky and clumpy on the skin. It has a nice glow but because it goes on streaky the glow is not all over. It also has an odd smell and stings the skin when it's first applied.",
+        "nickname": "Katie",
+        "location": "Honolulu, HI",
+        "created_date": 1721597609296,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 523938228,
+        "rating": 5,
+        "headline": "Bronze Goddess, indeed!",
+        "comments": "An Ulta salesperson recommended this to me when I was looking for a sunblock that wouldn't irritate my sensitive, rosacea-prone skin. Since I'm pretty fair with rosy cheeks, I thought the bronze goddess shade would look ridiculous. Nope!! As long as I get it even, it just looks like I have a glowy tan! I tried the golden and it was too yellow for me. The rose made me look gray somehow. I'll keep using this even though I wish it was a bit less expensive.",
+        "nickname": "Alisa",
+        "location": "Wilmington, NC",
+        "created_date": 1719698861962,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 521480242,
+        "rating": 2,
+        "headline": "Not for acne prone skin!!!!",
+        "comments": "Contains plankton extract whihc is highly pore-clogging!! I've found that most Coola products break me out. Don't use if you have very oily, acne prone skin. I bought Golden Hour and it was glowy but gave me a weird orange tint. I have light skin and tan in summer.",
+        "nickname": "artimake",
+        "location": "WV",
+        "created_date": 1717514501783,
+        "bottom_line": null,
+        "helpful_votes": 6,
+        "not_helpful_votes": 4
+      },
+      {
+        "review_id": 514227985,
+        "rating": 5,
+        "headline": "It's a clean and well executed product.",
+        "comments": "I bought this and (thank goodness for the return/switch policy) switched the rose color for the medium, I'm an olive tone and the medium worked beautifully! It does seem to actually make my skin look and feel better. There are no harmful chemicals in. It's a very sheer tint sunscreen and feels super light.",
+        "nickname": "2LA",
+        "location": "Trenton Mi",
+        "created_date": 1715872593365,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 513527098,
+        "rating": 5,
+        "headline": "I do buy this product again and again",
+        "comments": "I have used this Coola Golden BB since a 'Spa Treatment' on my birthday in Williamsburg, VA 7 years ago.  I live in TX.  I am 77 years old and this BB Cream makes my skin \"dewey\" and people frequently comment on this.  I use Coola all over face and neck and a bit of foundation around jawline and a touch on top of nose.  \nBEST product ever!",
+        "nickname": "Bonnie",
+        "location": "College Station, TX",
+        "created_date": 1715438100907,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 512010068,
+        "rating": 4,
+        "headline": "Love this product.",
+        "comments": "Provides hydration and protection. Able to apply powder foundation if more coverage is needed.",
+        "nickname": "Nicole",
+        "location": "Yakima Washinton",
+        "created_date": 1713885385555,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 511974089,
+        "rating": 5,
+        "headline": "Great for redheads",
+        "comments": "I'm a pale redhead with dry skin and this is now my holy grail. I use the shade golden hour, which is too tan, but I can work with it by either applying lightly, adding blush and such, bringing it down my neck, etc. It's not too much darker, so it mostly just adds a glow to my skin so I look alive. It covers my redness completely, but is still light coverage on problem spots. It makes them way less obvious though. The applications is nearly effortless. I apply it like sunscreen and slap it on my face (joking, kind of, i just use my fingers). It barely takes a few minutes. No streaking, settling in dry patches, etc. It's also buildable. It doesnt dry out quickly, but since i like just rubbing it on it'd be nice if it took longer. It leaves a barely dewy finish i guess? But a natural one. You can powder it after, but i like it, so i ususlly leave it as is besides around my eyes and smile lines just in case. Its never creaed before though. If I want to dress it up, I'll maybe add blush, bronzer, powder, and a concealer if needed. It's stunning.",
+        "nickname": "Rachael",
+        "location": "Arizona",
+        "created_date": 1713827594371,
+        "bottom_line": "Yes",
+        "helpful_votes": 14,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 511949506,
+        "rating": 5,
+        "headline": "Sheer and Bright",
+        "comments": "Have been using the Coola product for five years.  Light coverage but great luminosity.  I usually use it over the Coola Dew Good Illuminating Serum.  Gives a healthy glow overall.",
+        "nickname": "Betsy",
+        "location": "Scottsdale",
+        "created_date": 1713802372269,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 511594122,
+        "rating": 5,
+        "headline": "Glass container, easy to blend",
+        "comments": "I LOVE the fact it's in a GLASS vessel, which is better for both the environment and the contents inside. (Microplastics leach into makeup). My skin is the shade fairly light or light, so in the summer I like to use self tanner. This deeper bronze color blends well. Your skin tone does not need to match.  It gives a subtle color and glow. So don't be scared if you're a little more fair skinned but like bronzer in the sun. I don't think the lighter colors would loook great on me because they could lighten too much. I like a subtle tan in the summer. \nThis is GREAT for pool, beach and lake days. Anything outdoors. It won't cover all imperfections but it will protect and nourish and glow you up.",
+        "nickname": "Laura",
+        "location": "NM",
+        "created_date": 1713367647015,
+        "bottom_line": "Yes",
+        "helpful_votes": 8,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 508925271,
+        "rating": 5,
+        "headline": "Better than Drunk Elephant bronzing drops",
+        "comments": "I bought this not knowing what to expect but I'm incredibly impressed. This is the most beautiful and natural bronze. I didnt expect this product to compare to Drunk Elephant but now seeing the type if bronze it gives, I won't be going back to the bronzing drops.",
+        "nickname": "Vanessa",
+        "location": "Arkansas",
+        "created_date": 1710801363833,
+        "bottom_line": null,
+        "helpful_votes": 10,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 98,
+      "pages_total": 5,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod17761877/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Everyday",
+              "count": 15
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 10
+            },
+            {
+              "label": "All Skin Types",
+              "count": 8
+            },
+            {
+              "label": "Travel",
+              "count": 8
+            },
+            {
+              "label": "Going Out",
+              "count": 3
+            }
+          ],
+          "display_values": [
+            "All Skin Types",
+            "Everyday",
+            "Going Out",
+            "Sensitive Skin",
+            "Travel"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Poor Coverage",
+              "count": 4
+            },
+            {
+              "label": "glow does not last all day",
+              "count": 1
+            },
+            {
+              "label": "Scent",
+              "count": 1
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 1
+            },
+            {
+              "label": "Greasy",
+              "count": 1
+            },
+            {
+              "label": "Break Outs",
+              "count": 1
+            },
+            {
+              "label": "Minimal coverage",
+              "count": 1
+            },
+            {
+              "label": "A little pricey",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A little pricey",
+            "Break Outs",
+            "Causes Breakouts",
+            "Clumpy",
+            "Difficult to Apply",
+            "Doesn't Stay On",
+            "Doesn't Work",
+            "Greasy",
+            "Heavy",
+            "Irritates Skin",
+            "Minimal coverage",
+            "Poor Coverage",
+            "Scent",
+            "glow does not last all day"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Natural Style",
+              "count": 13
+            },
+            {
+              "label": "Classic Style",
+              "count": 4
+            },
+            {
+              "label": "Nature woman who likes a sun kissed look.",
+              "count": 1
+            },
+            {
+              "label": "Trendy Style",
+              "count": 1
+            },
+            {
+              "label": "Always in the sun",
+              "count": 1
+            },
+            {
+              "label": "Hyperpigmentation",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Always in the sun",
+            "Casual Dresser",
+            "Classic Style",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Hyperpigmentation",
+            "Natural Style",
+            "Nature woman who likes a sun kissed look.",
+            "Stylish/Fashionista",
+            "Trendy Style",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Lightweight",
+              "count": 19
+            },
+            {
+              "label": "Easy To Apply",
+              "count": 18
+            },
+            {
+              "label": "Natural Looking",
+              "count": 15
+            },
+            {
+              "label": "Smooth",
+              "count": 15
+            },
+            {
+              "label": "Easy To Take-off",
+              "count": 14
+            },
+            {
+              "label": "Blends Well",
+              "count": 12
+            },
+            {
+              "label": "Long Lasting",
+              "count": 11
+            },
+            {
+              "label": "Good Pigmentation",
+              "count": 10
+            },
+            {
+              "label": "Noncomedogenic",
+              "count": 9
+            },
+            {
+              "label": "SPF",
+              "count": 1
+            },
+            {
+              "label": "healthy glow",
+              "count": 1
+            },
+            {
+              "label": "smells good",
+              "count": 1
+            },
+            {
+              "label": "Great coverage",
+              "count": 1
+            },
+            {
+              "label": "Luminous",
+              "count": 1
+            },
+            {
+              "label": "Wonderful scent",
+              "count": 1
+            },
+            {
+              "label": "It makes my skin look amazing, so bright &alive",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Blends Well",
+            "Easy To Apply",
+            "Easy To Take-off",
+            "Good Pigmentation",
+            "Great coverage",
+            "It makes my skin look amazing, so bright &alive",
+            "Lightweight",
+            "Long Lasting",
+            "Luminous",
+            "Natural Looking",
+            "Noncomedogenic",
+            "SPF",
+            "Smooth",
+            "Wonderful scent",
+            "healthy glow",
+            "smells good"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        22,
+        16,
+        15,
+        10,
+        68
+      ],
+      "review_histogram": [
+        22,
+        16,
+        15,
+        10,
+        68
+      ],
+      "rating_count": 131,
+      "review_count": 131,
+      "average_rating": 3.66,
+      "recommended_ratio": 0.64,
+      "media": [
+        {
+          "id": "560551316",
+          "review_id": 560551325,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hqst1esa3xxfchqqri3t.jpg",
+          "headline": "What and why did you change formula!?!?!  Never buying again",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Big mistake!!! horrible formula change.  Color is completely different, not to mention horrible.",
+          "nickname": "CME Pagan",
+          "created_date": 1755783922526
+        },
+        {
+          "id": "542164152",
+          "review_id": 542164121,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kanozobbiwzw7ehb0tgy.jpg",
+          "headline": "Will buy this again when color formulation is corrected",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Look at the difference to my last order of same product",
+          "nickname": "LAB",
+          "created_date": 1735865758536
+        },
+        {
+          "id": "511974138",
+          "review_id": 511974089,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vxs4tnrdupqxb4mbdmab.jpg",
+          "headline": "Great for redheads",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Dressed up with blush, powder, brows, lips and mascara. No concealer.",
+          "nickname": "Rachael",
+          "created_date": 1713827594371
+        },
+        {
+          "id": "511974137",
+          "review_id": 511974089,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bnzkppzvfuyj3sbycbcw.jpg",
+          "headline": "Great for redheads",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "No makeup",
+          "nickname": "Rachael",
+          "created_date": 1713827594371
+        },
+        {
+          "id": "511974174",
+          "review_id": 511974089,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vcfr7qxupmltvt9bdtcs.jpg",
+          "headline": "Great for redheads",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Just the tint, I missed a few spots but it's fine",
+          "nickname": "Rachael",
+          "created_date": 1713827594371
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Finally a totally mineral sunscreen for me! I have olive skin and all tinted sunscreens look too light on me. The Coola medium/deep shade is perfect. It is very smooth and easy to apply and gives a flattering, very natural color. I love it! It's expensive but worth every dollar.",
+        "headline": "My favorite tinted sunscreen by far",
+        "rating": 5,
+        "ugc_id": 191424099
+      },
+      "faceoff_negative": {
+        "comments": "I was introduced and recommended to Coola Tinted 30 SPF Fresh Rose by Yuka app ( the best thing ever ), that helps consumers assess the health impact of food and cosmetic products by scanning their barcodes. Reading all of the previous reviews, unfortunately I would have to agree on everything after new formula change. Using it for almost two years and absolutely loving every single day, Coola was my everything. I was extremely disappointed when my new formula Coola arrived the other day and I scanned it on Yuka to make sure it still has an excellent rating 90/100. I was heartbroken to see that its rating dropped to poor and it was only 42/100, so disappointing:(. I don't understand why it was necessary to add Butyloctyl Salicylate that's associated with risks of being potential endocrine disruptor and pollutant??? \nAfter creating the cleanest formula on market why change to something everyone else offers?\nMy biggest concern is more putting a not so clean formula every single morning on my face rather than a slight color change. I think you nailed it with having only three shades and they all blend perfectly on different skin tones. I'm fair skin with cool undertones and Coola Fresh Rose was the only tinted spf that was absolutely perfect for my skin tone. The new formula has slightly darker tone but not so much noticeable. New formula is also missing that nice glow you got before. No more smell of fresh rose as well. BUT, all this is tolerable except the fact that the formula is not clean anymore even though it's 70%+ Organic. Because of this I won't be sadly using Coola anymore unless it gets fixed. PLEASE, PLEASE, PLEASE make it a clean formula again. It is so sad for such a high potential product to go to waste.\nMy hope in writing this review is to really make an impact and difference, to support all the previous reviews in hope that Coola will consider on improving their new formula.\nI love you Coola and I hope we're going to be friends again❤️",
+        "headline": "Used to LOVE it but NOT anymore:(",
+        "rating": 1,
+        "ugc_id": 560191078
+      },
+      "name": "Rosilliance Tinted Moisturizer Organic Sunscreen SPF 30",
+      "variant_names": [
+        "Rosilliance® Tinted Moisturizer - Bronze Goddess",
+        "Rosilliance® Tinted Moisturizer - Fresh Rose",
+        "Rosilliance® Tinted Moisturizer - Golden Hour"
+      ],
+      "native_review_count": 98,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 33,
+      "locale": "en_US"
+    }
+  }
+}

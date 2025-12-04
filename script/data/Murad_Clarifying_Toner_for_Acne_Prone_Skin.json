@@ -1,0 +1,104 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/clarifying-toner-acne-prone-skin-prod2082347",
+  "extracted_at": "2025-09-23T03:35:02.239318+00:00",
+  "product_name": "MuradClarifying Toner for Acne-Prone Skin",
+  "brand": "Murad",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Toner"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "toner"
+  ],
+  "currency": "USD",
+  "list_price": "12",
+  "sale_price": "32.00",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "240",
+  "images": [
+    "https://media.ulta.com/i/ulta/2082347?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2082347?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2082347_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2082347_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2082347_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2082347_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2082347_alt05?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeHSA/FSA eligibleMurad's Clarifying Toner eliminates oil & impurities to balance, cool and refresh blemish-prone skin.",
+  "details": "DetailsBenefitsOil-fighting formula instantly balances, refreshesTightens the look of pores as it soothes and balancesAlways tested on people, never on animalsKey IngredientsWitch hazel to dissolves oil and tightens the look of poresAlgae extract helps reduce shineGrape seed extract and vitamin E to protect skin from free radical damageFormulated WithoutSulfates and phthalatesItem 2082347How To UseEvery day after cleansing, pour a small amount of the Murad toner onto a cotton pad and apply evenly over face, neck and chest. For optimal results, follow with a Murad Step 2 treatment.Precautions: For external use only.IngredientsWater (Aqua), Hamamelis Virginiana (Witch Hazel) Water, Butylene Glycol, Alcohol Denat., PPG-5-Ceteth-20, Chondrus Crispus (Carrageenan) Extract, Cucumis Sativus (Cucumber) Fruit Extract, Citrus Medica Limonum (Lemon) Fruit Extract, Calendula Officinalis Flower Extract, Lecithin, Tocopherol, Magnesium Ascorbyl Phosphate, Allantoin, Palmitoyl Hydroxypropyltrimonium Amylopectin/Glycerin Crosspolymer, Vitis Vinifera (Grape) Seed Extract, PEG-12 Dimethicone, Menthol, Menthoxypropanediol, Sodium Hydroxide, Phenoxyethanol, Methylparaben, Citral, Cymbopogon Schoenanthus Oil, Blue 1 (CI 42090), Ext. Violet 2 (CI 60730).Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Every day after cleansing, pour a small amount of the Murad toner onto a cotton pad and apply evenly over face, neck and chest. For optimal results, follow with a Murad Step 2 treatment.Precautions: For external use only.",
+  "ingredients": [
+    "Water (Aqua)",
+    "Hamamelis Virginiana (Witch Hazel) Water",
+    "Butylene Glycol",
+    "Alcohol Denat",
+    "PPG-5-Ceteth-20",
+    "Chondrus Crispus (Carrageenan) Extract",
+    "Cucumis Sativus (Cucumber) Fruit Extract",
+    "Citrus Medica Limonum (Lemon) Fruit Extract",
+    "Calendula Officinalis Flower Extract",
+    "Lecithin",
+    "Tocopherol",
+    "Magnesium Ascorbyl Phosphate",
+    "Allantoin",
+    "Palmitoyl Hydroxypropyltrimonium Amylopectin/Glycerin Crosspolymer",
+    "Vitis Vinifera (Grape) Seed Extract",
+    "PEG-12 Dimethicone",
+    "Menthol",
+    "Menthoxypropanediol",
+    "Sodium Hydroxide",
+    "Phenoxyethanol",
+    "Methylparaben",
+    "Citral",
+    "Cymbopogon Schoenanthus Oil",
+    "Blue 1 (",
+    "Ext. Violet 2 ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "cleanser",
+      "toner"
+    ],
+    "skin_type": [
+      "acne-prone"
+    ],
+    "finish": [
+      "sheer",
+      "oil"
+    ],
+    "ingredients": [
+      "paraben-free"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "purifying"
+    ],
+    "category": []
+  },
+  "reviews": {
+    "product_id": "pimprodclarifying-toner-acne-prone-skin-prod2082347",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

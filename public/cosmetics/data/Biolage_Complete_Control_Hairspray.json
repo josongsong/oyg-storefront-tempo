@@ -1,0 +1,698 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/complete-control-hairspray-xlsImpprod6490150",
+  "extracted_at": "2025-09-23T03:39:39.843904+00:00",
+  "product_name": "BiolageComplete Control Hairspray",
+  "brand": "Biolage",
+  "categories": [
+    "Home",
+    "Hair",
+    "Styling Products",
+    "Hairspray"
+  ],
+  "category_keys": [
+    "home",
+    "hair",
+    "styling-products",
+    "hair"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "28.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "324",
+  "images": [
+    "https://media.ulta.com/i/ulta/2526036?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2526036?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2526036_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2526036_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2526036_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2526036_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2526036_vid01/thumbs/878198bb-6b57-45ef-95ed-e6fe33039231?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsCruelty FreeVeganSustainable PackagingBiolage Styling Complete Control Hairspray is a fast-drying hairspray. This anti-frizz hairspray delivers adjustable control while adding body and volume, giving natural hair a polished finish. Soft to medium-hold anti-frizz formula leaves hair flexible, texturized, and natural-looking.",
+  "details": "DetailsBenefitsNatural-looking volumeAnti-FrizzNatural hair finishMedium holdParaben-freeNo Mineral OilNo Artificial ColorantsWater-freeKey IngredientsInfused with Blue Agave nectar which acts as a hair treatment, strengthening and repairing damaged hair in harsh conditions by retaining moisture and nourishmentItem 2526036How To UseHold 8-12 inches away from hair and spray.Precaution: In case of contact with eyes, rinse immediately.IngredientsAlcohol Denat., Hydrofluorocarbon 152A, Acrylates/Ethylhexylacrylamide Copolymer - Acrylates/Octylacrylamide Copolymer, Va/Crotonates/Vinyl Neodecanoate Copolymer, Aminomethyl Propanol, C12-15 Alkyl Benzoate, Parfum / Fragrance, Ethylhexyl Methoxycinnamate, Limonene, Hexyl Cinnamal, Coumarin, Linalool, Butylphenyl Methylpropional, Benzyl Alcohol, Hydroxycitronellal, Amyl Cinnamal, Geraniol, Alpha-Isomethyl Ionone, Isoeugenol, Benzyl Benzoate, Cinnamyl Alcohol, Agave Tequilana Leaf Extract.Shipping & Coupon RestrictionsShipping Restrictions : This item cannot be shipped via air.",
+  "how_to_use": "Hold 8-12 inches away from hair and spray.Precaution: In case of contact with eyes, rinse immediately.",
+  "ingredients": [
+    "Alcohol Denat",
+    "Hydrofluorocarbon 152A",
+    "Acrylates/Ethylhexylacrylamide Copolymer - Acrylates/Octylacrylamide Copolymer",
+    "Va/Crotonates/Vinyl Neodecanoate Copolymer",
+    "Aminomethyl Propanol",
+    "C12-15 Alkyl Benzoate",
+    "Parfum / Fragrance",
+    "Ethylhexyl Methoxycinnamate",
+    "Limonene",
+    "Hexyl Cinnamal",
+    "Coumarin",
+    "Linalool",
+    "Butylphenyl Methylpropional",
+    "Benzyl Alcohol",
+    "Hydroxycitronellal",
+    "Amyl Cinnamal",
+    "Geraniol",
+    "Alpha-Isomethyl Ionone",
+    "Isoeugenol",
+    "Benzyl Benzoate",
+    "Cinnamyl Alcohol",
+    "Agave Tequilana Leaf Extract"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/d6a68430-e6f2-4d8c-b51f-9c47d9d6c70f/960.webp",
+      "https://content.syndigo.com/asset/1676304a-3556-4dc9-a792-c66d3594490d/960.webp",
+      "https://content.syndigo.com/asset/845fb700-87ef-4deb-9886-985961fc7759/960.webp",
+      "https://content.syndigo.com/asset/bf8d9a98-9659-4b53-8461-4fc6724ba403/480.webp",
+      "https://content.syndigo.com/asset/c36a06c3-d37b-4b5f-839e-decf94b83ba1/480.webp",
+      "https://content.syndigo.com/asset/c36a06c3-d37b-4b5f-839e-decf94b83ba1/480.webp",
+      "https://content.syndigo.com/asset/c36a06c3-d37b-4b5f-839e-decf94b83ba1/480.webp",
+      "https://content.syndigo.com/asset/bf8d9a98-9659-4b53-8461-4fc6724ba403/480.webp",
+      "https://content.syndigo.com/asset/b44cd38a-7047-44d6-9d13-4fe703dee051/480.webp",
+      "https://content.syndigo.com/asset/b44cd38a-7047-44d6-9d13-4fe703dee051/480.webp",
+      "https://content.syndigo.com/asset/845fb700-87ef-4deb-9886-985961fc7759/480.webp",
+      "https://content.syndigo.com/asset/ce65ca8d-5397-4bd6-853a-8985e5b51825/300.webp",
+      "https://content.syndigo.com/asset/8eea2c74-05c5-4ea5-8979-6335162204b5/300.webp",
+      "https://content.syndigo.com/asset/ee2ae3e4-bf4d-461b-a261-0d94c769b1fa/300.webp",
+      "https://content.syndigo.com/asset/2b361712-216e-4325-8a12-d82f7535da38/300.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "hair",
+      "haircare"
+    ],
+    "product_type": [
+      "toner"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "sheer",
+      "oil"
+    ],
+    "ingredients": [
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "natural",
+      "paraben-free",
+      "repairing"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod6490150",
+    "total_reviews": 324,
+    "reviews": [
+      {
+        "review_id": 554736407,
+        "rating": 5,
+        "headline": "Pretty good",
+        "comments": "Verb changed their formula so I had to find another hairspray, this one doesn't leave me hair stiff and I am able to brush thru my hair!! Just don't use a lot !!",
+        "nickname": "Kim C.",
+        "location": "Anderson, SC",
+        "created_date": 1749401186431,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553964982,
+        "rating": 5,
+        "headline": "10/10 flexible hold",
+        "comments": "I use this when I do my blowout or i have air wrap curls so i can have a very light hold that control's frizz. It also smells AMAZING.",
+        "nickname": "Sonia",
+        "location": "Chicago, IL",
+        "created_date": 1748195107191,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548846180,
+        "rating": 5,
+        "headline": "I would buy this product again.",
+        "comments": "Touchable hold!",
+        "nickname": "Dee",
+        "location": "Pennsylvania",
+        "created_date": 1742075755403,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547640814,
+        "rating": 5,
+        "headline": "I would buy this product again and again",
+        "comments": "Love this product, perfect hairspray for me",
+        "nickname": "",
+        "location": "Fl",
+        "created_date": 1741037617897,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 547520172,
+        "rating": 3,
+        "headline": "Nothing Special",
+        "comments": "Works fine, but isn't worth the extra  expense.",
+        "nickname": "Jennifer",
+        "location": "Reynoldsburg, OH",
+        "created_date": 1740770804962,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 546981378,
+        "rating": 2,
+        "headline": "Just Ok. No Real Hold.",
+        "comments": "I've been using this for awhile because I like the scent but tbh it doesn't do much. I can spray tons of it on my hair and I feel it on my hair but it doesn't really hold anything. Any curl or wave is gone very quickly. No point to using hairspray that doesn't hold anything.",
+        "nickname": "SheShops",
+        "location": "NJ",
+        "created_date": 1739986144283,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 537376182,
+        "rating": 5,
+        "headline": "I would buy this hairspray again.",
+        "comments": "Keeps my straight hair manageable, and lastly style.",
+        "nickname": "Monica",
+        "location": "Deltona, Florida",
+        "created_date": 1730858497424,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 533551195,
+        "rating": 5,
+        "headline": "I have been using this product for years!  Love it.",
+        "comments": "I live in the south so lots of humidity. I have probably been using this spray for 5 years. My sister visited me and forgot her hair spray so used mine and said she really like it too.",
+        "nickname": "Debbie",
+        "location": "Texas",
+        "created_date": 1726691484195,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 518244625,
+        "rating": 3,
+        "headline": "I would niot.",
+        "comments": "The scent is to strong for me.",
+        "nickname": "Barb",
+        "location": "Papillion, NE",
+        "created_date": 1716748476318,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 513433412,
+        "rating": 5,
+        "headline": "I have used this product for many years.  Harder to find",
+        "comments": "Leaves hair soft and light",
+        "nickname": "",
+        "location": "Kentucky",
+        "created_date": 1715297150464,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 501557513,
+        "rating": 5,
+        "headline": "I would buy again",
+        "comments": "I would buy this again",
+        "nickname": "SHERRY",
+        "location": "Indianapolis",
+        "created_date": 1706655929562,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 481883330,
+        "rating": 5,
+        "headline": "Great hairspray!",
+        "comments": "My hairdresser used this on me, and I liked it. I bought some, and I think it's great. It's not sticky on your hair, and it does not have a strong, unpleasant scent. It hold my thick hair nicely without weight and helps set some texture.",
+        "nickname": "Babs",
+        "location": "Indiana",
+        "created_date": 1700332841005,
+        "bottom_line": "Yes",
+        "helpful_votes": 9,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 470851060,
+        "rating": 5,
+        "headline": "I would buy Biolage Complete Hairspray over and over again!",
+        "comments": "I have been buying Biolage Complete Hairspray for many years and It works the best for me!",
+        "nickname": "Carolyn",
+        "location": "Schenectady, NY",
+        "created_date": 1693578376429,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 464460346,
+        "rating": 4,
+        "headline": "I like the Biolage products, so stock up when I can.",
+        "comments": "Like I said before I like the Biolage products, so I stock up when I can.",
+        "nickname": "Judy",
+        "location": "Dubuque, Iowa",
+        "created_date": 1689135335200,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 455852015,
+        "rating": 1,
+        "headline": "I would not buy this product again",
+        "comments": "This hair spray has a horrible odor that stays on your hair over 24 hours.  It is also like glue on your hair-very disappointed.",
+        "nickname": "",
+        "location": "Oakdale MN",
+        "created_date": 1682779253106,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 443140019,
+        "rating": 5,
+        "headline": "Excellent",
+        "comments": "Love this product. Only hair spray that dies not make my head itch.",
+        "nickname": "",
+        "location": "West Palm Beach, Fl",
+        "created_date": 1675869793914,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 439336212,
+        "rating": 5,
+        "headline": "Very good product",
+        "comments": "Love this hairspray. Not sticky",
+        "nickname": "Ellie",
+        "location": "Fl",
+        "created_date": 1672704638220,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 436205863,
+        "rating": 4,
+        "headline": "I would buy this product again",
+        "comments": "This is a great product and isn't a heavy hairspray",
+        "nickname": "Monica",
+        "location": "Brandon SD",
+        "created_date": 1670086223252,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 435038887,
+        "rating": 5,
+        "headline": "Love this hairdprsy",
+        "comments": "Only hairspray that holds my hair and does not make my head itch.",
+        "nickname": "Ellie",
+        "location": "Florida",
+        "created_date": 1669243308921,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 426804983,
+        "rating": 5,
+        "headline": "I love this hair spray!",
+        "comments": "It holds your hair in place without being stiff but still manageable!!",
+        "nickname": "Elizabeth",
+        "location": "Alpharetta, Ga",
+        "created_date": 1664474395378,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 111,
+      "pages_total": 6,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod6490150/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "30 Minutes",
+              "count": 9
+            },
+            {
+              "label": "10 Minutes",
+              "count": 8
+            },
+            {
+              "label": "1+ Hour",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 46
+            },
+            {
+              "label": "Fine Hair",
+              "count": 19
+            },
+            {
+              "label": "Straight Hair",
+              "count": 19
+            },
+            {
+              "label": "Curly Hair",
+              "count": 13
+            },
+            {
+              "label": "Thick Hair",
+              "count": 13
+            },
+            {
+              "label": "Women",
+              "count": 9
+            },
+            {
+              "label": "Travel",
+              "count": 6
+            },
+            {
+              "label": "On-the-go",
+              "count": 4
+            },
+            {
+              "label": "No Build Up",
+              "count": 1
+            },
+            {
+              "label": "Any type of hair.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Any type of hair.",
+            "Curly Hair",
+            "Daily Use",
+            "Fine Hair",
+            "Men",
+            "No Build Up",
+            "Oily Skin",
+            "On-the-go",
+            "Straight Hair",
+            "Thick Hair",
+            "Travel",
+            "Weekly Use",
+            "Women"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Heavy",
+              "count": 2
+            },
+            {
+              "label": "Sticky",
+              "count": 2
+            },
+            {
+              "label": "Strong Odor",
+              "count": 2
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "Dries-Out Hair",
+              "count": 1
+            },
+            {
+              "label": "Greasy",
+              "count": 1
+            },
+            {
+              "label": "Complicated To Use",
+              "count": 1
+            },
+            {
+              "label": "Not Effective",
+              "count": 1
+            },
+            {
+              "label": "Wish It Cost A Little Les",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Complicated To Use",
+            "Doesn't Work",
+            "Dries-Out Hair",
+            "Greasy",
+            "Heavy",
+            "Not Effective",
+            "Poor Texture",
+            "Sticky",
+            "Strong Odor",
+            "Wish It Cost A Little Les"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Beauty Conscious",
+              "count": 23
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 14
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 12
+            },
+            {
+              "label": "Product Junkie",
+              "count": 6
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 6
+            },
+            {
+              "label": "Minimalist",
+              "count": 2
+            },
+            {
+              "label": "age 60 plus - love this spray",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Beauty Conscious",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Minimalist",
+            "Product Junkie",
+            "Professional Stylist",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "age 60 plus - love this spray"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "hairtype",
+          "name": "Hair Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Straight Hair",
+              "count": 35
+            },
+            {
+              "label": "Wavy Hair",
+              "count": 17
+            },
+            {
+              "label": "Very Curly Hair",
+              "count": 7
+            }
+          ],
+          "display_values": [
+            "Straight Hair",
+            "Very Curly Hair",
+            "Wavy Hair"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Lightweight",
+              "count": 56
+            },
+            {
+              "label": "Easy To Use",
+              "count": 52
+            },
+            {
+              "label": "Smells Great",
+              "count": 49
+            },
+            {
+              "label": "Strong Hold",
+              "count": 26
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 22
+            },
+            {
+              "label": "Effective",
+              "count": 16
+            },
+            {
+              "label": "Controls Frizz",
+              "count": 14
+            },
+            {
+              "label": "Good Value",
+              "count": 11
+            },
+            {
+              "label": "Flexible hold",
+              "count": 1
+            },
+            {
+              "label": "Don't Weigh Your Hair Dow",
+              "count": 1
+            },
+            {
+              "label": "Love shampoo as well!",
+              "count": 1
+            },
+            {
+              "label": "It's just right.",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Controls Frizz",
+            "Don't Weigh Your Hair Dow",
+            "Easy To Use",
+            "Effective",
+            "Flexible hold",
+            "Good Value",
+            "It's just right.",
+            "Lightweight",
+            "Love shampoo as well!",
+            "Non-Greasy",
+            "Smells Great",
+            "Strong Hold"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        5,
+        7,
+        20,
+        59,
+        233
+      ],
+      "review_histogram": [
+        5,
+        7,
+        20,
+        59,
+        233
+      ],
+      "rating_count": 324,
+      "review_count": 324,
+      "average_rating": 4.57,
+      "recommended_ratio": 0.92,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "I received this product for free from Influenster in exchange for my review.\nWhile I'm a shampoo junkie, I am not nearly as knowledgeable about styling products. I tend to just grab whatever. This actually makes me realize I need to pay more attention to my finishing products. It has the signature smell of Biolage without a strong scent of alcohol. It's light enough to hold down frizz without looking glued down, but also strong enough to hold my \"I'm going this way\" bangs in place where they should be. I've already used this more in the few weeks I've had it than the other hairspray that's been in my cabinet for a year. This is something I will most definitely buy myself after trying it. I have medium texture, thin hair and this works great for me. I think it would also work great for fine hair since it's so effective with my flyaways. I don't know that it's Beauty Pageant strong, but it's not making that claim anyways. I am surprised by how much I use this and for those looking for a good every day hairspray, this is definitely where you should start.",
+        "headline": "Good All Around Hairspray",
+        "rating": 5,
+        "ugc_id": 395046590
+      },
+      "faceoff_negative": {
+        "comments": "I had never used this particular brand of hairspray before but since I use Biolage I thought I would give it a try.  I used it for about 4 days and I did not like the smell and the product was heavy on my hair.  I could smell it all day and it made my hair smell like I had not washed it in several days.  I took it back to the store for a refund.",
+        "headline": "I Did Not Like It",
+        "rating": 2,
+        "ugc_id": 215107644
+      },
+      "name": "Complete Control Hairspray",
+      "native_review_count": 111,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 213,
+      "locale": "en_US"
+    }
+  }
+}

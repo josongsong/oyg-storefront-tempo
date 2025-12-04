@@ -1,0 +1,973 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/hydro-boost-eye-gel-cream-xlsImpprod12041839",
+  "extracted_at": "2025-09-23T04:12:54.612067+00:00",
+  "product_name": "NeutrogenaHydro Boost Eye Gel-Cream",
+  "brand": "Neutrogena",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Dermatologist Recommended"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "men"
+  ],
+  "currency": "USD",
+  "list_price": "31.99",
+  "sale_price": "23.99",
+  "availability": "in_stock",
+  "rating_avg": "3.8",
+  "rating_count": "182",
+  "images": [
+    "https://media.ulta.com/i/ulta/2284293?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2284293?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2284293_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2284293_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2284293_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2284293_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2284293_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2284293_vid01/thumbs/68698c0b-a45d-46b4-ae08-ca431f97315d?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsVeganSustainable PackagingGive BackBoost your skin's hydration level. Neutrogena Hydro Boost Eye Gel-Cream contains hyaluronic acid and is specially designed to smooth & hydrate the delicate eye area. Ophthalmologist tested & oil-free.",
+  "details": "DetailsBenefitsMoisturizing gel specially designed to smooth skin around the delicate eye areaCream boosts skin's hydration level and locks it in all day. It can be worn alone or under make-upGel eye cream is oil-free, dye-free, and fragrance-free, so it's gentle to use on delicate eye areaUnique water gel formula absorbs quickly like a gel with long last moisturizing power of a creamUnder-eye cream is ophthalmologist-tested and non-comedogenic, so it won't clog poresCan be worn alone or under makeup and makes the perfect addition to your daily skincare routineKey IngredientsHyaluronic acid, a hydrator found naturally in the skin that attracts moisture and locks it inFormulated WithoutOilDyesFragranceItem 2284293How To UseUse in the morning and at night on cleansed skin. Dot product around the eye area and smooth in until thoroughly absorbed.IngredientsWater, Dimethicone, Glycerin, Cetearyl Olivate, Sorbitan Olivate, Polyacrylamide, Phenoxyethanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Synthetic Beeswax, C13-14 Isoparaffin, Dimethicone Crosspolymer, Carbomer, Trehalose, Dimethiconol, Chlorphenesin, Laureth-7, Sodium Hyaluronate, Ethylhexylglycerin, Sodium Hydroxide, C12-14 Pareth-12.",
+  "how_to_use": "Use in the morning and at night on cleansed skin. Dot product around the eye area and smooth in until thoroughly absorbed.",
+  "ingredients": [
+    "Water",
+    "Dimethicone",
+    "Glycerin",
+    "Cetearyl Olivate",
+    "Sorbitan Olivate",
+    "Polyacrylamide",
+    "Phenoxyethanol",
+    "Dimethicone/Vinyl Dimethicone Crosspolymer",
+    "Synthetic Beeswax",
+    "C13-14 Isoparaffin",
+    "Dimethicone Crosspolymer",
+    "Carbomer",
+    "Trehalose",
+    "Dimethiconol",
+    "Chlorphenesin",
+    "Laureth-7",
+    "Sodium Hyaluronate",
+    "Ethylhexylglycerin",
+    "Sodium Hydroxide",
+    "C12-14 Pareth-12"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/8077f488-dba6-478f-acb5-6c5bd92aaa61/480.webp",
+      "https://content.syndigo.com/asset/c82438d4-d29d-4a9a-acac-6cf6182de436/1464.webp",
+      "https://content.syndigo.com/asset/c82438d4-d29d-4a9a-acac-6cf6182de436/240.webp",
+      "https://content.syndigo.com/asset/5d8669f3-f0cc-4463-8b1c-9a1171a861c0/300.webp",
+      "https://content.syndigo.com/asset/4d4aba80-708a-4e3f-8819-06dfe24ded0c/300.webp",
+      "https://content.syndigo.com/asset/9f5da401-a60f-4744-98c9-d4581c4439c1/300.webp",
+      "https://content.syndigo.com/asset/b2314972-51fb-46c3-8b9c-7d36436ef72e/300.webp",
+      "https://content.syndigo.com/asset/c434d99f-48ff-4021-aa77-dc32b4751871/480.webp",
+      "https://content.syndigo.com/asset/97369cef-8ec4-4aae-9569-b187531a3033/240.jpg",
+      "https://content.syndigo.com/asset/fdf7aeb7-de04-4343-b254-aec2251f5b80/240.jpg",
+      "https://content.syndigo.com/asset/b5e1eaad-587a-4232-9e9c-4785a88ba076/200.png",
+      "https://content.syndigo.com/asset/4f085851-65d1-49a7-98a9-f63ceb3ecfca/200.png",
+      "https://content.syndigo.com/asset/9b992bc2-ac43-4164-83ed-a99f9d672c4b/225.jpg",
+      "https://content.syndigo.com/asset/4efcd6be-f79a-4a2b-bbef-eca7ae834c8d/200.png",
+      "https://content.syndigo.com/asset/0236cfb4-8690-4fa2-89a3-5eaa6f819d1a/200.png"
+    ]
+  },
+  "tags": {
+    "category": [
+      "men",
+      "mens"
+    ],
+    "product_type": [
+      "cleanser",
+      "moisturizer"
+    ],
+    "skin_type": [
+      "oily",
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "cream",
+      "gel",
+      "oil"
+    ],
+    "ingredients": [
+      "synthetic"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "vegan",
+      "natural",
+      "non-comedogenic",
+      "fragrance-free",
+      "oil-free",
+      "hydrating",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod12041839",
+    "total_reviews": 182,
+    "reviews": [
+      {
+        "review_id": 557117794,
+        "rating": 5,
+        "headline": "My under eyes are supple",
+        "comments": "This has plumped up my under eye area so much. I noticed that they are sod and appear moisturized.",
+        "nickname": "",
+        "location": "Schertz, TX",
+        "created_date": 1752513200174,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554449990,
+        "rating": 1,
+        "headline": "Not for me",
+        "comments": "Unfortunately this product did not work for my sensitive skin. It burns every time and left my eyes more irritated than before.",
+        "nickname": "Angelika",
+        "location": "NJ",
+        "created_date": 1748957378587,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 544250365,
+        "rating": 4,
+        "headline": "I'm surprised by how much I love it",
+        "comments": "Nice lightweight hydration for around the eyes. I don't believe it offers any anti-aging benefits but I do like how hydrated and glowy my eyes look after application. Im 29 for reference. I think it'll work as a good preventative product in my routine.",
+        "nickname": "Rsh98",
+        "location": "New Jersey",
+        "created_date": 1737866799429,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 485030161,
+        "rating": 5,
+        "headline": "Actually works",
+        "comments": "I have tried a lot of different eye creams, and this one actually works on my crow's feet/laugh lines.",
+        "nickname": "Victoria",
+        "location": "New York",
+        "created_date": 1702738915685,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 483113981,
+        "rating": 5,
+        "headline": "Highly Recommend",
+        "comments": "I was really surprised that this Eye Gel-Cream works so well.  Have never been able to use any eye cream out there because of my hyper sensitive skin.  This gel-cream has basic ingredients that really help my under eye wrinkles.  Would definitely recommend this product.",
+        "nickname": "Deb",
+        "location": "Clermont, Florida",
+        "created_date": 1701605276151,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 482589998,
+        "rating": 3,
+        "headline": "Wouldn't buy again",
+        "comments": "I don't notice a difference.",
+        "nickname": "Alli",
+        "location": "Good Hope, GA",
+        "created_date": 1701108264425,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 444570146,
+        "rating": 1,
+        "headline": "Burns!",
+        "comments": "Returning.  It burns",
+        "nickname": "",
+        "location": "Harbison columbiana",
+        "created_date": 1676591893174,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 439261936,
+        "rating": 5,
+        "headline": "I would buy this product over and over again",
+        "comments": "I love light and hydrating it is on my face, and lasts all day",
+        "nickname": "Natalie",
+        "location": "Eastlake,ohio",
+        "created_date": 1672620319360,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 439201350,
+        "rating": 3,
+        "headline": "Cute Packaging, Minimal Results",
+        "comments": "I tried Neutrogena Hydro Boost Eye Cream a few months ago. My eyes started looking more dry, causing my concealers to crease & crackle. This did nothing to improve my concealer's appearance. My dark circles have lightened over time so I can't say the cream improved them. I liked the turquoise tube. It made it really hygienic & easy to get the proper dose. It tapped in easily w/no irritation. It didn't contribute to milia. I used a full tube but will not repurchase. I prefer Neutrogena's makeup remover products to their other skincare products.",
+        "nickname": "SteelersFan81",
+        "location": "Murrells Inlet, SC",
+        "created_date": 1672546127756,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 438815810,
+        "rating": 5,
+        "headline": "The best hydrating formula",
+        "comments": "I have been using this product for the past year, and I love the results.I love how affordable it is.",
+        "nickname": "Natalie",
+        "location": "Eastlake,oh",
+        "created_date": 1672179799905,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 438360872,
+        "rating": 1,
+        "headline": "Made my eyes water like crazy .",
+        "comments": "My left eye kept watering like crazy , at first I thought it was my make up but then I noticed it was watering before I put on my makeup. I changed everything in my skin care routine to see what it was and when I stopped using this product my eye stopped watering. I don't know if it's an ingredient or what but I've tried it several other times and it makes my eye water like crazy .",
+        "nickname": "Kendall",
+        "location": "New York , New York",
+        "created_date": 1671762990200,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 421843379,
+        "rating": 3,
+        "headline": "Not Ideal for Me",
+        "comments": "I like Neutrogena HydroBoost Eye Gel-Creme's tube & narrow nozzle. It's a tad pricey. I was looking for an eye product that would reduce my dark circles & fine lines. This did nothing for either issue after using half the tube consistantly. My concealers don't look fresh & lovely atop this Gel-Creme. I suppose a Pro is the amount you get. It took two months to use half the tube. I have no motivation to finish it or recommend it to anyone else. Perhaps someone w/out crow's feet & circles would appreciate it. I'm 41 & the lines popped up last year seemingly overnight. My circles have stayed w/me off & on since College. I've already returned to L'oreal Eye Defense. It actually works & costs roughly the same. You get both Hyaluronic Acid & Caffeine.",
+        "nickname": "SteelersFan81",
+        "location": "Murrells Inlet, SC",
+        "created_date": 1661361952151,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 417625926,
+        "rating": 5,
+        "headline": "My undereye bags disappeared!",
+        "comments": "My undereye area is much smoother and tighter after using this product for just two weeks. I'm very happy with these results, especially at such a reasonable price!",
+        "nickname": "Cassie",
+        "location": "Lakeland, FL",
+        "created_date": 1658156436830,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 414821272,
+        "rating": 4,
+        "headline": "A nice gel for your eyes",
+        "comments": "This is an eye gel, it is light and delicate.  It is a new product that I'm trying out.",
+        "nickname": "1webcat",
+        "location": "Columbus, OH",
+        "created_date": 1656255224453,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 404282897,
+        "rating": 1,
+        "headline": "Cracked, red and dry under eyes",
+        "comments": "I've had this product for about 4 months, ever since I started using it the next morning my undereyes are so dried they crack, they burn and are irritated and completely red. I've only used this product about 4 times, not the smartest idea but I've thought maybe the irritation could have been something else but many others are having the same issue as I've read on the reviews. SAVE YOUR EYE AREA AND STAY AWAY!",
+        "nickname": "Lm",
+        "location": "New Jersey",
+        "created_date": 1649082680193,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 401375949,
+        "rating": 1,
+        "headline": "Eye Discoleration",
+        "comments": "Used it only once and within an hour had dark circles under my eyes. Eyes were extremely itchy and red as well. Like the other reviews, do not buy this.",
+        "nickname": "Madison",
+        "location": "United States",
+        "created_date": 1646885483658,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 400469147,
+        "rating": 1,
+        "headline": "Burning bumps,dry patches",
+        "comments": "Used this every day for maybe two weeks and got one medium sized dry, itchy, burning patch under my eye, thought it was from cold weather. Used this last night like normal and got burning red bumps all over my under eyes. Wouldn't recommend! Seems like this has been a common complaint as well.",
+        "nickname": "Tspinks10921",
+        "location": "Frankfort KY",
+        "created_date": 1646043551975,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 399816013,
+        "rating": 5,
+        "headline": "Great eye cream",
+        "comments": "best thing about this eye gel is that I don't have to wait for it to \"dry\" before I put on my eye makeup.  I makes my wrinkles around by eyes seem to disappear",
+        "nickname": "susan",
+        "location": "austin tx",
+        "created_date": 1645459351115,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 380587844,
+        "rating": 3,
+        "headline": "Does nothing",
+        "comments": "After using this product for months and finishing the entire bottle, I found that it literally does nothing. My under eyes look the exact same. It's meh.",
+        "nickname": "Sulin",
+        "location": "Dallas, Texas",
+        "created_date": 1631667984476,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 359360169,
+        "rating": 4,
+        "headline": "Mixed feelings",
+        "comments": "Somewhat mixed feelings. So far (and I'll probably be jinxing myself), this is the ONLY eye cream I've used so far that's helped with my dark circles. Even if only temporary, I've seen decent results. Only complaint would be that the absorption is kinda odd?? It takes awhile for it to absorb and I'll sometimes need to wipe any access cream. Leaves a shine too. Might update later on.",
+        "nickname": "lmr2001",
+        "location": "Des Moines IA",
+        "created_date": 1625165880756,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 182,
+      "pages_total": 10,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod12041839/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "10 Minutes",
+              "count": 11
+            },
+            {
+              "label": "30 Minutes",
+              "count": 10
+            },
+            {
+              "label": "1+ Hour",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 37
+            },
+            {
+              "label": "Tired Eyes",
+              "count": 32
+            },
+            {
+              "label": "Puffiness",
+              "count": 26
+            },
+            {
+              "label": "Wrinkles",
+              "count": 18
+            },
+            {
+              "label": "Women",
+              "count": 14
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 13
+            },
+            {
+              "label": "Dark Circles",
+              "count": 12
+            },
+            {
+              "label": "Fine Lines/Wrinkles",
+              "count": 9
+            },
+            {
+              "label": "Men",
+              "count": 8
+            },
+            {
+              "label": "Loose Skin",
+              "count": 5
+            },
+            {
+              "label": "On-the-go",
+              "count": 5
+            },
+            {
+              "label": "Oily Skin",
+              "count": 4
+            },
+            {
+              "label": "Dry Skin",
+              "count": 2
+            },
+            {
+              "label": "Before bed",
+              "count": 1
+            },
+            {
+              "label": "under eyes, crows feet, and anywhere",
+              "count": 1
+            },
+            {
+              "label": "De puffing",
+              "count": 1
+            },
+            {
+              "label": "For hydrating your under eye area",
+              "count": 1
+            },
+            {
+              "label": "Helps creasing under eyes for concealer",
+              "count": 1
+            },
+            {
+              "label": "Redness/ Blotchiness",
+              "count": 1
+            },
+            {
+              "label": "Combination to Oily Skin",
+              "count": 1
+            },
+            {
+              "label": "Under Concealer",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "Dry Eyes",
+              "count": 1
+            },
+            {
+              "label": "Eyelid dryness",
+              "count": 1
+            },
+            {
+              "label": "Excessive Dryness",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "Good To Use Before Flying",
+              "count": 1
+            },
+            {
+              "label": "dry skin near eyelashes",
+              "count": 1
+            },
+            {
+              "label": "Dryness",
+              "count": 1
+            },
+            {
+              "label": "Dry under eyes",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Before bed",
+            "Combination to Oily Skin",
+            "Daily Use",
+            "Dark Circles",
+            "De puffing",
+            "Dry Eyes",
+            "Dry Skin",
+            "Dry under eyes",
+            "Dryness",
+            "Enlarged Pores",
+            "Excessive Dryness",
+            "Eyelid dryness",
+            "Fine Lines/Wrinkles",
+            "For hydrating your under eye area",
+            "Good To Use Before Flying",
+            "Helps creasing under eyes for concealer",
+            "Loose Skin",
+            "Men",
+            "None",
+            "Oily Skin",
+            "On-the-go",
+            "Puffiness",
+            "Redness/ Blotchiness",
+            "Sensitive Skin",
+            "Sensitive skin",
+            "Tired Eyes",
+            "Under Concealer",
+            "Uneven Skin Tone",
+            "Weekly Use",
+            "Women",
+            "Wrinkles",
+            "dry skin near eyelashes",
+            "under eyes, crows feet, and anywhere"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Not Effective",
+              "count": 6
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 4
+            },
+            {
+              "label": "Irritates Eyes",
+              "count": 3
+            },
+            {
+              "label": "Slow absorption",
+              "count": 1
+            },
+            {
+              "label": "NONE",
+              "count": 1
+            },
+            {
+              "label": "Doesn't help dark circles this is for hydration",
+              "count": 1
+            },
+            {
+              "label": "Slightly Pricey",
+              "count": 1
+            },
+            {
+              "label": "Too Dry",
+              "count": 1
+            },
+            {
+              "label": "Pricey / Poor Value",
+              "count": 1
+            },
+            {
+              "label": "Too expensive",
+              "count": 1
+            },
+            {
+              "label": "Waiting To See Results",
+              "count": 1
+            },
+            {
+              "label": "Pricey",
+              "count": 1
+            },
+            {
+              "label": "None to Date",
+              "count": 1
+            },
+            {
+              "label": "Burns",
+              "count": 1
+            },
+            {
+              "label": "A bit pricy",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "A bit pricy",
+            "Bad Smell",
+            "Burns",
+            "Complicated To Use",
+            "Doesn't help dark circles this is for hydration",
+            "Greasy",
+            "Heavy",
+            "Irritates Eyes",
+            "Irritates Skin",
+            "NONE",
+            "None to Date",
+            "Not Effective",
+            "Poor Texture",
+            "Pricey",
+            "Pricey / Poor Value",
+            "Slightly Pricey",
+            "Slow absorption",
+            "Too Dry",
+            "Too Greasy",
+            "Too expensive",
+            "Unpleasant Scent",
+            "Waiting To See Results"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Budget Shopper",
+              "count": 43
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 31
+            },
+            {
+              "label": "Beauty Conscious",
+              "count": 12
+            },
+            {
+              "label": "Beauty Expert",
+              "count": 2
+            },
+            {
+              "label": "Minimalist",
+              "count": 2
+            },
+            {
+              "label": "Medium skin tone, combination skin",
+              "count": 1
+            },
+            {
+              "label": "Combination skin",
+              "count": 1
+            },
+            {
+              "label": "Skin Care Professional",
+              "count": 1
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Combination skin",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Medium skin tone, combination skin",
+            "Minimalist",
+            "Skin Care Professional",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Lightweight",
+              "count": 88
+            },
+            {
+              "label": "Effective",
+              "count": 61
+            },
+            {
+              "label": "Good Value",
+              "count": 43
+            },
+            {
+              "label": "Gentle",
+              "count": 40
+            },
+            {
+              "label": "Soothing",
+              "count": 34
+            },
+            {
+              "label": "Easy To Use",
+              "count": 20
+            },
+            {
+              "label": "Moisturizes",
+              "count": 16
+            },
+            {
+              "label": "Smells Great",
+              "count": 16
+            },
+            {
+              "label": "Softens Skin",
+              "count": 15
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 13
+            },
+            {
+              "label": "Soothes Skin",
+              "count": 9
+            },
+            {
+              "label": "Light weight",
+              "count": 2
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Absorbs quickly",
+              "count": 1
+            },
+            {
+              "label": "Too many to list",
+              "count": 1
+            },
+            {
+              "label": "De puffs",
+              "count": 1
+            },
+            {
+              "label": "Glow",
+              "count": 1
+            },
+            {
+              "label": "Helps with creasing under makeup",
+              "count": 1
+            },
+            {
+              "label": "Hydrates",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Skin feels hydrated!",
+              "count": 1
+            },
+            {
+              "label": "Organic",
+              "count": 1
+            },
+            {
+              "label": "Smoothing",
+              "count": 1
+            },
+            {
+              "label": "Just \"hydrates\"",
+              "count": 1
+            },
+            {
+              "label": "great for sensitve skin",
+              "count": 1
+            },
+            {
+              "label": "Cooling",
+              "count": 1
+            },
+            {
+              "label": "Refreshing",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Smear Eyeliner",
+              "count": 1
+            },
+            {
+              "label": "Dry Skin Around Eye Area",
+              "count": 1
+            },
+            {
+              "label": "The Area Around My Eyes A",
+              "count": 1
+            },
+            {
+              "label": "No Fragrance",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Absorbs quickly",
+            "Cooling",
+            "De puffs",
+            "Doesn't Smear Eyeliner",
+            "Dry Skin Around Eye Area",
+            "Easy To Use",
+            "Effective",
+            "Gentle",
+            "Glow",
+            "Good Value",
+            "Helps with creasing under makeup",
+            "Hydrates",
+            "Hydrating",
+            "Just \"hydrates\"",
+            "Light weight",
+            "Lightweight",
+            "Moisturizes",
+            "Moisturizing",
+            "No Fragrance",
+            "Non-Greasy",
+            "Organic",
+            "Refreshing",
+            "Skin feels hydrated!",
+            "Smells Great",
+            "Smoothing",
+            "Softens Skin",
+            "Soothes Skin",
+            "Soothing",
+            "The Area Around My Eyes A",
+            "Too many to list",
+            "great for sensitve skin"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 8
+            },
+            {
+              "label": "Dry",
+              "count": 6
+            },
+            {
+              "label": "Normal",
+              "count": 6
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        28,
+        8,
+        23,
+        33,
+        90
+      ],
+      "review_histogram": [
+        28,
+        8,
+        23,
+        33,
+        90
+      ],
+      "rating_count": 182,
+      "review_count": 182,
+      "average_rating": 3.82,
+      "recommended_ratio": 0.82,
+      "media": [
+        {
+          "id": "327816322",
+          "review_id": 327816321,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/utozojehvmcu9tskdws7.jpg",
+          "headline": "Irritating",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Tammy",
+          "created_date": 1612617318715
+        },
+        {
+          "id": "241299987",
+          "review_id": 241299996,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/kjad5ere8bxbonllraob.jpg",
+          "headline": "Better than Obaji eye gel",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "L",
+          "created_date": 1561605289480
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I've been using this product non-stop for the last 6-7 months and I will say that it is absolutely AMAZING. I've had undereye \"bags\" since I was a child, which always made me look so tired. I was browsing through Ulta one day and saw this product on sale. I saw that it had hyaluronic acid in it (which is wonderful for the skin) so I figured that I'd try it. I have tried numerous eye creams from brands like Benefit, Clinique, Olay, Skyn, etc. You name it, I've bought it. My eyes are naturally deep set, so there's always a shadow. I can't help that and there will never be a cream that will get rid of that \"darkness\". However, this cream helped because it reduced the puffy bags and really hydrated my skin, which kinda \"brightened\" and lifted my tired eyes. My bags de-puffed overnight. It is crazy how this cream transformed my undereye area. I do keep this in the fridge just because the \"cooling\" effect is almost orgasmic. It is a staple in my morning and nighttime routine. Can't live without it. You need this cream if you haven't bought it yet.",
+        "headline": "Absolutely LOVE!",
+        "rating": 5,
+        "ugc_id": 190586625
+      },
+      "faceoff_negative": {
+        "comments": "This has the EXACT same ingredient list, word for word, as the Neutrogena Hydro Boost Gel Cream in the tub for the face. Don't waste your money! It's a marketing ploy.",
+        "headline": "Same ingredients as Hydro Boost Gel Cream!",
+        "rating": 1,
+        "ugc_id": 190586613
+      },
+      "name": "Hydro Boost Eye Gel-Cream",
+      "native_review_count": 182,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

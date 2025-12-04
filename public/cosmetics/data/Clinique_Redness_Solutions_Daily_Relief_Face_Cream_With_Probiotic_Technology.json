@@ -1,0 +1,2544 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/redness-solutions-daily-relief-face-cream-with-probiotic-technology-xlsImpprod10791833",
+  "extracted_at": "2025-09-23T05:00:20.474328+00:00",
+  "product_name": "CliniqueRedness Solutions Daily Relief Face Cream With Probiotic Technology",
+  "brand": "Clinique",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Face Moisturizer"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "65.00",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "1008",
+  "images": [
+    "https://media.ulta.com/i/ulta/2157845?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2157845?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157845cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157845cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157845cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157845cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2157845cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2157845cm_vid01/thumbs/5b812a07-0dd9-4107-ad8c-3fcf795b6e4f?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsSustainable PackagingClinique Redness Solutions Daily Relief Face Cream is an extra-gentle, oil-free moisturizing cream that soothes and comforts visible redness, blotchiness.",
+  "details": "DetailsBenefitsFor any skin with occasional or persistent redness.Instantly calms skins with visible redness.Cream visibly soothes redness, blotchiness.Microbiome Technology includes Clinique's patented lactobacillus extract, which helps visibly soothe to support skin's natural microbiome.Use the Clinique Redness Solutions regimen to see an improvement in visible redness: cleanse with Soothing Cleanser, comfort with Daily Relief Cream, protect with Daily Protective Base. A consistent, non-irritating routine helps get redness under control.Dermatologist tested.Non-acnegenic.Allergy tested.Formulated WithoutParabensPhthalatesOilDenatured alcoholSLSSLESSulfatesFragranceItem 2157845How To UseUse face cream twice a day, morning and night. Apply over makeup-free skin, avoiding eye area.Tips: For more redness relief, use after Redness Solutions Soothing Cleanser. Wear sunscreen every day - redness-prone skins may be more sensitive to sun exposure. Try Clinique's gentle formula: Redness Solutions Daily Protective Base SPF 15.IngredientsWater\\Aqua\\Eau, Cyclopentasiloxane, Butyrospermum Parkii (Shea Butter), Cetearyl Alcohol, Hydrogenated Polyisobutene, Butylene Glycol, Glycerin, Sucrose, Isostearyl Palmitate, PEG-100 Stearate, Camellia Sinensis (Green Tea) Leaf Extract, Polygonum Cuspidatum Root Extract, Hordeum Vulgare (Barley) Extract\\Extrait D'Orge, Triticum Vulgare (Wheat) Germ Extract, Cetearyl Glucoside, Camellia Sinensis (Yellow Tea) Leaf Extract, Aspalathus Linearis (Red Tea) Leaf Extract, Saccharomyces Lysate Extract, Ascophyllum Nodosum Extract, Asparagopsis Armata Extract, Camellia Sinensis (White Tea) Leaf Extract, Yeast Extract\\Faex\\Extrait De Levure, Algae Extract, Caffeine, Lactobacillus Ferment, Sodium Lauroyl Oat Amino Acids, Hydrogenated Lecithin, Polyethylene, Glyceryl Stearate, Salicylic Acid, Sorbitol, Methyl Glucose Sesquistearate, Cholesterol, Linoleic Acid, Acetyl Carnitine HCL, Glycine, Inulin, Tromethamine, Decarboxy Carnosine Hcl, Phytosphingosine, Cetyl Alcohol, Tocopheryl Acetate, Bisabolol, Squalane, HDI/Trimethylol Hexyllactone Crosspolymer, Behenyl Alcohol, Carbomer, Silica, Disodium EDTA, Potassium Sorbate, Phenoxyethanol, Blue 1 (CI 42090), Yellow 5 (CI 19140), Chromium Hydroxide Green (CI 77289), Titanium Dioxide (CI 77891), Mica.Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Use face cream twice a day, morning and night. Apply over makeup-free skin, avoiding eye area.Tips: For more redness relief, use after Redness Solutions Soothing Cleanser. Wear sunscreen every day - redness-prone skins may be more sensitive to sun exposure. Try Clinique's gentle formula: Redness Solutions Daily Protective Base SPF 15.",
+  "ingredients": [
+    "Water\\Aqua\\Eau",
+    "Cyclopentasiloxane",
+    "Butyrospermum Parkii (Shea Butter)",
+    "Cetearyl Alcohol",
+    "Hydrogenated Polyisobutene",
+    "Butylene Glycol",
+    "Glycerin",
+    "Sucrose",
+    "Isostearyl Palmitate",
+    "PEG-100 Stearate",
+    "Camellia Sinensis (Green Tea) Leaf Extract",
+    "Polygonum Cuspidatum Root Extract",
+    "Hordeum Vulgare (Barley) Extract\\Extrait D'Orge",
+    "Triticum Vulgare (Wheat) Germ Extract",
+    "Cetearyl Glucoside",
+    "Camellia Sinensis (Yellow Tea) Leaf Extract",
+    "Aspalathus Linearis (Red Tea) Leaf Extract",
+    "Saccharomyces Lysate Extract",
+    "Ascophyllum Nodosum Extract",
+    "Asparagopsis Armata Extract",
+    "Camellia Sinensis (White Tea) Leaf Extract",
+    "Yeast Extract\\Faex\\Extrait De Levure",
+    "Algae Extract",
+    "Caffeine",
+    "Lactobacillus Ferment",
+    "Sodium Lauroyl Oat Amino Acids",
+    "Hydrogenated Lecithin",
+    "Polyethylene",
+    "Glyceryl Stearate",
+    "Salicylic Acid",
+    "Sorbitol",
+    "Methyl Glucose Sesquistearate",
+    "Cholesterol",
+    "Linoleic Acid",
+    "Acetyl Carnitine HCL",
+    "Glycine",
+    "Inulin",
+    "Tromethamine",
+    "Decarboxy Carnosine Hcl",
+    "Phytosphingosine",
+    "Cetyl Alcohol",
+    "Tocopheryl Acetate",
+    "Bisabolol",
+    "Squalane",
+    "HDI/Trimethylol Hexyllactone Crosspolymer",
+    "Behenyl Alcohol",
+    "Carbomer",
+    "Silica",
+    "Disodium EDTA",
+    "Potassium Sorbate",
+    "Phenoxyethanol",
+    "Blue 1 (",
+    "Yellow 5 (",
+    "Chromium Hydroxide Green (",
+    "Titanium Dioxide (",
+    "Mica.Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "moisturizer"
+    ],
+    "skin_type": [
+      "oily",
+      "dry",
+      "sensitive",
+      "acne-prone"
+    ],
+    "finish": [
+      "sheer",
+      "cream",
+      "oil"
+    ],
+    "color": [
+      "red"
+    ],
+    "ingredients": [
+      "salicylic-acid"
+    ],
+    "brand": [
+      "luxury",
+      "premium"
+    ],
+    "special_features": [
+      "natural",
+      "dermatologist-tested",
+      "hypoallergenic",
+      "oil-free",
+      "spf",
+      "hydrating",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod10791833",
+    "total_reviews": 1008,
+    "reviews": [
+      {
+        "review_id": 562983292,
+        "rating": 5,
+        "headline": "It really works!",
+        "comments": "Helps keep my mild rosacea in check while keeping my skin super soft.",
+        "nickname": "Beth",
+        "location": "CT",
+        "created_date": 1757331992512,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 561185630,
+        "rating": 5,
+        "headline": "Most definitely a repeat buy!",
+        "comments": "This relief cream is wonderful, no burning or itching like others and it does take away some of the redness in my face",
+        "nickname": "Rachel",
+        "location": "Laporte Indiana",
+        "created_date": 1756312131882,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554813781,
+        "rating": 3,
+        "headline": "Reduce redness somewhat but redness still there after 2 jars",
+        "comments": "Reduce redness somewhat but redness still there after 2 jars",
+        "nickname": "Angie",
+        "location": "Garden Grove, CA",
+        "created_date": 1749507577697,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554712532,
+        "rating": 4,
+        "headline": "It's good stuff",
+        "comments": "I like this stuff a lot, however sometimes it diesnt clear the redness and can cause some redness when applying it. But overall it does work pretty well, you just have to give it a chance!",
+        "nickname": "Carlay",
+        "location": "CA",
+        "created_date": 1749331375176,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553644669,
+        "rating": 1,
+        "headline": "My experience with this product",
+        "comments": "i have sensitive skin and this made it worse it did not make the redness go away it made me get face blisters and it just did not work for me at all",
+        "nickname": "none",
+        "location": "utah",
+        "created_date": 1747790806558,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553593987,
+        "rating": 1,
+        "headline": "Just my personal opinion and experience",
+        "comments": "i got this thinking it would clear up my redness but instead it made it worse and it caused to to get face blisters not pimples but face blisters",
+        "nickname": ".",
+        "location": "utah",
+        "created_date": 1747684146074,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 553593994,
+        "rating": 1,
+        "headline": "Just my personal opinion and experience",
+        "comments": "i got this thinking it would clear up my redness but instead it made it worse and it caused to to get face blisters not pimples but face blisters",
+        "nickname": ".",
+        "location": "utah",
+        "created_date": 1747684145502,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 552124226,
+        "rating": 5,
+        "headline": "I would definitely purchase this product again",
+        "comments": "It took the redness of my face away.\nFinally found the right product for my face.",
+        "nickname": "",
+        "location": "Missouri",
+        "created_date": 1745251026162,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 551376755,
+        "rating": 5,
+        "headline": "Yes excellent",
+        "comments": "I saw this cream online on ULTA. I went in to get a sample at the Clinique counter.   I have red in my face and in one area is my right cheekbone that really stands out more red.   I apply my foundation and it covers some what but that cheek bone still shows red.  After washing off my makeup I applied the Redness Solution cream. I was amazed in the morning that I could see a difference in my face.  My cheek bone was still red but the red was lighter, yep lighter. The rest of my face was better.  I have been using it in the morning and no foundation primer.  Really it works for me without using a primer.  That's because one less step, and at night.   I absolutely love this cream.  Finally found something that works.  Morning I do shave and applying this cream after does not burn nothing, i do not put any other cream on.   I wait a few minutes just enough to set up my train case to get ready to my makeup on.  Night time I go through removing everything and use my clarifying lotion then apply my Redness cream.  Thats it.  It doesn't pill on me it's nice cream. It's not greasy.  Its been a month now.  My foundation looks better and  I checked outside and it looks good.  That's a plus.  I have many points and will use them to buy another jar.  Hoping for a sale.",
+        "nickname": "Judy",
+        "location": "Chico, Ca",
+        "created_date": 1744312349101,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550756452,
+        "rating": 2,
+        "headline": "Not moisturizing at all.",
+        "comments": "This \"moisturizer\" is not dry winter skin friendly. In fact, it dried out my skin so much that the texture of my skin changed.",
+        "nickname": "Mel",
+        "location": "Orange County, CA",
+        "created_date": 1743383162955,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 550159029,
+        "rating": 5,
+        "headline": "I like the product it takes away the redness",
+        "comments": "It takes away the redness and calms down the\n skin. It pairs well with Clinique CC cream for redness.",
+        "nickname": "",
+        "location": "Dallas, TX",
+        "created_date": 1743164883790,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547026357,
+        "rating": 5,
+        "headline": "Noticed a difference first time using this.",
+        "comments": "I struggled with finding the right foundation, misjudging the pinkness in my face.  The Clinique consultatnt recommended this moisturizer.  It counteracts the redness without adding an errie green cast.  It is a great moisturizer as well.",
+        "nickname": "Sue",
+        "location": "Michigan",
+        "created_date": 1740069533427,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543828625,
+        "rating": 3,
+        "headline": "Didn't help with my redness",
+        "comments": "I had high hopes for this because Clinique is pretty good quality. However, it did not help with my facial redness. I'm pretty sure I have rosacea (never officially diagnosed). Eucerin face lotion and beef tallow work better for my red skin tbh.",
+        "nickname": "Kenz",
+        "location": "Colorado",
+        "created_date": 1737562520376,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 542238729,
+        "rating": 4,
+        "headline": "So far I like it",
+        "comments": "It sorta was a little burny the first two days, it does help alot with the redness like it says",
+        "nickname": "Danielle",
+        "location": "MI",
+        "created_date": 1736021091847,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541954779,
+        "rating": 3,
+        "headline": "A little bit goes along way",
+        "comments": "Should last a good amount of time",
+        "nickname": "Do not post last name or email address",
+        "location": "Redwood City",
+        "created_date": 1735493506361,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541492412,
+        "rating": 5,
+        "headline": "Excellent for rosacea and sensitive skin, get it!",
+        "comments": "This has been a lifesaver for my skin! I've had rosacea and sensitive skin for years. My cheeks would get so red and actually feel like they were burning and I'd never let anyone see me without makeup. Tried so many products. My dermatologist told me stick to a simple routine and don't fall into the fads of multiple products.  I started using this after cleansing and using the level 1 toner and after a few days what a difference. I now use it every morning, goes very well under my primer and foundation, and use it every evening. I'll follow with Farmacy Honey Halo at night and on days I'm not wearing makeup. My skin finally feels comfortable and I don't look crazy red all the time.  Highly recommend this product. Give it a consistent try if you have red sensitive skin and I hope you get relief like I have. Been using over a year now .",
+        "nickname": "Kelly",
+        "location": "VA",
+        "created_date": 1734663540882,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539964867,
+        "rating": 1,
+        "headline": "Wanted to love it",
+        "comments": "I wanted to love this. I have fair skin and deal with a lot of redness. It gets worse the older I get. The first day I used this product I felt like my face looked fresh, clear. I was so happy. Finally, a product that calmed the redness. I felt like the redness aged me. Over the next few days I noticed that my face was getting beat red. I looked like I had hives. By day 4 my face has itchy and burning. I am so sad. I don't typically react to skin care products like that. I am not sure what could be irritating my skin, but this is definitely causing inflammation. I'm disappointed that it cost this much for me to have recieved that kind of reaction.",
+        "nickname": "Aleshia",
+        "location": "Texas",
+        "created_date": 1734093078987,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539518673,
+        "rating": 5,
+        "headline": "Helps sensitive skin",
+        "comments": "I have tried many different facial lotions that don't irritate my skin or cause a burning feeling with my rosacea. This is very light and calming to the face. It has really helped",
+        "nickname": "Clee",
+        "location": "Oregon",
+        "created_date": 1734023035318,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539208064,
+        "rating": 5,
+        "headline": "Smooth and calming",
+        "comments": "This is a soothing, lightweight lotion.",
+        "nickname": "Jennifer",
+        "location": "South Burlington, VT",
+        "created_date": 1733675894641,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538926205,
+        "rating": 5,
+        "headline": "Love it",
+        "comments": "I have very sensitive skin and redness around my nose and this has changed my skin! Its easy to use right away after washing my face its very light, so it does not clog my pores or leave my face feeling tacky. To see maximum results though, i would recommend using it with the redness relief cc cream by clinique. Havent found anything that works for my skin apart from dermablend in a long time!",
+        "nickname": "Jayda",
+        "location": "Rapid City, SD",
+        "created_date": 1733295782782,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 247,
+      "pages_total": 13,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod10791833/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "beautyroutine",
+          "name": "My Beauty Routine Takes",
+          "type": "tag",
+          "values": [
+            {
+              "label": "10 Minutes",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "1+ Hour",
+            "10 Minutes",
+            "30 Minutes"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Daily Use",
+              "count": 94
+            },
+            {
+              "label": "Dryness",
+              "count": 30
+            },
+            {
+              "label": "Deep Moisturization",
+              "count": 27
+            },
+            {
+              "label": "After Shower/Bath",
+              "count": 26
+            },
+            {
+              "label": "Redness/ Blotchiness",
+              "count": 10
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 9
+            },
+            {
+              "label": "Relieve Redness",
+              "count": 1
+            },
+            {
+              "label": "Day and Night",
+              "count": 1
+            },
+            {
+              "label": "harsh weather",
+              "count": 1
+            },
+            {
+              "label": "Redness",
+              "count": 1
+            },
+            {
+              "label": "Diagnosed with rosacea...  helps w/redness",
+              "count": 1
+            },
+            {
+              "label": "Great for anyone with redness issues",
+              "count": 1
+            },
+            {
+              "label": "Reduce redness, extreme dry skin",
+              "count": 1
+            },
+            {
+              "label": "I needed it twice a day",
+              "count": 1
+            },
+            {
+              "label": "Use before bed",
+              "count": 1
+            },
+            {
+              "label": "Enlarged Pores",
+              "count": 1
+            },
+            {
+              "label": "Uneven Skin Tone",
+              "count": 1
+            },
+            {
+              "label": "Controls redness",
+              "count": 1
+            },
+            {
+              "label": "Dry/Chapped Skin",
+              "count": 1
+            },
+            {
+              "label": "Combination skin",
+              "count": 1
+            },
+            {
+              "label": "Diminishes redness",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "After Shower/Bath",
+            "Combination skin",
+            "Controls redness",
+            "Daily Use",
+            "Day and Night",
+            "Deep Moisturization",
+            "Diagnosed with rosacea...  helps w/redness",
+            "Diminishes redness",
+            "Dry/Chapped Skin",
+            "Dryness",
+            "Enlarged Pores",
+            "Fine Lines/Wrinkles",
+            "Great for anyone with redness issues",
+            "I needed it twice a day",
+            "Men",
+            "Oily Skin",
+            "On-the-go",
+            "Redness",
+            "Redness/ Blotchiness",
+            "Reduce redness, extreme dry skin",
+            "Relieve Redness",
+            "Sensitive Skin",
+            "Uneven Skin Tone",
+            "Use before bed",
+            "Weekly Use",
+            "Women",
+            "harsh weather"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Pricey / Poor Value",
+              "count": 12
+            },
+            {
+              "label": "expensive",
+              "count": 10
+            },
+            {
+              "label": "none",
+              "count": 5
+            },
+            {
+              "label": "Bad Smell",
+              "count": 3
+            },
+            {
+              "label": "Not Long-Lasting",
+              "count": 3
+            },
+            {
+              "label": "price",
+              "count": 3
+            },
+            {
+              "label": "Pricey",
+              "count": 2
+            },
+            {
+              "label": "None",
+              "count": 2
+            },
+            {
+              "label": "Heavy",
+              "count": 2
+            },
+            {
+              "label": "no pump",
+              "count": 2
+            },
+            {
+              "label": "no spf",
+              "count": 2
+            },
+            {
+              "label": "a little expensive",
+              "count": 2
+            },
+            {
+              "label": "didn't help the redness at all",
+              "count": 2
+            },
+            {
+              "label": "Price",
+              "count": 1
+            },
+            {
+              "label": "Cannot think of any",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Absorb Well",
+              "count": 1
+            },
+            {
+              "label": "Thicker than avg moisturizers",
+              "count": 1
+            },
+            {
+              "label": "Doesn't color correct",
+              "count": 1
+            },
+            {
+              "label": "Do expensive",
+              "count": 1
+            },
+            {
+              "label": "Irritates Contact Lens",
+              "count": 1
+            },
+            {
+              "label": "Not Effective",
+              "count": 1
+            },
+            {
+              "label": "Greasy",
+              "count": 1
+            },
+            {
+              "label": "Irritates Skin",
+              "count": 1
+            },
+            {
+              "label": "Jar packaging",
+              "count": 1
+            },
+            {
+              "label": "Caused breakouts",
+              "count": 1
+            },
+            {
+              "label": "Did not effect redness",
+              "count": 1
+            },
+            {
+              "label": "Didn't do as advertized",
+              "count": 1
+            },
+            {
+              "label": "No sun protection",
+              "count": 1
+            },
+            {
+              "label": "Does NOT Settle or even out Redness",
+              "count": 1
+            },
+            {
+              "label": "could be more moisturizing",
+              "count": 1
+            },
+            {
+              "label": "clinique needs to make a bigger size.",
+              "count": 1
+            },
+            {
+              "label": "it controls redness does not remove it.",
+              "count": 1
+            },
+            {
+              "label": "thick consistency",
+              "count": 1
+            },
+            {
+              "label": "did not help my redness",
+              "count": 1
+            },
+            {
+              "label": "my skin is a little bit oilier in the mornings",
+              "count": 1
+            },
+            {
+              "label": "no night cream",
+              "count": 1
+            },
+            {
+              "label": "wish they had a night-time cream",
+              "count": 1
+            },
+            {
+              "label": "drying",
+              "count": 1
+            },
+            {
+              "label": "great product.",
+              "count": 1
+            },
+            {
+              "label": "oily skin? not sure this is 4 you.",
+              "count": 1
+            },
+            {
+              "label": "cost",
+              "count": 1
+            },
+            {
+              "label": "takes a while to work but it does.",
+              "count": 1
+            },
+            {
+              "label": "didn't decrease redness",
+              "count": 1
+            },
+            {
+              "label": "for the price the change may not be worth it",
+              "count": 1
+            },
+            {
+              "label": "expensive but a little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "none-other than wished i had had this sooner!",
+              "count": 1
+            },
+            {
+              "label": "i wish it absorbsd a little faster however not a",
+              "count": 1
+            },
+            {
+              "label": "a little on the pricey side",
+              "count": 1
+            },
+            {
+              "label": "amount in bottle",
+              "count": 1
+            },
+            {
+              "label": "be nice in a pump",
+              "count": 1
+            },
+            {
+              "label": "makes foundation melt off faster",
+              "count": 1
+            },
+            {
+              "label": "too greasy",
+              "count": 1
+            },
+            {
+              "label": "amount of cream in the bottle",
+              "count": 1
+            },
+            {
+              "label": "not as moisturizing as dramatically different",
+              "count": 1
+            },
+            {
+              "label": "price but worth it!",
+              "count": 1
+            },
+            {
+              "label": "pricy",
+              "count": 1
+            },
+            {
+              "label": "wish it had some anit aging benefits",
+              "count": 1
+            },
+            {
+              "label": "not particularly moisturizing",
+              "count": 1
+            },
+            {
+              "label": "slow to absorb",
+              "count": 1
+            },
+            {
+              "label": "burned my skin",
+              "count": 1
+            },
+            {
+              "label": "did not help redness",
+              "count": 1
+            },
+            {
+              "label": "greasy",
+              "count": 1
+            },
+            {
+              "label": "needs to be in a pump!",
+              "count": 1
+            },
+            {
+              "label": "doesn't take the red away",
+              "count": 1
+            },
+            {
+              "label": "does not cover all redness",
+              "count": 1
+            },
+            {
+              "label": "would like a bigger jar",
+              "count": 1
+            },
+            {
+              "label": "i was supposed to receive amakeup bag. none so far",
+              "count": 1
+            },
+            {
+              "label": "wish it worked faster",
+              "count": 1
+            },
+            {
+              "label": "skin is a bit dry",
+              "count": 1
+            },
+            {
+              "label": "cannot cover up flare ups",
+              "count": 1
+            },
+            {
+              "label": "price!!!!!!!",
+              "count": 1
+            },
+            {
+              "label": "a tad big greasy but that is likely my complexion",
+              "count": 1
+            },
+            {
+              "label": "the moisture doesn't last all day!",
+              "count": 1
+            },
+            {
+              "label": "i could use more moisture in winter.",
+              "count": 1
+            },
+            {
+              "label": "somewhat heavy for oily skin",
+              "count": 1
+            },
+            {
+              "label": "jar is too small",
+              "count": 1
+            },
+            {
+              "label": "doesn't alleviate mild redness",
+              "count": 1
+            },
+            {
+              "label": "does not noticibly reduce redness",
+              "count": 1
+            },
+            {
+              "label": "could be cheaper but i would buy it regardless",
+              "count": 1
+            },
+            {
+              "label": "price and economy.but a necessary purchase.",
+              "count": 1
+            },
+            {
+              "label": "the jar lasts me only about 6 to 8 weeks",
+              "count": 1
+            },
+            {
+              "label": "doesn't eliminate the redness",
+              "count": 1
+            },
+            {
+              "label": "more redness coverage",
+              "count": 1
+            },
+            {
+              "label": "not immediate; must use consistently",
+              "count": 1
+            },
+            {
+              "label": "price!",
+              "count": 1
+            },
+            {
+              "label": "doesn't work \"instantly\"",
+              "count": 1
+            },
+            {
+              "label": "slightly greasy",
+              "count": 1
+            },
+            {
+              "label": "it is not working",
+              "count": 1
+            },
+            {
+              "label": "a little costly",
+              "count": 1
+            },
+            {
+              "label": "a little expensive but so woth the price!",
+              "count": 1
+            },
+            {
+              "label": "heavy and thick..wish it was creamier.",
+              "count": 1
+            },
+            {
+              "label": "jar makes dispensing a little messy",
+              "count": 1
+            },
+            {
+              "label": "pricing",
+              "count": 1
+            },
+            {
+              "label": "sometimes stings sensitive eye area",
+              "count": 1
+            },
+            {
+              "label": "like to have a larger size",
+              "count": 1
+            },
+            {
+              "label": "a little greasy",
+              "count": 1
+            },
+            {
+              "label": "wish it came in tube",
+              "count": 1
+            },
+            {
+              "label": "need to be patient for results",
+              "count": 1
+            },
+            {
+              "label": "not a fan of the little envelopes",
+              "count": 1
+            },
+            {
+              "label": "skimping on free products.",
+              "count": 1
+            },
+            {
+              "label": "no improvement",
+              "count": 1
+            },
+            {
+              "label": "doesn't smell nice but tolerable",
+              "count": 1
+            },
+            {
+              "label": "tastes bad but tolerable",
+              "count": 1
+            },
+            {
+              "label": "thick",
+              "count": 1
+            },
+            {
+              "label": "jar packaging",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Cannot think of any",
+            "Caused breakouts",
+            "Complicated To Use",
+            "Did not effect redness",
+            "Didn't do as advertized",
+            "Do expensive",
+            "Does NOT Settle or even out Redness",
+            "Doesn't Absorb Well",
+            "Doesn't Work",
+            "Doesn't color correct",
+            "Greasy",
+            "Heavy",
+            "Irritates Contact Lens",
+            "Irritates Skin",
+            "Jar packaging",
+            "No sun protection",
+            "None",
+            "Not Effective",
+            "Not Long-Lasting",
+            "Poor Texture",
+            "Price",
+            "Pricey",
+            "Pricey / Poor Value",
+            "Thicker than avg moisturizers",
+            "Too Greasy Or Heavy",
+            "a little costly",
+            "a little expensive",
+            "a little expensive but so woth the price!",
+            "a little greasy",
+            "a little on the pricey side",
+            "a tad big greasy but that is likely my complexion",
+            "amount in bottle",
+            "amount of cream in the bottle",
+            "be nice in a pump",
+            "burned my skin",
+            "cannot cover up flare ups",
+            "clinique needs to make a bigger size.",
+            "cost",
+            "could be cheaper but i would buy it regardless",
+            "could be more moisturizing",
+            "did not help my redness",
+            "did not help redness",
+            "didn't decrease redness",
+            "didn't help the redness at all",
+            "does not cover all redness",
+            "does not noticibly reduce redness",
+            "doesn't alleviate mild redness",
+            "doesn't eliminate the redness",
+            "doesn't smell nice but tolerable",
+            "doesn't take the red away",
+            "doesn't work \"instantly\"",
+            "drying",
+            "expensive",
+            "expensive but a little goes a long way",
+            "for the price the change may not be worth it",
+            "greasy",
+            "great product.",
+            "heavy and thick..wish it was creamier.",
+            "i could use more moisture in winter.",
+            "i was supposed to receive amakeup bag. none so far",
+            "i wish it absorbsd a little faster however not a",
+            "it controls redness does not remove it.",
+            "it is not working",
+            "jar is too small",
+            "jar makes dispensing a little messy",
+            "jar packaging",
+            "like to have a larger size",
+            "makes foundation melt off faster",
+            "more redness coverage",
+            "my skin is a little bit oilier in the mornings",
+            "need to be patient for results",
+            "needs to be in a pump!",
+            "no improvement",
+            "no night cream",
+            "no pump",
+            "no spf",
+            "none",
+            "none-other than wished i had had this sooner!",
+            "not a fan of the little envelopes",
+            "not as moisturizing as dramatically different",
+            "not immediate; must use consistently",
+            "not particularly moisturizing",
+            "oily skin? not sure this is 4 you.",
+            "price",
+            "price and economy.but a necessary purchase.",
+            "price but worth it!",
+            "price!",
+            "price!!!!!!!",
+            "pricing",
+            "pricy",
+            "skimping on free products.",
+            "skin is a bit dry",
+            "slightly greasy",
+            "slow to absorb",
+            "sometimes stings sensitive eye area",
+            "somewhat heavy for oily skin",
+            "takes a while to work but it does.",
+            "tastes bad but tolerable",
+            "the jar lasts me only about 6 to 8 weeks",
+            "the moisture doesn't last all day!",
+            "thick",
+            "thick consistency",
+            "too greasy",
+            "wish it came in tube",
+            "wish it had some anit aging benefits",
+            "wish it worked faster",
+            "wish they had a night-time cream",
+            "would like a bigger jar"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Beauty Conscious",
+              "count": 52
+            },
+            {
+              "label": "Survivalist / Minimalist",
+              "count": 43
+            },
+            {
+              "label": "Minimalist",
+              "count": 8
+            },
+            {
+              "label": "Beauty Expert",
+              "count": 7
+            },
+            {
+              "label": "Skin Care Professional",
+              "count": 4
+            },
+            {
+              "label": "Sensitive, dry, yet oily skin.",
+              "count": 1
+            },
+            {
+              "label": "Fair skin perioral dermatitis super sensitive",
+              "count": 1
+            },
+            {
+              "label": "Mild rosacea, rosey cheeks!",
+              "count": 1
+            },
+            {
+              "label": "Combination Skin",
+              "count": 1
+            },
+            {
+              "label": "Natural Look",
+              "count": 1
+            },
+            {
+              "label": "Sensitive Skin",
+              "count": 1
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Beauty Conscious",
+            "Beauty Expert",
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Combination Skin",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Fair skin perioral dermatitis super sensitive",
+            "Mild rosacea, rosey cheeks!",
+            "Minimalist",
+            "Natural Look",
+            "Sensitive Skin",
+            "Sensitive, dry, yet oily skin.",
+            "Skin Care Professional",
+            "Stylish/Fashionista",
+            "Survivalist / Minimalist",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Goes On Smoothly",
+              "count": 87
+            },
+            {
+              "label": "Moisturizes Well",
+              "count": 80
+            },
+            {
+              "label": "Not Greasy",
+              "count": 77
+            },
+            {
+              "label": "Absorbs Quickly",
+              "count": 71
+            },
+            {
+              "label": "Long Lasting",
+              "count": 50
+            },
+            {
+              "label": "Smells Great",
+              "count": 24
+            },
+            {
+              "label": "soothing",
+              "count": 14
+            },
+            {
+              "label": "Moisturizes",
+              "count": 12
+            },
+            {
+              "label": "Effective Sun Protection",
+              "count": 11
+            },
+            {
+              "label": "Lightweight",
+              "count": 11
+            },
+            {
+              "label": "Non-Greasy",
+              "count": 10
+            },
+            {
+              "label": "Soothes Skin",
+              "count": 10
+            },
+            {
+              "label": "Softens Skin",
+              "count": 8
+            },
+            {
+              "label": "cooling",
+              "count": 7
+            },
+            {
+              "label": "reduces redness",
+              "count": 7
+            },
+            {
+              "label": "Effective",
+              "count": 5
+            },
+            {
+              "label": "not oily",
+              "count": 5
+            },
+            {
+              "label": "moisturizing",
+              "count": 4
+            },
+            {
+              "label": "gentle",
+              "count": 4
+            },
+            {
+              "label": "calming",
+              "count": 3
+            },
+            {
+              "label": "oil free",
+              "count": 3
+            },
+            {
+              "label": "a little goes a long way",
+              "count": 3
+            },
+            {
+              "label": "very gentle",
+              "count": 3
+            },
+            {
+              "label": "calms redness",
+              "count": 2
+            },
+            {
+              "label": "lasts a long time",
+              "count": 2
+            },
+            {
+              "label": "it works!!!",
+              "count": 2
+            },
+            {
+              "label": "fragrance free",
+              "count": 2
+            },
+            {
+              "label": "non greasy",
+              "count": 2
+            },
+            {
+              "label": "moisturizes",
+              "count": 2
+            },
+            {
+              "label": "easy to use",
+              "count": 2
+            },
+            {
+              "label": "great moisturizer",
+              "count": 2
+            },
+            {
+              "label": "gentle soothing",
+              "count": 2
+            },
+            {
+              "label": "nice texture",
+              "count": 2
+            },
+            {
+              "label": "It works",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Redness reducing",
+              "count": 1
+            },
+            {
+              "label": "Rich",
+              "count": 1
+            },
+            {
+              "label": "Does what it says",
+              "count": 1
+            },
+            {
+              "label": "Sensitive skin friendly",
+              "count": 1
+            },
+            {
+              "label": "great for perioral dermatitis and reddness",
+              "count": 1
+            },
+            {
+              "label": "Minimizes Wrinkles",
+              "count": 1
+            },
+            {
+              "label": "Scent free",
+              "count": 1
+            },
+            {
+              "label": "Unscented is very important to me",
+              "count": 1
+            },
+            {
+              "label": "Great for sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "effective with red patches, dry flaky skin",
+              "count": 1
+            },
+            {
+              "label": "Definitely takes the redness out, / spider veins",
+              "count": 1
+            },
+            {
+              "label": "Soothing and calming",
+              "count": 1
+            },
+            {
+              "label": "Did what it professes to do",
+              "count": 1
+            },
+            {
+              "label": "Non-irritating",
+              "count": 1
+            },
+            {
+              "label": "Soothing",
+              "count": 1
+            },
+            {
+              "label": "Worth the price",
+              "count": 1
+            },
+            {
+              "label": "It made my Rosacea better by next day",
+              "count": 1
+            },
+            {
+              "label": "Not too heavily scented",
+              "count": 1
+            },
+            {
+              "label": "Reduces Redness",
+              "count": 1
+            },
+            {
+              "label": "Easy To Use",
+              "count": 1
+            },
+            {
+              "label": "Reduces redness",
+              "count": 1
+            },
+            {
+              "label": "Eliminates redness",
+              "count": 1
+            },
+            {
+              "label": "Haven't had it long enough tell if sun protectan",
+              "count": 1
+            },
+            {
+              "label": "seems thick but a little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "skin is smoother",
+              "count": 1
+            },
+            {
+              "label": "good customer care.",
+              "count": 1
+            },
+            {
+              "label": "the best products ever!!",
+              "count": 1
+            },
+            {
+              "label": "consistency",
+              "count": 1
+            },
+            {
+              "label": "non allergic products",
+              "count": 1
+            },
+            {
+              "label": "hydrating",
+              "count": 1
+            },
+            {
+              "label": "soothing for redness",
+              "count": 1
+            },
+            {
+              "label": "feels fresh",
+              "count": 1
+            },
+            {
+              "label": "texture",
+              "count": 1
+            },
+            {
+              "label": "light and feels good when applied",
+              "count": 1
+            },
+            {
+              "label": "it works and doesn't irritate my skin",
+              "count": 1
+            },
+            {
+              "label": "nice large jar",
+              "count": 1
+            },
+            {
+              "label": "only a small amount is needed at a time",
+              "count": 1
+            },
+            {
+              "label": "doesn't irritate sensitive skin.",
+              "count": 1
+            },
+            {
+              "label": "reduces redness long lasting softens skin!",
+              "count": 1
+            },
+            {
+              "label": "balances dry and oily areas",
+              "count": 1
+            },
+            {
+              "label": "really calms",
+              "count": 1
+            },
+            {
+              "label": "it worked for me.",
+              "count": 1
+            },
+            {
+              "label": "blends under makeup",
+              "count": 1
+            },
+            {
+              "label": "no greasy feeling",
+              "count": 1
+            },
+            {
+              "label": "repairs blotchiness and redness smoother skin",
+              "count": 1
+            },
+            {
+              "label": "it works!",
+              "count": 1
+            },
+            {
+              "label": "none",
+              "count": 1
+            },
+            {
+              "label": "calms redness and moisturizes",
+              "count": 1
+            },
+            {
+              "label": "de-intensifies redness",
+              "count": 1
+            },
+            {
+              "label": "great product for redness",
+              "count": 1
+            },
+            {
+              "label": "lightweight",
+              "count": 1
+            },
+            {
+              "label": "cools and soothes",
+              "count": 1
+            },
+            {
+              "label": "decent moisturizer",
+              "count": 1
+            },
+            {
+              "label": "slight unprovement",
+              "count": 1
+            },
+            {
+              "label": "calms down redness",
+              "count": 1
+            },
+            {
+              "label": "not greasy. not dry-feeling.",
+              "count": 1
+            },
+            {
+              "label": "feels good on my sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "really works to diminish redness",
+              "count": 1
+            },
+            {
+              "label": "feels awesome",
+              "count": 1
+            },
+            {
+              "label": "non-clogging",
+              "count": 1
+            },
+            {
+              "label": "it works!!!!",
+              "count": 1
+            },
+            {
+              "label": "it's not greasy or oily",
+              "count": 1
+            },
+            {
+              "label": "simply amazing!",
+              "count": 1
+            },
+            {
+              "label": "very soothing",
+              "count": 1
+            },
+            {
+              "label": "works well",
+              "count": 1
+            },
+            {
+              "label": "calms even the most red itchy skin",
+              "count": 1
+            },
+            {
+              "label": "mositurizes without feeling oily",
+              "count": 1
+            },
+            {
+              "label": "cooling and very moisturizing",
+              "count": 1
+            },
+            {
+              "label": "non greasy if patted on",
+              "count": 1
+            },
+            {
+              "label": "helps minimize redness",
+              "count": 1
+            },
+            {
+              "label": "helps to set up daily prtoective base",
+              "count": 1
+            },
+            {
+              "label": "instant cooling",
+              "count": 1
+            },
+            {
+              "label": "a liitle goes along way",
+              "count": 1
+            },
+            {
+              "label": "quells flareups",
+              "count": 1
+            },
+            {
+              "label": "soothing feel",
+              "count": 1
+            },
+            {
+              "label": "good at what it does",
+              "count": 1
+            },
+            {
+              "label": "great daily redness reducer",
+              "count": 1
+            },
+            {
+              "label": "worked quickly",
+              "count": 1
+            },
+            {
+              "label": "visibly reduces redness immediately",
+              "count": 1
+            },
+            {
+              "label": "feel nice going on",
+              "count": 1
+            },
+            {
+              "label": "reduces red color on my nose",
+              "count": 1
+            },
+            {
+              "label": "hard to apply too much",
+              "count": 1
+            },
+            {
+              "label": "light enough for florida humidity",
+              "count": 1
+            },
+            {
+              "label": "skin didn't react",
+              "count": 1
+            },
+            {
+              "label": "smoothed out skin",
+              "count": 1
+            },
+            {
+              "label": "not greasy",
+              "count": 1
+            },
+            {
+              "label": "smoothing",
+              "count": 1
+            },
+            {
+              "label": "moisturising",
+              "count": 1
+            },
+            {
+              "label": "visibly reduces redness with use",
+              "count": 1
+            },
+            {
+              "label": "does not aggravate sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "not greasy - can easily be worn under makeup",
+              "count": 1
+            },
+            {
+              "label": "really reduces the redness!!",
+              "count": 1
+            },
+            {
+              "label": "doesn't require a lot of product to work",
+              "count": 1
+            },
+            {
+              "label": "soothing feeling on the skin",
+              "count": 1
+            },
+            {
+              "label": "great moisturizer!",
+              "count": 1
+            },
+            {
+              "label": "price",
+              "count": 1
+            },
+            {
+              "label": "pleasing consistency/thickness",
+              "count": 1
+            },
+            {
+              "label": "scent/color free",
+              "count": 1
+            },
+            {
+              "label": "solves itching",
+              "count": 1
+            },
+            {
+              "label": "solves redness",
+              "count": 1
+            },
+            {
+              "label": "really calms sensitive reactive skin types",
+              "count": 1
+            },
+            {
+              "label": "rosatia!",
+              "count": 1
+            },
+            {
+              "label": "the moisturizer stops the bumps and redness from",
+              "count": 1
+            },
+            {
+              "label": "leaves skin well nourished and not greasy",
+              "count": 1
+            },
+            {
+              "label": "relief provided",
+              "count": 1
+            },
+            {
+              "label": "value",
+              "count": 1
+            },
+            {
+              "label": "instant gratification",
+              "count": 1
+            },
+            {
+              "label": "it's easy to apply.",
+              "count": 1
+            },
+            {
+              "label": "calms flareups",
+              "count": 1
+            },
+            {
+              "label": "little goes a long way",
+              "count": 1
+            },
+            {
+              "label": "non-oily",
+              "count": 1
+            },
+            {
+              "label": "light weight on my skin.",
+              "count": 1
+            },
+            {
+              "label": "oil-free",
+              "count": 1
+            },
+            {
+              "label": "has somewhat slowly reversed aging",
+              "count": 1
+            },
+            {
+              "label": "keeps my skin moist",
+              "count": 1
+            },
+            {
+              "label": "redness undercontrol",
+              "count": 1
+            },
+            {
+              "label": "cool",
+              "count": 1
+            },
+            {
+              "label": "soft",
+              "count": 1
+            },
+            {
+              "label": "reduced redness",
+              "count": 1
+            },
+            {
+              "label": "smoothed out skin tone",
+              "count": 1
+            },
+            {
+              "label": "does what it says it does",
+              "count": 1
+            },
+            {
+              "label": "higher confidence",
+              "count": 1
+            },
+            {
+              "label": "less flare-ups",
+              "count": 1
+            },
+            {
+              "label": "redness is diminished",
+              "count": 1
+            },
+            {
+              "label": "softer skin",
+              "count": 1
+            },
+            {
+              "label": "some redness has diminished",
+              "count": 1
+            },
+            {
+              "label": "immediate results",
+              "count": 1
+            },
+            {
+              "label": "visible difference",
+              "count": 1
+            },
+            {
+              "label": "feels wonderful on",
+              "count": 1
+            },
+            {
+              "label": "softens skin calms irritation reduces redness",
+              "count": 1
+            },
+            {
+              "label": "tones down redness.",
+              "count": 1
+            },
+            {
+              "label": "feels smooth on my face",
+              "count": 1
+            },
+            {
+              "label": "effective",
+              "count": 1
+            },
+            {
+              "label": "easy to use easy to order and it works.",
+              "count": 1
+            },
+            {
+              "label": "rich",
+              "count": 1
+            },
+            {
+              "label": "smooth sleek & sexy!",
+              "count": 1
+            },
+            {
+              "label": "\"helps\" with redness",
+              "count": 1
+            },
+            {
+              "label": "calms & soothes skin",
+              "count": 1
+            },
+            {
+              "label": "soothes super sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "relief in a jar",
+              "count": 1
+            },
+            {
+              "label": "it is harmless does not aggrivate the skin.",
+              "count": 1
+            },
+            {
+              "label": "add a pro",
+              "count": 1
+            },
+            {
+              "label": "easy to use and smells nice",
+              "count": 1
+            },
+            {
+              "label": "non-irritating",
+              "count": 1
+            },
+            {
+              "label": "last a long time. no fragrance.feels good on face.",
+              "count": 1
+            },
+            {
+              "label": "evens out skin tone and makes redness disappear",
+              "count": 1
+            },
+            {
+              "label": "works as promised",
+              "count": 1
+            },
+            {
+              "label": "a little goes a long way!",
+              "count": 1
+            },
+            {
+              "label": "cooling and softening",
+              "count": 1
+            },
+            {
+              "label": "calmed the redness",
+              "count": 1
+            },
+            {
+              "label": "removed itchy bumps",
+              "count": 1
+            },
+            {
+              "label": "non-greasy",
+              "count": 1
+            },
+            {
+              "label": "instantly calming",
+              "count": 1
+            },
+            {
+              "label": "need very little for coverage",
+              "count": 1
+            },
+            {
+              "label": "no smell",
+              "count": 1
+            },
+            {
+              "label": "smooths skin",
+              "count": 1
+            },
+            {
+              "label": "doesn't make your face greasy",
+              "count": 1
+            },
+            {
+              "label": "drying",
+              "count": 1
+            },
+            {
+              "label": "non irratiting good for sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "one container can last you 3-4 months",
+              "count": 1
+            },
+            {
+              "label": "very moisturizering",
+              "count": 1
+            },
+            {
+              "label": "actually does reduce redness",
+              "count": 1
+            },
+            {
+              "label": "comforting",
+              "count": 1
+            },
+            {
+              "label": "does what it claims to do",
+              "count": 1
+            },
+            {
+              "label": "Works Quickly",
+              "count": 1
+            },
+            {
+              "label": "reduces burning sensation",
+              "count": 1
+            },
+            {
+              "label": "soaks in quickly",
+              "count": 1
+            },
+            {
+              "label": "reduces redness immediately.",
+              "count": 1
+            },
+            {
+              "label": "skin-calming",
+              "count": 1
+            },
+            {
+              "label": "for sensitive skin",
+              "count": 1
+            },
+            {
+              "label": "does what it says",
+              "count": 1
+            },
+            {
+              "label": "good texture and weight",
+              "count": 1
+            },
+            {
+              "label": "doesn't sting cools skin",
+              "count": 1
+            },
+            {
+              "label": "smells like cucumber",
+              "count": 1
+            },
+            {
+              "label": "thick and moisturizing",
+              "count": 1
+            },
+            {
+              "label": "g great base for my reness solutions makeup",
+              "count": 1
+            },
+            {
+              "label": "effectve",
+              "count": 1
+            },
+            {
+              "label": "really works!",
+              "count": 1
+            },
+            {
+              "label": "silky smooth.",
+              "count": 1
+            },
+            {
+              "label": "won't break the bank",
+              "count": 1
+            },
+            {
+              "label": "it helps tremedously!",
+              "count": 1
+            },
+            {
+              "label": "improves dry skin",
+              "count": 1
+            },
+            {
+              "label": "it takes away redness.",
+              "count": 1
+            },
+            {
+              "label": "very moisturizing.",
+              "count": 1
+            },
+            {
+              "label": "very good for your skin",
+              "count": 1
+            },
+            {
+              "label": "little goes a very very long way.",
+              "count": 1
+            },
+            {
+              "label": "use a brush to apply to save product",
+              "count": 1
+            },
+            {
+              "label": "soothing non-greasy.",
+              "count": 1
+            },
+            {
+              "label": "cooling and soothing",
+              "count": 1
+            },
+            {
+              "label": "moisturizes and softens",
+              "count": 1
+            },
+            {
+              "label": "visibly reduces redness",
+              "count": 1
+            },
+            {
+              "label": "love it!",
+              "count": 1
+            },
+            {
+              "label": "completely soothing",
+              "count": 1
+            },
+            {
+              "label": "minimal perfume",
+              "count": 1
+            },
+            {
+              "label": "thick and smooth absorbs quick",
+              "count": 1
+            },
+            {
+              "label": "everything!",
+              "count": 1
+            },
+            {
+              "label": "soothing and does what it says it does",
+              "count": 1
+            },
+            {
+              "label": "doesn't irritate",
+              "count": 1
+            },
+            {
+              "label": "amazing feeling going on",
+              "count": 1
+            },
+            {
+              "label": "works quickly",
+              "count": 1
+            },
+            {
+              "label": "instantly cools skin",
+              "count": 1
+            },
+            {
+              "label": "light and creamy",
+              "count": 1
+            },
+            {
+              "label": "at leat help solve 90% of viseble redness",
+              "count": 1
+            },
+            {
+              "label": "reducess redness",
+              "count": 1
+            },
+            {
+              "label": "good moisturizer",
+              "count": 1
+            },
+            {
+              "label": "didn't break out with it",
+              "count": 1
+            },
+            {
+              "label": "lasts for a long time",
+              "count": 1
+            },
+            {
+              "label": "love the free samples.",
+              "count": 1
+            },
+            {
+              "label": "not worse",
+              "count": 1
+            },
+            {
+              "label": "love it",
+              "count": 1
+            },
+            {
+              "label": "full line of redness products",
+              "count": 1
+            },
+            {
+              "label": "creamy",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "\"helps\" with redness",
+            "Absorbs Quickly",
+            "Definitely takes the redness out, / spider veins",
+            "Did what it professes to do",
+            "Does what it says",
+            "Easy To Use",
+            "Effective",
+            "Effective Sun Protection",
+            "Eliminates redness",
+            "Goes On Smoothly",
+            "Good Value",
+            "Great for sensitive skin",
+            "Haven't had it long enough tell if sun protectan",
+            "Hydrating",
+            "It made my Rosacea better by next day",
+            "It works",
+            "Lightweight",
+            "Long Lasting",
+            "Minimizes Wrinkles",
+            "Moisturizes",
+            "Moisturizes Well",
+            "Non-Greasy",
+            "Non-irritating",
+            "Not Greasy",
+            "Not too heavily scented",
+            "Redness reducing",
+            "Reduces Redness",
+            "Reduces redness",
+            "Rich",
+            "Scent free",
+            "Sensitive skin friendly",
+            "Smells Great",
+            "Softens Skin",
+            "Soothes Skin",
+            "Soothing",
+            "Soothing and calming",
+            "Unscented is very important to me",
+            "Works Quickly",
+            "Worth the price",
+            "a liitle goes along way",
+            "a little goes a long way",
+            "a little goes a long way!",
+            "actually does reduce redness",
+            "add a pro",
+            "amazing feeling going on",
+            "at leat help solve 90% of viseble redness",
+            "balances dry and oily areas",
+            "blends under makeup",
+            "calmed the redness",
+            "calming",
+            "calms & soothes skin",
+            "calms down redness",
+            "calms even the most red itchy skin",
+            "calms flareups",
+            "calms redness",
+            "calms redness and moisturizes",
+            "comforting",
+            "completely soothing",
+            "consistency",
+            "cool",
+            "cooling",
+            "cooling and softening",
+            "cooling and soothing",
+            "cooling and very moisturizing",
+            "cools and soothes",
+            "creamy",
+            "de-intensifies redness",
+            "decent moisturizer",
+            "didn't break out with it",
+            "does not aggravate sensitive skin",
+            "does what it claims to do",
+            "does what it says",
+            "does what it says it does",
+            "doesn't irritate",
+            "doesn't irritate sensitive skin.",
+            "doesn't make your face greasy",
+            "doesn't require a lot of product to work",
+            "doesn't sting cools skin",
+            "drying",
+            "easy to use",
+            "easy to use and smells nice",
+            "easy to use easy to order and it works.",
+            "effective",
+            "effective with red patches, dry flaky skin",
+            "effectve",
+            "evens out skin tone and makes redness disappear",
+            "everything!",
+            "feel nice going on",
+            "feels awesome",
+            "feels fresh",
+            "feels good on my sensitive skin",
+            "feels smooth on my face",
+            "feels wonderful on",
+            "for sensitive skin",
+            "fragrance free",
+            "full line of redness products",
+            "g great base for my reness solutions makeup",
+            "gentle",
+            "gentle soothing",
+            "good at what it does",
+            "good customer care.",
+            "good moisturizer",
+            "good texture and weight",
+            "great daily redness reducer",
+            "great for perioral dermatitis and reddness",
+            "great moisturizer",
+            "great moisturizer!",
+            "great product for redness",
+            "hard to apply too much",
+            "has somewhat slowly reversed aging",
+            "helps minimize redness",
+            "helps to set up daily prtoective base",
+            "higher confidence",
+            "hydrating",
+            "immediate results",
+            "improves dry skin",
+            "instant cooling",
+            "instant gratification",
+            "instantly calming",
+            "instantly cools skin",
+            "it helps tremedously!",
+            "it is harmless does not aggrivate the skin.",
+            "it takes away redness.",
+            "it worked for me.",
+            "it works and doesn't irritate my skin",
+            "it works!",
+            "it works!!!",
+            "it works!!!!",
+            "it's easy to apply.",
+            "it's not greasy or oily",
+            "keeps my skin moist",
+            "last a long time. no fragrance.feels good on face.",
+            "lasts a long time",
+            "lasts for a long time",
+            "leaves skin well nourished and not greasy",
+            "less flare-ups",
+            "light and creamy",
+            "light and feels good when applied",
+            "light enough for florida humidity",
+            "light weight on my skin.",
+            "lightweight",
+            "little goes a long way",
+            "little goes a very very long way.",
+            "love it",
+            "love it!",
+            "love the free samples.",
+            "minimal perfume",
+            "moisturising",
+            "moisturizes",
+            "moisturizes and softens",
+            "moisturizing",
+            "mositurizes without feeling oily",
+            "need very little for coverage",
+            "nice large jar",
+            "nice texture",
+            "no greasy feeling",
+            "no smell",
+            "non allergic products",
+            "non greasy",
+            "non greasy if patted on",
+            "non irratiting good for sensitive skin",
+            "non-clogging",
+            "non-greasy",
+            "non-irritating",
+            "non-oily",
+            "none",
+            "not greasy",
+            "not greasy - can easily be worn under makeup",
+            "not greasy. not dry-feeling.",
+            "not oily",
+            "not worse",
+            "oil free",
+            "oil-free",
+            "one container can last you 3-4 months",
+            "only a small amount is needed at a time",
+            "pleasing consistency/thickness",
+            "price",
+            "quells flareups",
+            "really calms",
+            "really calms sensitive reactive skin types",
+            "really reduces the redness!!",
+            "really works to diminish redness",
+            "really works!",
+            "redness is diminished",
+            "redness undercontrol",
+            "reduced redness",
+            "reduces burning sensation",
+            "reduces red color on my nose",
+            "reduces redness",
+            "reduces redness immediately.",
+            "reduces redness long lasting softens skin!",
+            "reducess redness",
+            "relief in a jar",
+            "relief provided",
+            "removed itchy bumps",
+            "repairs blotchiness and redness smoother skin",
+            "rich",
+            "rosatia!",
+            "scent/color free",
+            "seems thick but a little goes a long way",
+            "silky smooth.",
+            "simply amazing!",
+            "skin didn't react",
+            "skin is smoother",
+            "skin-calming",
+            "slight unprovement",
+            "smells like cucumber",
+            "smooth sleek & sexy!",
+            "smoothed out skin",
+            "smoothed out skin tone",
+            "smoothing",
+            "smooths skin",
+            "soaks in quickly",
+            "soft",
+            "softens skin calms irritation reduces redness",
+            "softer skin",
+            "solves itching",
+            "solves redness",
+            "some redness has diminished",
+            "soothes super sensitive skin",
+            "soothing",
+            "soothing and does what it says it does",
+            "soothing feel",
+            "soothing feeling on the skin",
+            "soothing for redness",
+            "soothing non-greasy.",
+            "texture",
+            "the best products ever!!",
+            "the moisturizer stops the bumps and redness from",
+            "thick and moisturizing",
+            "thick and smooth absorbs quick",
+            "tones down redness.",
+            "use a brush to apply to save product",
+            "value",
+            "very gentle",
+            "very good for your skin",
+            "very moisturizering",
+            "very moisturizing.",
+            "very soothing",
+            "visible difference",
+            "visibly reduces redness",
+            "visibly reduces redness immediately",
+            "visibly reduces redness with use",
+            "won't break the bank",
+            "worked quickly",
+            "works as promised",
+            "works quickly",
+            "works well"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 15
+            },
+            {
+              "label": "Dry",
+              "count": 6
+            },
+            {
+              "label": "Normal",
+              "count": 5
+            },
+            {
+              "label": "Oily",
+              "count": 2
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        56,
+        34,
+        56,
+        123,
+        739
+      ],
+      "review_histogram": [
+        56,
+        34,
+        56,
+        123,
+        739
+      ],
+      "rating_count": 1008,
+      "review_count": 1008,
+      "average_rating": 4.44,
+      "recommended_ratio": 0.9,
+      "media": [
+        {
+          "id": "437823570",
+          "review_id": 437823453,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gat4xjbdimrf6kjz24nx.jpg",
+          "headline": "Made my husband's ruddy cheeks SO much worse!",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "His cheeks are deep deep red now, only light red before using Clinique Redness Solution Cleanser & Cream",
+          "nickname": "Laura",
+          "created_date": 1671294729768
+        },
+        {
+          "id": "434250144",
+          "review_id": 434250127,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/egrm9mrhjafpnunh9dt4.jpg",
+          "headline": "Works better than my prescription  meds",
+          "rating": 5,
+          "helpful_votes": 1,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Happy that Rosacea is covered",
+          "nickname": "Phyllis",
+          "created_date": 1668700097570
+        },
+        {
+          "id": "403749571",
+          "review_id": 403749547,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/idi51wllaziipryberyr.jpg",
+          "headline": "if you have blotchy rosacea this is for you!!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 1,
+          "type": "image",
+          "caption": "after: jan 5, 2022",
+          "nickname": "Em",
+          "created_date": 1648616540613
+        },
+        {
+          "id": "403749473",
+          "review_id": 403749547,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/khbfexb8xazz5687yn2o.jpg",
+          "headline": "if you have blotchy rosacea this is for you!!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "before: nov 5, 2021",
+          "nickname": "Em",
+          "created_date": 1648616540613
+        },
+        {
+          "id": "245084004",
+          "review_id": 245083974,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gebfpw86nn078a4n8bkd.jpg",
+          "headline": "Amazing!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Sara",
+          "created_date": 1565720187918
+        },
+        {
+          "id": "190376251",
+          "review_id": 190376240,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/oxaadkyqkmdcsnvug03i.jpg",
+          "headline": "Initial relief, not lasting",
+          "rating": 2,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "",
+          "nickname": "Heather M. Kingery",
+          "created_date": 1470175814283
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I can't tell you how thrilled I am using this product! It has made such a difference in my skin appearance. The redness has reduced greatly. I have tried many, many products which claim to reduce redness but all they have done is reduce my bank balance! This cream does EXACTLY what it says it will do -- reduces redness, cools the 'heat' in my cheeks and absorbs quickly and cleanly. When I buy it, I buy in bulk!!! Thank you so much for creating a great product!",
+        "headline": "Best Cream for Redness",
+        "rating": 5,
+        "ugc_id": 188830157
+      },
+      "faceoff_negative": {
+        "comments": "Comfort On Call was an epic, miracle product created by Clinique. It was so great that I actually wrote to Clinique to tell them how it had changed a small part of my LIFE. Well no sooner, Clinique discontinued COC forever and replaced it with this, Redness Solutions.\n\nRedness Solutions is nowhere near as great as COC was. As a replacement for the superior product it will have to do because even though it pales in comparison there is still nothing out there that compares for sensitive skin.\n\nAs a heavy duty moisturizer for highly sensitive skin and eczema sufferers this is better than anything else out there now that COC is gone. As a solution for redness...it has done nothing to change the tone of my skin or even it out in any way. I do not necessarily have a \"redness\" issue though, so I am probably not the best person to comment. I do, however, have red areas and as I said, this has not changed that for me a bit.\n\nIn addition, you must use only the absolute bare minimum amount at a time or else the product begins to \"pill\" up on your skin and can cause zits. Starting off with a tiny amount until your skin adjusts is probably a good idea.\n\nIn all, for people with extremely dry, sensitive skin and bad skin allergies this is a must-have but it just doesn't seem THAT great when compared to the product it replaced.",
+        "headline": "Comfort On Call's Inferior Replacement",
+        "rating": 3,
+        "ugc_id": 188830847
+      },
+      "name": "Redness Solutions Daily Relief Face Cream With Probiotic Technology",
+      "native_review_count": 247,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 761,
+      "locale": "en_US"
+    }
+  }
+}

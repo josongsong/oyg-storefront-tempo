@@ -1,0 +1,575 @@
+{
+  "product_id": "pimprod2053541",
+  "product_url": "https://www.ulta.com/p/frizz-shield-spray-pimprod2053541",
+  "extracted_at": "2025-09-23T03:56:51.080918+00:00",
+  "product_name": "MoroccanoilFrizz Shield Spray",
+  "brand": "Moroccanoil",
+  "categories": [
+    "Home",
+    "Hair",
+    "Styling Products",
+    "Smoothing"
+  ],
+  "category_keys": [
+    "home",
+    "hair",
+    "styling-products",
+    "smoothing"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "32.00",
+  "availability": "in_stock",
+  "rating_avg": "4.8",
+  "rating_count": "40",
+  "images": [
+    "https://media.ulta.com/i/ulta/2644253?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2644253?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2644253_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2644253_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2644253_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2644253_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2644253_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2644253_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2644253_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2644253_vid01/thumbs/1ee15114-de24-43df-85a9-c754eab694fb?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackMoroccanoil Frizz Shield Spray is a weightless, heat-activated mist that protects against up to 90 percent humidity to prevent frizz, flyways, and static, leaving hair with a glassy shine and a silky, non-sticky finish.",
+  "details": "DetailsBenefitsDefensive shield for long-lasting frizz controlGlass-like shine and silky, non-sticky finishProtects against thermal damageKey IngredientsHydroResist Technology: Creates a protective shield that repels humidity and other causes of frizzArgan Oil: Boosts shine and enhances manageabilityUpcycled Jackfruit Extract: Prevents frizz and protects against damageResearch ResultsProtects against up to 90% humidity**Results based*Based on an independent lab studyItem 2644253How To UseSpray generously and evenly throughout clean, damp hair. Comb to distribute and blow-dry in sections to activate. Follow with a flat iron for enhanced anti-frizz benefits. Frizz Shield Spray should be the last product applied before blow-drying for optimal heat activation.Caution: Use product only as directed. Avoid contact with eyes. In case of contact, rinse immediately with water. For external use only. Store in a cool, dry place.IngredientsAqua/Water/Eau, Dipropylene Glycol, Polysilicone-29, Silicone Quaternium-18, Argania Spinosa (Argan) Kernel Oil, Artocarpus Heterophyllus (Jackfruit) Fruit Extract, Amaranthus Caudatus (Amaranth) Seed Extract, Parfum/Fragrance, Polysorbate 20, Trideceth-12, Methylpropanediol, Trideceth-6, Caprylyl Glycol, Glycolic Acid, Polyquaternium-80, Citric Acid, C12-13 Pareth-9, Hydrolyzed Quinoa, Sodium PCA, Sodium Lactate, Didecyldimonium Chloride, Arginine, Aspartic Acid, Potassium Hydroxide, PCA, Lactobacillus Ferment, Glycine, Alanine, Algin, Caprylic/Capric Triglyceride, Chitosan, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Benzyl Alcohol, Linalool, Alpha-Isomethyl Ionone. MOAHS02Shipping & Coupon RestrictionsShipping Restrictions : This item cannot be shipped via air.",
+  "how_to_use": "Spray generously and evenly throughout clean, damp hair. Comb to distribute and blow-dry in sections to activate. Follow with a flat iron for enhanced anti-frizz benefits. Frizz Shield Spray should be the last product applied before blow-drying for optimal heat activation.Caution: Use product only as directed. Avoid contact with eyes. In case of contact, rinse immediately with water. For external use only. Store in a cool, dry place.",
+  "ingredients": [
+    "Aqua/Water/Eau",
+    "Dipropylene Glycol",
+    "Polysilicone-29",
+    "Silicone Quaternium-18",
+    "Argania Spinosa (Argan) Kernel Oil",
+    "Artocarpus Heterophyllus (Jackfruit) Fruit Extract",
+    "Amaranthus Caudatus (Amaranth) Seed Extract",
+    "Parfum/Fragrance",
+    "Polysorbate 20",
+    "Trideceth-12",
+    "Methylpropanediol",
+    "Trideceth-6",
+    "Caprylyl Glycol",
+    "Glycolic Acid",
+    "Polyquaternium-80",
+    "Citric Acid",
+    "C12-13 Pareth-9",
+    "Hydrolyzed Quinoa",
+    "Sodium PCA",
+    "Sodium Lactate",
+    "Didecyldimonium Chloride",
+    "Arginine",
+    "Aspartic Acid",
+    "Potassium Hydroxide",
+    "PCA",
+    "Lactobacillus Ferment",
+    "Glycine",
+    "Alanine",
+    "Algin",
+    "Caprylic/Capric Triglyceride",
+    "Chitosan",
+    "Serine",
+    "Valine",
+    "Isoleucine",
+    "Proline",
+    "Threonine",
+    "Histidine",
+    "Phenylalanine",
+    "Phenoxyethanol",
+    "Sodium Benzoate",
+    "Potassium Sorbate",
+    "Benzyl Alcohol",
+    "Linalool",
+    "Alpha-Isomethyl Ionone. MOAHS02"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "hair",
+      "haircare"
+    ],
+    "product_type": [
+      "toner",
+      "oil"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "matte",
+      "sheer",
+      "long-wear",
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "glycolic-acid",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2053541",
+    "total_reviews": 40,
+    "reviews": [
+      {
+        "review_id": 563560049,
+        "rating": 4,
+        "headline": "Love it",
+        "comments": "Love this spray! Smells good, perfect sprayer. My very dry damaged hair looks smooth and silky without feeling greasy. Love that it adds that healthy shine to my dull bleached hair. Gifted by Moroccan hair.",
+        "nickname": "Katie",
+        "location": "Minnesota",
+        "created_date": 1758145084986,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563558117,
+        "rating": 5,
+        "headline": "Perfect for a Smooth Blowout!",
+        "comments": "Gifted by Moroccanoil ✨ I've really been loving this spray! It smells amazing and works so well for frizz control. I've used it several times now and officially added it into my blowout routine. Since I'm naturally curly and straighten my hair, keeping frizz under control is super important so my hair doesn't puff up, and this has been a game changer!",
+        "nickname": "Angivette",
+        "location": "New York",
+        "created_date": 1758142417965,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563555572,
+        "rating": 5,
+        "headline": "Great frizz oil for flyaways",
+        "comments": "Complimentary from moroccanoil- this frizz oil works wonders as someone that has a bunch of flyaways. Spread evenly through your hair and then use heat, because it's heat activated! Smooths, adds shine, and smells amazing!",
+        "nickname": "Kaydence",
+        "location": "Columbus ohio",
+        "created_date": 1758137136424,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563539365,
+        "rating": 5,
+        "headline": "Love this product!",
+        "comments": "The Moroccanoil Frizz Shield Spray tames flyaways and smooths frizz while protecting against humidity. It leaves hair sleek, touchably soft, and shiny with the brand's signature luxurious scent. Gifted by Moroccanoil.",
+        "nickname": "Harlie",
+        "location": "Dallas, TX",
+        "created_date": 1758113130720,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563517004,
+        "rating": 5,
+        "headline": "Smoothed my frizzy curly hair",
+        "comments": "I was gifted by MoroccanOil Frizz the Shield Spray and I'm genuinely impressed. It keeps my hair smooth, soft, and frizz free even on humid days without weighing it down. The lightweight formula also adds shine and makes styling easier. Perfect for daily use when you want that polished finish without feeling heavy or sticky.",
+        "nickname": "Milagros",
+        "location": "Seattle",
+        "created_date": 1758070233225,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563495515,
+        "rating": 3,
+        "headline": "Didn't do much for frizz",
+        "comments": "I really wanted to love this but unfortunately it did nothing for my frizz. It smells amazing like all of the other Moroccan oil products but it just didn't do what i needed it to do. Gifted by moroccanoil",
+        "nickname": "Jenn",
+        "location": "Vancouver WA",
+        "created_date": 1758040098070,
+        "bottom_line": "No",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563480368,
+        "rating": 5,
+        "headline": "Would buy again",
+        "comments": "It smells amazing (like sweet amber heaven) and leaves my hair sooo smooth and shiny. Major frizz control, especially with a blow-dryer. A few sprays go a long way don't overdo it, especially if your hair's fine. Price is totally worth it for that sleek and no-frizz look. Gifted by moroccanoil",
+        "nickname": "Adamaris",
+        "location": "Las Vegas, NV",
+        "created_date": 1758032129922,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563476513,
+        "rating": 5,
+        "headline": "beautiful shine and helps a lot with frizz and humidity.",
+        "comments": "Gifted by moroccanoil. I have used it for 10 days in a row and I really liked it. The consistency is watery and does not leave hair greasy or heavy no matter how much you apply, and it leaves a beautiful shine and helps a lot with frizz and humidity.",
+        "nickname": "Joselyn",
+        "location": "Miami, FL",
+        "created_date": 1758026893429,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563448692,
+        "rating": 5,
+        "headline": "Smells really good!",
+        "comments": "As a licensed cosmetologist, I enjoy trying new products, especially having curly in a hot state that I straighten or wear naturally. I like anything that helps with frizz and maintains moisture. This Frizz Shield Spray gifted by Moroccan Oil is lightweight and but does well retaining moisture and combating frizz. Smells really good and I would use it again!",
+        "nickname": "Cierra",
+        "location": "Phoenix, AZ",
+        "created_date": 1758005369181,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563447671,
+        "rating": 4,
+        "headline": "Help so much with the frizz in this Texas weather",
+        "comments": "First of all any of the products from Moroccan Oil are a must. From the way it leaves this amazing scent to the hair to how soft and frizz free it was with just this product in hand. I put it on with damp hair and then blow dry my hair and the product did what it promised. Totally love it. Complimentary from moroccanoil",
+        "nickname": "Luisa",
+        "location": "Texas",
+        "created_date": 1757999108875,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563419178,
+        "rating": 5,
+        "headline": "Top favorite",
+        "comments": "Works great for frizz and on my colored hair. Tried several different ones and none compare to this one. Coming from someone who lives in a city where humidity is at all times high. Complimentary from moroccanoil",
+        "nickname": "Fatima",
+        "location": "North carolina",
+        "created_date": 1757968595871,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563418012,
+        "rating": 5,
+        "headline": "would buy again",
+        "comments": "this smells so good and the actual spray is amazing! it sprays so evenly and nice! definitely works well with frizz as well! it was gifted by moroccan but will definitely be rebuying! all of their products are always the best!",
+        "nickname": "Madilynn",
+        "location": "houston, texas",
+        "created_date": 1757966535252,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563402968,
+        "rating": 5,
+        "headline": "must bust buy spray!",
+        "comments": "The Frizz Shield Spray is lightweight, non-sticky, and really helps keep hair smooth throughout the day. It tames flyaways without weighing hair down, leaving it soft, shiny, and manageable. I also love that it provides humidity protection, which is a must in Florida. Gifted by Moroccan oil",
+        "nickname": "Stephanie",
+        "location": "Orlando Florida",
+        "created_date": 1757948813035,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563382842,
+        "rating": 5,
+        "headline": "Great for frizz",
+        "comments": "I love this stuff! The spray format makes it easy to apply and I brush it through my hair after washing it. It helps control that frizz I get with newly washed hair. The product is light and does not weigh my hair down. Gifted by Moroccanoil to try.",
+        "nickname": "S",
+        "location": "San Francisco",
+        "created_date": 1757897323039,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563372908,
+        "rating": 5,
+        "headline": "You need!!!",
+        "comments": "Gifted by Moroccan oil.. Omg another must have from morican! The way this left my hair feeling so smooth, silky and no frizz!! I love!! A little goes a long way!! I have shoulder length wavy hair and honestly 2-3 sprays did it for me!",
+        "nickname": "Ericka",
+        "location": "Modesto",
+        "created_date": 1757873560938,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563372882,
+        "rating": 5,
+        "headline": "This spray is a true lifesaver for frizz",
+        "comments": "This spray is a true lifesaver for frizz, especially in humid weather. The texture is lightweight, it doesn't leave greasy or heavy residue, and it keeps hair smooth and manageable for hours. I also love that besides controlling frizz, it adds a natural shine that makes the hair look healthier. Complimentary from moroccanoil",
+        "nickname": "Kellei",
+        "location": "American Fork, UT",
+        "created_date": 1757873543033,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563365889,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "I receive this frizz shield gifted by moroccanoil. It's super easy to incorporate into my routine. It's the last thing I add to my hair while it's wet. Then I finish brushing and just let it air dry. It's cut down on my frizz a ton.",
+        "nickname": "Lindsay",
+        "location": "Indiana",
+        "created_date": 1757858414971,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563364036,
+        "rating": 5,
+        "headline": "Actually makes a difference!",
+        "comments": "Gifted by moroccanoil I typically have frizz and flyaways at the top of my head and after using this once, it made a big difference. My hair was smooth, shiny, and no crazy flyaways. I will continue using this and would recommend it!",
+        "nickname": "Haley",
+        "location": "CO",
+        "created_date": 1757856393325,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563237901,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "This actually works!! It has been super humid in my town lately with monsoon season and this is the only thing that keeps my hair from being a frizzy curly mess. A plus that it smells great and makes my hair feel so smooth! Gifted by moroccanoil",
+        "nickname": "Allie",
+        "location": "Phoenix, AZ",
+        "created_date": 1757637348015,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 563153415,
+        "rating": 5,
+        "headline": "No frizz!",
+        "comments": "This spray is a game-changer! I've used it both when straightening my hair and the results are amazing. It leaves my hair smooth, frizz-free, and shiny without feeling heavy or sticky. Plus, it holds up so well even in humidity. Definitely a new must-have in my routine! Complimentary from moroccanoil",
+        "nickname": "Karla",
+        "location": "California",
+        "created_date": 1757458162239,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 40,
+      "pages_total": 2,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2053541/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "hairtype",
+          "name": "Hair Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Wavy Hair",
+              "count": 24
+            },
+            {
+              "label": "Straight Hair",
+              "count": 8
+            },
+            {
+              "label": "Very Curly Hair",
+              "count": 4
+            }
+          ],
+          "display_values": [
+            "Straight Hair",
+            "Very Curly Hair",
+            "Wavy Hair"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        0,
+        1,
+        1,
+        5,
+        33
+      ],
+      "review_histogram": [
+        0,
+        1,
+        1,
+        5,
+        33
+      ],
+      "rating_count": 40,
+      "review_count": 40,
+      "average_rating": 4.75,
+      "recommended_ratio": 0.97,
+      "media": [
+        {
+          "id": "563402952",
+          "review_id": 563402968,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/gtrdwho0gc3wj2cwiqfk.jpg",
+          "headline": "must bust buy spray!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Stephanie",
+          "created_date": 1757948813035
+        },
+        {
+          "id": "563372909",
+          "review_id": 563372908,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/dvbbxcveb7bl5cl0ahrr.jpg",
+          "headline": "You need!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Ericka",
+          "created_date": 1757873560938
+        },
+        {
+          "id": "563153446",
+          "review_id": 563153415,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/whv162ty40xn7hcaq2vw.jpg",
+          "headline": "No frizz!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Karla",
+          "created_date": 1757458162239
+        },
+        {
+          "id": "562929474",
+          "review_id": 562929447,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/rzwv4evhwuzhxwhkpmid.jpg",
+          "headline": "Love this!!",
+          "rating": 4,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Angelli",
+          "created_date": 1757221105734
+        },
+        {
+          "id": "562912542",
+          "review_id": 562912545,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/lfbcefrbu0vnmq0ucwif.jpg",
+          "headline": "Hair smoothing",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Lanie",
+          "created_date": 1757177650937
+        },
+        {
+          "id": "562904750",
+          "review_id": 562904854,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vtwjyz8iahokmmlyvvhy.jpg",
+          "headline": "Weightless Shine and Smoothness",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Cam",
+          "created_date": 1757162565512
+        },
+        {
+          "id": "562242991",
+          "review_id": 562243066,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ixdh1eyv4nlqzb3uhfeg.jpg",
+          "headline": "New staple to my hair routine!!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Obsessed",
+          "nickname": "Valeria",
+          "created_date": 1756941494987
+        },
+        {
+          "id": "561842208",
+          "review_id": 561842173,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ipnyzvh3aivyr9zdcbzg.jpg",
+          "headline": "Get this!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Karla",
+          "created_date": 1756912909976
+        },
+        {
+          "id": "561527073",
+          "review_id": 561527102,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ccymzydbovlidbahv3do.jpg",
+          "headline": "Frizz controlled",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Alla",
+          "created_date": 1756838016060
+        },
+        {
+          "id": "561518210",
+          "review_id": 561518198,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/bvqgkqurhmuvtlgtg7si.jpg",
+          "headline": "This Spray Actually Works",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Aime",
+          "created_date": 1756825582352
+        },
+        {
+          "id": "561399017",
+          "review_id": 561399011,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/jyk8fb9cyltwjspznmvv.jpg",
+          "headline": "I would buy this product again and again",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Erika",
+          "created_date": 1756517846496
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I've been really impressed with the Frizz Shield Spray. It feels weightless and never leaves my hair sticky or heavy. My hair looks instantly shinier and feels silky-soft after styling. What I love most is how effectively it controls frizz and flyaways, even in high humidity, and the results truly last for days. The added argan oil makes it even better, keeping my strands nourished while protecting them from heat. This product has become an essential in my routine. Complimentary from moroccanoil",
+        "headline": "Weightless Shine and Smoothness",
+        "rating": 5,
+        "ugc_id": 562904854
+      },
+      "faceoff_negative": {
+        "comments": "Complimentary from moroccanoil / the item leaked in transit and was empty and leaked by the time i opened it. It's very unfortunate because i love this brand and the fact that it was mishandled in transit is disappointing",
+        "headline": "Item was damaged upon arrival",
+        "rating": 2,
+        "ugc_id": 561462914
+      },
+      "name": "Frizz Shield Spray",
+      "native_review_count": 40,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

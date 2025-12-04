@@ -1,0 +1,100 @@
+{
+  "product_id": "pimprod2053429",
+  "product_url": "https://www.ulta.com/p/radiant-eye-balm-stick-pimprod2053429",
+  "extracted_at": "2025-09-23T04:58:51.747146+00:00",
+  "product_name": "EMBRYOLISSERadiant Eye Balm Stick",
+  "brand": "EMBRYOLISSE",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "25.00",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2645094?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2645094?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2645094_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2645094_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2645094_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2645094_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2645094_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2645094_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2645094_vid01/thumbs/bc858b74-f402-452a-a23e-cf7a6d7dce88?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryEMBRYOLISSE Radiant Eye is a double action cool-effect stick combining beauty and skincare: it is a make-up artist’s trick to immediately refresh the eyes, and a moisturizing care to decongest and smooth the eye contour. Relaxes, reduces dark circles and puffiness, and makes the eyes sparkle.",
+  "details": "DetailsBenefitsInstant relaxing feeling of freshness and well-beingBlurred signs of fatigueReduced dark circles and puffinessFeatures99% ingredients from natural originOrganic Aloe VeraFragrance-freeKey IngredientsAn anti-fatigue active ingredient rich in vitamin PP and polysaccharidesPatented complex of natural sugar derivatives: moisturizingOrganic aloe vera and glycerin: moisturizingItem 2645094How To UseMassage the eye contour with the stick several times, going from the inner corner of the eye to the outer corner, on the upper and lower eyelids.IngredientsAqua (Water), Sodium Stearate, Glycerin, Xylitylglucoside, Anhydroxylitol, Pentylene Glycol. Xylitol, Caprylyl Glycol, Saccharomyces Cerevisiae Extract, Aloe Barbadensis Leaf Juice Powder, O-Cymen-5-Ol, 1,2-Hexanediol.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Massage the eye contour with the stick several times, going from the inner corner of the eye to the outer corner, on the upper and lower eyelids.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Sodium Stearate",
+    "Glycerin",
+    "Xylitylglucoside",
+    "Anhydroxylitol",
+    "Pentylene Glycol. Xylitol",
+    "Caprylyl Glycol",
+    "Saccharomyces Cerevisiae Extract",
+    "Aloe Barbadensis Leaf Juice Powder",
+    "O-Cymen-5-Ol",
+    "2-Hexanediol"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "lip gloss",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "dewy",
+      "creamy",
+      "powdery"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "organic",
+      "natural",
+      "fragrance-free",
+      "hydrating",
+      "brightening"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2053429",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

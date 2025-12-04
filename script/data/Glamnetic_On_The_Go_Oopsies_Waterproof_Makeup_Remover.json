@@ -1,0 +1,183 @@
+{
+  "product_id": "pimprod2020028",
+  "product_url": "https://www.ulta.com/p/on-go-oopsies-waterproof-makeup-remover-pimprod2020028",
+  "extracted_at": "2025-09-23T04:44:39.299740+00:00",
+  "product_name": "GlamneticOn-The-Go Oopsies Waterproof Makeup Remover",
+  "brand": "Glamnetic",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Cleansers",
+    "Makeup Remover"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "cleansers",
+    "makeup"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "9.00",
+  "availability": "in_stock",
+  "rating_avg": "4.8",
+  "rating_count": "52",
+  "images": [
+    "https://media.ulta.com/i/ulta/2574475?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2574475?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2574475cm_alt01?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsVeganOn-The-Go Oopsies Waterproof Makeup Remover are prefilled with makeup remover in the stem. Break open the end to release the waterproof makeup remover and clean any makeup messes. Precision tips make correcting eyeliner easily, while its small & convenient size make it a perfect travel essential.",
+  "details": "DetailsBenefitsTSA ApprovedFeatures24 count per packContains soothing Aloe Vera extractItem 2574475How To UseSnap the swab at blue stripe end to release the makeup remover into the opposite end. You will hear a *snap.Flip swab immediately to let liquid drain down into the opposite side.Wipe your boo-boos away!Dispose the cotton swab after usage.Precautions: For external use only. Keep out of reach of children.IngredientsWater, Diazolidinyl Urea, Propylene Glycol, Aloe Barbadensis Leaf Extract, Cocamidopropyl Betaine, Phenoxy Ethanol.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Snap the swab at blue stripe end to release the makeup remover into the opposite end. You will hear a *snap.Flip swab immediately to let liquid drain down into the opposite side.Wipe your boo-boos away!Dispose the cotton swab after usage.Precautions: For external use only. Keep out of reach of children.",
+  "ingredients": [
+    "Water",
+    "Diazolidinyl Urea",
+    "Propylene Glycol",
+    "Aloe Barbadensis Leaf Extract",
+    "Cocamidopropyl Betaine",
+    "Phenoxy Ethanol"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "makeup",
+      "cosmetics"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "sensitive"
+    ],
+    "finish": [
+      "sheer",
+      "waterproof",
+      "liquid"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "special_features": [
+      "vegan",
+      "soothing"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2020028",
+    "total_reviews": 52,
+    "reviews": [
+      {
+        "review_id": 531772915,
+        "rating": 4,
+        "headline": "Always in my makeup bag-",
+        "comments": "Ever since another brand discontinued their version of these sticks (Almay), I was pretty much left out when it came to convenient remover when my mascara or liner made its way away from my eyes. Randomly found these online & figured since Ulta is a well-known name, I had nothing to lose. Very pleased with this product! Same concept as the brand mentioned above, & they also come in a sturdy case for easy travel. I'm glad I can find this great product at least onsite, but please consider carrying these in stores (hence the 4-stars)-",
+        "nickname": "S",
+        "location": "CA",
+        "created_date": 1725322398653,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 436150392,
+        "rating": 5,
+        "headline": "Great product",
+        "comments": "I used to use a different brand but I cant find them anymore.  These are a great replacement!",
+        "nickname": "Nicole",
+        "location": "Warren, MI",
+        "created_date": 1670032496887,
+        "bottom_line": "Yes",
+        "helpful_votes": 115,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 430932882,
+        "rating": 5,
+        "headline": "A must have!",
+        "comments": "I love to use these to clean up makeup smudges quickly and easily.  I used this product by a different brand but they were discontinued.  I was so happy to find these and they work just as well!",
+        "nickname": "Nicole",
+        "location": "Warren, MI",
+        "created_date": 1666535591291,
+        "bottom_line": "Yes",
+        "helpful_votes": 95,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 376320337,
+        "rating": 1,
+        "headline": "Not worth it honestly",
+        "comments": "It's just Q tips",
+        "nickname": "Anne",
+        "location": "909",
+        "created_date": 1629355434827,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 43
+      },
+      {
+        "review_id": 333817928,
+        "rating": 4,
+        "headline": "Good removal, but rough",
+        "comments": "I like using these to remove the liner however it can feel a little rough on the lash line when rubbing back and forth",
+        "nickname": "Sndavis",
+        "location": "California",
+        "created_date": 1615361200138,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 5,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        1,
+        0,
+        0,
+        5,
+        46
+      ],
+      "review_histogram": [
+        1,
+        0,
+        0,
+        5,
+        46
+      ],
+      "rating_count": 52,
+      "review_count": 52,
+      "average_rating": 4.83,
+      "recommended_ratio": 1.0,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "Ever since another brand discontinued their version of these sticks (Almay), I was pretty much left out when it came to convenient remover when my mascara or liner made its way away from my eyes. Randomly found these online & figured since Ulta is a well-known name, I had nothing to lose. Very pleased with this product! Same concept as the brand mentioned above, & they also come in a sturdy case for easy travel. I'm glad I can find this great product at least onsite, but please consider carrying these in stores (hence the 4-stars)-",
+        "headline": "Always in my makeup bag-",
+        "rating": 4,
+        "ugc_id": 531772915
+      },
+      "faceoff_negative": {
+        "comments": "It's just Q tips",
+        "headline": "Not worth it honestly",
+        "rating": 1,
+        "ugc_id": 376320337
+      },
+      "name": "On-The-Go Oopsies Waterproof Makeup Remover",
+      "native_review_count": 5,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 47,
+      "locale": "en_US"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "product_id": "pimprod2054345",
+  "product_url": "https://www.ulta.com/p/great-skin-everywhere-skincare-gift-set-dry-combination-skin-pimprod2054345",
+  "extracted_at": "2025-09-23T04:04:01.416837+00:00",
+  "product_name": "CliniqueGreat Skin Everywhere Skincare Gift Set for Dry Combination Skin",
+  "brand": "Clinique",
+  "categories": [
+    "Home",
+    "Gifts",
+    "By Price",
+    "$100 and Under"
+  ],
+  "category_keys": [
+    "home",
+    "gifts",
+    "by-price",
+    "100-and-under"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "85.00",
+  "availability": "in_stock",
+  "rating_avg": "5",
+  "rating_count": "5",
+  "images": [
+    "https://media.ulta.com/i/ulta/2641057?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2641057?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641057_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641057_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641057_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641057_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641057_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641057_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641057_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2641057_vid01/thumbs/34a6fd93-bba8-4e57-bc1e-49f1f9c63ac6?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryClinique Great Skin Everywhere Set: For Dry Combination Skin includes Clinique's dermatologist-developed 3-Step system in full + travel sizes.",
+  "details": "DetailsBenefitsSkin Types: Dry CombinationClinique's dermatologist-developed 3-Step skincare gives drier skin exactly what it needs to be great-looking skin.All About Clean Liquid Facial Soap Mild cleanses gently.Clarifying Lotion helps clear dulling flakes for smoother, more radiant-looking skin with less noticeable pores.Dramatically Different Moisturizing Lotion+ strengthens skin’s moisture barrier so moisture stays in. Leaves skin looking healthy and supple with a hydrated glow.Free of: parabens and phthalates.Dermatologist developed. Dermatologist tested.Allergy tested. 100% fragrance free.IncludesFull Size All About Clean Liquid Facial Soap Mild (6.7 oz)Jumbo Size Clarifying Lotion 2 Twice A Day Exfoliator with Pump (16.5 oz)Full Size Dramatically Different Moisturizing Lotion+ (4.2 oz)All About Clean Liquid Facial Soap Mild (1.0 oz)Clarifying Lotion 2 Twice A Day Exfoliator (2.0 oz)Dramatically Different Moisturizing Lotion+ (1.0 oz)Item 2641057How To UseAll About Clean Liquid Facial Soap Mild: Use liquid facial soap twice a day, morning & night. Lather between palms with lukewarm water. Rinse thoroughly; pat skin dry.Clarifying Lotion 2 Twice A Day Exfoliator: Use lotion toner twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips.Dramatically Different Moisturizing Lotion+: Spread moisturizer all over face/throat twice daily, or where needed.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "All About Clean Liquid Facial Soap Mild: Use liquid facial soap twice a day, morning & night. Lather between palms with lukewarm water. Rinse thoroughly; pat skin dry.Clarifying Lotion 2 Twice A Day Exfoliator: Use lotion toner twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips.Dramatically Different Moisturizing Lotion+: Spread moisturizer all over face/throat twice daily, or where needed.",
+  "ingredients": "",
+  "extended_contents": {},
+  "tags": {
+    "skin_type": [
+      "dry",
+      "combination"
+    ],
+    "finish": [
+      "matte",
+      "dewy",
+      "creamy",
+      "liquid"
+    ],
+    "brand": [
+      "luxury",
+      "premium"
+    ],
+    "special_features": [
+      "dermatologist-tested",
+      "hypoallergenic",
+      "fragrance-free",
+      "hydrating",
+      "brightening"
+    ],
+    "category": [],
+    "product_type": [],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2054345",
+    "total_reviews": 5,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      "rating_count": 5,
+      "review_count": 5,
+      "average_rating": 5.0,
+      "recommended_ratio": 1.0,
+      "media": [],
+      "name": "Great Skin Everywhere Skincare Gift Set for Dry Combination Skin",
+      "native_review_count": 0,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 5,
+      "locale": "en_US"
+    }
+  }
+}

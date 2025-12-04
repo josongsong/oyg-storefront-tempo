@@ -1,0 +1,123 @@
+{
+  "product_id": "pimprod2054208",
+  "product_url": "https://www.ulta.com/p/luna-4-play-smart-facial-cleansing-massager-pimprod2054208",
+  "extracted_at": "2025-09-23T04:27:05.449655+00:00",
+  "product_name": "FOREOLUNA 4 Play Smart Facial Cleansing Massager",
+  "brand": "FOREO",
+  "categories": [
+    "Home",
+    "Tools & Brushes",
+    "Skincare Tools",
+    "Cleansing Brushes"
+  ],
+  "category_keys": [
+    "home",
+    "tools-brushes",
+    "skincare-tools",
+    "brushes"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "29.00",
+  "availability": "in_stock",
+  "rating_avg": "5",
+  "rating_count": "1",
+  "images": [
+    "https://media.ulta.com/i/ulta/2643130?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2643130?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643130_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643130_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2643130_alt03?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryLUNA 4 Play Smart is the first compact facial cleansing massager that analyzes your skin’s moisture levels in real-time and adapts to your needs for a personalized cleanse. With 24K gold-plated sensors and a 2-zone brush head, it ensures a deep yet gentle cleanse.",
+  "details": "DetailsBenefitsClinically proven to remove 99% of dirt, oil & makeup residue.Gently removes 99,5% of dirt, oil, sweat & makeup residue and prevents blemishesInstantly refreshes & preps skin for enhanced skincare absorptionAnalyzes real-time moisture levels for a personalized cleansing routineHelps improve skin texture and tone for a healthier complexionFeatures8,000 T-Sonic™ pulsations per minute for deep cleansing and relaxing facial massage24K gold plated skin sensors measure skin to analyze moisture level2-zone brush head for al skin typesCustomizable, compact, lightweight & lasts up to 1000 usesBacteria-resistant, 100% waterproof & free of BPA & phthalatesSoft silicone glides effortlessly across skin, without pulling or stretching itIncludesLUNA™ 4 play smartUser ManualItem 2643130How To UseBefore first use, download the FOREO For You app to unlock and register your device, and activate the warranty. Apply your facial cleanser evenly over damp face and neck. For optimal results, we recommend FOREO LUNA™ Micro-Foam Cleanser, designed to create microbubbles that pair perfectly with LUNA™ devices for a gentle, effective cleanse. Wet LUNA™ 4 play smart, press the universal button to turn on, adjust the intensity, and glide the device in circular motions over your face and neck for up to 1 minute or until your skin is cleansed. When finished, press the universal button to turn off your device (it will also automatically turn off after 1 minute). Rinse your face and neck, and clean the device.Shipping & Coupon RestrictionsShipping Restrictions : This item cannot be shipped via air.This brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "Before first use, download the FOREO For You app to unlock and register your device, and activate the warranty. Apply your facial cleanser evenly over damp face and neck. For optimal results, we recommend FOREO LUNA™ Micro-Foam Cleanser, designed to create microbubbles that pair perfectly with LUNA™ devices for a gentle, effective cleanse. Wet LUNA™ 4 play smart, press the universal button to turn on, adjust the intensity, and glide the device in circular motions over your face and neck for up to 1 minute or until your skin is cleansed. When finished, press the universal button to turn off your device (it will also automatically turn off after 1 minute). Rinse your face and neck, and clean the device.",
+  "ingredients": "",
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "skin-care",
+      "brushes",
+      "tools",
+      "skincare"
+    ],
+    "product_type": [
+      "cleanser"
+    ],
+    "skin_type": [
+      "sensitive",
+      "acne-prone",
+      "all skin types"
+    ],
+    "finish": [
+      "sheer",
+      "waterproof",
+      "oil",
+      "foam"
+    ],
+    "brand": [
+      "mid-range",
+      "mid-range"
+    ],
+    "special_features": [
+      "soothing",
+      "purifying"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2054208",
+    "total_reviews": 1,
+    "reviews": [
+      {
+        "review_id": 563579494,
+        "rating": 5,
+        "headline": "More than satisfied with the brush",
+        "comments": "This Luna brush is definitely something every girl should have to keep her skin smooth and clean. I love how soft it feels and the gentle pulsations. My skin's glowing, and it's so easy to maintain. No annoying cables, charging, everything's simple and user-friendly including the app. Big thanks for that! I'm really satisfied and would recommend it everywhere",
+        "nickname": "Amelia_32",
+        "location": "Chicago Il",
+        "created_date": 1758191876493,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 1,
+      "pages_total": 1,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {
+      "properties": [],
+      "rating_histogram": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "review_histogram": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rating_count": 1,
+      "review_count": 1,
+      "average_rating": 5.0,
+      "recommended_ratio": 1.0,
+      "media": [],
+      "name": "LUNA 4 Play Smart Facial Cleansing Massager",
+      "native_review_count": 1,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

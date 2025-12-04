@@ -1,0 +1,682 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/lip-repair-xlsImpprod18531053",
+  "extracted_at": "2025-09-23T04:25:16.114310+00:00",
+  "product_name": "AquaphorLip Repair",
+  "brand": "Aquaphor",
+  "categories": [
+    "Home",
+    "Makeup",
+    "Lips",
+    "Lip Balms & Treatments"
+  ],
+  "category_keys": [
+    "home",
+    "makeup",
+    "lips",
+    "men"
+  ],
+  "currency": "USD",
+  "list_price": "5.99",
+  "sale_price": "4.19",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "3582",
+  "images": [
+    "https://media.ulta.com/i/ulta/2529690?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2529690?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2529690_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2529690_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2529690_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2529690_alt04?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummaryAquaphor Lip Repair helps relieve and soothe dry, chapped lips.",
+  "details": "DetailsBenefitsProven to relieve dryness and soothe chapped, cracked lips by sealing in moisture and helping prevent drynessGives lips a little extra shineFeaturesSpecially formulated for sensitive lipsFormulated with nourishing vitamins, Shea Butter and soothing Chamomile essenceFormulated WithoutPreservative and fragrance free, specifically for sensitive skin and clinically proven to restore smooth, healthy skin.Item 2529690How To UseSee individual packagingPrecautions: For external use only. When using this product do not get into eyes or use on a deep or puncture wound.IngredientsPetrolatum. Avobenzone, Octinoxate, Octisalate, Octocrylene, Oxybenzone, C18-38 Alkyl Hydroxystearoyl Stearate, Octyldodecanol, Glycerin, Ricinus Communis (Castor) Seed Oil, Caprylic/Capric Triglyceride, Panthenol, Water, Polyglyceryl-3 Diisostearate, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Hydrogenated Castor Oil, Beeswax, C20-40 Alkyl Stearate, Magnesium Sulfate, Magnesium Stearate, Bht.",
+  "how_to_use": "See individual packagingPrecautions: For external use only. When using this product do not get into eyes or use on a deep or puncture wound.",
+  "ingredients": [
+    "Petrolatum. Avobenzone",
+    "Octinoxate",
+    "Octisalate",
+    "Octocrylene",
+    "Oxybenzone",
+    "C18-38 Alkyl Hydroxystearoyl Stearate",
+    "Octyldodecanol",
+    "Glycerin",
+    "Ricinus Communis (Castor) Seed Oil",
+    "Caprylic/Capric Triglyceride",
+    "Panthenol",
+    "Water",
+    "Polyglyceryl-3 Diisostearate",
+    "Butyrospermum Parkii (Shea) Butter",
+    "Tocopheryl Acetate",
+    "Hydrogenated Castor Oil",
+    "Beeswax",
+    "C20-40 Alkyl Stearate",
+    "Magnesium Sulfate",
+    "Magnesium Stearate",
+    "Bht"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/4bf9e227-c928-492e-a06f-7dfa8e2103ba/480.webp",
+      "https://content.syndigo.com/asset/b52e99c9-c803-4b8f-95b4-4b9e82884bbc/480.webp",
+      "https://content.syndigo.com/asset/057c1e76-0b76-4ccc-8e9f-dc6139bcca1b/480.webp",
+      "https://content.syndigo.com/asset/8f503f27-abe0-4837-962c-9752d7897f0a/480.webp"
+    ]
+  },
+  "tags": {
+    "category": [
+      "makeup",
+      "lips",
+      "lip",
+      "cosmetics"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "lip gloss",
+      "treatment",
+      "lip balm"
+    ],
+    "skin_type": [
+      "dry",
+      "sensitive"
+    ],
+    "finish": [
+      "creamy",
+      "oil"
+    ],
+    "ingredients": [
+      "sulfate-free"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "special_features": [
+      "fragrance-free",
+      "hydrating",
+      "soothing"
+    ]
+  },
+  "reviews": {
+    "product_id": "xlsImpprod18531053",
+    "total_reviews": 3582,
+    "reviews": [
+      {
+        "review_id": 557142055,
+        "rating": 4,
+        "headline": "Aquaphor Lip Repair",
+        "comments": "This is a great product over all! There is only one thing i dislike about it, and that is that it taste bad. I have tried other aquaphor products that have different packaging and they have no taste, but this one taste nasty. This product hydrates, soothes and fixes dry or cracked lips!",
+        "nickname": "Marie",
+        "location": "Cincinnati OH",
+        "created_date": 1752525144327,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 557142038,
+        "rating": 4,
+        "headline": "Aquaphor Lip Repair",
+        "comments": "This is a great product over all! There is only one thing i dislike about it, and that is that it taste bad. I have tried other aquaphor products that have different packaging and they have no taste, but this one taste nasty. This product hydrates, soothes and fixes dry or cracked lips!",
+        "nickname": "Marie",
+        "location": "Cincinnati OH",
+        "created_date": 1752525144163,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 557022992,
+        "rating": 5,
+        "headline": "Tried-and-true hydrating lippie",
+        "comments": "I love Aquaphor so much, I personally like this applicator, but the formula is amazing. It's hydrating, with a slight glossy shine and has so many great protective and reparative agents. It's made for your lips, but it can also be used to hydrate eyelids and under-eyes if needed.",
+        "nickname": "Zoe",
+        "location": "Oakland, CA",
+        "created_date": 1752356264731,
+        "bottom_line": "Yes",
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 556690391,
+        "rating": 3,
+        "headline": "Needs work",
+        "comments": "Not the best. Left my lips more dry",
+        "nickname": "Stephanie",
+        "location": "Tuscaloosa. Alabama",
+        "created_date": 1751731004934,
+        "bottom_line": "No",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 555669726,
+        "rating": 3,
+        "headline": "It's Mid",
+        "comments": "I prefer this type of lip treatment over the stick form. My friend loves this brand and raves about it but I think they overhype it. it's very Mid. Sure it goes on nice and feels nice when it's on but does nothing for my lips long-term and there is absolutely nothing special about it. I could lose it and forget I ever had it unlike my chapstick medicated or Kapari lip. Again it's Mid, not bad, not overly good. Very forgettable.",
+        "nickname": "Natural Girly",
+        "location": "Naples FL",
+        "created_date": 1750520826896,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 553783117,
+        "rating": 5,
+        "headline": "Holy grail for lips",
+        "comments": "I have chronically dry and peeling lips. Applying this at night is helping.",
+        "nickname": "Dia",
+        "location": "Dallas , TX",
+        "created_date": 1747882218186,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 550254275,
+        "rating": 5,
+        "headline": "THE BEST",
+        "comments": "BUY IT THIS IS DEF WORTH THE MONEY 10000% BETTER THAN VASILINE",
+        "nickname": "Aleeza",
+        "location": "Springfield,VA",
+        "created_date": 1743191831308,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548905710,
+        "rating": 5,
+        "headline": "Love",
+        "comments": "I'm usually only a Carmax person, I am Allergic to certain ingredients in regular chapstick. This is amazing! The formula is very moisturizing and it melts right on. It is so great I had to leave a review!",
+        "nickname": "Julie",
+        "location": "Atlanta",
+        "created_date": 1742225069712,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548034051,
+        "rating": 5,
+        "headline": "Love it.",
+        "comments": "My lips are so soft! My husband even loves it.",
+        "nickname": "Kristi",
+        "location": "Scottsdale, AZ.",
+        "created_date": 1741547062028,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548029578,
+        "rating": 2,
+        "headline": "Meh",
+        "comments": "I use regular aquaphor as a nightly lip mask and its great! This for some reason is not the same. \n\nIt might be ok for some, but seemed to dry my lips out a little and tastes terrible.",
+        "nickname": "CW",
+        "location": "Philadelphia",
+        "created_date": 1741538955206,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 548029597,
+        "rating": 2,
+        "headline": "Meh",
+        "comments": "I use regular aquaphor as a nightly lip mask and its great! This for some reason is not the same. \n\nIt might be ok for some, but seemed to dry my lips out a little and tastes terrible.",
+        "nickname": "CW",
+        "location": "Philadelphia",
+        "created_date": 1741538954857,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547841344,
+        "rating": 1,
+        "headline": "It tastes SO bad",
+        "comments": "The product itself is fine, although I wouldn't say it is as hydrating as other balms on the market. The biggest issue is the taste – awfully bitter and unpleasant. Even the small cost doesn't make it better. Would not repurchase or recommend.",
+        "nickname": "T",
+        "location": "Austin TX",
+        "created_date": 1741236829968,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 547144997,
+        "rating": 5,
+        "headline": "Effective and affordable!!",
+        "comments": "I will definitely buy this again. Heals my chapped dry lips and fast.",
+        "nickname": "Raechel",
+        "location": "Texas",
+        "created_date": 1740293348514,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 543803558,
+        "rating": 5,
+        "headline": "The BEST!",
+        "comments": "All you really need for your lips is so Vaseline or Aquaphor. Tried the fancier lip balms and most of them make my lips MORE dry. This is the bang for your buck.",
+        "nickname": "Ella",
+        "location": "Georgia",
+        "created_date": 1737496640787,
+        "bottom_line": null,
+        "helpful_votes": 10,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542639578,
+        "rating": 3,
+        "headline": "Do not recommend",
+        "comments": "My son has super chapped lips and this does NOT work at all for him!",
+        "nickname": "Roxi",
+        "location": "Menifee,CA",
+        "created_date": 1736576486154,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 542528941,
+        "rating": 5,
+        "headline": "I would buy it again and again",
+        "comments": "Love this and I am unable to purchase this in Canada so always restock when I go to Fargo or Grand Forks.",
+        "nickname": "Kathy",
+        "location": "Winnipeg Manitoba",
+        "created_date": 1736442884069,
+        "bottom_line": "Yes",
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542486080,
+        "rating": 5,
+        "headline": "Holy Grail",
+        "comments": "1000x better than any expensive lip mask or repair you will ever get. I put it on every night before I go to sleep and I promise if you do the same your lips will be the softest and smoothest of your life. For the price you simply can't beat it.",
+        "nickname": "Faithanna",
+        "location": "Lexington, NC",
+        "created_date": 1736354539085,
+        "bottom_line": "Yes",
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 542295044,
+        "rating": 5,
+        "headline": "aquaphor",
+        "comments": "this is the best lip product i've ever tried for dry lips it lasts much longer than anything i've used and it's amazing",
+        "nickname": "kiri",
+        "location": "va",
+        "created_date": 1736139752409,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 541670147,
+        "rating": 5,
+        "headline": "Aquafor Lippie",
+        "comments": "This is my nighttime lip savior. I essentially stock up on these and slather them on every night before bed and wake up to a plump pout!",
+        "nickname": "Nicole",
+        "location": "CA",
+        "created_date": 1734932680156,
+        "bottom_line": "Yes",
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539293360,
+        "rating": 4,
+        "headline": "Great product, bad taste",
+        "comments": "I like this product a lot. The formula isn't waxy, but glides on the lips very easily. The taste is gross, but if you can get past that, it's great.",
+        "nickname": "Heather",
+        "location": "Philadelphia",
+        "created_date": 1733788712901,
+        "bottom_line": "Yes",
+        "helpful_votes": 5,
+        "not_helpful_votes": 1
+      }
+    ],
+    "paging": {
+      "total_results": 214,
+      "pages_total": 11,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/xlsImpprod18531053/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Treat Chapped Lips",
+              "count": 6
+            },
+            {
+              "label": "Prevent Wind Burn",
+              "count": 5
+            },
+            {
+              "label": "Daily Use",
+              "count": 4
+            },
+            {
+              "label": "Sun Protection",
+              "count": 1
+            },
+            {
+              "label": "All over face protection & healing",
+              "count": 1
+            },
+            {
+              "label": "severe chapped lip repair",
+              "count": 1
+            },
+            {
+              "label": "For chapped lips",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "All over face protection & healing",
+            "Cold Sores/Fever Blisters",
+            "Daily Use",
+            "For chapped lips",
+            "Prevent Wind Burn",
+            "Sun Protection",
+            "Treat Chapped Lips",
+            "severe chapped lip repair"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Not Long-Lasting",
+              "count": 2
+            },
+            {
+              "label": "irritating",
+              "count": 1
+            },
+            {
+              "label": "None",
+              "count": 1
+            },
+            {
+              "label": "Bad Taste",
+              "count": 1
+            },
+            {
+              "label": "Doesn't Work",
+              "count": 1
+            },
+            {
+              "label": "Doesn't last long",
+              "count": 1
+            },
+            {
+              "label": "Feels greasy",
+              "count": 1
+            },
+            {
+              "label": "Not hydrating",
+              "count": 1
+            },
+            {
+              "label": "Weird taste",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Bad Smell",
+            "Bad Taste",
+            "Doesn't Work",
+            "Doesn't last long",
+            "Feels greasy",
+            "Greasy",
+            "None",
+            "Not Long-Lasting",
+            "Not hydrating",
+            "Weird taste",
+            "irritating"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Budget Shopper",
+              "count": 5
+            },
+            {
+              "label": "Brand Buyer",
+              "count": 2
+            },
+            {
+              "label": "Usually chapped lips",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Brand Buyer",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Usually chapped lips",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Soothing",
+              "count": 7
+            },
+            {
+              "label": "Healing",
+              "count": 6
+            },
+            {
+              "label": "Effective",
+              "count": 5
+            },
+            {
+              "label": "Long Lasting",
+              "count": 4
+            },
+            {
+              "label": "hydrating",
+              "count": 1
+            },
+            {
+              "label": "Bang for your Buck",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Smells/Tastes Great",
+              "count": 1
+            },
+            {
+              "label": "blend of ingredients truly repair sunburnt lips",
+              "count": 1
+            },
+            {
+              "label": "ease of use with angled applicator",
+              "count": 1
+            },
+            {
+              "label": "no product order",
+              "count": 1
+            },
+            {
+              "label": "Applies well",
+              "count": 1
+            },
+            {
+              "label": "Easy to use",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Not sticky",
+              "count": 1
+            },
+            {
+              "label": "Goes on smooth, works instantly",
+              "count": 1
+            },
+            {
+              "label": "Heals lips",
+              "count": 1
+            },
+            {
+              "label": "Lasts long",
+              "count": 1
+            },
+            {
+              "label": "No taste",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Applies well",
+            "Bang for your Buck",
+            "Easy to use",
+            "Effective",
+            "Goes on smooth, works instantly",
+            "Healing",
+            "Heals lips",
+            "Hydrating",
+            "Lasts long",
+            "Long Lasting",
+            "Moisturizing",
+            "No taste",
+            "Not sticky",
+            "Smells/Tastes Great",
+            "Soothing",
+            "blend of ingredients truly repair sunburnt lips",
+            "ease of use with angled applicator",
+            "hydrating",
+            "no product order"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Dry",
+              "count": 7
+            },
+            {
+              "label": "Combination",
+              "count": 4
+            },
+            {
+              "label": "Normal",
+              "count": 3
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        76,
+        45,
+        171,
+        499,
+        2791
+      ],
+      "review_histogram": [
+        76,
+        45,
+        171,
+        499,
+        2791
+      ],
+      "rating_count": 3582,
+      "review_count": 3582,
+      "average_rating": 4.64,
+      "recommended_ratio": 0.76,
+      "media": [
+        {
+          "id": "400578866",
+          "review_id": 400578828,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/smleqgu10vue9hhu6kq9.jpg",
+          "headline": "I Wear This At Nite Best Ever!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Worthwhile Aquaphor Tube",
+          "nickname": "Emmi",
+          "created_date": 1646151331987
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "I tend to get dry, chapped, even cracks on my lips when the weather starts to change. I ended up with a big split on my upper lip that I had for almost a week. No matter what I used or how often I reapplied it wasn't healing. It was miserable. I bought a tube of Aquaphor lip repair & now I won't be buying anything else. It's not greasy or sticky, and lasts for a long time after applying. It healed my cracked lip in a couple of days. My lips haven't felt this hydrated in forever. It's kinda on the pricey side, but it truly works, so to me it's worth it.",
+        "headline": "Best way to heal your lips",
+        "rating": 5,
+        "ugc_id": 352191174
+      },
+      "faceoff_negative": {
+        "comments": "I have been using regular Aquaphor on my lips for years and it's the only thing that doesn't make my lips chapped. All other chapsticks dry out my lips as soon as I stop using them, causing me to become dependent on them. I was so excited when Aquaphor came out with a lip ointment that is small and fits conveniently in my purse. I bought 4 of them! I have been so disappointed though... They must have changed the ingredients because it is not the same as the original ointment! The lip balm has actually made my lips remarkably more chapped every time I use it. The only thing I can figure out is that it must not be the same as the original Aquaphor ointment that has NEVER done that to my lips before. I really wish they would have kept the same formula for the lip repair as they have for their original ointment. Very disappointing.",
+        "headline": "Not the same as the original",
+        "rating": 1,
+        "ugc_id": 352191334
+      },
+      "name": "Lip Repair",
+      "native_review_count": 214,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 3368,
+      "locale": "en_US"
+    }
+  }
+}

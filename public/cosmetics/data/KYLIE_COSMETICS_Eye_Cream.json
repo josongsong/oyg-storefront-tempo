@@ -1,0 +1,775 @@
+{
+  "product_id": "pimprod2009647",
+  "product_url": "https://www.ulta.com/p/eye-cream-pimprod2009647",
+  "extracted_at": "2025-09-23T03:52:49.318539+00:00",
+  "product_name": "KYLIE COSMETICSEye Cream",
+  "brand": "KYLIE COSMETICS",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Eye Treatments",
+    "Eye Cream"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "eye-treatments",
+    "eye-cream"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "22.00",
+  "availability": "in_stock",
+  "rating_avg": "4.3",
+  "rating_count": "6119",
+  "images": [
+    "https://media.ulta.com/i/ulta/2548219?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2548219?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548219cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548219cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548219cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548219cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548219cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548219cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548219cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2548219cm_vid01/thumbs/7246e6f1-bbcd-48be-8ae7-568c7ba6e5df?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsVeganKYILE SKIN Eye Cream is the ultimate recipe for your eyes that help brighten, hydrate, and reduce puffiness and the appearance of fine lines and wrinkles.",
+  "details": "DetailsBenefitsThis unique formula contains a blend of caffeine, green tea, Vitamin E and pomegranate extracts that help brighten, hydrate, and reduce puffiness and the appearance of fine lines and wrinkles.Key IngredientsCaffeine, Green Tea Extract, Pomegranate Extract: A blend of extracts that help soften the appearance of wrinkles, smooth skin and help reduce puffinessVitamin E: An antioxidant that helps hydrate skinVitamin C: An antioxidant that helps reduce the appearance of dark circlesShea Butter: Provides excellent moisturizationJojoba Seed Oil: Helps condition skin with a weightless feelFormulated WithoutFragrance FreeParaben FreeSulfate FreeGluten FreeVeganDermatologist TestedItem 2548219IngredientsWater/Aqua/Eau, Simmondsia Chinensis (Jojoba) Seed Oil, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-3 Rice Branate, Glycerin, Coconut Alkanes, Cetearyl Alcohol, Polyglyceryl-3 Distearate, Propanediol, Cetyl Phosphate, Polyacrylate-13, Isododecane, Phenoxyethanol, Caprylyl Glycol, Glyceryl Stearate Citrate, Tetrahexyldecyl Ascorbate, Polyisobutene, Mica, Dimethicone Crosspolymer, Titanium Dioxide (CI 77891), Coco-Caprylate/Caprate, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Polyglyceryl-3 Cocoate, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Polyglyceryl-6 Ricinoleate, Camellia Sinensis Leaf Extract, Lactobacillus Ferment Lysate, Polymethylsilsesquioxane, Punica Granatum Extract, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, HDI/Trimethylol Hexyllactone Crosspolymer, Polysorbate 20, Iron Oxides (CI 77491), Sorbitan Isostearate, 3-O-Ethyl Ascorbic Acid, Tocopheryl Acetate, Lactobacillus Ferment, Caffeine, Tocopherol, Actinidia Chinensis (Kiwi) Seed Oil, Citric Acid.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "",
+  "ingredients": [
+    "Water/Aqua/Eau",
+    "Simmondsia Chinensis (Jojoba) Seed Oil",
+    "Butyrospermum Parkii (Shea) Butter",
+    "Polyglyceryl-3 Rice Branate",
+    "Glycerin",
+    "Coconut Alkanes",
+    "Cetearyl Alcohol",
+    "Polyglyceryl-3 Distearate",
+    "Propanediol",
+    "Cetyl Phosphate",
+    "Polyacrylate-13",
+    "Isododecane",
+    "Phenoxyethanol",
+    "Caprylyl Glycol",
+    "Glyceryl Stearate Citrate",
+    "Tetrahexyldecyl Ascorbate",
+    "Polyisobutene",
+    "Mica",
+    "Dimethicone Crosspolymer",
+    "Titanium Dioxide (",
+    "Coco-Caprylate/Caprate",
+    "Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters",
+    "Cetyl Alcohol",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Sodium Hydroxide",
+    "Polyglyceryl-3 Cocoate",
+    "Polyglyceryl-4 Caprate",
+    "Polyglyceryl-6 Caprylate",
+    "Polyglyceryl-6 Ricinoleate",
+    "Camellia Sinensis Leaf Extract",
+    "Lactobacillus Ferment Lysate",
+    "Polymethylsilsesquioxane",
+    "Punica Granatum Extract",
+    "Trisodium Ethylenediamine Disuccinate",
+    "Ethylhexylglycerin",
+    "HDI/Trimethylol Hexyllactone Crosspolymer",
+    "Polysorbate 20",
+    "Iron Oxides (",
+    "Sorbitan Isostearate",
+    "3-O-Ethyl Ascorbic Acid",
+    "Tocopheryl Acetate",
+    "Lactobacillus Ferment",
+    "Caffeine",
+    "Tocopherol",
+    "Actinidia Chinensis (Kiwi) Seed Oil",
+    "Citric Acid"
+  ],
+  "extended_contents": {
+    "images": [
+      "https://content.syndigo.com/asset/f28603c2-1f46-4594-b39d-e5e56d08da89/480.webp",
+      "https://content.syndigo.com/asset/0a624843-393f-40c4-a41d-cabad7217d10/480.jpeg",
+      "https://content.syndigo.com/asset/273be96b-73af-4bf9-8ef6-1dace6fe2ca4/480.webp",
+      "https://content.syndigo.com/asset/777effc8-0646-4ed7-8b29-ac86c1e83000/480.jpeg",
+      "https://content.syndigo.com/asset/1646936a-f1e2-4bb0-bd21-7083dc373239/480.jpeg"
+    ]
+  },
+  "tags": {
+    "category": [
+      "eye",
+      "eyes"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "treatment",
+      "eye cream"
+    ],
+    "skin_type": [
+      "mature"
+    ],
+    "finish": [
+      "sheer",
+      "creamy",
+      "cream",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "vegan",
+      "dermatologist-tested",
+      "fragrance-free",
+      "paraben-free",
+      "sulfate-free",
+      "anti-aging"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprod2009647",
+    "total_reviews": 6119,
+    "reviews": [
+      {
+        "review_id": 547114346,
+        "rating": 1,
+        "headline": "Meh",
+        "comments": "It brightens a little, but weridly burns my eye sometimes. Not hydrating and dries undereye, that when i powder my undereyes theres dry patches.",
+        "nickname": "Lana",
+        "location": "Fl",
+        "created_date": 1740216669353,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 539353757,
+        "rating": 5,
+        "headline": "Love.",
+        "comments": "Toddler mom approaching her mid 30's approved. My aging and sleepless eyes love this cream. De puffs, lightens dark circles and the wrinkles that are creeping are slowly diminishing. I didnt use eye cream in my 20's so for my first one its a keeper. No complaints.",
+        "nickname": "Maria",
+        "location": "Undisclosed.",
+        "created_date": 1733864603802,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 538806646,
+        "rating": 5,
+        "headline": "DEFINITELY RECOMMEND ✨✨",
+        "comments": "Okay so I struggle with puffiness and this eyecream help reduce it so well in the mornings when i have to get up early! The only thing is that it burns a bit but if you dont mind that the you should totally buy this! ✨✨",
+        "nickname": "Papyrus14",
+        "location": "Scottsdale, AZ",
+        "created_date": 1733074673748,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 538806628,
+        "rating": 5,
+        "headline": "DEFINITELY RECOMMEND ✨✨",
+        "comments": "Okay so I struggle with puffiness and this eyecream help reduce it so well in the mornings when i have to get up early! The only thing is that it burns a bit but if you dont mind that the you should totally buy this! ✨✨",
+        "nickname": "Papyrus14",
+        "location": "Scottsdale, AZ",
+        "created_date": 1733074673279,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 537109871,
+        "rating": 5,
+        "headline": "Love it!",
+        "comments": "Best eye cream ever, light coverage, line smoothing. Lasts all day.",
+        "nickname": "",
+        "location": "Estero, FL",
+        "created_date": 1730387334579,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 534059613,
+        "rating": 1,
+        "headline": "Terrible",
+        "comments": "Do not buy.",
+        "nickname": "Na",
+        "location": "Kansas",
+        "created_date": 1727161450848,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 6
+      },
+      {
+        "review_id": 512732645,
+        "rating": 5,
+        "headline": "This is a new staple for sure!",
+        "comments": "I absolutely love this product! This eye cream is so silky, it brightens your eye area, and leaves a beautifully smooth appearance. 10/10",
+        "nickname": "Jenn",
+        "location": "Mobile, AL",
+        "created_date": 1714583978569,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 511698189,
+        "rating": 3,
+        "headline": "Cute packaging",
+        "comments": "The only thing I like about this product is the bottle. I didnt see any difference, although it didn't burn or anything.",
+        "nickname": "Hads",
+        "location": "Mebane, NC",
+        "created_date": 1713492463145,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 490431930,
+        "rating": 5,
+        "headline": "Sample size review",
+        "comments": "Received a sample of this in my last order. I didnt think I was going to like it, but honestly, I love it. I use a very small amount - maybe the size of a grain of rice - under both eyes. After only a few days I started to notice a difference.",
+        "nickname": "Jules",
+        "location": "Sioux Falls",
+        "created_date": 1705100788640,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 485798033,
+        "rating": 2,
+        "headline": "Stung",
+        "comments": "The cream glides on niceky. Unfortunately it stung upon contact with skin. On  day three of usung it i had a break out under my eyes! I do not have acne prone skin so this was very odd. Its unfortunate becsuse i think it did lighten a bit the daekness under my eye but the other unwelcome side effects not worth  it.",
+        "nickname": "Reina",
+        "location": "Bel Air, Md",
+        "created_date": 1703478681417,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 485005976,
+        "rating": 1,
+        "headline": "Stings",
+        "comments": "I got this as a free sample so while i am not really interested in Kylie skin care, i figured i would try it. Stung immediately. Definitely don't want near my eyes.",
+        "nickname": "Paige",
+        "location": "DC",
+        "created_date": 1702701869250,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 484992293,
+        "rating": 1,
+        "headline": "BURNED MY EYE AREA",
+        "comments": "DO NOT BUY IT BURNS YOUR SKIN",
+        "nickname": "Brit",
+        "location": "Detroit, MI",
+        "created_date": 1702684280895,
+        "bottom_line": null,
+        "helpful_votes": 3,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 467408789,
+        "rating": 1,
+        "headline": "Do not buy this",
+        "comments": "I bought this because ive been wanting to try it.. total flop, this product burned and I do not have sensetive skin also while I was rubbing it into my eyes it kind of separated and formed little clumps. I also noticed that it made my dark eyes work the brightening solution did not work but made my undereyes orange.",
+        "nickname": "Jen",
+        "location": "Woodbury, MN",
+        "created_date": 1691023689531,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 466771751,
+        "rating": 1,
+        "headline": "No thanks",
+        "comments": "I received a sample of this in one of my Ulta orders. I used it after washing my face, and was at first put off by the color. I've never used an eye cream that was anything other than white. As soon as I put it on, it started burning. It's heavy, greasy and feels gross on the skin as well. I'm not willing to give this another go as I don't normally have sensitive skin, so whatever is in here that is aggravating my skin is probably something that shouldn't be in an eye cream lol.",
+        "nickname": "Megan",
+        "location": "MA",
+        "created_date": 1690678517123,
+        "bottom_line": "No",
+        "helpful_votes": 2,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 462269322,
+        "rating": 1,
+        "headline": "Irritated my eyes",
+        "comments": "This made my eyelids irritated and burn. I now have dry skin and bumps on my eyelids. Usually Kylie makes solid and simple skincare products. However, this missed the mark.",
+        "nickname": "Gigi",
+        "location": "California",
+        "created_date": 1687407392237,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 459952309,
+        "rating": 1,
+        "headline": "Does absolutely nothing.",
+        "comments": "Ok so unlike most of the reviews here ive actually given this eye cream an extremely fair chance. Ive been using this cream 2x a day for A YEAR and no difference at all. Ive tried so hard to like this product, i just cant keep using it after no progress for this long. You're literally just paying for \"kylie\", although i must admit the cream is lightweight, hydrating and has a cute little glow. But it's completely useless as an eye cream. Would be a better hand moisturizer honestly.",
+        "nickname": "Anika",
+        "location": "NY, USA",
+        "created_date": 1685751739448,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 459109073,
+        "rating": 2,
+        "headline": "Does Nothing!",
+        "comments": "Im giving it points for cute packaging and a low price but oh my GAWD. It doesnt do anything!! Half the time it just peels off my face.",
+        "nickname": "Eva",
+        "location": "Columbus, Ohio",
+        "created_date": 1684851744591,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 456098442,
+        "rating": 1,
+        "headline": "sucks",
+        "comments": "died my skin out for weeks bru",
+        "nickname": "j",
+        "location": "las vegas",
+        "created_date": 1683043671485,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 452121702,
+        "rating": 4,
+        "headline": "it's okay, not bad",
+        "comments": "price is pushing it for how much u get but it does the job. the yellow tint of the product helps off put the dark under eyes. also very moisturizing",
+        "nickname": "s",
+        "location": "tx",
+        "created_date": 1681410331976,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 451770926,
+        "rating": 5,
+        "headline": "Highly recommend, lasts forever",
+        "comments": "I love this product!!! Ive had the same tube for a few months. I like the applicator and ive noticed a big difference overall in my under eye area! Great price for the product.",
+        "nickname": "Summer H",
+        "location": "Gloucester, VA",
+        "created_date": 1681090851442,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 171,
+      "pages_total": 9,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2009647/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "None",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "None"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Burns",
+              "count": 5
+            },
+            {
+              "label": "burns my eyes, doesn't absorb well",
+              "count": 1
+            },
+            {
+              "label": "STINGS, weird color, irritation",
+              "count": 1
+            },
+            {
+              "label": "Burned",
+              "count": 1
+            },
+            {
+              "label": "- Does NOT decrease puffiness AT ALL",
+              "count": 1
+            },
+            {
+              "label": "- Does not decrease eye bags AT ALL",
+              "count": 1
+            },
+            {
+              "label": "Drying",
+              "count": 1
+            },
+            {
+              "label": "Irritating",
+              "count": 1
+            },
+            {
+              "label": "cheap packaging",
+              "count": 1
+            },
+            {
+              "label": "Burned my skin",
+              "count": 1
+            },
+            {
+              "label": "Doesnt make much of a difference",
+              "count": 1
+            },
+            {
+              "label": "High price",
+              "count": 1
+            },
+            {
+              "label": "None.",
+              "count": 1
+            },
+            {
+              "label": "It peels off instead of just goes into your skin",
+              "count": 1
+            },
+            {
+              "label": "Emphasized wrinkles",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "- Does NOT decrease puffiness AT ALL",
+            "- Does not decrease eye bags AT ALL",
+            "Burned",
+            "Burned my skin",
+            "Burns",
+            "Doesnt make much of a difference",
+            "Drying",
+            "Emphasized wrinkles",
+            "High price",
+            "Irritating",
+            "It peels off instead of just goes into your skin",
+            "None.",
+            "STINGS, weird color, irritation",
+            "burns my eyes, doesn't absorb well",
+            "cheap packaging"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "16, do not have sensitive skin, dry skin.",
+              "count": 1
+            },
+            {
+              "label": "- 18 year old , light skin hispanic girl",
+              "count": 1
+            },
+            {
+              "label": "College student, shopping on a budget",
+              "count": 1
+            },
+            {
+              "label": "Male, 27, Combination Skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "- 18 year old , light skin hispanic girl",
+            "16, do not have sensitive skin, dry skin.",
+            "Casual Dresser",
+            "College student, shopping on a budget",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Male, 27, Combination Skin",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Brightening",
+              "count": 2
+            },
+            {
+              "label": "Cheap",
+              "count": 1
+            },
+            {
+              "label": "Everything u need in an eye cream, price!",
+              "count": 1
+            },
+            {
+              "label": "- NONE",
+              "count": 1
+            },
+            {
+              "label": "brightening",
+              "count": 1
+            },
+            {
+              "label": "soothing",
+              "count": 1
+            },
+            {
+              "label": "Light",
+              "count": 1
+            },
+            {
+              "label": "Texture",
+              "count": 1
+            },
+            {
+              "label": "Depuff",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Reviving",
+              "count": 1
+            },
+            {
+              "label": "Cute bottle",
+              "count": 1
+            },
+            {
+              "label": "Makes my under eyes not dry",
+              "count": 1
+            },
+            {
+              "label": "Seems to have diminished dark circles",
+              "count": 1
+            },
+            {
+              "label": "made dark circle go away.",
+              "count": 1
+            },
+            {
+              "label": "Easy application",
+              "count": 1
+            },
+            {
+              "label": "Ingredients",
+              "count": 1
+            },
+            {
+              "label": "Lightweight",
+              "count": 1
+            },
+            {
+              "label": "Plumps Under Eyes",
+              "count": 1
+            },
+            {
+              "label": "Smoothes Fine Lines",
+              "count": 1
+            },
+            {
+              "label": "Yellow tint",
+              "count": 1
+            },
+            {
+              "label": "Reduced dark under eyes",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "- NONE",
+            "Brightening",
+            "Cheap",
+            "Cute bottle",
+            "Depuff",
+            "Easy application",
+            "Everything u need in an eye cream, price!",
+            "Ingredients",
+            "Light",
+            "Lightweight",
+            "Makes my under eyes not dry",
+            "Moisturizing",
+            "Plumps Under Eyes",
+            "Reduced dark under eyes",
+            "Reviving",
+            "Seems to have diminished dark circles",
+            "Smoothes Fine Lines",
+            "Texture",
+            "Yellow tint",
+            "brightening",
+            "made dark circle go away.",
+            "soothing"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        484,
+        353,
+        265,
+        923,
+        4094
+      ],
+      "review_histogram": [
+        484,
+        353,
+        265,
+        923,
+        4094
+      ],
+      "rating_count": 6119,
+      "review_count": 6119,
+      "average_rating": 4.27,
+      "recommended_ratio": 0.83,
+      "media": [
+        {
+          "id": "542388755",
+          "review_id": 542388738,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hgimqo05fvwj4tdldy6s.jpg",
+          "headline": "I love this eye cream so much! Feels soooo light!!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Literally the most wonderful eye cream I have ever used. Pictured is the packing of it. I love when you take the cap off it is shaped like the lip butter applicator is. Having the \"lip balm\" shape makes it so much easier to apply onto the under eye area.",
+          "nickname": "Samantha",
+          "created_date": 1735617599000
+        },
+        {
+          "id": "512496721",
+          "review_id": 512496696,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/re92wnpfavs0vgj6akqt.jpg",
+          "headline": "This stuff is amazing.",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "I love this Product!!",
+          "nickname": "anonymous",
+          "created_date": 1714152482000
+        },
+        {
+          "id": "506687917",
+          "review_id": 506687916,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/hbyearxqi3jdqfifxg6k.jpg",
+          "headline": "My favorite eye cream so far and",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Thanks for gift samples",
+          "nickname": "anonymous",
+          "created_date": 1708222645000
+        },
+        {
+          "id": "497701299",
+          "review_id": 497701298,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/cgu7ym6pozmt9pltbphj.jpg",
+          "headline": "My friends notice the glow in my face",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Love this eye cream",
+          "nickname": "anonymous",
+          "created_date": 1705936056000
+        },
+        {
+          "id": "480682528",
+          "review_id": 480682581,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/vqfevugkohd3cuaouhjf.jpg",
+          "headline": "10/10 recommend",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Great application",
+          "nickname": "Gabrielle",
+          "created_date": 1699340862000
+        },
+        {
+          "id": "383926557",
+          "review_id": 383926553,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/zhqhkfgac41lprsxtaln.jpg",
+          "headline": "Gave me a huge zit",
+          "rating": 1,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "caption": "Red pimple from the eye cream",
+          "nickname": "Gaby",
+          "created_date": 1633853244468
+        },
+        {
+          "id": "253864218",
+          "review_id": 253864227,
+          "uri": "//res.cloudinary.com/powerreviews/image/upload/f_auto,q_auto,h_768,w_auto/d_portal-no-product-image_ttlfpi.svg/prod/ayxorabbm091vjztzjgi.jpg",
+          "headline": "Would buy again!",
+          "rating": 5,
+          "helpful_votes": 0,
+          "not_helpful_votes": 0,
+          "type": "image",
+          "nickname": "Manderzlk",
+          "created_date": 1569170294849
+        }
+      ],
+      "faceoff_positive": {
+        "comments": "Nullafacilisi.In tellus diam, mollis ac suscipit non, malesuada sedmetus.Nullam malesuada purus nec tortor convallis vitae consectetur sapiensodales.\n\nNunc lorem neque, condimentum id fermentum a, aliquam sit ametligula.Sed ullamcorper dignissim est idporttitor.Mauris ullamcorper metus vitae dolor dignissimporttitor.Sed vestibulum varius leo, vitae mollis elit eleifenda.\n\nSed tempus lectus eget risus variuscursus.Aenean eleifend mauris sed tortor venenatis quis sagittis erateuismod.Praesent quis ante erat, sit amet conguenulla.Sed posuere pharetra massa aaliquam.Etiam dapibus rutrumhendrerit.In at nibh sit amet mauris ultriciescommodo.Pellentesque vel magna ac sapien elementum fringilla et eunisl.Nullam ut erat quis augue facilisissagittis.\n\nDonec luctus lobortis velit, vitae imperdiet ligula euismodid.Fusce ac libero orci, ut temporsem.Vivamus quam sapien, tristique in mattis et, facilisis sit ametipsum.\n\nDonec hendrerit mollis quam velaccumsan.Mauris iaculis pretium nibh neccursus.Vestibulum luctus facilisis massa vestibulumscelerisque.Duis fermentum purus id leo consequat eget accumsan maurishendrerit.Mauris ut lacus non arcu faucibus scelerisque volutpat rhoncusdiam.Maecenas non sodalesdui.Vestibulum porta lacus at eros auctor vitae tincidunt ligulaporttitor.Cras gravida accumsan eros, imperdiet mollis magna commodosed.",
+        "headline": "Nulla sed nibh est, in conguemassa.",
+        "rating": 5,
+        "ugc_id": 532493308
+      },
+      "faceoff_negative": {
+        "comments": "I have had 4 acne breakouts within two days that I have started using their products and I rarely breakout in general. I've ordered their facial wash, facial scrub, and eye cream -- I have a very sensitive skin, so that could also play a role. However, Kylieskin needs to improve their overall customer service dept. It had been a hassle trying to get a refund on the items when I was also willing to reship them since I was having a reaction on their products. First representative informed me that I need to reach out again within 10 days since my package was delivered per their 10-day policy. Second representative took four times of emailing me back and forth trying to get my order number, items ordered, items to complain, photos of lot numbers on each product, and photos of the reaction when I have included this on my initial email to her. Conclusively, after four days of reaching out (10 days after I initially emailed them), she ended up refunding me the items, but deducted the shipping cost ~$10. Think twice before you hit the \"checkout\" button please.\n                    In addition, it took forever until I was able to receive the package. It was supposedly delivered on June 15, but didn't receive it until June 21st. I had bought the item on June 10. They had charged me a $10 shipping for receiving the item 11 days from when I initially bought it and didn't even had the courtesy to refund me that shipping cost.",
+        "headline": "I have had 4 acne",
+        "rating": 1,
+        "ugc_id": 532546231
+      },
+      "name": "Eye Cream",
+      "native_review_count": 171,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 5948,
+      "locale": "en_US"
+    }
+  }
+}

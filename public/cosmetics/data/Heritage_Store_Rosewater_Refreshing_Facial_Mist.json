@@ -1,0 +1,728 @@
+{
+  "product_id": "pimprod2006821",
+  "product_url": "https://www.ulta.com/p/rosewater-refreshing-facial-mist-pimprod2006821",
+  "extracted_at": "2025-09-23T05:05:46.848866+00:00",
+  "product_name": "Heritage StoreRosewater Refreshing Facial Mist",
+  "brand": "Heritage Store",
+  "categories": [
+    "Home",
+    "Skin Care",
+    "Moisturizers",
+    "Face Mists & Essences"
+  ],
+  "category_keys": [
+    "home",
+    "skin-care",
+    "moisturizers",
+    "face"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "11.99",
+  "availability": "in_stock",
+  "rating_avg": "4.4",
+  "rating_count": "155",
+  "images": [
+    "https://media.ulta.com/i/ulta/2548789?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2548789?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548789_sm?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548789_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548789_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2548789_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2548789_vid01/thumbs/ac258dd9-43e7-450f-b87c-0287bf80db84?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsVeganSustainable PackagingMade with minimal ingredients, The OG Heritage Store Rosewater Refreshing Facial Mist refreshes, hydrates, uplifts and sets makeup.",
+  "details": "DetailsBenefitsInstantly increases skin's hydration by over 300% after one use. **Based on instrumental clinical testing of 30 participantsRefreshes and hydrates skin, sets makeup and uplifts your moodFormulated for all skin typesKey IngredientsDamask Rose soothes and softens skinSignature Vor-Mag Water - water which has been vortexed and magnetized to promote higher vibrations and energyDermatologically Tested & HypoallergenicFormulated WithoutDyes, alcohol*, parabens, sulfates or phthalates. * Guaranteed to contain less than 20ppm of ethanol.Item 2548789How To UseSpray liberally on face and hair throughout the day, whenever you want a wake-up call.IngredientsWater*, Natural Rosa Damascena Flower Extract Fragrance.*Water (Vor-Mag) has been vortexed and magnetized to raise the energy to a higher vibration.",
+  "how_to_use": "Spray liberally on face and hair throughout the day, whenever you want a wake-up call.",
+  "ingredients": [
+    "Water*",
+    "Natural Rosa Damascena Flower Extract Fragrance.*Water (Vor-Mag) has been vortexed and magnetized to raise the energy to a higher vibration"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "face"
+    ],
+    "product_type": [
+      "moisturizer",
+      "serum",
+      "toner"
+    ],
+    "skin_type": [
+      "all skin types"
+    ],
+    "finish": [
+      "sheer"
+    ],
+    "color": [
+      "pink"
+    ],
+    "ingredients": [
+      "natural",
+      "fragrance"
+    ],
+    "brand": [
+      "mid-range",
+      "affordable"
+    ],
+    "special_features": [
+      "vegan",
+      "natural",
+      "hypoallergenic"
+    ]
+  },
+  "reviews": {
+    "product_id": "pimprod2006821",
+    "total_reviews": 155,
+    "reviews": [
+      {
+        "review_id": 559183414,
+        "rating": 1,
+        "headline": "Returning",
+        "comments": "They changed the formula",
+        "nickname": "Rach",
+        "location": "Palm Springs",
+        "created_date": 1754183796073,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 555302162,
+        "rating": 3,
+        "headline": "Overpriced item",
+        "comments": "This is beautiful rosewater that you can find this for half the price at your local specialty grocery store WF… same ingredients!",
+        "nickname": "Toni",
+        "location": "Bay Area California",
+        "created_date": 1750272185984,
+        "bottom_line": "No",
+        "helpful_votes": 6,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 554339997,
+        "rating": 1,
+        "headline": "Trash!",
+        "comments": "I've been using this product since 2020 with no issues & the new bottle i just opened is making my face turning bright read with a hot sensation. I will no be using this anymore.",
+        "nickname": "Melissa",
+        "location": "Buffalo ny",
+        "created_date": 1748727559174,
+        "bottom_line": null,
+        "helpful_votes": 12,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 548649856,
+        "rating": 1,
+        "headline": "Only scented water after reformulation",
+        "comments": "Used to contain very helpful rose oil but now the only rose aspect is \"rose fragrance\", very disapponted and will no longer use. You can put plain water on your for free.",
+        "nickname": "J",
+        "location": "United States",
+        "created_date": 1741827575764,
+        "bottom_line": null,
+        "helpful_votes": 29,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 548048693,
+        "rating": 1,
+        "headline": "They ruined this item.",
+        "comments": "They have sneakily swapped the ingredients from roses/rose oil to rose fragrance. Trash now.",
+        "nickname": "Yasi",
+        "location": "Yorba Linda, CA",
+        "created_date": 1741586117870,
+        "bottom_line": null,
+        "helpful_votes": 33,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 548048692,
+        "rating": 1,
+        "headline": "They ruined this item.",
+        "comments": "They have sneakily swapped the ingredients from roses/rose oil to rose fragrance. Trash now.",
+        "nickname": "Yasi",
+        "location": "Yorba Linda, CA",
+        "created_date": 1741586117518,
+        "bottom_line": null,
+        "helpful_votes": 17,
+        "not_helpful_votes": 3
+      },
+      {
+        "review_id": 547868109,
+        "rating": 4,
+        "headline": "Its a good product",
+        "comments": "I usually buy the rosewater and glycerin mist but decided to buy this one. Its okay but I think I will stick to my preference for the next order. Good product tho",
+        "nickname": "Ade",
+        "location": "Colorado",
+        "created_date": 1741286952491,
+        "bottom_line": "Yes",
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 544250388,
+        "rating": 3,
+        "headline": "they changed the ingredients",
+        "comments": "I've been using this product for, no joke, over two decades. Recently they changed the ingredients and the rose is listed as a \"fragrance\", and the water is no longer \"purified\". the scent definitely changed from the bottle I already had too. I have fragrance allergies so I returned it.",
+        "nickname": "AM",
+        "location": "Philadelphia, PA",
+        "created_date": 1737867079596,
+        "bottom_line": null,
+        "helpful_votes": 26,
+        "not_helpful_votes": 2
+      },
+      {
+        "review_id": 538004227,
+        "rating": 4,
+        "headline": "Sprays Well",
+        "comments": "Good alternative to Mario Badescu products",
+        "nickname": "lameans",
+        "location": "Battle Creek, MI",
+        "created_date": 1731908667121,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 537710573,
+        "rating": 1,
+        "headline": "They recently changed the ingredients!",
+        "comments": "This used to be my absolute FAVE beauty product, with the perfect amount of hydration. Instead of Rose Flower oil, it now has Rose extract fragrance! So now it's just rose scented water, & my skin can tell. Sadly I have to find a new rose spray!",
+        "nickname": "Nicole",
+        "location": "FL",
+        "created_date": 1731426722783,
+        "bottom_line": "No",
+        "helpful_votes": 39,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 536550582,
+        "rating": 4,
+        "headline": "4.5 Rating",
+        "comments": "This is an amazing product! Refreshing, hydrating, and would definitely recommend. I took off half a point due to the spray nozzel, i find it doesn't spray as gently or evenly as i would like… other than that, great product.",
+        "nickname": "Honey's Mom",
+        "location": "Pasadena, Tx",
+        "created_date": 1729664390762,
+        "bottom_line": null,
+        "helpful_votes": 0,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 536425520,
+        "rating": 5,
+        "headline": "Love",
+        "comments": "Love the way it smells and feels on skin.",
+        "nickname": "Kari",
+        "location": "Ky",
+        "created_date": 1729449523190,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 534885812,
+        "rating": 5,
+        "headline": "Perfect!!",
+        "comments": "Inexpensive, smells wonderful, refreshing…you cant go wrong!",
+        "nickname": "Maddy",
+        "location": "Cincinnati, OH",
+        "created_date": 1727665310641,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 532980639,
+        "rating": 5,
+        "headline": "Obsessed",
+        "comments": "I love the fresh feeling it gives to the skin",
+        "nickname": "Madison",
+        "location": "Camillus NY",
+        "created_date": 1726243215886,
+        "bottom_line": "Yes",
+        "helpful_votes": 0,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 527546550,
+        "rating": 5,
+        "headline": "Really enjoy this rose spray",
+        "comments": "I truly enjoy any rose face mist. This and the Mario Badescu are my favorites. The mister covers my face in just a few spritzes, I do at least 5 because I love the scent and how soft it makes my skin feel.",
+        "nickname": "michmarie",
+        "location": "New York",
+        "created_date": 1724075868180,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 526631405,
+        "rating": 5,
+        "headline": "Dupe for Fresh Rose toner",
+        "comments": "I would say this is a dupe for the Fresh rose toner. No it doesnt have HA but a lot of skincare products come with that so i perfer this and it looks nicer on my desk",
+        "nickname": "Ceara",
+        "location": "Indianapolis, IN",
+        "created_date": 1722983252166,
+        "bottom_line": null,
+        "helpful_votes": 1,
+        "not_helpful_votes": 1
+      },
+      {
+        "review_id": 526411780,
+        "rating": 5,
+        "headline": "Amazing",
+        "comments": "I bought this rosewater a year ago and didn't expect much of it. I started using it more often the past 2 months and my skin has cleared so much and I don't have scars and congested skin anymore. This works like a miracle. I stopped using all skin care and just spray this rose water on my face, let it dry and go with a light moisturizer and spf during the day, that's it. My skin never looked better",
+        "nickname": "Salma",
+        "location": "Orlando, FL",
+        "created_date": 1722869076076,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 523401842,
+        "rating": 5,
+        "headline": "Morning cleanse",
+        "comments": "I use in the mornings instead if a face wash and it has changed the game. My face is fresh and hydrated and doesnt break me out.",
+        "nickname": "Shay",
+        "location": "New York,NY",
+        "created_date": 1718883353372,
+        "bottom_line": null,
+        "helpful_votes": 7,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 522686101,
+        "rating": 5,
+        "headline": "Work's wonderful",
+        "comments": "I love this mist it works wonderfully",
+        "nickname": "Lei",
+        "location": "Chincoteague Va",
+        "created_date": 1718588650137,
+        "bottom_line": null,
+        "helpful_votes": 2,
+        "not_helpful_votes": 0
+      },
+      {
+        "review_id": 514291861,
+        "rating": 3,
+        "headline": "Mold smell",
+        "comments": "I really enjoyed this product until the scent changed. Eventually, the odor from the spray smelled of mold. I ended up with painful cysts on my face. If I remove the spray nozzle, the actual product has no mold scent. This is also a new purchase as well.",
+        "nickname": "FH",
+        "location": "Marin County",
+        "created_date": 1715926467258,
+        "bottom_line": null,
+        "helpful_votes": 4,
+        "not_helpful_votes": 0
+      }
+    ],
+    "paging": {
+      "total_results": 155,
+      "pages_total": 8,
+      "page_size": 20,
+      "current_page_number": 1,
+      "next_page_url": "/m/6406/l/en_US/product/pimprod2006821/reviews?paging.from=20&paging.size=20&filters=&search=&sort=Newest&image_only=false&page_locale=en_US&native_only=true"
+    },
+    "rollup": {
+      "properties": [
+        {
+          "display_type": "default",
+          "key": "bestuses",
+          "name": "Best Uses",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Before makeup and after",
+              "count": 1
+            },
+            {
+              "label": "Face",
+              "count": 1
+            },
+            {
+              "label": "Scalp",
+              "count": 1
+            },
+            {
+              "label": "Facial mist",
+              "count": 1
+            },
+            {
+              "label": "After shower spritzer, toner, set makeup....",
+              "count": 1
+            },
+            {
+              "label": "Perfume",
+              "count": 1
+            },
+            {
+              "label": "Refresher",
+              "count": 1
+            },
+            {
+              "label": "before applying",
+              "count": 1
+            },
+            {
+              "label": "on brushes",
+              "count": 1
+            },
+            {
+              "label": "on sponge",
+              "count": 1
+            },
+            {
+              "label": "prime makeup",
+              "count": 1
+            },
+            {
+              "label": "set makeup",
+              "count": 1
+            },
+            {
+              "label": "toner",
+              "count": 1
+            },
+            {
+              "label": "cool body",
+              "count": 1
+            },
+            {
+              "label": "Before Moisturizing",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "After shower spritzer, toner, set makeup....",
+            "Before Moisturizing",
+            "Before makeup and after",
+            "Face",
+            "Facial mist",
+            "Perfume",
+            "Refresher",
+            "Scalp",
+            "before applying",
+            "cool body",
+            "on brushes",
+            "on sponge",
+            "prime makeup",
+            "set makeup",
+            "toner"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "cons",
+          "name": "Cons",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Store sells out and does not replace stock.",
+              "count": 1
+            },
+            {
+              "label": "Broke me out",
+              "count": 1
+            },
+            {
+              "label": "price is higher than it should be",
+              "count": 1
+            },
+            {
+              "label": "does not spray like a mist",
+              "count": 1
+            },
+            {
+              "label": "nozzle is too harsh",
+              "count": 1
+            },
+            {
+              "label": "misleading",
+              "count": 1
+            },
+            {
+              "label": "sensitizing",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Broke me out",
+            "Store sells out and does not replace stock.",
+            "does not spray like a mist",
+            "misleading",
+            "nozzle is too harsh",
+            "price is higher than it should be",
+            "sensitizing"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "describeyourself",
+          "name": "Describe Yourself",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Oily/Combo Skin prone to acne",
+              "count": 1
+            },
+            {
+              "label": "25, combo skin",
+              "count": 1
+            },
+            {
+              "label": "4c/4b hair natural for about 2 years",
+              "count": 1
+            },
+            {
+              "label": "64, athletic build, 5'7\", clear soft skin",
+              "count": 1
+            },
+            {
+              "label": "combination skin",
+              "count": 1
+            },
+            {
+              "label": "acne prone",
+              "count": 1
+            },
+            {
+              "label": "dry skin",
+              "count": 1
+            },
+            {
+              "label": "not really sensitive",
+              "count": 1
+            },
+            {
+              "label": "Budget Shopper",
+              "count": 1
+            },
+            {
+              "label": "combo skin",
+              "count": 1
+            },
+            {
+              "label": "sensitive skin",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "25, combo skin",
+            "4c/4b hair natural for about 2 years",
+            "64, athletic build, 5'7\", clear soft skin",
+            "Budget Shopper",
+            "Casual Dresser",
+            "Comfort-seeking",
+            "Energetic/Active",
+            "Oily/Combo Skin prone to acne",
+            "Stylish/Fashionista",
+            "Trendy/Stylish Dresser",
+            "Youthful",
+            "acne prone",
+            "combination skin",
+            "combo skin",
+            "dry skin",
+            "not really sensitive",
+            "sensitive skin"
+          ]
+        },
+        {
+          "display_type": "default",
+          "key": "pros",
+          "name": "Pros",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Good Price / Value",
+              "count": 2
+            },
+            {
+              "label": "Smells Great",
+              "count": 2
+            },
+            {
+              "label": "hydrating",
+              "count": 2
+            },
+            {
+              "label": "smells great",
+              "count": 2
+            },
+            {
+              "label": "Refreshing",
+              "count": 1
+            },
+            {
+              "label": "Soothing",
+              "count": 1
+            },
+            {
+              "label": "Glowy",
+              "count": 1
+            },
+            {
+              "label": "All natural ingredients with the essence of rose",
+              "count": 1
+            },
+            {
+              "label": "Gentle",
+              "count": 1
+            },
+            {
+              "label": "Hypoallergenic",
+              "count": 1
+            },
+            {
+              "label": "Limited ingredient",
+              "count": 1
+            },
+            {
+              "label": "Hydrating, smells good",
+              "count": 1
+            },
+            {
+              "label": "Smells and feels great.",
+              "count": 1
+            },
+            {
+              "label": "easy application",
+              "count": 1
+            },
+            {
+              "label": "smell wonderful",
+              "count": 1
+            },
+            {
+              "label": "Moisturizing",
+              "count": 1
+            },
+            {
+              "label": "Smells great",
+              "count": 1
+            },
+            {
+              "label": "Tones down redness",
+              "count": 1
+            },
+            {
+              "label": "simple ingredients",
+              "count": 1
+            },
+            {
+              "label": "smells nice",
+              "count": 1
+            },
+            {
+              "label": "Inexpensive",
+              "count": 1
+            },
+            {
+              "label": "Easy to use",
+              "count": 1
+            },
+            {
+              "label": "Hydrating",
+              "count": 1
+            },
+            {
+              "label": "Price",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "All natural ingredients with the essence of rose",
+            "Easy to use",
+            "Gentle",
+            "Glowy",
+            "Good Price / Value",
+            "Hydrating",
+            "Hydrating, smells good",
+            "Hypoallergenic",
+            "Inexpensive",
+            "Limited ingredient",
+            "Moisturizing",
+            "Price",
+            "Refreshing",
+            "Smells Great",
+            "Smells and feels great.",
+            "Smells great",
+            "Soothing",
+            "Tones down redness",
+            "easy application",
+            "hydrating",
+            "simple ingredients",
+            "smell wonderful",
+            "smells great",
+            "smells nice"
+          ]
+        },
+        {
+          "display_type": "text",
+          "key": "skintype",
+          "name": "Skin Type",
+          "type": "tag",
+          "values": [
+            {
+              "label": "Combination",
+              "count": 4
+            },
+            {
+              "label": "Normal",
+              "count": 2
+            },
+            {
+              "label": "Oily",
+              "count": 1
+            }
+          ],
+          "display_values": [
+            "Combination",
+            "Dry",
+            "Normal",
+            "Oily"
+          ]
+        }
+      ],
+      "rating_histogram": [
+        10,
+        2,
+        11,
+        20,
+        112
+      ],
+      "review_histogram": [
+        10,
+        2,
+        11,
+        20,
+        112
+      ],
+      "rating_count": 155,
+      "review_count": 155,
+      "average_rating": 4.43,
+      "recommended_ratio": 0.88,
+      "media": [],
+      "faceoff_positive": {
+        "comments": "This stuff is amazing! I have so many allergies and sensitivities and I'm switching to only cruelty free products so a LOT of products and brands are out. I've been searching for a nice facial mist for a while now and this is so cheap but it checks all my boxes! It's nice in the morning before I apply any makeup and to set it. I also use a spritz throughout the day if I feel dry or start to get greasy. It seems to help w my oily skin and moisturize my dry areas at the same time. I also use it in my hair on my dry ends, my baby fine hair will get greasy if I use too many products and this is just enough to help w fly aways. The fact that it's crazy cheap and natural and cruelty free but also WORKS is almost unheard of. The rose scent is there but it's not over powering and it fades quickly, I hate rose scented products but this is so nice that the few minutes of it before it fades are not an issue for me",
+        "headline": "New obsession",
+        "rating": 5,
+        "ugc_id": 321296114
+      },
+      "faceoff_negative": {
+        "comments": "It's an oil added to water, NOT real rosewater. I was going crazy trying to figure out how my face was so hot-feeling and sensitive. It was this! I cannot use essential oils an fragrances because if they do not break me out immediately, they make my skin more sensitive over time. Do not trust the names read the labels.\n\nReal rosewater is a single ingredient and very gentle on the skin. Ive used it for a decade and regret switching to this. \n\nLadies (and gents), just go to your middle eastern market and buy a liter of REAL rosewater for $3, and buy a spray bottle for $1.",
+        "headline": "Not Actual Rosewater",
+        "rating": 2,
+        "ugc_id": 276868507
+      },
+      "name": "Rosewater Refreshing Facial Mist",
+      "native_review_count": 155,
+      "native_sampling_review_count": 0,
+      "native_sweepstakes_review_count": 0,
+      "native_community_content_review_count": 0,
+      "syndicated_review_count": 0,
+      "locale": "en_US"
+    }
+  }
+}

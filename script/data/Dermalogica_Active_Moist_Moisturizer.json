@@ -1,0 +1,134 @@
+{
+  "product_id": "",
+  "product_url": "https://www.ulta.com/p/active-moist-moisturizer-VP12690",
+  "extracted_at": "2025-09-23T03:12:08.257593+00:00",
+  "product_name": "DermalogicaActive Moist Moisturizer",
+  "brand": "Dermalogica",
+  "categories": [
+    "Home",
+    "Men",
+    "Skin Care",
+    "Moisturizers & Treatments"
+  ],
+  "category_keys": [
+    "home",
+    "men",
+    "skin-care",
+    "men"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "82.00",
+  "availability": "in_stock",
+  "rating_avg": "4.6",
+  "rating_count": "4525",
+  "images": [
+    "https://media.ulta.com/i/ulta/2152609?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2152609?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152590cm_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152590cm_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152590cm_alt03?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152590cm_alt04?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152590cm_alt05?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152590cm_alt06?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2152590cm_alt07?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/v/ulta/2152590cm_vid01/thumbs/f0b191a8-0451-4b91-a58e-17cb0a0dc2a2?w=600&h=337&fmt=auto"
+  ],
+  "summary": "SummaryHighlightsClean IngredientsCruelty FreeVeganSustainable PackagingGive BackDermalogica's Active Moist Moisturizer is a sheer, oil-free and lightweight face and neck moisturizer. It contains a prebiotic moisture complex and unique blend of plant extracts that weightlessly hydrate and help improve skin texture.",
+  "details": "DetailsBenefitsFormula applies smoothly, absorbs quickly, actively balances skin hydration and will not clog pores or leave a greasy after-feelRecommended for those with oily skin, combination skin, dryness, dullness and uneven textureKey IngredientsOil-Free Prebiotic Moisture Complex: provides balanced and long-lasting hydration to oily skin without a heavy, greasy feelLemon and Burdock Extracts: help refine skin's textureCucumber Extract: deeply hydrates and soothes skinFormulated WithoutParabensSulfatesPhthalatesSynthetic FragranceItem 2152609How To UseAfter cleansing and toning, apply over face and neck in light, upward strokes. Use twice daily, morning and night.IngredientsWater/Aqua/Eau, Caprylic/Capric Triglyceride, Pentylene Glycol, Butylene Glycol, Methyl Gluceth-20, Coconut Alkanes, Cetearyl Alcohol, Palmitic Acid, Stearic Acid, Saccharide Isomerate, Dimethicone, Glyceryl Stearate, Hydrolyzed Jojoba Esters, Leuconostoc/Radish Root Ferment Filtrate, Arctium Lappa Root Extract, Citrus Limon (Lemon) Fruit Extract, Cucumis Sativus (Cucumber) Fruit Extract, Hedera Helix (Ivy) Extract, Malva Sylvestris (Mallow) Flower Extract, Nasturtium Officinale Extract, Propanediol, Polysorbate 60, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, Tetrasodium Glutamate Diacetate, Coco-Caprylate/Caprate, Polyquaternium-10, Ethylhexylglycerin, Triethyl Citrate, Myristic Acid, Citrus Aurantium Bergamia (Bergamot) Fruit Extract, Citrus Limon (Lemon) Peel Extract, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, Lavandula Hybrida Flower Extract, Citric Acid, Sodium Citrate, Sodium Hydroxide, Aminomethyl Propanol, Citral, Linalool, Limonene.Shipping & Coupon RestrictionsThis brand is excluded from most Ulta Beauty coupons.See brand eligibility details",
+  "how_to_use": "After cleansing and toning, apply over face and neck in light, upward strokes. Use twice daily, morning and night.",
+  "ingredients": [
+    "Water/Aqua/Eau",
+    "Caprylic/Capric Triglyceride",
+    "Pentylene Glycol",
+    "Butylene Glycol",
+    "Methyl Gluceth-20",
+    "Coconut Alkanes",
+    "Cetearyl Alcohol",
+    "Palmitic Acid",
+    "Stearic Acid",
+    "Saccharide Isomerate",
+    "Dimethicone",
+    "Glyceryl Stearate",
+    "Hydrolyzed Jojoba Esters",
+    "Leuconostoc/Radish Root Ferment Filtrate",
+    "Arctium Lappa Root Extract",
+    "Citrus Limon (Lemon) Fruit Extract",
+    "Cucumis Sativus (Cucumber) Fruit Extract",
+    "Hedera Helix (Ivy) Extract",
+    "Malva Sylvestris (Mallow) Flower Extract",
+    "Nasturtium Officinale Extract",
+    "Propanediol",
+    "Polysorbate 60",
+    "Caprylyl Glycol",
+    "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "Allantoin",
+    "Tetrasodium Glutamate Diacetate",
+    "Coco-Caprylate/Caprate",
+    "Polyquaternium-10",
+    "Ethylhexylglycerin",
+    "Triethyl Citrate",
+    "Myristic Acid",
+    "Citrus Aurantium Bergamia (Bergamot) Fruit Extract",
+    "Citrus Limon (Lemon) Peel Extract",
+    "Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract",
+    "Lavandula Hybrida Flower Extract",
+    "Citric Acid",
+    "Sodium Citrate",
+    "Sodium Hydroxide",
+    "Aminomethyl Propanol",
+    "Citral",
+    "Linalool",
+    "Limonene"
+  ],
+  "extended_contents": {},
+  "tags": {
+    "category": [
+      "men",
+      "mens"
+    ],
+    "product_type": [
+      "moisturizer",
+      "mask",
+      "treatment"
+    ],
+    "skin_type": [
+      "oily",
+      "dry",
+      "combination",
+      "normal"
+    ],
+    "finish": [
+      "matte",
+      "sheer",
+      "long-wear",
+      "creamy",
+      "oil"
+    ],
+    "brand": [
+      "mid-range",
+      "premium"
+    ],
+    "special_features": [
+      "cruelty-free",
+      "vegan",
+      "oil-free",
+      "purifying"
+    ],
+    "ingredients": []
+  },
+  "reviews": {
+    "product_id": "pimprodactive-moist-moisturizer-VP12690",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}

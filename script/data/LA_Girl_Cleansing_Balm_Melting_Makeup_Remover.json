@@ -1,0 +1,93 @@
+{
+  "product_id": "pimprod2053877",
+  "product_url": "https://www.ulta.com/p/cleansing-balm-melting-makeup-remover-pimprod2053877",
+  "extracted_at": "2025-09-23T03:36:13.410959+00:00",
+  "product_name": "L.A. GirlCleansing Balm Melting Makeup Remover",
+  "brand": "L.A. Girl",
+  "categories": [
+    "Home"
+  ],
+  "category_keys": [
+    "home"
+  ],
+  "currency": "USD",
+  "list_price": "",
+  "sale_price": "7.00",
+  "availability": "in_stock",
+  "rating_avg": "",
+  "rating_count": "",
+  "images": [
+    "https://media.ulta.com/i/ulta/2641730?w=500&h=500"
+  ],
+  "detailed_images": [
+    "https://media.ulta.com/i/ulta/2641730?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641730_alt01?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641730_alt02?w=600&h=600&fmt=auto",
+    "https://media.ulta.com/i/ulta/2641730_alt03?w=600&h=600&fmt=auto"
+  ],
+  "summary": "SummarySay goodbye to stubborn makeup and hello to fresh, hydrated skin with the L.A. Girl Cleansing Balm Melting Makeup Remover! This balm melts into an oil that removes all traces of makeup while leaving your skin feeling soft and refreshed.",
+  "details": "DetailsKey IngredientsJojoba Seed Oil: Infused for anti-inflammatory purposes.Shea Butter Extract: Softens and hydrates.Colloidal Clay: Helps remove impurities in your skin.Canola Oil: Adds moisture to your skin as you cleanse impurities.BenefitsMoisturizing & nourishingMelting makeupSoftening and hydratingRemoves impuritiesAnti-inflammatoryRejuvenatingItem 2641730How To UseApply: Use included spatula to scoop & warm into the palms.Massage: Apply the balm on dry face & gently massage until makeup dissolves.Rinse: Wipe gently with warm damp cloth & rinse with water.Precautions: Avoid getting in eyes.IngredientsEthylhexyl, Palmitate, Cetyl Ethylhexanoate, Peg-20, Glyceryl Triisostearate, Synthetic Wax, Peg-8 Glyceryl Isostearate, Canadian Colloidal Clay, Canola Oil, Phenoxy-Ethanol, Butylene Glycol, Aqua (Water), Simmondsia Chinensis (Jojoba) Seed Oil, Butyrospermum Parkii (Shea Butter) Extract, Ethylhexylglycerin, Tridecyl, Trimellitate, Bletilla Striata Root Extract, Opuntia Dillenii, Extract, Blue 1, Lake (CI 42090).",
+  "how_to_use": "Apply: Use included spatula to scoop & warm into the palms.Massage: Apply the balm on dry face & gently massage until makeup dissolves.Rinse: Wipe gently with warm damp cloth & rinse with water.Precautions: Avoid getting in eyes.",
+  "ingredients": [
+    "Ethylhexyl",
+    "Palmitate",
+    "Cetyl Ethylhexanoate",
+    "Peg-20",
+    "Glyceryl Triisostearate",
+    "Synthetic Wax",
+    "Peg-8 Glyceryl Isostearate",
+    "Canadian Colloidal Clay",
+    "Canola Oil",
+    "Phenoxy-Ethanol",
+    "Butylene Glycol",
+    "Aqua (Water)",
+    "Simmondsia Chinensis (Jojoba) Seed Oil",
+    "Butyrospermum Parkii (Shea Butter) Extract",
+    "Ethylhexylglycerin",
+    "Tridecyl",
+    "Trimellitate",
+    "Bletilla Striata Root Extract",
+    "Opuntia Dillenii",
+    "Extract",
+    "Blue 1",
+    "Lake ("
+  ],
+  "extended_contents": {},
+  "tags": {
+    "product_type": [
+      "cleanser",
+      "moisturizer",
+      "lip gloss"
+    ],
+    "skin_type": [
+      "dry"
+    ],
+    "finish": [
+      "oil"
+    ],
+    "ingredients": [
+      "synthetic"
+    ],
+    "brand": [
+      "mid-range",
+      "budget"
+    ],
+    "special_features": [
+      "hydrating",
+      "purifying"
+    ],
+    "category": []
+  },
+  "reviews": {
+    "product_id": "pimprod2053877",
+    "total_reviews": 0,
+    "reviews": [],
+    "paging": {
+      "total_results": 0,
+      "pages_total": 0,
+      "page_size": 20,
+      "current_page_number": 1
+    },
+    "rollup": {}
+  }
+}
