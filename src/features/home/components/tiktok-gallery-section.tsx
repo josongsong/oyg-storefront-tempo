@@ -100,7 +100,6 @@ interface TikTokVideoCardProps {
 }
 
 function TikTokVideoCard({ video }: TikTokVideoCardProps) {
-  const [isHovered, setIsHovered] = useState(false)
   const [isPlaying, setIsPlaying] = useState(false)
   const videoRef = useRef<HTMLVideoElement>(null)
 
@@ -117,7 +116,6 @@ function TikTokVideoCard({ video }: TikTokVideoCardProps) {
   }
 
   const handleVideoHover = (hover: boolean) => {
-    setIsHovered(hover)
     if (hover && videoRef.current && video.videoUrl) {
       videoRef.current.play()
       setIsPlaying(true)

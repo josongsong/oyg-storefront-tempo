@@ -10,7 +10,7 @@ type AuthStep = 'email' | 'login' | 'register' | 'complete'
 export function AuthPopup() {
   const { isOpen, closePopup } = useAuthPopupStore()
   const [step, setStep] = useState<AuthStep>('email')
-  const [isExistingUser, setIsExistingUser] = useState(false)
+  const [, setIsExistingUser] = useState(false)
   const [email, setEmail] = useState('')
   const [name, setName] = useState('')
   const [password, setPassword] = useState('')

@@ -19,7 +19,6 @@ export function OrderSummary({
   shippingDiscount = 0,
   gst,
   total,
-  itemCount,
   promoCode,
   onApplyPromo,
   onCheckout,

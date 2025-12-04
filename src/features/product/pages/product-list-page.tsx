@@ -6,7 +6,7 @@ import { ProductCard } from '@/components/ui/product-card'
 import { LoadingSpinner } from '@/components/ui/loading-spinner'
 import { FilterFacet } from '@/features/product/components'
 import { FILTER_DATA } from '@/data/filter-data'
-import { loadAllProducts, searchProducts, filterByCategory, sortProducts } from '@/utils/product-loader'
+import { loadAllProducts, filterByCategory, sortProducts } from '@/utils/product-loader'
 import type { ProductListItem } from '@/types/product-data'
 import type { GlossierProduct } from '@/types/glossier'
 
@@ -40,7 +40,7 @@ function toGlossierProduct(item: ProductListItem): GlossierProduct {
 }
 
 export function Component() {
-  const [searchParams, setSearchParams] = useSearchParams()
+  const [searchParams] = useSearchParams()
   const query = searchParams.get('q') || ''
   const category = searchParams.get('category') || ''
   const [sortBy, setSortBy] = useState<SortOption>('best-sellers')

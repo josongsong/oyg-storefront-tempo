@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { X, Gift, Sparkles, Copy } from 'lucide-react'
+import { X, Gift, Copy } from 'lucide-react'
 import { useLuckyDrawStore } from '@/stores/lucky-draw.store'
 
 const SEGMENTS = [

@@ -139,6 +139,7 @@ export interface ProductListItem {
 }
 
 // Convert ProductData to ProductListItem
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 export function toProductListItem(data: ProductData): ProductListItem {
   return {
     id: data.product_id,

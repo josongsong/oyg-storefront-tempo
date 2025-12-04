@@ -2,7 +2,6 @@ import { useState, useRef, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { X, Send, ChevronDown, Wand2, Star, Package, Truck, Clock } from 'lucide-react'
 import { useAIAgentStore } from '@/stores/ai-agent.store'
-import type { AIProduct, AIOrder } from '@/types/ai-agent'
 
 export function AIAgent() {
   const navigate = useNavigate()

@@ -1,10 +1,10 @@
 import { motion, AnimatePresence } from 'framer-motion'
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect } from 'react'
 import { ChevronLeft, ChevronRight, Heart, Menu, Pause, Play, Search, ShoppingBag, User, LogOut } from 'lucide-react'
 
 import { SearchOverlay } from '@/components/ui/search-overlay'
 import { MEGA_MENU_DATA, TRENDING_SEARCHES } from '@/data/menu-data'
-import { useAuthPopupStore, useUserStore, useCartStore, useLocaleStore, useLuckyDrawStore } from '@/stores'
+import { useAuthPopupStore, useUserStore, useCartStore, useLocaleStore } from '@/stores'
 import { useNavigate } from 'react-router-dom'
 
 import type { GlossierProduct } from '@/types/glossier'
@@ -42,7 +42,6 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
   const { user, isLoggedIn, initUser, logout } = useUserStore()
   const { getTotalItems } = useCartStore()
   const { openPopup: openLocalePopup, settings: localeSettings, initSettings } = useLocaleStore()
-  const { openLuckyDraw } = useLuckyDrawStore()
 
   useEffect(() => {
     initUser()
@@ -69,7 +68,8 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
 
   // Double click handler for logo
   const handleLogoDoubleClick = () => {
-    openLuckyDraw()
+    // Lucky draw feature can be added here
+    console.log('Double click logo')
   }
 
   return (

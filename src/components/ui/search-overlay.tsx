@@ -1,5 +1,5 @@
 import { AnimatePresence, motion } from 'framer-motion'
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Heart, Search, Star, X } from 'lucide-react'
 
@@ -30,7 +30,7 @@ function toGlossierProduct(item: ProductListItem): GlossierProduct {
     rating: item.rating,
     reviews: item.reviewCount,
     image: item.image,
-    badge: item.badge || randomBadge,
+    badge: item.badge || randomBadge || undefined,
   }
 }
 

@@ -1,20 +1,18 @@
 import { useParams, useNavigate } from 'react-router-dom'
-import { useState, useEffect, useRef } from 'react'
-import { ChevronLeft, ChevronRight, Heart, Star, ShoppingBag, Package, Truck, Store, ThumbsUp, ThumbsDown, Flag } from 'lucide-react'
+import { useState, useEffect } from 'react'
+import { ChevronLeft, ChevronRight, Heart, Star, Package, Truck, Store, ThumbsUp, ThumbsDown, Flag } from 'lucide-react'
 
 import { loadProductById, loadAllProducts } from '@/utils/product-loader'
-import { toProductListItem } from '@/types/product-data'
 import { ProductCard } from '@/components/ui/product-card'
 import { ProductComparison } from '@/features/product/components'
 import { useCartStore } from '@/stores'
-import type { ProductData, ProductListItem, Review, ReviewMedia } from '@/types/product-data'
+import type { ProductData, ProductListItem } from '@/types/product-data'
 
 export function Component() {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
   const { addItem } = useCartStore()
   const [product, setProduct] = useState<ProductData | null>(null)
-  const [allProducts, setAllProducts] = useState<ProductListItem[]>([])
   const [recommendedProducts, setRecommendedProducts] = useState<ProductListItem[]>([])
   const [isLoading, setIsLoading] = useState(true)
   const [currentImageIndex, setCurrentImageIndex] = useState(0)
@@ -36,7 +34,6 @@ export function Component() {
 
       // Load all products for recommendations
       const products = await loadAllProducts()
-      setAllProducts(products)
 
       // Get random recommended products
       if (productData) {
@@ -113,9 +110,6 @@ export function Component() {
 
   const images = product.detailed_images.length > 0 ? product.detailed_images : product.images
   const hasDiscount = product.list_price && parseFloat(product.list_price) > parseFloat(product.sale_price)
-  const discountPercent = hasDiscount
-    ? Math.round(((parseFloat(product.list_price) - parseFloat(product.sale_price)) / parseFloat(product.list_price)) * 100)
-    : 0
 
   // Review data
   const reviews = product.reviews?.reviews || []
@@ -154,14 +148,13 @@ export function Component() {
     if (!product) return
 
     addItem({
-      productId: product.id,
-      name: product.name,
+      productId: product.product_id,
+      name: product.product_name,
       brand: product.brand,
       image: product.images[0] || product.detailed_images[0],
       price: parseFloat(product.sale_price),
       originalPrice: product.list_price ? parseFloat(product.list_price) : undefined,
       quantity: quantity,
-      sku: product.sku,
     })
 
     // Success feedback is handled by cart store toast

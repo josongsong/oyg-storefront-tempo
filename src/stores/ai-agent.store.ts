@@ -51,16 +51,17 @@ export const useAIAgentStore = create<AIAgentState & AIAgentActions>((set, get) 
     const { addMessage, setTyping } = get()
     
     // Add user message
-    const actionLabels = {
+    const actionLabels: Record<AIActionType, string> = {
       search_products: 'Search for products',
       check_orders: 'Check my orders',
       check_points: 'Check my points',
       recommend_products: 'Recommend products for me',
+      custom: 'Help me',
     }
     
     addMessage({
       role: 'user',
-      content: params?.query || actionLabels[action] || 'Help me',
+      content: params?.query || actionLabels[action],
     })
 
     // Simulate AI thinking

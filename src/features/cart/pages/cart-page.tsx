@@ -1,6 +1,6 @@
-import { ChevronLeft, ChevronRight, Heart } from 'lucide-react'
+import { ChevronRight, Heart } from 'lucide-react'
 
-import { CartItem, SavedItem, OrderSummary } from '@/features/cart/components'
+import { CartItem, OrderSummary } from '@/features/cart/components'
 import { SIMILAR_ITEMS, WISHLIST_ITEMS } from '@/data/mock-cart'
 import { useCartStore } from '@/stores'
 import { useNavigate } from 'react-router-dom'

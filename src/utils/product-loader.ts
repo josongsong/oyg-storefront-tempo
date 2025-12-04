@@ -1,4 +1,4 @@
-import type { ProductData, ProductListItem, toProductListItem } from '@/types/product-data'
+import type { ProductData, ProductListItem } from '@/types/product-data'
 
 // Cache for loaded products
 let productsCache: ProductListItem[] | null = null

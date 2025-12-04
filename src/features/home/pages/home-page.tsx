@@ -22,7 +22,7 @@ import type { Flavor } from '@/types/glossier'
 type ViewType = 'HOME' | 'PDP'
 
 export function Component() {
-  const [view, setView] = useState<ViewType>('HOME')
+  const [view] = useState<ViewType>('HOME')
   const { checkAndOpenPopup } = usePromoPopupStore()
 
   const [selections, setSelections] = useState<Flavor[]>([FLAVORS[2], FLAVORS[3], FLAVORS[0]])

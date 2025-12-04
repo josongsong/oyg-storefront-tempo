@@ -1,4 +1,4 @@
-import type { Filter, Flavor } from '@/types/glossier'
+import type { Flavor } from '@/types/glossier'
 
 export const FLAVORS: Flavor[] = [
   {
