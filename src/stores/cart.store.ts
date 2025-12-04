@@ -1,5 +1,6 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
+import { useToastStore } from './toast.store'
 
 export interface CartItem {
   id: string
@@ -47,6 +48,14 @@ export const useCartStore = create<CartStore>()(
             // 이미 있으면 수량만 증가
             const newItems = [...state.items]
             newItems[existingItemIndex].quantity += item.quantity
+            
+            // Show toast
+            useToastStore.getState().addToast(
+              `Updated ${item.name} quantity in cart`,
+              'success',
+              3000
+            )
+            
             return { items: newItems }
           } else {
             // 없으면 새로 추가
@@ -54,6 +63,14 @@ export const useCartStore = create<CartStore>()(
               ...item,
               id: `${item.productId}-${Date.now()}`,
             }
+            
+            // Show toast
+            useToastStore.getState().addToast(
+              `Added ${item.name} to cart`,
+              'success',
+              3000
+            )
+            
             return { items: [...state.items, newItem] }
           }
         })

@@ -62,7 +62,7 @@ export function HeroSectionV2() {
 
       {/* Content */}
       <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white p-4 z-10">
-        <h2 className="text-[3.5rem] md:text-[5rem] font-bold mb-4 tracking-tight drop-shadow-lg leading-tight">
+        <h2 className="text-[3.5rem] md:text-[5rem] font-bold mb-4 tracking-tight drop-shadow-lg leading-[0.9]">
           Spoil Them With
           <br />
           Every Spritz

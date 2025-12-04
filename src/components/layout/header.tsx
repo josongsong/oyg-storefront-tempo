@@ -1,10 +1,10 @@
 import { motion, AnimatePresence } from 'framer-motion'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { ChevronLeft, ChevronRight, Heart, Menu, Pause, Play, Search, ShoppingBag, User, LogOut } from 'lucide-react'
 
 import { SearchOverlay } from '@/components/ui/search-overlay'
 import { MEGA_MENU_DATA, TRENDING_SEARCHES } from '@/data/menu-data'
-import { useAuthPopupStore, useUserStore, useCartStore, useLocaleStore } from '@/stores'
+import { useAuthPopupStore, useUserStore, useCartStore, useLocaleStore, useLuckyDrawStore } from '@/stores'
 import { useNavigate } from 'react-router-dom'
 
 import type { GlossierProduct } from '@/types/glossier'
@@ -42,6 +42,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
   const { user, isLoggedIn, initUser, logout } = useUserStore()
   const { getTotalItems } = useCartStore()
   const { openPopup: openLocalePopup, settings: localeSettings, initSettings } = useLocaleStore()
+  const { openLuckyDraw } = useLuckyDrawStore()
 
   useEffect(() => {
     initUser()
@@ -66,10 +67,38 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
     setCurrentBannerIndex((prev) => (prev + 1) % PROMO_BANNERS.length)
   }
 
+  // Double click handler for logo
+  const handleLogoDoubleClick = () => {
+    openLuckyDraw()
+  }
+
   return (
     <>
       {/* Promo Banner */}
-      <div className="bg-black text-white text-xs h-10 flex items-center justify-center relative px-4 overflow-hidden">
+      <motion.div 
+        className="bg-black text-white text-xs h-10 flex items-center justify-center relative px-4 overflow-hidden group cursor-pointer"
+        initial={{ backgroundColor: '#000000' }}
+        whileHover={{ 
+          backgroundColor: ['#000000', '#00C73C', '#7DD321', '#00D98F', '#00C73C'],
+          transition: {
+            duration: 1.5,
+            ease: "easeInOut"
+          }
+        }}
+      >
+        {/* Animated gradient overlay on hover */}
+        <motion.div 
+          className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent pointer-events-none opacity-0 group-hover:opacity-100"
+          animate={{
+            x: ['-100%', '200%']
+          }}
+          transition={{
+            duration: 1.2,
+            repeat: Infinity,
+            ease: "linear"
+          }}
+        />
+        
         <AnimatePresence mode="wait">
           <motion.div
             key={currentBannerIndex}
@@ -80,14 +109,19 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               duration: 0.5,
               ease: [0.4, 0, 0.2, 1]
             }}
-            className="flex-1 text-center flex items-center justify-center font-normal"
+            className="flex-1 text-center flex items-center justify-center font-normal relative z-10"
           >
-            <a 
+            <motion.a 
               href={PROMO_BANNERS[currentBannerIndex].link}
-              className="cursor-pointer hover:text-gray-300 transition-colors"
+              className="cursor-pointer"
+              whileHover={{ 
+                scale: 1.02,
+                textShadow: '0 0 8px rgba(255,255,255,0.5)',
+                transition: { duration: 0.2 }
+              }}
             >
               {PROMO_BANNERS[currentBannerIndex].text}
-            </a>
+            </motion.a>
           </motion.div>
         </AnimatePresence>
         
@@ -137,7 +171,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
             ))}
           </div>
         </div>
-      </div>
+      </motion.div>
 
       {/* Sticky Header: Logo + Search + Icons + Category Nav Container */}
       <div className="sticky top-0 z-50 bg-white border-b border-gray-200 relative" onMouseLeave={() => setActiveMenu(null)}>
@@ -147,8 +181,9 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               {/* Left: Logo */}
               <div className="flex items-center">
                 <motion.div
-                  className="cursor-pointer flex items-center overflow-hidden"
+                  className="cursor-pointer flex items-center overflow-hidden relative"
                   onClick={onLogoClick}
+                  onDoubleClick={handleLogoDoubleClick}
                   initial="initial"
                   whileHover="hover"
                   whileTap={{ scale: 0.98 }}
@@ -216,6 +251,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                 <motion.div
                   className="hidden md:block text-[0.8125rem] font-normal cursor-pointer hover:text-gray-600"
                   whileHover={{ y: -1 }}
+                  onClick={handleLogoDoubleClick}
                 >
                   STORES
                 </motion.div>
@@ -283,14 +319,14 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
 
           {/* Category Nav */}
           <div className="flex items-center pt-1 pb-4 bg-white px-4 md:px-8">
-            <nav className="flex-1 flex justify-center gap-8 text-sm font-medium tracking-wide text-black h-full items-center">
+            <nav className="flex-1 flex justify-center gap-8 text-base font-medium tracking-wide text-black h-full items-center">
               <div
                 className="flex items-center gap-2 cursor-pointer hover:text-gray-600 pb-1 relative"
                 onMouseEnter={() => setActiveMenu('Categories')}
                 onClick={() => setActiveMenu(activeMenu === 'Categories' ? null : 'Categories')}
               >
                 <Menu className="w-4 h-4" />
-                <span className="text-sm font-medium tracking-wide">Categories</span>
+                <span className="text-base font-medium tracking-wide">Categories</span>
                 {activeMenu === 'Categories' && (
                   <motion.div
                     className="absolute -bottom-1 left-0 right-0 h-0.5 bg-black"
@@ -358,7 +394,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                       <div key={colIdx} className={`flex flex-col gap-5 min-w-[180px]`}>
                         {col.title && col.title !== '\u00A0' && (
                           <h3
-                            className={`font-bold text-lg text-black mb-2 border-b border-gray-200 pb-2 inline-block ${activeMenu === 'Categories' && colIdx === 0 ? 'w-[calc(200%+4rem)]' : 'w-full'}`}
+                            className={`font-bold text-xl text-black mb-2 border-b border-gray-200 pb-2 inline-block ${activeMenu === 'Categories' && colIdx === 0 ? 'w-[calc(200%+4rem)]' : 'w-full'}`}
                           >
                             {col.title}
                           </h3>
@@ -370,7 +406,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                             <a
                               key={itemIdx}
                               href={item.link}
-                              className={`text-[15px] hover:underline hover:text-gray-600 font-normal ${item.isNew ? 'text-blue-600' : 'text-black'}`}
+                              className={`text-base hover:underline hover:text-gray-600 font-normal ${item.isNew ? 'text-blue-600' : 'text-black'}`}
                               onClick={() => setActiveMenu(null)}
                             >
                               {item.label}

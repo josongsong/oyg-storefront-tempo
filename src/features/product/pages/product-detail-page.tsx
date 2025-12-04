@@ -164,8 +164,7 @@ export function Component() {
       sku: product.sku,
     })
 
-    // Success feedback
-    alert('Product added to cart!')
+    // Success feedback is handled by cart store toast
   }
 
   return (

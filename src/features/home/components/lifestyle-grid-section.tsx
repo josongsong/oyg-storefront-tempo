@@ -1,4 +1,5 @@
-import { motion } from 'framer-motion'
+import { motion, useInView } from 'framer-motion'
+import { useState, useEffect, useRef } from 'react'
 
 interface GridItem {
   id: string
@@ -54,8 +55,26 @@ const GRID_ITEMS: GridItem[] = [
 ]
 
 export function LifestyleGridSection() {
+  const ref = useRef(null)
+  const isInView = useInView(ref, { once: false, amount: 0.3 })
+  const [selectedItemId, setSelectedItemId] = useState<string | null>(null)
+  const [hasSelectedOnce, setHasSelectedOnce] = useState(false)
+
+  useEffect(() => {
+    if (isInView && !hasSelectedOnce) {
+      // Select a random item when section comes into view
+      const randomIndex = Math.floor(Math.random() * GRID_ITEMS.length)
+      setSelectedItemId(GRID_ITEMS[randomIndex].id)
+      setHasSelectedOnce(true)
+    } else if (!isInView && hasSelectedOnce) {
+      // Reset when out of view
+      setSelectedItemId(null)
+      setHasSelectedOnce(false)
+    }
+  }, [isInView, hasSelectedOnce])
+
   return (
-    <section className="py-8 md:py-12">
+    <section ref={ref} className="py-8 md:py-12">
       <div className="max-w-[1600px] mx-auto px-0 md:px-4">
         {/* Desktop Grid */}
         <div className="hidden md:grid md:grid-cols-4 md:grid-rows-2 gap-1 md:gap-2 h-[600px] lg:h-[700px]">
@@ -63,6 +82,8 @@ export function LifestyleGridSection() {
             const isLarge = item.span === 'large'
             const colSpan = isLarge ? 'md:col-span-2' : 'md:col-span-1'
             const rowSpan = isLarge ? 'md:row-span-2' : 'md:row-span-1'
+
+            const isSelected = selectedItemId === item.id
 
             return (
               <motion.div
@@ -73,7 +94,56 @@ export function LifestyleGridSection() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 whileHover={{ scale: 1.02 }}
+                animate={isSelected ? {
+                  scale: [1, 1.03, 1],
+                  transition: {
+                    duration: 1.5,
+                    repeat: Infinity,
+                    ease: "easeInOut"
+                  }
+                } : {}}
               >
+                {/* Animated border for selected item */}
+                {isSelected && (
+                  <motion.div
+                    className="absolute inset-0 z-20 pointer-events-none"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    exit={{ opacity: 0 }}
+                  >
+                    <motion.div
+                      className="absolute inset-0"
+                      style={{
+                        border: '4px solid transparent',
+                        borderImage: 'linear-gradient(45deg, #00C73C, #7DD321, #00D98F, #00C73C) 1',
+                      }}
+                      animate={{
+                        borderImage: [
+                          'linear-gradient(45deg, #00C73C, #7DD321, #00D98F, #00C73C) 1',
+                          'linear-gradient(135deg, #7DD321, #00D98F, #00C73C, #7DD321) 1',
+                          'linear-gradient(225deg, #00D98F, #00C73C, #7DD321, #00D98F) 1',
+                          'linear-gradient(315deg, #00C73C, #7DD321, #00D98F, #00C73C) 1',
+                        ]
+                      }}
+                      transition={{
+                        duration: 2,
+                        repeat: Infinity,
+                        ease: "linear"
+                      }}
+                    />
+                    <motion.div
+                      className="absolute inset-0 bg-gradient-to-r from-transparent via-[#00C73C]/30 to-transparent"
+                      animate={{
+                        x: ['-100%', '200%']
+                      }}
+                      transition={{
+                        duration: 2,
+                        repeat: Infinity,
+                        ease: "linear"
+                      }}
+                    />
+                  </motion.div>
+                )}
                 {/* Background Image */}
                 <div className="absolute inset-0">
                   <motion.img
@@ -152,15 +222,67 @@ export function LifestyleGridSection() {
 
         {/* Mobile Stack */}
         <div className="md:hidden space-y-1">
-          {GRID_ITEMS.map((item, index) => (
-            <motion.div
-              key={item.id}
-              className="relative h-[400px] overflow-hidden group cursor-pointer"
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.5, delay: index * 0.1 }}
-            >
+          {GRID_ITEMS.map((item, index) => {
+            const isSelected = selectedItemId === item.id
+
+            return (
+              <motion.div
+                key={item.id}
+                className="relative h-[400px] overflow-hidden group cursor-pointer"
+                initial={{ opacity: 0, y: 30 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: index * 0.1 }}
+                animate={isSelected ? {
+                  scale: [1, 1.03, 1],
+                  transition: {
+                    duration: 1.5,
+                    repeat: Infinity,
+                    ease: "easeInOut"
+                  }
+                } : {}}
+              >
+                {/* Animated border for selected item */}
+                {isSelected && (
+                  <motion.div
+                    className="absolute inset-0 z-20 pointer-events-none"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    exit={{ opacity: 0 }}
+                  >
+                    <motion.div
+                      className="absolute inset-0"
+                      style={{
+                        border: '4px solid transparent',
+                        borderImage: 'linear-gradient(45deg, #00C73C, #7DD321, #00D98F, #00C73C) 1',
+                      }}
+                      animate={{
+                        borderImage: [
+                          'linear-gradient(45deg, #00C73C, #7DD321, #00D98F, #00C73C) 1',
+                          'linear-gradient(135deg, #7DD321, #00D98F, #00C73C, #7DD321) 1',
+                          'linear-gradient(225deg, #00D98F, #00C73C, #7DD321, #00D98F) 1',
+                          'linear-gradient(315deg, #00C73C, #7DD321, #00D98F, #00C73C) 1',
+                        ]
+                      }}
+                      transition={{
+                        duration: 2,
+                        repeat: Infinity,
+                        ease: "linear"
+                      }}
+                    />
+                    <motion.div
+                      className="absolute inset-0 bg-gradient-to-r from-transparent via-[#00C73C]/30 to-transparent"
+                      animate={{
+                        x: ['-100%', '200%']
+                      }}
+                      transition={{
+                        duration: 2,
+                        repeat: Infinity,
+                        ease: "linear"
+                      }}
+                    />
+                  </motion.div>
+                )}
               {/* Background Image */}
               <div className="absolute inset-0">
                 <img
@@ -195,7 +317,7 @@ export function LifestyleGridSection() {
                 )}
               </div>
             </motion.div>
-          ))}
+          )})}
         </div>
       </div>
     </section>

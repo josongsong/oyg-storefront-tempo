@@ -32,7 +32,7 @@ export function OrderSummary({
   }
 
   return (
-    <div className="bg-white border border-gray-200 p-6 h-fit sticky top-24">
+    <div className="bg-white border border-gray-200 p-6 sticky top-4 self-start">
       <h2 className="text-xl font-semibold mb-6">Order Summary</h2>
 
       {/* Order Details */}

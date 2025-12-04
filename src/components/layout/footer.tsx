@@ -1,7 +1,102 @@
-export function Footer() {
+import { useState, useRef } from 'react'
+import { motion, useInView } from 'framer-motion'
+
+const BRAND_COLORS = ['#00C73C', '#7DD321', '#00D98F']
+
+// Generate random polygons with more on the right side
+const generatePolygons = (count: number) => {
+  return Array.from({ length: count }, (_, i) => {
+    // 70% of polygons on the right half
+    const isRightSide = Math.random() > 0.3
+    const x = isRightSide 
+      ? 50 + Math.random() * 50  // 50-100%
+      : Math.random() * 50        // 0-50%
+    
+    return {
+      id: i,
+      color: BRAND_COLORS[Math.floor(Math.random() * BRAND_COLORS.length)],
+      size: Math.random() * 120 + 40, // 40-160px
+      x,
+      y: Math.random() * 100, // 0-100%
+      rotation: Math.random() * 360,
+      duration: Math.random() * 4 + 2, // 2-6s
+      delay: Math.random() * 0.8,
+      sides: Math.floor(Math.random() * 3) + 3, // 3-5 sides
+    }
+  })
+}
+
+const Polygon = ({ sides, size, color }: { sides: number; size: number; color: string }) => {
+  const points = Array.from({ length: sides }, (_, i) => {
+    const angle = (i * 2 * Math.PI) / sides - Math.PI / 2
+    const x = 50 + 50 * Math.cos(angle)
+    const y = 50 + 50 * Math.sin(angle)
+    return `${x},${y}`
+  }).join(' ')
+
   return (
-    <footer className="bg-black text-white pt-16 pb-12">
-      <div className="max-w-[1600px] mx-auto px-6 md:px-12 lg:px-16">
+    <svg width={size} height={size} viewBox="0 0 100 100">
+      <polygon points={points} fill={color} opacity="0.15" />
+    </svg>
+  )
+}
+
+export function Footer() {
+  const ref = useRef(null)
+  const isInView = useInView(ref, { once: false, amount: 0.1 })
+  const [polygons] = useState(() => generatePolygons(20))
+
+  return (
+    <footer 
+      ref={ref}
+      className="bg-black text-white pt-16 pb-12 relative overflow-hidden"
+    >
+      {/* Animated Polygons */}
+      <div className="absolute inset-0 pointer-events-none">
+        {polygons.map((polygon) => (
+          <motion.div
+            key={polygon.id}
+            initial={{ 
+              opacity: 0,
+              x: `${polygon.x}%`,
+              y: `${polygon.y}%`,
+              rotate: polygon.rotation,
+              scale: 0.5
+            }}
+            animate={isInView ? {
+              opacity: [0, 0.8, 0.8],
+              x: `${polygon.x + (Math.random() - 0.5) * 20}%`,
+              y: `${polygon.y + (Math.random() - 0.5) * 20}%`,
+              rotate: polygon.rotation + 360,
+              scale: [0.5, 1, 0.8, 1],
+            } : {
+              opacity: 0,
+              scale: 0.3
+            }}
+            transition={{
+              duration: polygon.duration,
+              delay: polygon.delay,
+              repeat: isInView ? Infinity : 0,
+              repeatType: 'reverse',
+              ease: 'easeInOut'
+            }}
+            className="absolute"
+            style={{
+              left: 0,
+              top: 0,
+            }}
+          >
+            <Polygon 
+              sides={polygon.sides} 
+              size={polygon.size} 
+              color={polygon.color} 
+            />
+          </motion.div>
+        ))}
+      </div>
+
+      {/* Content */}
+      <div className="max-w-[1600px] mx-auto px-6 md:px-12 lg:px-16 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 lg:gap-16">
           {/* Customer Service Section */}
           <div className="flex flex-col gap-5">

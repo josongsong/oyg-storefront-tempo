@@ -84,19 +84,19 @@ export function AIAgent() {
   ]
 
   return (
-    <div className="fixed bottom-4 right-4 w-[340px] bg-white shadow-2xl flex flex-col z-50 animate-slideInRight border border-gray-200 rounded-lg font-inherit" style={{ maxHeight: '520px' }}>
+    <div className="fixed bottom-4 right-4 w-[340px] bg-white shadow-2xl flex flex-col z-50 animate-slideInRight border border-gray-200 font-inherit" style={{ maxHeight: '520px' }}>
       {/* Header */}
       <div className="relative px-5 py-4 border-b border-gray-100">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <button className="flex items-center gap-1.5 hover:bg-gray-50 px-2 py-1 rounded-lg transition-colors">
+            <button className="flex items-center gap-1.5 hover:bg-gray-50 px-2 py-1 transition-colors">
               <span className="text-sm font-medium text-gray-700">New AI chat</span>
               <ChevronDown className="w-4 h-4 text-gray-400" />
             </button>
           </div>
           <button
             onClick={closeAgent}
-            className="w-7 h-7 hover:bg-gray-100 rounded-lg flex items-center justify-center transition-colors text-gray-500"
+            className="w-7 h-7 hover:bg-gray-100 flex items-center justify-center transition-colors text-gray-500"
             aria-label="Close"
           >
             <X className="w-4 h-4" />
@@ -120,7 +120,7 @@ export function AIAgent() {
               <button
                 key={action.action}
                 onClick={() => handleAction(action.action)}
-                className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 rounded-xl transition-all text-left group"
+                className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-all text-left group"
               >
                 <span className="text-xl">{action.emoji}</span>
                 <span className="text-sm font-medium text-gray-700 group-hover:text-black">{action.label}</span>
@@ -146,7 +146,7 @@ export function AIAgent() {
                 )}
                 
                 <div
-                  className={`rounded-lg px-3.5 py-2.5 ${
+                  className={`px-3.5 py-2.5 ${
                     message.role === 'user'
                       ? 'bg-gray-100 text-black'
                       : 'bg-white border border-gray-200 text-black'
@@ -162,9 +162,9 @@ export function AIAgent() {
                       <div
                         key={product.id}
                         onClick={() => navigate(`/products/${product.id}`)}
-                        className="flex gap-3 p-3 bg-white border border-gray-200 rounded-lg hover:border-gray-300 transition-all cursor-pointer"
+                        className="flex gap-3 p-3 bg-white border border-gray-200 hover:border-gray-300 transition-all cursor-pointer"
                       >
-                        <div className="w-16 h-16 bg-gray-100 rounded-lg overflow-hidden shrink-0">
+                        <div className="w-16 h-16 bg-gray-100 overflow-hidden shrink-0">
                           <img src={product.image} alt={product.name} className="w-full h-full object-cover" />
                         </div>
                         <div className="flex-1 min-w-0">
@@ -197,7 +197,7 @@ export function AIAgent() {
                       return (
                         <div
                           key={order.id}
-                          className="p-3 bg-white border border-gray-200 rounded-lg hover:border-gray-300 transition-all"
+                          className="p-3 bg-white border border-gray-200 hover:border-gray-300 transition-all"
                         >
                           <div className="flex items-start justify-between mb-2">
                             <div>
@@ -223,7 +223,7 @@ export function AIAgent() {
                       <button
                         key={suggestion.id}
                         onClick={() => handleAction(suggestion.action)}
-                        className="block w-full text-left px-3.5 py-2.5 text-sm bg-white border border-gray-200 rounded-lg hover:bg-gray-50 transition-all font-medium text-gray-800"
+                        className="block w-full text-left px-3.5 py-2.5 text-sm bg-white border border-gray-200 hover:bg-gray-50 transition-all font-medium text-gray-800"
                       >
                         {suggestion.label}
                       </button>
@@ -240,7 +240,7 @@ export function AIAgent() {
                 <div className="w-6 h-6 bg-gray-50 rounded-full flex items-center justify-center">
                   <span className="text-sm">✨</span>
                 </div>
-                <div className="bg-white border border-gray-200 rounded-lg px-3.5 py-2.5">
+                <div className="bg-white border border-gray-200 px-3.5 py-2.5">
                   <div className="flex gap-1">
                     <div className="w-1.5 h-1.5 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '0ms' }} />
                     <div className="w-1.5 h-1.5 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '150ms' }} />
@@ -257,7 +257,7 @@ export function AIAgent() {
 
       {/* Input */}
       <div className="border-t border-gray-100 p-4 bg-white">
-        <div className="flex gap-2 items-center bg-gray-50 rounded-lg px-3.5 py-2.5 hover:bg-gray-100 transition-colors">
+        <div className="flex gap-2 items-center bg-gray-50 px-3.5 py-2.5 hover:bg-gray-100 transition-colors">
           <input
             ref={inputRef}
             type="text"
@@ -270,7 +270,7 @@ export function AIAgent() {
           <button
             onClick={handleSendMessage}
             disabled={!inputValue.trim()}
-            className="w-7 h-7 bg-black hover:bg-gray-800 text-white rounded-lg flex items-center justify-center transition-all disabled:opacity-40 disabled:cursor-not-allowed"
+            className="w-7 h-7 bg-black hover:bg-gray-800 text-white flex items-center justify-center transition-all disabled:opacity-40 disabled:cursor-not-allowed"
             aria-label="Send message"
           >
             <Send className="w-3.5 h-3.5" />

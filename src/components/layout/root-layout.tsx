@@ -6,6 +6,7 @@ import { QuickShopModal } from '@/components/ui/quick-shop-modal'
 import { AuthPopup } from '@/components/ui/auth-popup'
 import { LocalePopup } from '@/components/ui/locale-popup'
 import { AIAgent } from '@/components/ui/ai-agent'
+import { Toast } from '@/components/ui/toast'
 import { MOCK_PRODUCTS } from '@/data/mock-products'
 
 export function RootLayout() {
@@ -32,6 +33,7 @@ export function RootLayout() {
       <AuthPopup />
       <LocalePopup />
       <AIAgent />
+      <Toast />
     </div>
   )
 }
