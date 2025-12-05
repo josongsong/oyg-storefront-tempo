@@ -51,9 +51,9 @@ export const useCartStore = create<CartStore>()(
             
             // Show toast
             useToastStore.getState().addToast(
-              `Updated ${item.name} quantity in cart`,
+              'Quantity updated',
               'success',
-              3000
+              2000
             )
             
             return { items: newItems }
@@ -66,9 +66,9 @@ export const useCartStore = create<CartStore>()(
             
             // Show toast
             useToastStore.getState().addToast(
-              `Added ${item.name} to cart`,
+              'Added to cart',
               'success',
-              3000
+              2000
             )
             
             return { items: [...state.items, newItem] }

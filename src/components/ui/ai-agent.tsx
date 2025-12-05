@@ -66,7 +66,7 @@ export function AIAgent() {
     return (
       <button
         onClick={openAgent}
-        className="fixed bottom-0 right-0 bg-black hover:bg-gray-900 text-white transition-all z-50 px-3.5 py-3.5 flex items-center gap-2 group"
+        className="fixed bottom-0 right-0 bg-black hover:bg-gray-900 text-white transition-all z-40 px-3.5 py-3.5 flex items-center gap-2 group"
         aria-label="Open AI Assistant"
       >
         <Wand2 className="w-4 h-4 animate-sparkle" />
@@ -83,13 +83,13 @@ export function AIAgent() {
   ]
 
   return (
-    <div className="fixed bottom-4 right-4 w-[340px] bg-white shadow-2xl flex flex-col z-50 animate-slideInRight border border-gray-200 font-inherit" style={{ maxHeight: '520px' }}>
+    <div className="fixed bottom-4 right-4 w-[340px] bg-white shadow-2xl flex flex-col z-40 animate-slideInRight border border-gray-200 font-inherit" style={{ maxHeight: '520px' }}>
       {/* Header */}
       <div className="relative px-5 py-4 border-b border-gray-100">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <button className="flex items-center gap-1.5 hover:bg-gray-50 px-2 py-1 transition-colors">
-              <span className="text-sm font-medium text-gray-700">New AI chat</span>
+              <span className="text-sm font-medium text-black">New AI chat</span>
               <ChevronDown className="w-4 h-4 text-gray-400" />
             </button>
           </div>
@@ -151,7 +151,7 @@ export function AIAgent() {
                       : 'bg-white border border-gray-200 text-black'
                   }`}
                 >
-                  <p className="text-sm whitespace-pre-line leading-relaxed">{message.content}</p>
+                  <p className="text-xs whitespace-pre-line leading-relaxed">{message.content}</p>
                 </div>
 
                 {/* Product Cards */}

@@ -1,7 +1,7 @@
 import { AnimatePresence, motion } from 'framer-motion'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { Heart, Search, Star, X } from 'lucide-react'
+import { Search, Star, X } from 'lucide-react'
 
 import { loadAllProducts, searchProducts as searchProductsUtil } from '@/utils/product-loader'
 import type { GlossierProduct } from '@/types/glossier'
@@ -50,6 +50,9 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
   const [randomProducts, setRandomProducts] = useState<GlossierProduct[]>([])
   const [suggestions, setSuggestions] = useState<string[]>([])
   const [isLoadingProducts, setIsLoadingProducts] = useState(false)
+  const [dynamicTrending, setDynamicTrending] = useState<string[]>(trendingSearches)
+  const [changedIndices, setChangedIndices] = useState<Set<number>>(new Set())
+  const intervalRef = useRef<ReturnType<typeof setInterval> | undefined>(undefined)
   const navigate = useNavigate()
 
   // 검색 오버레이가 열렸을 때 배경 스크롤 막기
@@ -92,6 +95,91 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
       setRandomProducts(shuffled.slice(0, 4).map(toGlossierProduct))
     }
   }, [isOpen, allProducts])
+
+  // Dynamic trending searches - initialize and update every 5 seconds
+  useEffect(() => {
+    if (!isOpen || allProducts.length === 0) {
+      if (intervalRef.current !== undefined) {
+        clearInterval(intervalRef.current)
+      }
+      // Reset to default when closed
+      if (!isOpen) {
+        setDynamicTrending(trendingSearches)
+      }
+      return
+    }
+
+    // Generate pool of trending terms from actual products
+    const generateTrendingPool = (): string[] => {
+      const terms: string[] = []
+      const brands = new Set<string>()
+      const productNames: string[] = []
+      
+      allProducts.forEach(product => {
+        brands.add(product.brand)
+        productNames.push(product.name)
+      })
+
+      // Add all unique brands
+      terms.push(...Array.from(brands))
+      
+      // Add some popular product names
+      const shuffledProducts = shuffleArray(productNames)
+      terms.push(...shuffledProducts.slice(0, 30))
+      
+      return shuffleArray(terms)
+    }
+
+    const trendingPool = generateTrendingPool()
+
+    // Initialize with random terms from pool
+    const initialTrending = shuffleArray(trendingPool).slice(0, 10)
+    setDynamicTrending(initialTrending)
+
+    // Update trending searches every 5 seconds
+    intervalRef.current = setInterval(() => {
+      setDynamicTrending(prev => {
+        const newTrending = [...prev]
+        const changed = new Set<number>()
+        
+        // Randomly change 2-4 items
+        const numChanges = Math.floor(Math.random() * 3) + 2
+        const indicesToChange = new Set<number>()
+        
+        while (indicesToChange.size < Math.min(numChanges, prev.length)) {
+          indicesToChange.add(Math.floor(Math.random() * prev.length))
+        }
+
+        indicesToChange.forEach(index => {
+          // Get a different term from the pool
+          let newTerm = trendingPool[Math.floor(Math.random() * trendingPool.length)]
+          let attempts = 0
+          while (newTrending.includes(newTerm) && attempts < 20) {
+            newTerm = trendingPool[Math.floor(Math.random() * trendingPool.length)]
+            attempts++
+          }
+          newTrending[index] = newTerm
+          changed.add(index)
+        })
+
+        // Set changed indices for animation
+        setChangedIndices(changed)
+        
+        // Clear changed indices after animation
+        setTimeout(() => {
+          setChangedIndices(new Set())
+        }, 500)
+
+        return newTrending
+      })
+    }, 5000)
+
+    return () => {
+      if (intervalRef.current !== undefined) {
+        clearInterval(intervalRef.current)
+      }
+    }
+  }, [isOpen, allProducts, trendingSearches])
 
   // Auto-complete suggestions
   useEffect(() => {
@@ -211,26 +299,50 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
               </div>
 
               {/* Search Results */}
-              <div className="px-6 py-8 max-h-[500px] overflow-y-auto">
+              <div className="px-6 py-8 pb-12 max-h-[500px] overflow-y-auto">
                 <div className="flex flex-col md:flex-row gap-12">
                   <div className="w-full md:w-64 shrink-0 border-r border-gray-100 pr-8">
-                    <h3 className="font-bold text-base mb-4 text-black">Trending right now</h3>
+                    <h3 className="font-bold text-lg mb-4 text-black">Trending right now</h3>
                     <ul className="space-y-3">
-                      {trendingSearches.map((term, i) => (
-                        <li key={i}>
-                          <button
-                            onClick={() => handleTrendingClick(term)}
-                            className="text-sm text-black hover:underline hover:text-gray-600 transition-colors text-left w-full"
+                      <AnimatePresence mode="popLayout">
+                        {dynamicTrending.map((term, i) => (
+                          <motion.li
+                            key={term}
+                            layout
+                            initial={{ opacity: 0, x: -15, scale: 0.95 }}
+                            animate={{ 
+                              opacity: 1, 
+                              x: 0, 
+                              scale: 1,
+                              transition: {
+                                duration: 0.4,
+                                delay: changedIndices.has(i) ? i * 0.08 : 0,
+                                ease: [0.4, 0, 0.2, 1]
+                              }
+                            }}
+                            exit={{ 
+                              opacity: 0, 
+                              x: 15, 
+                              scale: 0.95,
+                              transition: { duration: 0.2 }
+                            }}
                           >
-                            {term}
-                          </button>
-                        </li>
-                      ))}
+                            <motion.button
+                              onClick={() => handleTrendingClick(term)}
+                              className="text-sm text-black hover:underline hover:text-gray-600 transition-colors text-left w-full"
+                              whileHover={{ x: 3 }}
+                              transition={{ type: 'spring', stiffness: 400, damping: 25 }}
+                            >
+                              {term}
+                            </motion.button>
+                          </motion.li>
+                        ))}
+                      </AnimatePresence>
                     </ul>
                   </div>
 
                   <div className="flex-1">
-                    <h3 className="font-bold text-base mb-6 text-black">You might like these bestsellers...</h3>
+                    <h3 className="font-bold text-lg mb-6 text-black">You might like these bestsellers...</h3>
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                       {products.slice(0, 4).map((product, i) => (
                         <div
@@ -247,12 +359,6 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
                                 {product.badge}
                               </span>
                             )}
-                            <button
-                              className="absolute top-2 right-2 z-10 p-2 hover:bg-white/80"
-                              onClick={(e) => e.stopPropagation()}
-                            >
-                              <Heart className="w-5 h-5 text-black stroke-1" />
-                            </button>
                             <img
                               src={product.image}
                               alt={product.name}

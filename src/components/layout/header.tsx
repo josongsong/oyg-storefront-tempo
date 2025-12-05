@@ -1,10 +1,14 @@
 import { motion, AnimatePresence } from 'framer-motion'
-import { useState, useEffect } from 'react'
-import { ChevronLeft, ChevronRight, Heart, Menu, Pause, Play, Search, ShoppingBag, User, LogOut } from 'lucide-react'
+import { useState, useEffect, useRef } from 'react'
+import { ChevronLeft, ChevronRight, Heart, Menu, Pause, Play, Search, ShoppingBag, User, LogOut, Bell } from 'lucide-react'
 
 import { SearchOverlay } from '@/components/ui/search-overlay'
-import { MEGA_MENU_DATA, TRENDING_SEARCHES } from '@/data/menu-data'
-import { useAuthPopupStore, useUserStore, useCartStore, useLocaleStore } from '@/stores'
+import { NotificationCenter } from '@/components/ui/notification-center'
+import { WishlistPopup } from '@/components/ui/wishlist-popup'
+import { MEGA_MENU_DATA, TRENDING_SEARCHES } from '@/constants/menu-data'
+import { useAuthPopupStore, useUserStore, useCartStore, useLocaleStore, useWishlistStore } from '@/stores'
+import { useLuckyDrawStore } from '@/stores/lucky-draw.store'
+import { useNotificationStore } from '@/stores/notification.store'
 import { useNavigate } from 'react-router-dom'
 
 import type { GlossierProduct } from '@/types/glossier'
@@ -38,10 +42,14 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
   const [isSearchOpen, setIsSearchOpen] = useState(false)
   const [currentBannerIndex, setCurrentBannerIndex] = useState(0)
   const [isPaused, setIsPaused] = useState(false)
+  const notificationTriggerRef = useRef<HTMLDivElement | null>(null)
   const { openPopup: openAuthPopup } = useAuthPopupStore()
   const { user, isLoggedIn, initUser, logout } = useUserStore()
   const { getTotalItems } = useCartStore()
   const { openPopup: openLocalePopup, settings: localeSettings, initSettings } = useLocaleStore()
+  const { openLuckyDraw } = useLuckyDrawStore()
+  const { isOpen: isNotificationOpen, toggleOpen: toggleNotification, closeNotification, getUnreadCount } = useNotificationStore()
+  const { toggleWishlist, getTotalItems: getWishlistCount } = useWishlistStore()
 
   useEffect(() => {
     initUser()
@@ -66,14 +74,28 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
     setCurrentBannerIndex((prev) => (prev + 1) % PROMO_BANNERS.length)
   }
 
-  // Double click handler for logo
-  const handleLogoDoubleClick = () => {
-    // Lucky draw feature can be added here
-    console.log('Double click logo')
+  // Lucky draw handler
+  const handleOpenLuckyDraw = () => {
+    openLuckyDraw()
   }
 
   return (
     <>
+      {/* Overlay for body content when mega menu is open */}
+      <AnimatePresence>
+        {activeMenu && !isSearchOpen && (
+          <motion.div
+            className="fixed inset-0 bg-black/60 z-30"
+            style={{ top: '180px' }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.2 }}
+            onClick={() => setActiveMenu(null)}
+          />
+        )}
+      </AnimatePresence>
+
       {/* Promo Banner */}
       <motion.div 
         className="bg-black text-white text-xs h-10 flex items-center justify-center relative px-4 overflow-hidden group cursor-pointer"
@@ -183,7 +205,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                 <motion.div
                   className="cursor-pointer flex items-center overflow-hidden relative"
                   onClick={onLogoClick}
-                  onDoubleClick={handleLogoDoubleClick}
+                  onDoubleClick={handleOpenLuckyDraw}
                   initial="initial"
                   whileHover="hover"
                   whileTap={{ scale: 0.98 }}
@@ -194,13 +216,9 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                         key={index}
                         variants={{
                           initial: { 
-                            y: 0, 
-                            rotateZ: 0,
                             color: '#000000'
                           },
                           hover: { 
-                            y: [0, -8, 0],
-                            rotateZ: [0, 5, -5, 0],
                             color: ['#000000', '#00C73C', '#7DD321', '#00D98F', '#000000'],
                             transition: {
                               duration: 0.6,
@@ -234,7 +252,10 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                     type="text"
                     placeholder="Search 150+ global beauty brands"
                     className="flex-1 bg-transparent text-[0.8125rem] text-gray-900 placeholder-gray-600 outline-none font-normal"
-                    onFocus={() => setIsSearchOpen(true)}
+                    onFocus={() => {
+                      setIsSearchOpen(true)
+                      setActiveMenu(null)
+                    }}
                   />
                 </motion.div>
               </div>
@@ -251,7 +272,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                 <motion.div
                   className="hidden md:block text-[0.8125rem] font-normal cursor-pointer hover:text-gray-600"
                   whileHover={{ y: -1 }}
-                  onClick={handleLogoDoubleClick}
+                  onClick={handleOpenLuckyDraw}
                 >
                   STORES
                 </motion.div>
@@ -282,9 +303,57 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                     <User className="w-5 h-5 cursor-pointer hover:text-gray-600 stroke-1" />
                   </motion.div>
                 )}
-                <motion.div whileHover={{ scale: 1.15 }} whileTap={{ scale: 0.95 }}>
-                  <Heart className="w-5 h-5 cursor-pointer hover:text-gray-600 stroke-1" />
+                <motion.div 
+                  className="relative cursor-pointer hover:text-gray-600"
+                  whileHover={{ scale: 1.15 }} 
+                  whileTap={{ scale: 0.95 }}
+                  onClick={toggleWishlist}
+                >
+                  <Heart className="w-5 h-5 stroke-1" />
+                  {getWishlistCount() > 0 && (
+                    <motion.span
+                      className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center"
+                      initial={{ scale: 0 }}
+                      animate={{ scale: 1 }}
+                      transition={{ type: 'spring', stiffness: 500, damping: 15 }}
+                    >
+                      {getWishlistCount() > 9 ? '9+' : getWishlistCount()}
+                    </motion.span>
+                  )}
                 </motion.div>
+                
+                {/* Notification Bell */}
+                <motion.div
+                  ref={notificationTriggerRef}
+                  className="relative cursor-pointer hover:text-gray-600"
+                  whileHover={{ scale: 1.1 }}
+                  whileTap={{ scale: 0.95 }}
+                  onClick={toggleNotification}
+                >
+                  <motion.div
+                    animate={getUnreadCount() > 0 ? {
+                      rotate: [0, -15, 15, -15, 15, 0],
+                    } : {}}
+                    transition={{
+                      duration: 0.5,
+                      repeat: Infinity,
+                      repeatDelay: 3,
+                    }}
+                  >
+                    <Bell className="w-5 h-5 stroke-1" />
+                  </motion.div>
+                  {getUnreadCount() > 0 && (
+                    <motion.span
+                      className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center"
+                      initial={{ scale: 0 }}
+                      animate={{ scale: 1 }}
+                      transition={{ type: 'spring', stiffness: 500, damping: 15 }}
+                    >
+                      {getUnreadCount() > 9 ? '9+' : getUnreadCount()}
+                    </motion.span>
+                  )}
+                </motion.div>
+
                 <motion.div
                   className="relative cursor-pointer hover:text-gray-600"
                   whileHover={{ scale: 1.1 }}
@@ -294,12 +363,12 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                   <ShoppingBag className="w-5 h-5 stroke-1" />
                   {getTotalItems() > 0 && (
                     <motion.span
-                      className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 w-3.5 flex items-center justify-center"
+                      className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center"
                       initial={{ scale: 0 }}
                       animate={{ scale: 1 }}
                       transition={{ type: 'spring', stiffness: 500, damping: 15 }}
                     >
-                      {getTotalItems()}
+                      {getTotalItems() > 9 ? '9+' : getTotalItems()}
                     </motion.span>
                   )}
                 </motion.div>
@@ -315,18 +384,61 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               trendingSearches={TRENDING_SEARCHES}
               products={products}
             />
+
+            <NotificationCenter
+              isOpen={isNotificationOpen}
+              onClose={closeNotification}
+              triggerRef={notificationTriggerRef}
+            />
+
+            <WishlistPopup />
           </div>
 
           {/* Category Nav */}
           <div className="flex items-center pt-1 pb-4 bg-white px-4 md:px-8">
             <nav className="flex-1 flex justify-center gap-8 text-base font-medium tracking-wide text-black h-full items-center">
-              <div
-                className="flex items-center gap-2 cursor-pointer hover:text-gray-600 pb-1 relative"
+              <motion.div
+                className="flex items-center gap-2 cursor-pointer pb-1 relative"
                 onMouseEnter={() => setActiveMenu('Categories')}
                 onClick={() => setActiveMenu(activeMenu === 'Categories' ? null : 'Categories')}
+                initial="initial"
+                whileHover="hover"
               >
-                <Menu className="w-4 h-4" />
-                <span className="text-base font-medium tracking-wide">Categories</span>
+                <motion.div
+                  variants={{
+                    initial: { 
+                      color: '#000000'
+                    },
+                    hover: { 
+                      color: ['#000000', '#00C73C', '#7DD321', '#00D98F', '#00C73C', '#000000'],
+                      transition: {
+                        duration: 0.8,
+                        delay: 0,
+                        ease: "easeInOut",
+                      }
+                    }
+                  }}
+                >
+                  <Menu className="w-4 h-4" strokeWidth={2.5} />
+                </motion.div>
+                <motion.span 
+                  className="text-base font-medium tracking-wide"
+                  variants={{
+                    initial: { 
+                      color: '#000000'
+                    },
+                    hover: { 
+                      color: ['#000000', '#00C73C', '#7DD321', '#00D98F', '#00C73C', '#000000'],
+                      transition: {
+                        duration: 0.8,
+                        delay: 0.05,
+                        ease: "easeInOut",
+                      }
+                    }
+                  }}
+                >
+                  Categories
+                </motion.span>
                 {activeMenu === 'Categories' && (
                   <motion.div
                     className="absolute -bottom-1 left-0 right-0 h-0.5 bg-black"
@@ -336,10 +448,10 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                     transition={{ type: 'spring', stiffness: 380, damping: 30 }}
                   />
                 )}
-              </div>
+              </motion.div>
 
-              {NAV_LINKS.map((link) => (
-                <div
+              {NAV_LINKS.map((link, index) => (
+                <motion.div
                   key={link}
                   className="flex items-center relative group cursor-pointer pb-1"
                   onMouseEnter={() => setActiveMenu(link)}
@@ -353,25 +465,40 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                       }
                     }
                   }}
+                  initial="initial"
+                  whileHover="hover"
                 >
-                  <a
+                  <motion.a
                     href="#"
-                    className="hover:text-gray-500 transition-colors text-black"
+                    className="text-black"
                     onClick={(e) => e.preventDefault()}
+                    variants={{
+                      initial: { 
+                        color: '#000000'
+                      },
+                      hover: { 
+                        color: ['#000000', '#00C73C', '#7DD321', '#00D98F', '#00C73C', '#000000'],
+                        transition: {
+                          duration: 0.8,
+                          delay: (index + 1) * 0.05,
+                          ease: "easeInOut",
+                        }
+                      }
+                    }}
                   >
                     {link}
-                  </a>
+                  </motion.a>
                   {activeMenu === link && (
                     <motion.div
                       className="absolute -bottom-1 left-0 right-0 h-0.5 bg-black"
                       layoutId="activeIndicator"
                       initial={{ scaleX: 0 }}
                       animate={{ scaleX: 1 }}
-                      transition={{ type: 'spring', stiffness: 380, damping: 30 }}
-                    />
-                  )}
-                </div>
-              ))}
+                    transition={{ type: 'spring', stiffness: 380, damping: 30 }}
+                  />
+                )}
+              </motion.div>
+            ))}
             </nav>
           </div>
 
@@ -420,7 +547,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
 
                   {MEGA_MENU_DATA[activeMenu].ad && (
                     <motion.div
-                      className="w-[300px] relative group cursor-pointer overflow-hidden self-start rounded-lg shadow-lg"
+                      className="w-[300px] relative group cursor-pointer overflow-hidden self-start"
                       onClick={() => setActiveMenu(null)}
                       initial={{ opacity: 0, x: 20 }}
                       animate={{ 

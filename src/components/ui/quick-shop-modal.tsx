@@ -1,14 +1,24 @@
 import { useState, useEffect, useRef } from 'react'
-import { X, Minus, Plus, Star, ChevronLeft, ChevronRight } from 'lucide-react'
+import { X, Minus, Plus, Star, ChevronLeft, ChevronRight, ShoppingCart } from 'lucide-react'
+import { motion, AnimatePresence } from 'framer-motion'
 
 import { useQuickShopStore, useCartStore } from '@/stores'
 import { getRandomCosmeticImage } from '@/utils/image'
+
+interface CartIcon {
+  id: number
+  x: number
+}
 
 export function QuickShopModal() {
   const { isOpen, product, selectedShade, selectedSize, quantity, closeQuickShop, setSelectedShade, setSelectedSize, setQuantity } = useQuickShopStore()
   const { addItem } = useCartStore()
   const [currentImageIndex, setCurrentImageIndex] = useState(0)
+  const [isHovering, setIsHovering] = useState(false)
+  const [cartIcons, setCartIcons] = useState<CartIcon[]>([])
+  const [iconIdCounter, setIconIdCounter] = useState(0)
   const scrollPositionRef = useRef(0)
+  const intervalRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   // 모달이 열렸을 때 배경 스크롤 막기
   useEffect(() => {
@@ -29,6 +39,38 @@ export function QuickShopModal() {
       window.scrollTo(0, scrollY)
     }
   }, [isOpen])
+
+  // 호버 시 카트 아이콘 애니메이션
+  useEffect(() => {
+    if (isHovering) {
+      let counter = iconIdCounter
+      intervalRef.current = setInterval(() => {
+        const newIcon: CartIcon = {
+          id: counter,
+          x: Math.random() * 80 + 10, // 10-90% 범위에서 랜덤 위치
+        }
+        setCartIcons((prev) => [...prev, newIcon])
+        counter++
+        setIconIdCounter(counter)
+      }, 150) // 150ms마다 새 아이콘 생성
+    } else {
+      if (intervalRef.current) {
+        clearInterval(intervalRef.current)
+        intervalRef.current = null
+      }
+    }
+
+    return () => {
+      if (intervalRef.current) {
+        clearInterval(intervalRef.current)
+      }
+    }
+  }, [isHovering])
+
+  // 애니메이션 완료 후 아이콘 제거
+  const handleAnimationComplete = (id: number) => {
+    setCartIcons((prev) => prev.filter((icon) => icon.id !== id))
+  }
 
   if (!product || !isOpen) return null
 
@@ -248,12 +290,51 @@ export function QuickShopModal() {
               </button>
             </div>
 
-            <button 
-              onClick={handleAddToBag}
-              className="flex-1 bg-black text-white py-3 px-6 text-base font-medium hover:bg-gray-800 transition-colors"
-            >
-              ADD TO BAG
-            </button>
+            <div className="flex-1 relative overflow-visible">
+              <button 
+                onClick={handleAddToBag}
+                onMouseEnter={() => setIsHovering(true)}
+                onMouseLeave={() => setIsHovering(false)}
+                className="w-full bg-black text-white py-3 px-6 text-base font-medium hover:bg-gray-800 transition-colors relative z-10"
+              >
+                ADD TO BAG
+              </button>
+
+              {/* Floating Cart Icons */}
+              <div className="absolute inset-0 pointer-events-none overflow-visible">
+                <AnimatePresence>
+                  {cartIcons.map((icon) => (
+                    <motion.div
+                      key={icon.id}
+                      initial={{ 
+                        opacity: 1, 
+                        y: 24,
+                        scale: 0.5
+                      }}
+                      animate={{ 
+                        opacity: 0, 
+                        y: -100,
+                        scale: 1
+                      }}
+                      exit={{ opacity: 0 }}
+                      transition={{
+                        duration: 1.5,
+                        ease: 'easeOut'
+                      }}
+                      onAnimationComplete={() => handleAnimationComplete(icon.id)}
+                      className="absolute pointer-events-none"
+                      style={{ 
+                        left: `${icon.x}%`,
+                        bottom: 0,
+                        zIndex: 20
+                      }}
+                    >
+                      <ShoppingCart className="w-5 h-5 text-white" />
+                    </motion.div>
+                  ))}
+                </AnimatePresence>
+              </div>
+            </div>
           </div>
 
           {/* Total Price */}

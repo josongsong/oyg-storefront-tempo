@@ -1,25 +1,30 @@
 import { useParams, useNavigate } from 'react-router-dom'
 import { useState, useEffect } from 'react'
-import { ChevronLeft, ChevronRight, Heart, Star, Package, Truck, Store, ThumbsUp, ThumbsDown, Flag } from 'lucide-react'
+import { ChevronLeft, ChevronRight, Heart, Star, Package, Truck, Store, ShoppingCart } from 'lucide-react'
+import { motion, AnimatePresence } from 'framer-motion'
 
 import { loadProductById, loadAllProducts } from '@/utils/product-loader'
-import { ProductCard } from '@/components/ui/product-card'
-import { ProductComparison } from '@/features/product/components'
-import { useCartStore } from '@/stores'
+import { Breadcrumb } from '@/components/ui'
+import { ProductCard } from '@/features/product/components'
+import { ProductComparison, DeliveryOption, ProductImageGallery, ReviewCard } from '@/features/product/components'
+import { useCartStore, useWishlistStore, useToastStore } from '@/stores'
 import type { ProductData, ProductListItem } from '@/types/product-data'
 
 export function Component() {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
   const { addItem } = useCartStore()
+  const { toggleItem, isInWishlist } = useWishlistStore()
+  const { addToast } = useToastStore()
   const [product, setProduct] = useState<ProductData | null>(null)
   const [recommendedProducts, setRecommendedProducts] = useState<ProductListItem[]>([])
   const [isLoading, setIsLoading] = useState(true)
-  const [currentImageIndex, setCurrentImageIndex] = useState(0)
   const [selectedDeliveryOption, setSelectedDeliveryOption] = useState<'free-shipping' | 'auto-replenish' | 'same-day' | 'pickup'>('auto-replenish')
   const [displayedReviews, setDisplayedReviews] = useState(3)
   const [sortBy, setSortBy] = useState<'recent' | 'helpful' | 'highest' | 'lowest'>('recent')
   const [quantity, setQuantity] = useState(1)
+  const [isHoveringBasket, setIsHoveringBasket] = useState(false)
+  const [bubbles, setBubbles] = useState<{ id: number; x: number }[]>([])
 
   // Load product data
   useEffect(() => {
@@ -164,59 +169,20 @@ export function Component() {
     <div className="w-full">
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-8">
       {/* Breadcrumb */}
-      <nav className="mb-3 md:mb-4 text-xs md:text-sm">
-        <ol className="flex items-center gap-1.5 md:gap-2 text-gray-600">
-          <li>
-            <button onClick={() => navigate('/')} className="hover:underline">
-              Home
-            </button>
-          </li>
-          <li>/</li>
-          {product.categories.slice(1).map((cat, idx) => (
-            <li key={idx} className="flex items-center gap-2">
-              <button onClick={() => navigate(`/products?category=${cat}`)} className="hover:underline">
-                {cat}
-              </button>
-              {idx < product.categories.length - 2 && <span>/</span>}
-            </li>
-          ))}
-        </ol>
-      </nav>
+      <Breadcrumb
+        items={[
+          { label: 'Home', onClick: () => navigate('/') },
+          ...product.categories.slice(1).map((cat) => ({
+            label: cat,
+            onClick: () => navigate(`/products?category=${cat}`),
+          })),
+        ]}
+      />
 
       {/* Main Product Section */}
       <div className="grid md:grid-cols-2 gap-4 lg:gap-6 xl:gap-8 mb-12 md:mb-20">
         {/* Left: Images - Sticky */}
-        <div className="md:sticky md:top-4 md:self-start h-fit">
-          {/* Main Image */}
-          <div className="mb-3 md:mb-4 bg-gray-50 aspect-square flex items-center justify-center overflow-hidden rounded-lg md:rounded-none">
-            <img
-              src={images[currentImageIndex]}
-              alt={product.product_name}
-              className="w-full h-full object-contain"
-            />
-          </div>
-
-          {/* Thumbnail Gallery */}
-          {images.length > 1 && (
-            <div className="flex gap-2 overflow-x-auto pb-2 hide-scrollbar">
-              {images.map((image, index) => (
-                <button
-                  key={index}
-                  onClick={() => setCurrentImageIndex(index)}
-                  className={`flex-shrink-0 w-16 h-16 md:w-20 md:h-20 bg-gray-50 border-2 transition-all rounded-md ${
-                    currentImageIndex === index ? 'border-black' : 'border-transparent hover:border-gray-300'
-                  }`}
-                >
-                  <img
-                    src={image}
-                    alt={`${product.product_name} ${index + 1}`}
-                    className="w-full h-full object-contain"
-                  />
-                </button>
-              ))}
-            </div>
-          )}
-        </div>
+        <ProductImageGallery images={images} productName={product.product_name} />
 
         {/* Right: Product Info - Scrollable */}
         <div className="space-y-3 md:space-y-4">
@@ -311,111 +277,51 @@ export function Component() {
           {/* Delivery Options */}
           <div>
             <div className="grid grid-cols-2 gap-2.5">
-              {/* Free Shipping */}
-              <button
+              <DeliveryOption
+                id="free-shipping"
+                icon={<Truck className="w-6 h-6 text-gray-700 group-hover:scale-110 transition-transform duration-300" />}
+                title={
+                  <span className="font-medium">
+                    <span className="text-blue-600 hover:underline">Sign in</span> for FREE shipping
+                  </span>
+                }
+                isSelected={selectedDeliveryOption === 'free-shipping'}
                 onClick={() => setSelectedDeliveryOption('free-shipping')}
-                className={`group relative p-3 border rounded-lg text-left transition-all duration-300 hover:shadow-md ${
-                  selectedDeliveryOption === 'free-shipping' 
-                    ? 'border-black bg-gray-50' 
-                    : 'border-gray-200 hover:border-gray-400'
-                }`}
-              >
-                <div className="flex flex-col gap-1.5">
-                  <Truck className="w-5 h-5 text-gray-700 group-hover:scale-110 transition-transform duration-300" />
-                  <div>
-                    <div className="text-xs font-medium">
-                      <span className="text-blue-600 hover:underline">Sign in</span> for FREE shipping
-                    </div>
-                  </div>
-                </div>
-                {selectedDeliveryOption === 'free-shipping' && (
-                  <div className="absolute top-1.5 right-1.5 w-4 h-4 bg-black rounded-full flex items-center justify-center">
-                    <svg className="w-2.5 h-2.5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                )}
-              </button>
+              />
 
-              {/* Auto-Replenish */}
-              <button
-                onClick={() => setSelectedDeliveryOption('auto-replenish')}
-                className={`group relative p-3 border rounded-lg text-left transition-all duration-300 hover:shadow-md ${
-                  selectedDeliveryOption === 'auto-replenish' 
-                    ? 'border-black bg-gray-50' 
-                    : 'border-gray-200 hover:border-gray-400'
-                }`}
-              >
-                <div className="flex flex-col gap-1.5">
+              <DeliveryOption
+                id="auto-replenish"
+                icon={
                   <div className="w-6 h-6 border border-black rounded-full flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
                     <Package className="w-3.5 h-3.5" />
                   </div>
-                  <div>
-                    <div className="text-xs font-bold">Auto-Replenish</div>
-                    <div className="text-[10px] text-gray-600">Save 5% on this item</div>
-                  </div>
-                </div>
-                {selectedDeliveryOption === 'auto-replenish' && (
-                  <div className="absolute top-1.5 right-1.5 w-4 h-4 bg-black rounded-full flex items-center justify-center">
-                    <svg className="w-2.5 h-2.5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                )}
-              </button>
+                }
+                title={<span className="font-bold">Auto-Replenish</span>}
+                subtitle="Save 5% on this item"
+                isSelected={selectedDeliveryOption === 'auto-replenish'}
+                onClick={() => setSelectedDeliveryOption('auto-replenish')}
+              />
 
-              {/* Same-Day Delivery */}
-              <button
+              <DeliveryOption
+                id="same-day"
+                icon={
+                  <svg className="w-6 h-6 text-gray-700 group-hover:scale-110 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
+                  </svg>
+                }
+                title={<span className="font-medium">Same-Day Delivery</span>}
+                badge={<div className="absolute -top-0.5 -right-0.5 w-2 h-2 bg-red-500 rounded-full animate-pulse" />}
+                isSelected={selectedDeliveryOption === 'same-day'}
                 onClick={() => setSelectedDeliveryOption('same-day')}
-                className={`group relative p-3 border rounded-lg text-left transition-all duration-300 hover:shadow-md ${
-                  selectedDeliveryOption === 'same-day' 
-                    ? 'border-black bg-gray-50' 
-                    : 'border-gray-200 hover:border-gray-400'
-                }`}
-              >
-                <div className="flex flex-col gap-1.5">
-                  <div className="relative">
-                    <svg className="w-5 h-5 text-gray-700 group-hover:scale-110 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
-                    </svg>
-                    <div className="absolute -top-0.5 -right-0.5 w-2 h-2 bg-red-500 rounded-full animate-pulse"></div>
-                  </div>
-                  <div>
-                    <div className="text-xs font-medium">Same-Day Delivery</div>
-                  </div>
-                </div>
-                {selectedDeliveryOption === 'same-day' && (
-                  <div className="absolute top-1.5 right-1.5 w-4 h-4 bg-black rounded-full flex items-center justify-center">
-                    <svg className="w-2.5 h-2.5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                )}
-              </button>
+              />
 
-              {/* Buy Online & Pick Up */}
-              <button
+              <DeliveryOption
+                id="pickup"
+                icon={<Store className="w-6 h-6 text-gray-700 group-hover:scale-110 transition-transform duration-300" />}
+                title={<span className="font-medium">Buy Online & Pick Up</span>}
+                isSelected={selectedDeliveryOption === 'pickup'}
                 onClick={() => setSelectedDeliveryOption('pickup')}
-                className={`group relative p-3 border rounded-lg text-left transition-all duration-300 hover:shadow-md ${
-                  selectedDeliveryOption === 'pickup' 
-                    ? 'border-black bg-gray-50' 
-                    : 'border-gray-200 hover:border-gray-400'
-                }`}
-              >
-                <div className="flex flex-col gap-1.5">
-                  <Store className="w-5 h-5 text-gray-700 group-hover:scale-110 transition-transform duration-300" />
-                  <div>
-                    <div className="text-xs font-medium">Buy Online & Pick Up</div>
-                  </div>
-                </div>
-                {selectedDeliveryOption === 'pickup' && (
-                  <div className="absolute top-1.5 right-1.5 w-4 h-4 bg-black rounded-full flex items-center justify-center">
-                    <svg className="w-2.5 h-2.5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                )}
-              </button>
+              />
             </div>
           </div>
 
@@ -445,15 +351,156 @@ export function Component() {
 
             {/* Add to Cart Button */}
             <div className="flex gap-2">
-              <button 
+              <motion.button 
                 onClick={handleAddToBasket}
-                className="flex-1 bg-black text-white py-3 px-6 rounded-full hover:bg-gray-800 transition-all duration-300 text-sm font-bold uppercase tracking-wide hover:scale-[1.02] active:scale-[0.98] shadow-lg hover:shadow-xl"
+                onMouseEnter={() => {
+                  setIsHoveringBasket(true)
+                  // Generate bubbles
+                  const interval = setInterval(() => {
+                    setBubbles(prev => [...prev, { 
+                      id: Date.now() + Math.random(), 
+                      x: Math.random() * 100 
+                    }])
+                  }, 150)
+                  setTimeout(() => clearInterval(interval), 1000)
+                }}
+                onMouseLeave={() => {
+                  setIsHoveringBasket(false)
+                  setBubbles([])
+                }}
+                className="relative flex-1 bg-black text-white py-3 px-6 text-sm font-bold uppercase tracking-wide overflow-hidden shadow-lg"
+                animate={{ 
+                  backgroundColor: isHoveringBasket 
+                    ? ['#000000', '#00C73C', '#7DD321', '#00D98F', '#00C73C']
+                    : '#000000',
+                  boxShadow: isHoveringBasket 
+                    ? '0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)'
+                    : '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)'
+                }}
+                whileHover={{ 
+                  scale: 1.02
+                }}
+                whileTap={{ scale: 0.98 }}
+                transition={{
+                  backgroundColor: {
+                    duration: isHoveringBasket ? 1.2 : 0.3,
+                    ease: "easeInOut",
+                    repeat: isHoveringBasket ? Infinity : 0
+                  },
+                  boxShadow: {
+                    duration: 0.2,
+                    ease: "easeOut"
+                  },
+                  scale: {
+                    duration: 0.2
+                  }
+                }}
               >
-                Add to Basket
-              </button>
-              <button className="p-3 border-2 border-gray-300 rounded-full hover:border-black hover:bg-gray-50 transition-all duration-300 hover:scale-110 active:scale-95">
-                <Heart className="w-5 h-5" />
-              </button>
+                {/* Bubbles Animation - Green Oliveyoung Colors */}
+                <AnimatePresence>
+                  {bubbles.map((bubble) => {
+                    // Random green color from Oliveyoung palette
+                    const colors = ['#00C73C', '#7DD321', '#00D98F']
+                    const color = colors[Math.floor(Math.random() * colors.length)]
+                    
+                    return (
+                      <motion.div
+                        key={bubble.id}
+                        className="absolute rounded-full pointer-events-none"
+                        style={{
+                          width: `${Math.random() * 8 + 4}px`,
+                          height: `${Math.random() * 8 + 4}px`,
+                          backgroundColor: color,
+                          boxShadow: `0 0 10px ${color}`
+                        }}
+                        initial={{ 
+                          bottom: '10%',
+                          left: `${bubble.x}%`,
+                          opacity: 0,
+                          scale: 0
+                        }}
+                        animate={{ 
+                          bottom: '100%',
+                          opacity: [0, 1, 0.9, 0.7, 0],
+                          scale: [0, 1, 1.3, 1.5, 1.2],
+                          x: [0, Math.random() * 20 - 10, Math.random() * 30 - 15]
+                        }}
+                        exit={{ 
+                          opacity: 0,
+                          scale: 0
+                        }}
+                        transition={{ 
+                          duration: 2,
+                          ease: "easeOut"
+                        }}
+                        onAnimationComplete={() => {
+                          setBubbles(prev => prev.filter(b => b.id !== bubble.id))
+                        }}
+                      />
+                    )
+                  })}
+                </AnimatePresence>
+
+                {/* Button Content */}
+                <span className="relative z-10 flex items-center justify-center gap-2">
+                  <ShoppingCart className="w-5 h-5" />
+                  Add to Basket
+                </span>
+
+                {/* Green gradient shine effect on hover */}
+                <motion.div
+                  className="absolute inset-0 pointer-events-none"
+                  style={{
+                    background: 'linear-gradient(90deg, transparent, rgba(125, 211, 33, 0.3), transparent)'
+                  }}
+                  initial={{ x: '-100%' }}
+                  animate={{ x: isHoveringBasket ? '200%' : '-100%' }}
+                  transition={{ 
+                    duration: 0.8,
+                    ease: "easeInOut",
+                    repeat: isHoveringBasket ? Infinity : 0
+                  }}
+                />
+              </motion.button>
+              <motion.button 
+                onClick={() => {
+                  if (product) {
+                    const isCurrentlyInWishlist = isInWishlist(product.product_id)
+                    toggleItem({
+                      id: product.product_id,
+                      name: product.product_name,
+                      brand: product.brand,
+                      price: product.sale_price,
+                      image: product.images[0] || product.detailed_images[0],
+                      rating: parseFloat(product.rating_avg),
+                      reviews: parseInt(product.rating_count),
+                    })
+                    
+                    addToast(
+                      isCurrentlyInWishlist 
+                        ? 'Removed from wishlist' 
+                        : 'Added to wishlist',
+                      'success',
+                      2000
+                    )
+                  }
+                }}
+                className={`p-3 border-2 transition-all duration-300 hover:scale-110 active:scale-95 ${
+                  product && isInWishlist(product.product_id)
+                    ? 'border-red-500 bg-red-50'
+                    : 'border-gray-300 hover:border-black hover:bg-gray-50'
+                }`}
+                whileHover={{ scale: 1.1 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                <Heart 
+                  className={`w-5 h-5 transition-colors ${
+                    product && isInWishlist(product.product_id)
+                      ? 'fill-red-500 text-red-500'
+                      : 'fill-none text-black'
+                  }`} 
+                />
+              </motion.button>
             </div>
           </div>
 
@@ -610,7 +657,7 @@ export function Component() {
           {/* Header */}
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-6 md:mb-8 gap-3">
             <h2 className="text-xl md:text-2xl font-normal">Reviews</h2>
-            <button className="w-full sm:w-auto px-4 md:px-6 py-2 md:py-2.5 border-2 border-black rounded-full hover:bg-black hover:text-white transition-colors text-xs md:text-sm font-medium uppercase">
+            <button className="w-full sm:w-auto px-4 md:px-6 py-2 md:py-2.5 border-2 border-black hover:bg-black hover:text-white transition-colors text-xs md:text-sm font-medium uppercase">
               Write A REVIEW
             </button>
           </div>
@@ -768,56 +815,7 @@ export function Component() {
           {/* Review List */}
           <div className="space-y-6">
             {displayReviews.map((review) => (
-              <div key={review.review_id} className="border-b border-gray-200 pb-6 last:border-b-0">
-                <div className="flex items-start justify-between mb-3">
-                  <div>
-                    <div className="flex items-center gap-2 mb-1">
-                      <span className="text-sm font-medium">{review.nickname}</span>
-                    </div>
-                    <div className="flex">
-                      {[...Array(5)].map((_, i) => (
-                        <Star
-                          key={i}
-                          className={`w-3 h-3 md:w-4 md:h-4 fill-none stroke-current stroke-[1.5] ${
-                            i < review.rating
-                              ? 'text-black'
-                              : 'text-gray-300'
-                          }`}
-                        />
-                      ))}
-                    </div>
-                  </div>
-                  <span className="text-xs text-gray-500">
-                    {new Date(review.created_date * 1000).toLocaleDateString()}
-                  </span>
-                </div>
-
-                <h4 className="font-medium mb-2 text-sm md:text-base">{review.headline}</h4>
-                <p className="text-xs md:text-sm text-gray-700 mb-3 leading-relaxed">
-                  {review.comments}
-                </p>
-
-                {review.location && (
-                  <p className="text-xs text-gray-500 mb-3">{review.location}</p>
-                )}
-
-                {/* Review Actions */}
-                <div className="flex items-center gap-4 text-xs">
-                  <span className="text-gray-600">Is this review helpful?</span>
-                  <button className="flex items-center gap-1 hover:text-black transition-colors">
-                    <ThumbsUp className="w-3 h-3" />
-                    <span>{review.helpful_votes}</span>
-                  </button>
-                  <button className="flex items-center gap-1 hover:text-black transition-colors">
-                    <ThumbsDown className="w-3 h-3" />
-                    <span>{review.not_helpful_votes}</span>
-                  </button>
-                  <button className="flex items-center gap-1 text-gray-500 hover:text-black transition-colors">
-                    <Flag className="w-3 h-3" />
-                    <span>Report</span>
-                  </button>
-                </div>
-              </div>
+              <ReviewCard key={review.review_id} review={review} />
             ))}
           </div>
 

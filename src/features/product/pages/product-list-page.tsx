@@ -2,10 +2,10 @@ import { useSearchParams } from 'react-router-dom'
 import { useState, useMemo, useEffect } from 'react'
 import { ChevronDown, ChevronUp, Plus, Check, ChevronLeft, ChevronRight } from 'lucide-react'
 
-import { ProductCard } from '@/components/ui/product-card'
+import { ProductCard } from '@/features/product/components'
 import { LoadingSpinner } from '@/components/ui/loading-spinner'
 import { FilterFacet } from '@/features/product/components'
-import { FILTER_DATA } from '@/data/filter-data'
+import { FILTER_DATA } from '@/features/product/constants/filter-data'
 import { loadAllProducts, filterByCategory, sortProducts } from '@/utils/product-loader'
 import type { ProductListItem } from '@/types/product-data'
 import type { GlossierProduct } from '@/types/glossier'
@@ -283,7 +283,7 @@ export function Component() {
             </div>
           ) : (
             <>
-              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-4 gap-y-8">
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-5 gap-y-10">
                 {displayProducts.map((product) => (
                   <ProductCard key={product.id} product={product} />
                 ))}

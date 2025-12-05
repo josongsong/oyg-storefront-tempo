@@ -1,8 +1,12 @@
 export { SearchOverlay } from './search-overlay'
-export { ProductCard } from './product-card'
+// ProductCard moved to @/features/product/components
 export { QuickShopModal } from './quick-shop-modal'
 export { PromoPopup } from './promo-popup'
 export { AuthPopup } from './auth-popup'
 export { LoadingSpinner, LoadingDots, LoadingPulse } from './loading-spinner'
 export { AIAgent } from './ai-agent'
 export { Toast } from './toast'
+export { Button } from './button'
+export { Breadcrumb } from './breadcrumb'
+export { Rating } from './rating'
+export type { BreadcrumbItem } from './breadcrumb'

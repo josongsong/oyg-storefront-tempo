@@ -119,7 +119,7 @@ export function AuthPopup() {
             {/* Modal */}
             <motion.div
               layout
-              className="relative bg-white w-full max-w-[500px] overflow-hidden shadow-2xl"
+              className="relative bg-white w-full max-w-[650px] overflow-hidden shadow-2xl"
               initial={{ scale: 0.9, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               exit={{ opacity: 0 }}

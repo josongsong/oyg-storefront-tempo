@@ -1,4 +1,4 @@
-import { FLAVORS } from '@/data/product-data'
+import { FLAVORS } from '@/features/product/constants/product-data'
 
 import type { Flavor } from '@/types/glossier'
 

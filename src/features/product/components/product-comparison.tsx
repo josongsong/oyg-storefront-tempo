@@ -145,26 +145,6 @@ export function ProductComparison({ currentProduct, similarProducts }: ProductCo
                 </td>
               ))}
             </tr>
-
-            {/* Action Buttons Row */}
-            <tr className="border-t border-gray-200">
-              <td className="py-4 px-2 md:px-0"></td>
-              {productsToCompare.map((product) => (
-                <td key={product.id} className="py-4 px-2 md:px-3">
-                  <button
-                    onClick={() => handleProductClick(product.id)}
-                    disabled={product.isCurrent}
-                    className={`w-full px-4 py-2 border-2 rounded-full text-xs md:text-sm font-medium transition-colors ${
-                      product.isCurrent
-                        ? 'border-gray-300 text-gray-400 cursor-not-allowed bg-gray-50'
-                        : 'border-black hover:bg-black hover:text-white'
-                    }`}
-                  >
-                    {product.isCurrent ? 'Current' : 'See Details'}
-                  </button>
-                </td>
-              ))}
-            </tr>
           </tbody>
         </table>
       </div>

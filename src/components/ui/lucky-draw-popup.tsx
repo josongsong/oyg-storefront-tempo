@@ -125,41 +125,41 @@ export function LuckyDrawPopup() {
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center px-4">
-      <div className="absolute inset-0 bg-black/40 backdrop-blur-md transition-opacity duration-300" onClick={resetGame} />
+      <div className="absolute inset-0 bg-black/20 backdrop-blur-sm transition-opacity duration-300" onClick={resetGame} />
 
-      <div className="relative bg-white w-full max-w-md shadow-2xl overflow-hidden transform transition-all duration-500 scale-100">
+      <div className="relative bg-white w-full max-w-2xl shadow-2xl overflow-hidden transform transition-all duration-500 scale-100">
         {showConfetti && <Confetti />}
 
         {/* Header */}
-        <div className="bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between">
+        <div className="bg-white border-b border-gray-200 px-8 py-5 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <span className="font-bold text-gray-800 tracking-wide">OLIVEYOUNG LUCKY DRAW</span>
+            <span className="font-bold text-gray-800 tracking-wide text-lg" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}>OLIVEYOUNG LUCKY DRAW</span>
           </div>
           <button onClick={resetGame} className="text-gray-400 hover:text-black transition-colors">
-            <X size={20} />
+            <X size={24} />
           </button>
         </div>
 
         {/* Wheel Container */}
-        <div className="p-8 flex flex-col items-center justify-center bg-white">
+        <div className="p-12 flex flex-col items-center justify-center bg-white">
           {!result ? (
             <>
-              <div className="mb-6 text-center">
-                <h2 className="text-2xl font-bold mb-1 text-gray-900">Spin & Win</h2>
-                <p className="text-gray-500 text-sm">Today's special offer awaits you.</p>
+              <div className="mb-8 text-center">
+                <h2 className="text-3xl font-bold mb-2 text-gray-900" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}>Spin & Win</h2>
+                <p className="text-gray-500 text-base" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}>Today's special offer awaits you.</p>
               </div>
 
-              <div className="relative w-64 h-64 md:w-72 md:h-72">
+              <div className="relative w-80 h-80 md:w-96 md:h-96">
                 {/* Pointer */}
-                <div className="absolute -top-4 left-1/2 -translate-x-1/2 z-20">
-                  <div className="w-8 h-10 bg-[#00C73C] rounded-b-full shadow-lg flex items-center justify-center border-2 border-white">
-                    <div className="w-2 h-2 bg-white rounded-full" />
+                <div className="absolute -top-5 left-1/2 -translate-x-1/2 z-20">
+                  <div className="w-10 h-12 bg-[#00C73C] rounded-b-full shadow-lg flex items-center justify-center border-2 border-white">
+                    <div className="w-3 h-3 bg-white rounded-full" />
                   </div>
                 </div>
 
                 {/* The Wheel */}
                 <div
-                  className="w-full h-full rounded-full shadow-[0_10px_40px_-10px_rgba(0,0,0,0.2)] border-4 border-white overflow-hidden relative"
+                  className="w-full h-full rounded-full shadow-[0_10px_40px_-10px_rgba(0,0,0,0.3)] border-8 border-gray-200 overflow-hidden relative"
                   style={{
                     transform: `rotate(${rotation}deg)`,
                     transition: isSpinning ? 'transform 4s cubic-bezier(0.1, 0, 0.2, 1)' : 'none',
@@ -175,17 +175,17 @@ export function LuckyDrawPopup() {
 
                       return (
                         <g key={i}>
-                          <path d={pathData} fill={seg.color} stroke="white" strokeWidth="0.01" />
+                          <path d={pathData} fill={seg.color} stroke="white" strokeWidth="0.02" />
                           <text
                             x={0.65}
                             y={0}
                             fill={seg.textColor}
-                            fontSize="0.13"
+                            fontSize="0.14"
                             fontWeight="bold"
                             textAnchor="middle"
                             alignmentBaseline="middle"
                             transform={`rotate(${i * 360 / TOTAL_SEGMENTS + 360 / TOTAL_SEGMENTS / 2})`}
-                            style={{ fontFamily: 'Inter, sans-serif' }}
+                            style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}
                           >
                             {seg.label}
                           </text>
@@ -200,9 +200,10 @@ export function LuckyDrawPopup() {
                   <button
                     onClick={handleSpin}
                     disabled={isSpinning}
-                    className={`w-16 h-16 rounded-full bg-white shadow-xl flex items-center justify-center border-4 border-gray-200 font-bold text-xs tracking-wider text-gray-900 transition-transform ${
+                    className={`w-20 h-20 rounded-full bg-white shadow-xl flex items-center justify-center border-4 border-gray-200 font-bold text-sm tracking-wider text-gray-900 transition-transform ${
                       isSpinning ? 'scale-95 opacity-80' : 'hover:scale-105 active:scale-95'
                     }`}
+                    style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}
                   >
                     {isSpinning ? '...' : 'SPIN'}
                   </button>
@@ -210,28 +211,30 @@ export function LuckyDrawPopup() {
               </div>
             </>
           ) : (
-            <div className="flex flex-col items-center justify-center py-4 animate-scale-in">
-              <div className="w-20 h-20 bg-gray-100 rounded-full flex items-center justify-center mb-4 animate-bounce">
-                <Gift className="w-10 h-10 text-gray-700" />
+            <div className="flex flex-col items-center justify-center py-8 animate-scale-in">
+              <div className="w-24 h-24 bg-gray-100 rounded-full flex items-center justify-center mb-6 animate-bounce">
+                <Gift className="w-12 h-12 text-gray-700" />
               </div>
-              <h3 className="text-3xl font-bold text-gray-900 mb-2">Congratulations!</h3>
-              <p className="text-gray-500 mb-6">
+              <h3 className="text-4xl font-bold text-gray-900 mb-3" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}>Congratulations!</h3>
+              <p className="text-gray-500 mb-8 text-lg" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}>
                 You won: <span className="text-gray-900 font-bold">{result.value}</span>
               </p>
 
-              <div className="w-full bg-gray-100 p-4 flex items-center justify-between mb-6 border border-gray-200 border-dashed">
-                <code className="font-mono text-lg font-bold text-gray-700">LUCKY2024</code>
+              <div className="w-full bg-gray-100 p-5 flex items-center justify-between mb-8 border border-gray-200 border-dashed">
+                <code className="font-mono text-xl font-bold text-gray-700">LUCKY2024</code>
                 <button
                   onClick={handleCopyCoupon}
-                  className="text-sm flex items-center gap-1 text-gray-500 hover:text-black font-semibold"
+                  className="text-base flex items-center gap-2 text-gray-500 hover:text-black font-semibold"
+                  style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}
                 >
-                  <Copy size={14} /> Copy
+                  <Copy size={16} /> Copy
                 </button>
               </div>
 
               <button
                 onClick={handleCopyCoupon}
-                className="w-full bg-black text-white py-4 font-bold text-sm tracking-wide hover:bg-gray-800 transition-colors shadow-lg"
+                className="w-full bg-black text-white py-5 font-bold text-base tracking-wide hover:bg-gray-800 transition-colors shadow-lg"
+                style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}
               >
                 CLAIM REWARD NOW
               </button>
@@ -242,7 +245,8 @@ export function LuckyDrawPopup() {
                   setRotation(0)
                   setShowConfetti(false)
                 }}
-                className="mt-4 text-xs text-gray-400 underline hover:text-gray-600"
+                className="mt-5 text-sm text-gray-400 underline hover:text-gray-600"
+                style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}
               >
                 Play again for fun
               </button>
@@ -252,8 +256,8 @@ export function LuckyDrawPopup() {
 
         {/* Footer */}
         {!result && (
-          <div className="bg-white p-4 text-center border-t border-gray-100">
-            <p className="text-[10px] text-gray-400">*Coupon expires in 24 hours. One spin per day.</p>
+          <div className="bg-white p-5 text-center border-t border-gray-100">
+            <p className="text-xs text-gray-400" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Hiragino Sans", "Roboto", "NotoSansJP", Arial, sans-serif' }}>*Coupon expires in 24 hours. One spin per day.</p>
           </div>
         )}
       </div>

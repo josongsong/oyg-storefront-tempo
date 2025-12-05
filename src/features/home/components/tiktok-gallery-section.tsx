@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
-import { TIKTOK_VIDEOS } from '@/data/tiktok-data'
+import { TIKTOK_VIDEOS } from '@/features/home/constants/tiktok-data'
 import type { TikTokVideo } from '@/types/tiktok'
 
 export function TikTokGallerySection() {

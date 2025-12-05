@@ -55,7 +55,7 @@ export function PromoPopup() {
           >
             {/* Modal */}
             <motion.div
-              className="relative bg-white w-full max-w-lg rounded-2xl overflow-hidden shadow-2xl"
+              className="relative bg-white w-full max-w-lg rounded-2xl overflow-hidden shadow-2xl -translate-y-12"
               initial={{ scale: 0.9, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               exit={{ scale: 0.9, opacity: 0 }}

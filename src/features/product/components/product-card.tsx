@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 
-import { useQuickShopStore } from '@/stores'
+import { useQuickShopStore, useWishlistStore } from '@/stores'
 import { loadAllProducts } from '@/utils/product-loader'
 
 import type { GlossierProduct } from '@/types/glossier'
@@ -16,7 +16,9 @@ interface ProductCardProps {
 export function ProductCard({ product }: ProductCardProps) {
   const navigate = useNavigate()
   const openQuickShop = useQuickShopStore((state) => state.openQuickShop)
+  const { toggleItem, isInWishlist } = useWishlistStore()
   const [productIds, setProductIds] = useState<string[]>([])
+  const isFavorited = isInWishlist(String(product.id))
 
   // Load all product IDs on mount
   useEffect(() => {
@@ -67,6 +69,22 @@ export function ProductCard({ product }: ProductCardProps) {
     }
   }
 
+  const handleToggleFavorite = (e: React.MouseEvent) => {
+    e.preventDefault()
+    e.stopPropagation()
+    
+    toggleItem({
+      id: String(product.id),
+      name: product.name,
+      brand: product.brand,
+      price: product.price,
+      image: product.image,
+      rating: product.rating,
+      reviews: product.reviews,
+      badge: product.badge,
+    })
+  }
+
   return (
     <div className="group relative flex flex-col cursor-pointer" onClick={handleCardClick}>
       <div className="relative aspect-4/5 bg-[#F9F9F9] overflow-hidden mb-3">
@@ -79,9 +97,18 @@ export function ProductCard({ product }: ProductCardProps) {
             </span>
           </div>
         )}
-        <button className="absolute top-3 right-3 z-10 p-2 hover:bg-white/80 rounded-full transition-colors">
-          <Heart className="w-5 h-5 text-black stroke-1" />
-        </button>
+        <motion.button 
+          onClick={handleToggleFavorite}
+          className="absolute top-3 right-3 z-10 p-2 hover:bg-white/80 rounded-full transition-colors"
+          whileHover={{ scale: 1.1 }}
+          whileTap={{ scale: 0.9 }}
+        >
+          <Heart 
+            className={`w-5 h-5 stroke-1 transition-colors ${
+              isFavorited ? 'fill-red-500 text-red-500' : 'text-black fill-none'
+            }`} 
+          />
+        </motion.button>
         <img
           src={product.image}
           alt={product.name}
