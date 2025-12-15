@@ -69,6 +69,8 @@ export const useCartStore = create<CartState>()(
           let itemCount = 0
           
           for (const item of items.values()) {
+            if (!item || typeof item.quantity !== 'number') continue
+            
             subtotal += (item.price as number) * item.quantity
             itemCount += item.quantity
             
