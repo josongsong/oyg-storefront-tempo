@@ -55,7 +55,9 @@ export const useCartStore = create<CartState>()(
           const items = get().items
           let total = 0
           for (const item of items.values()) {
-            total += item.quantity
+            if (item && typeof item.quantity === 'number') {
+              total += item.quantity
+            }
           }
           return total
         },

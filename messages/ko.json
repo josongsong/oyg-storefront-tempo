@@ -1,0 +1,56 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  
+  "common_unknown_error": "알 수 없는 오류가 발생했습니다",
+  "common_network_error": "네트워크 연결을 확인해주세요",
+  "common_auth_required": "로그인이 필요합니다",
+  "common_retry": "다시 시도",
+  "common_cancel": "취소",
+  "common_confirm": "확인",
+  "common_save": "저장",
+  "common_delete": "삭제",
+  
+  "cart_empty_title": "장바구니가 비어있습니다",
+  "cart_empty_description": "관심 있는 상품을 담아보세요",
+  "cart_item_count": "상품 {count}개",
+  "cart_add_success": "{productName}이(가) 장바구니에 추가되었습니다",
+  "cart_remove_success": "상품이 제거되었습니다",
+  "cart_update_quantity": "수량이 변경되었습니다",
+  "cart_out_of_stock": "{productName}의 재고가 부족합니다",
+  "cart_item_not_found": "상품을 찾을 수 없습니다",
+  "cart_continue_shopping": "쇼핑 계속하기",
+  
+  "product_no_results": "검색 결과가 없습니다",
+  "product_filter_no_matches": "필터 조건에 맞는 상품이 없습니다",
+  "product_clear_filters": "필터 초기화",
+  "product_review_verified": "구매 인증",
+  "product_review_helpful": "도움이 되었나요?",
+  "product_add_wishlist": "위시리스트에 추가",
+  "product_quick_view": "빠른 보기",
+  
+  "checkout_address_invalid": "배송지 주소를 확인해주세요",
+  "checkout_phone_invalid": "전화번호를 확인해주세요",
+  "checkout_payment_processing": "결제 처리 중...",
+  "checkout_payment_success": "결제가 완료되었습니다",
+  "checkout_payment_failed": "결제에 실패했습니다. 다시 시도해주세요",
+  "checkout_order_confirmed": "주문이 완료되었습니다",
+  "checkout_free_shipping": "무료 배송 가능",
+  "checkout_express_available": "빠른 배송 가능",
+  
+  "promo_banner_black_friday": "블랙프라이데이 최대 70% 할인",
+  "promo_banner_new_user": "신규 회원 15% 쿠폰",
+  "promo_coupon_applied": "{amount}원 할인이 적용되었습니다",
+  "promo_coupon_expired": "쿠폰이 만료되었습니다",
+  "promo_coupon_invalid": "유효하지 않은 쿠폰입니다",
+  
+  "search_no_results": "'{query}' 검색 결과가 없습니다",
+  "search_trending": "인기 검색어",
+  "search_recent": "최근 검색어",
+  
+  "auth_invalid_credentials": "이메일 또는 비밀번호가 올바르지 않습니다",
+  "auth_email_exists": "이미 가입된 이메일입니다",
+  "auth_login_success": "로그인되었습니다",
+  "auth_register_success": "회원가입이 완료되었습니다",
+  "auth_verify_email": "이메일을 인증해주세요"
+}
+

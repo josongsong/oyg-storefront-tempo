@@ -5,6 +5,7 @@ import { SIMILAR_ITEMS, WISHLIST_ITEMS } from '@/features/cart/mocks'
 import { useCartStore } from '@/features/cart/stores'
 import { useWishlistStore } from '@/features/product/stores'
 import { useNavigate } from 'react-router-dom'
+import { cartMessages } from '@/features/cart/i18n'
 
 export function Component() {
   const navigate = useNavigate()
@@ -64,14 +65,14 @@ export function Component() {
     return (
       <div className="max-w-[1400px] mx-auto px-4 md:px-8 py-16">
         <div className="text-center">
-          <h1 className="text-3xl font-semibold mb-4">Your cart is empty</h1>
-          <p className="text-gray-600 mb-8">Add some products to get started</p>
+          <h1 className="text-3xl font-semibold mb-4">{cartMessages.emptyTitle()}</h1>
+          <p className="text-gray-600 mb-8">{cartMessages.emptyDescription()}</p>
           <div className="flex gap-4 justify-center">
             <button
               onClick={() => navigate('/')}
               className="bg-black text-white px-8 py-3 hover:bg-gray-800 transition-colors"
             >
-              Continue Shopping
+              {cartMessages.continueShopping()}
             </button>
             {import.meta.env.DEV && (
               <button

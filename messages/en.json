@@ -1,0 +1,56 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  
+  "common_unknown_error": "An unknown error occurred",
+  "common_network_error": "Please check your network connection",
+  "common_auth_required": "Login required",
+  "common_retry": "Retry",
+  "common_cancel": "Cancel",
+  "common_confirm": "Confirm",
+  "common_save": "Save",
+  "common_delete": "Delete",
+  
+  "cart_empty_title": "Your cart is empty",
+  "cart_empty_description": "Add some products to get started",
+  "cart_item_count": "{count} items",
+  "cart_add_success": "{productName} added to cart",
+  "cart_remove_success": "Item removed from cart",
+  "cart_update_quantity": "Quantity updated",
+  "cart_out_of_stock": "{productName} is out of stock",
+  "cart_item_not_found": "Item not found",
+  "cart_continue_shopping": "Continue Shopping",
+  
+  "product_no_results": "No results found",
+  "product_filter_no_matches": "No products match your filters",
+  "product_clear_filters": "Clear all filters",
+  "product_review_verified": "Verified Purchase",
+  "product_review_helpful": "Was this helpful?",
+  "product_add_wishlist": "Add to Wishlist",
+  "product_quick_view": "Quick View",
+  
+  "checkout_address_invalid": "Please check your shipping address",
+  "checkout_phone_invalid": "Please check your phone number",
+  "checkout_payment_processing": "Processing payment...",
+  "checkout_payment_success": "Payment completed",
+  "checkout_payment_failed": "Payment failed. Please try again",
+  "checkout_order_confirmed": "Order confirmed",
+  "checkout_free_shipping": "Free shipping available",
+  "checkout_express_available": "Express shipping available",
+  
+  "promo_banner_black_friday": "Black Friday - Up to 70% Off",
+  "promo_banner_new_user": "New Member 15% Coupon",
+  "promo_coupon_applied": "{amount} discount applied",
+  "promo_coupon_expired": "Coupon has expired",
+  "promo_coupon_invalid": "Invalid coupon code",
+  
+  "search_no_results": "No results for '{query}'",
+  "search_trending": "Trending",
+  "search_recent": "Recent Searches",
+  
+  "auth_invalid_credentials": "Invalid email or password",
+  "auth_email_exists": "Email already registered",
+  "auth_login_success": "Logged in successfully",
+  "auth_register_success": "Registration completed",
+  "auth_verify_email": "Please verify your email"
+}
+

@@ -1,0 +1,5 @@
+{
+  "project": "./project.inlang",
+  "outdir": "./src/app/i18n/paraglide"
+}
+

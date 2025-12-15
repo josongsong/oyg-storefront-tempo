@@ -1,0 +1,113 @@
+/**
+ * Semantic Codes
+ * 서버-클라이언트 간 계약
+ * 네이밍: DOMAIN__CATEGORY__NAME__VARIANT
+ */
+
+export enum CartSemanticCode {
+  EMPTY_STATE__NO_ITEMS = 'CART__EMPTY_STATE__NO_ITEMS',
+  EMPTY_STATE__SESSION_EXPIRED = 'CART__EMPTY_STATE__SESSION_EXPIRED',
+  ACTION__ADD_SUCCESS = 'CART__ACTION__ADD_SUCCESS',
+  ACTION__REMOVE_SUCCESS = 'CART__ACTION__REMOVE_SUCCESS',
+  ACTION__UPDATE_QUANTITY = 'CART__ACTION__UPDATE_QUANTITY',
+  ERROR__ITEM_NOT_FOUND = 'CART__ERROR__ITEM_NOT_FOUND',
+  ERROR__OUT_OF_STOCK = 'CART__ERROR__OUT_OF_STOCK',
+  ERROR__LIMIT_EXCEEDED = 'CART__ERROR__LIMIT_EXCEEDED',
+}
+
+export enum ProductSemanticCode {
+  EMPTY_STATE__NO_RESULTS = 'PRODUCT__EMPTY_STATE__NO_RESULTS',
+  EMPTY_STATE__NO_REVIEWS = 'PRODUCT__EMPTY_STATE__NO_REVIEWS',
+  FILTER__NO_MATCHES = 'PRODUCT__FILTER__NO_MATCHES',
+  FILTER__CLEAR_ALL = 'PRODUCT__FILTER__CLEAR_ALL',
+  REVIEW__VERIFIED_PURCHASE = 'PRODUCT__REVIEW__VERIFIED_PURCHASE',
+  REVIEW__HELPFUL = 'PRODUCT__REVIEW__HELPFUL',
+  ACTION__ADD_WISHLIST = 'PRODUCT__ACTION__ADD_WISHLIST',
+  ACTION__QUICK_VIEW = 'PRODUCT__ACTION__QUICK_VIEW',
+}
+
+export enum CheckoutSemanticCode {
+  VALIDATION__ADDRESS_INVALID = 'CHECKOUT__VALIDATION__ADDRESS_INVALID',
+  VALIDATION__PHONE_INVALID = 'CHECKOUT__VALIDATION__PHONE_INVALID',
+  PAYMENT__PROCESSING = 'CHECKOUT__PAYMENT__PROCESSING',
+  PAYMENT__SUCCESS = 'CHECKOUT__PAYMENT__SUCCESS',
+  PAYMENT__FAILED = 'CHECKOUT__PAYMENT__FAILED',
+  SHIPPING__FREE_ELIGIBLE = 'CHECKOUT__SHIPPING__FREE_ELIGIBLE',
+  SHIPPING__EXPRESS_AVAILABLE = 'CHECKOUT__SHIPPING__EXPRESS_AVAILABLE',
+}
+
+export enum PromoSemanticCode {
+  BANNER__BLACK_FRIDAY = 'PROMO__BANNER__BLACK_FRIDAY',
+  BANNER__NEW_USER = 'PROMO__BANNER__NEW_USER',
+  BANNER__SEASONAL = 'PROMO__BANNER__SEASONAL',
+  COUPON__APPLIED = 'PROMO__COUPON__APPLIED',
+  COUPON__EXPIRED = 'PROMO__COUPON__EXPIRED',
+  COUPON__INVALID = 'PROMO__COUPON__INVALID',
+  COUPON__LIMIT_REACHED = 'PROMO__COUPON__LIMIT_REACHED',
+}
+
+export enum SearchSemanticCode {
+  EMPTY_STATE__NO_RESULTS = 'SEARCH__EMPTY_STATE__NO_RESULTS',
+  SUGGESTION__TRENDING = 'SEARCH__SUGGESTION__TRENDING',
+  SUGGESTION__RECENT = 'SEARCH__SUGGESTION__RECENT',
+}
+
+export enum AuthSemanticCode {
+  ERROR__INVALID_CREDENTIALS = 'AUTH__ERROR__INVALID_CREDENTIALS',
+  ERROR__EMAIL_EXISTS = 'AUTH__ERROR__EMAIL_EXISTS',
+  ERROR__EMAIL_NOT_FOUND = 'AUTH__ERROR__EMAIL_NOT_FOUND',
+  SUCCESS__LOGIN = 'AUTH__SUCCESS__LOGIN',
+  SUCCESS__REGISTER = 'AUTH__SUCCESS__REGISTER',
+  SUCCESS__LOGOUT = 'AUTH__SUCCESS__LOGOUT',
+  REQUIRED__VERIFY_EMAIL = 'AUTH__REQUIRED__VERIFY_EMAIL',
+}
+
+export enum CommonSemanticCode {
+  ERROR__UNKNOWN = 'COMMON__ERROR__UNKNOWN',
+  ERROR__NETWORK = 'COMMON__ERROR__NETWORK',
+  ERROR__TIMEOUT = 'COMMON__ERROR__TIMEOUT',
+  ERROR__AUTH_REQUIRED = 'COMMON__ERROR__AUTH_REQUIRED',
+  ERROR__PERMISSION_DENIED = 'COMMON__ERROR__PERMISSION_DENIED',
+  ACTION__RETRY = 'COMMON__ACTION__RETRY',
+  ACTION__CANCEL = 'COMMON__ACTION__CANCEL',
+  ACTION__CONFIRM = 'COMMON__ACTION__CONFIRM',
+  ACTION__SAVE = 'COMMON__ACTION__SAVE',
+  ACTION__DELETE = 'COMMON__ACTION__DELETE',
+}
+
+export type SemanticCode = 
+  | CartSemanticCode
+  | ProductSemanticCode
+  | CheckoutSemanticCode
+  | PromoSemanticCode
+  | SearchSemanticCode
+  | AuthSemanticCode
+  | CommonSemanticCode
+
+export function isCartCode(code: SemanticCode): code is CartSemanticCode {
+  return code.startsWith('CART__')
+}
+
+export function isProductCode(code: SemanticCode): code is ProductSemanticCode {
+  return code.startsWith('PRODUCT__')
+}
+
+export function isCheckoutCode(code: SemanticCode): code is CheckoutSemanticCode {
+  return code.startsWith('CHECKOUT__')
+}
+
+export function isPromoCode(code: SemanticCode): code is PromoSemanticCode {
+  return code.startsWith('PROMO__')
+}
+
+export function isSearchCode(code: SemanticCode): code is SearchSemanticCode {
+  return code.startsWith('SEARCH__')
+}
+
+export function isAuthCode(code: SemanticCode): code is AuthSemanticCode {
+  return code.startsWith('AUTH__')
+}
+
+export function isCommonCode(code: SemanticCode): code is CommonSemanticCode {
+  return code.startsWith('COMMON__')
+}
