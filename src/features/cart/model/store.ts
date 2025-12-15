@@ -5,10 +5,14 @@
 import { create } from 'zustand'
 import { persist, devtools } from 'zustand/middleware'
 import { immer } from 'zustand/middleware/immer'
+import { enableMapSet } from 'immer'
 import { useToastStore } from '@/app/stores/toast.store'
 import type { CartItem, CartItemId, CartItemOptions, CartSummary, ShippingInfo } from './types'
 import { CartItemId as CartItemIdFactory, SHIPPING_OPTIONS, TAX_RATE, FREE_SHIPPING_THRESHOLD } from './types'
 import type { ProductId, Price } from '@/entities/product'
+
+// Enable Immer MapSet plugin
+enableMapSet()
 
 interface CartState {
   // State

@@ -3,53 +3,40 @@
  */
 
 import { BasePage } from './base.page'
-import { TEST_IDS } from '../../config/test-ids'
+import { type Locator } from '@playwright/test'
 
 export class CartPage extends BasePage {
-  /**
-   * 장바구니 페이지로 이동
-   */
+  readonly cartItems: Locator
+  readonly checkoutButton: Locator
+  readonly emptyCartMessage: Locator
+  readonly totalPrice: Locator
+
+  constructor(page: any) {
+    super(page)
+    this.cartItems = page.locator('[class*="cart-item"], .item')
+    this.checkoutButton = page.locator('button:has-text("Checkout"), button:has-text("결제하기")')
+    this.emptyCartMessage = page.locator('text=/empty|비어있습니다/i')
+    this.totalPrice = page.locator('text=/total|합계/i').locator('..').locator('text=/\\$\\d+|\₩\\d+/')
+  }
+
   async goto() {
     await super.goto('/cart')
-    await this.waitForLoadingComplete()
+    await this.page.waitForTimeout(1000)
   }
 
-  /**
-   * 장바구니 아이템 개수
-   */
-  async getItemCount() {
-    const items = this.page.locator(`[data-testid="${TEST_IDS.CART.ITEM}"]`)
-    return await items.count()
+  async getItemCount(): Promise<number> {
+    try {
+      return await this.cartItems.count()
+    } catch {
+      return 0
+    }
   }
 
-  /**
-   * 총 금액 가져오기
-   */
-  async getTotal() {
-    return await this.getByTestId(TEST_IDS.CART.TOTAL).textContent()
+  async isEmpty(): Promise<boolean> {
+    return await this.emptyCartMessage.isVisible()
   }
 
-  /**
-   * 체크아웃 버튼 클릭
-   */
   async checkout() {
-    await this.clickByTestId(TEST_IDS.CART.CHECKOUT_BTN)
-  }
-
-  /**
-   * 아이템 제거
-   */
-  async removeItem(index: number = 0) {
-    const removeButtons = this.page.locator(
-      `[data-testid="${TEST_IDS.CART.REMOVE_BTN}"]`
-    )
-    await removeButtons.nth(index).click()
-  }
-
-  /**
-   * 장바구니가 비어있는지 확인
-   */
-  async isEmpty() {
-    return await this.page.isVisible(`[data-testid="${TEST_IDS.COMMON.EMPTY_STATE}"]`)
+    await this.checkoutButton.click()
   }
 }

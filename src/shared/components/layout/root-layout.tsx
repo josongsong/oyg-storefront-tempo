@@ -4,7 +4,7 @@ import { useDocumentTitle } from '@/shared/hooks/use-document-title'
 import { Header, Footer } from '@/widgets'
 import { QuickShopModal } from '@/features/product/components'
 import { AuthPopup } from '@/features/auth/components'
-import { LocalePopup, LocaleDemo } from '@/features/locale/components'
+import { LocalePopup } from '@/features/locale/components'
 import { LuckyDrawPopup } from '@/features/promotion/components'
 import { AIAgent } from '@/features/ai-assistant/components'
 import { Toast } from '@/shared/components/ui/toast'
@@ -41,7 +41,6 @@ export function RootLayout() {
       <LuckyDrawPopup />
       <AIAgent />
       <Toast />
-      {import.meta.env.DEV && <LocaleDemo />}
     </div>
   )
 }

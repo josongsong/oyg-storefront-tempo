@@ -143,50 +143,6 @@ function ProductCardComponent({
             ;(e.target as HTMLImageElement).style.display = 'none'
           }}
         />
-        
-        {/* Quick Shop Button */}
-        <motion.button
-          onClick={handleQuickShop}
-          initial={{ y: '100%' }}
-          className="absolute bottom-0 left-0 right-0 bg-black text-white py-3 text-sm font-bold uppercase tracking-wide group-hover:translate-y-0 transition-transform duration-300 overflow-hidden"
-          whileHover={{ 
-            backgroundColor: ['#000000', '#00C73C', '#7DD321', '#00D98F', '#00C73C'],
-            scale: 1.02,
-            transition: {
-              backgroundColor: {
-                duration: 1.2,
-                ease: "easeInOut",
-                repeat: Infinity
-              },
-              scale: {
-                duration: 0.2,
-                ease: "easeOut"
-              }
-            }
-          }}
-          whileTap={{ scale: 0.98 }}
-        >
-          <span className="relative z-10">
-            QUICK SHOP
-          </span>
-          
-          {/* Animated gradient overlay */}
-          <motion.div 
-            className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent pointer-events-none opacity-0"
-            whileHover={{
-              opacity: 1,
-              x: ['-100%', '200%'],
-              transition: {
-                opacity: { duration: 0.2 },
-                x: {
-                  duration: 0.8,
-                  ease: "easeInOut",
-                  repeat: Infinity
-                }
-              }
-            }}
-          />
-        </motion.button>
       </div>
       <div className="flex flex-col gap-1 px-1">
         <h3 className="text-sm font-bold tracking-wide uppercase">{product.brand}</h3>

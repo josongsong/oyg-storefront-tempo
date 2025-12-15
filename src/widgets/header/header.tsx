@@ -218,9 +218,9 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
       <div className="sticky top-0 z-50 bg-white" onMouseLeave={() => setActiveMenu(null)}>
         {/* Logo, Search and Icons */}
         <div className="px-4 md:px-8 py-5 relative" onMouseEnter={() => setActiveMenu(null)}>
-          <div className="max-w-[1600px] mx-auto grid grid-cols-3 items-center gap-4">
+          <div className="max-w-[1600px] mx-auto flex md:grid md:grid-cols-3 items-center gap-4">
             {/* Left: Mobile Menu + Logo */}
-            <div className="flex items-center gap-3">
+            <div className="flex items-center gap-3 flex-1 md:flex-initial">
               {/* Mobile Hamburger Menu */}
               <motion.button
                 onClick={() => setIsMobileMenuOpen(true)}
@@ -267,10 +267,11 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               </motion.div>
             </div>
 
-            {/* Center: Search */}
-            <div className="flex justify-center">
+            {/* Center: Search - Desktop only */}
+            <div className="hidden md:flex justify-center">
+              {/* Desktop: Full search bar */}
               <motion.div
-                className={`w-full max-w-2xl flex items-center px-3 md:px-4 py-2 md:py-2.5 border-2 ${
+                className={`hidden md:flex w-full max-w-2xl items-center px-3 md:px-4 py-2 md:py-2.5 border-2 ${
                   isSearchOpen ? 'border-black' : 'border-transparent'
                 }`}
                 style={{ backgroundColor: '#F5F5F5' }}
@@ -306,7 +307,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                     repeat: isSearchHovered ? Infinity : 0
                   }}
                 >
-                  <Search className="w-4 h-4 text-black mr-2.5 shrink-0" />
+                  <Search className="w-4 h-4 text-black mr-2.5 shrink-0 stroke-1" />
                 </motion.div>
                 <input
                   type="text"
@@ -322,6 +323,20 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
 
             {/* Right: Icons */}
             <div className="flex items-center justify-end gap-2 sm:gap-3 md:gap-5 text-black">
+              {/* Mobile: Search Icon */}
+              <motion.div
+                className="md:hidden cursor-pointer p-1"
+                whileHover={{ scale: 1.1 }}
+                whileTap={{ scale: 0.95 }}
+                onClick={() => {
+                  setIsSearchOpen(true)
+                  setActiveMenu(null)
+                }}
+              >
+                <Search className="w-5 h-5 text-black stroke-1" />
+              </motion.div>
+              
+              {/* Language Selector - Desktop only */}
               <motion.div
                 className="hidden md:block text-[0.8125rem] font-normal cursor-pointer hover:text-gray-600"
                 whileHover={{ y: -1 }}
@@ -329,6 +344,8 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               >
                 {localeSettings.language.toUpperCase()}
               </motion.div>
+              
+              {/* Stores - Desktop only */}
               <motion.div
                 className="hidden md:block text-[0.8125rem] font-normal cursor-pointer hover:text-gray-600"
                 whileHover={{ y: -1 }}
@@ -337,6 +354,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                 STORES
               </motion.div>
               
+              {/* User Profile/Login */}
               {isLoggedIn ? (
                 <div className="flex items-center gap-2 sm:gap-3">
                   <motion.div
@@ -364,7 +382,9 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                   <User className="w-5 h-5 cursor-pointer hover:text-gray-600 stroke-1" />
                 </motion.div>
               )}
-              <div className="relative">
+              
+              {/* Wishlist - Desktop only */}
+              <div className="relative hidden md:block">
                 <motion.div 
                   className="cursor-pointer hover:text-gray-600 p-1"
                   whileHover={{ scale: 1.15 }} 
@@ -391,10 +411,10 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                 />
               </div>
               
-              {/* Notification Bell */}
+              {/* Notification Bell - Desktop only */}
               <motion.div
                 ref={notificationTriggerRef}
-                className="relative cursor-pointer hover:text-gray-600 p-1"
+                className="hidden md:block relative cursor-pointer hover:text-gray-600 p-1"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
                 onClick={toggleNotification}
@@ -423,6 +443,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                 )}
               </motion.div>
 
+              {/* Shopping Cart - Always visible */}
               <motion.div
                 className="relative cursor-pointer hover:text-gray-600 p-1"
                 whileHover={{ scale: 1.1 }}

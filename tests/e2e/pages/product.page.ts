@@ -3,42 +3,31 @@
  */
 
 import { BasePage } from './base.page'
-import { TEST_IDS } from '../../config/test-ids'
+import { type Locator } from '@playwright/test'
 
 export class ProductPage extends BasePage {
-  /**
-   * 상품 상세 페이지로 이동
-   */
-  async goto(productId: string) {
-    await super.goto(`/products/${productId}`)
-    await this.waitForLoadingComplete()
+  readonly productName: Locator
+  readonly addToCartButton: Locator
+  readonly wishlistButton: Locator
+  readonly price: Locator
+
+  constructor(page: any) {
+    super(page)
+    this.productName = page.locator('h1, h2').first()
+    this.addToCartButton = page.locator('button:has-text("Add to Cart"), button:has-text("장바구니에 추가")')
+    this.wishlistButton = page.locator('button:has(svg)').filter({ hasText: /wishlist|heart/i }).first()
+    this.price = page.locator('text=/\\$\\d+|\₩\\d+/').first()
   }
 
-  /**
-   * 장바구니에 추가
-   */
   async addToCart() {
-    await this.clickByTestId(TEST_IDS.PRODUCT.ADD_TO_CART)
+    await this.addToCartButton.first().click()
   }
 
-  /**
-   * 위시리스트에 추가
-   */
-  async addToWishlist() {
-    await this.clickByTestId(TEST_IDS.PRODUCT.ADD_TO_WISHLIST)
+  async getProductName(): Promise<string> {
+    return await this.productName.textContent() || ''
   }
 
-  /**
-   * 상품명 가져오기
-   */
-  async getProductName() {
-    return await this.getByTestId(TEST_IDS.PRODUCT.NAME).textContent()
-  }
-
-  /**
-   * 가격 가져오기
-   */
-  async getPrice() {
-    return await this.getByTestId(TEST_IDS.PRODUCT.PRICE).textContent()
+  async getPrice(): Promise<string> {
+    return await this.price.textContent() || ''
   }
 }

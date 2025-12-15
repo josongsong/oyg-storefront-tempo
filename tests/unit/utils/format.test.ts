@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { formatPrice, formatDate } from '@/utils/format'
+import { formatPrice, formatDate } from '@/shared/utils/format'
 
 describe('formatPrice', () => {
   it('should format KRW by default', () => {

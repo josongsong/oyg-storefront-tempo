@@ -246,9 +246,9 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
               onClick={onClose}
             />
 
-            {/* Search Overlay - 검색바 바로 아래 위치 */}
+            {/* Search Overlay - Mobile: 최상단, Desktop: 검색바 아래 */}
             <motion.div
-              className="absolute top-[calc(100%-1rem)] left-1/2 transform -translate-x-1/2 w-full max-w-5xl bg-white shadow-2xl z-50"
+              className="fixed md:absolute top-0 md:top-[calc(100%-1rem)] left-0 md:left-1/2 md:transform md:-translate-x-1/2 w-full md:max-w-5xl bg-white shadow-2xl z-50 h-screen md:h-auto"
               initial={{ opacity: 0, y: -10 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -10 }}
@@ -258,7 +258,7 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
               {/* Search Input Area */}
               <div className="bg-white px-6 py-4 relative">
                 <div className="flex items-center gap-3 border-b border-black pb-4">
-                  <Search className="w-5 h-5 text-black shrink-0" />
+                  <Search className="w-5 h-5 text-black shrink-0 stroke-1" />
                   <input
                     type="text"
                     value={searchQuery}
@@ -288,7 +288,7 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
                             onClick={() => handleSuggestionClick(suggestion)}
                             className="w-full text-left px-6 py-3 hover:bg-gray-100 text-sm text-gray-900 transition-colors flex items-center gap-2"
                           >
-                            <Search className="w-3.5 h-3.5 text-gray-400 shrink-0" />
+                            <Search className="w-3.5 h-3.5 text-gray-400 shrink-0 stroke-1" />
                             <span>{suggestion}</span>
                           </button>
                         </li>
@@ -299,7 +299,7 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
               </div>
 
               {/* Search Results */}
-              <div className="px-6 py-8 pb-12 max-h-[500px] overflow-y-auto">
+              <div className="px-6 py-8 pb-12 max-h-[calc(100vh-100px)] md:max-h-[500px] overflow-y-auto">
                 <div className="flex flex-col md:flex-row gap-12">
                   <div className="w-full md:w-64 shrink-0 border-r border-gray-100 pr-8">
                     <h3 className="font-bold text-lg mb-4 text-black">Trending right now</h3>

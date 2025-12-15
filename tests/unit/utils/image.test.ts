@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
-import { getRandomCosmeticImage, getCosmeticImage } from '@/utils/image'
+import { getRandomCosmeticImage, getCosmeticImage } from '@/shared/utils/image'
 
 describe('getRandomCosmeticImage', () => {
   it('should return a cosmetic image path', () => {

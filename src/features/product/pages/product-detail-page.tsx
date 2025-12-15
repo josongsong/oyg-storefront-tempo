@@ -153,21 +153,44 @@ export function Component() {
 
   const handleAddToBasket = () => {
     if (!product) return
+    
+    // Safely parse price
+    const salePrice = typeof product.sale_price === 'string' 
+      ? parseFloat(product.sale_price) 
+      : product.sale_price
+    const listPrice = product.list_price 
+      ? (typeof product.list_price === 'string' ? parseFloat(product.list_price) : product.list_price)
+      : undefined
 
-    addItem({
-      productId: product.product_id as any,
-      name: product.product_name,
-      brand: product.brand,
-      image: product.images[0] || product.detailed_images[0],
-      price: parseFloat(product.sale_price) as any,
-      originalPrice: product.list_price ? (parseFloat(product.list_price) as any) : undefined,
-    }, quantity)
-
-    // Success feedback is handled by cart store toast
+    try {
+      addItem({
+        productId: product.product_id as any,
+        name: product.product_name,
+        brand: product.brand,
+        image: product.images[0] || product.detailed_images[0] || '',
+        price: salePrice as any,
+        originalPrice: listPrice as any,
+      }, quantity)
+      
+      // Toast is already handled by cart store
+    } catch (error) {
+      console.error('Error adding to cart:', error)
+      addToast('Error adding to cart', 'error', 3000)
+    }
   }
 
   return (
     <div className="w-full">
+      <style>{`
+        .scrollbar-hide::-webkit-scrollbar {
+          display: none;
+        }
+        .scrollbar-hide {
+          -ms-overflow-style: none;
+          scrollbar-width: none;
+        }
+      `}</style>
+      
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-8">
       {/* Breadcrumb */}
       <Breadcrumb
@@ -570,7 +593,7 @@ export function Component() {
         <div className="mb-12 md:mb-20">
           <div className="flex items-center justify-between mb-4 md:mb-5">
             <h2 className="text-xl md:text-2xl font-normal">We think you'll like</h2>
-            <div className="flex gap-2">
+            <div className="hidden md:flex gap-2">
               <button className="p-2 border border-gray-300 hover:border-black transition-colors">
                 <ChevronLeft className="w-5 h-5" />
               </button>
@@ -579,7 +602,31 @@ export function Component() {
               </button>
             </div>
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3 md:gap-4">
+          
+          {/* Mobile: Horizontal scroll */}
+          <div className="md:hidden overflow-x-auto -mx-4 px-4 scrollbar-hide">
+            <div className="flex gap-3 pb-2">
+              {recommendedProducts.slice(0, 6).map((product) => (
+                <div key={product.id} className="w-56 shrink-0">
+                  <ProductCard
+                    product={{
+                      id: product.id,
+                      name: product.name,
+                      brand: product.brand,
+                      price: product.price,
+                      rating: product.rating,
+                      reviews: product.reviewCount,
+                      image: product.image,
+                      badge: product.badge,
+                    }}
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+          
+          {/* Desktop: Grid */}
+          <div className="hidden md:grid grid-cols-3 lg:grid-cols-6 gap-4">
             {recommendedProducts.slice(0, 6).map((product) => (
               <ProductCard
                 key={product.id}
@@ -604,7 +651,7 @@ export function Component() {
         <div className="mb-12 md:mb-20">
           <div className="flex items-center justify-between mb-4 md:mb-5">
             <h2 className="text-xl md:text-2xl font-normal">Similar items for you</h2>
-            <div className="flex gap-2">
+            <div className="hidden md:flex gap-2">
               <button className="p-2 border border-gray-300 hover:border-black transition-colors">
                 <ChevronLeft className="w-5 h-5" />
               </button>
@@ -613,7 +660,31 @@ export function Component() {
               </button>
             </div>
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3 md:gap-4">
+          
+          {/* Mobile: Horizontal scroll */}
+          <div className="md:hidden overflow-x-auto -mx-4 px-4 scrollbar-hide">
+            <div className="flex gap-3 pb-2">
+              {recommendedProducts.slice(6, 12).map((product) => (
+                <div key={product.id} className="w-56 shrink-0">
+                  <ProductCard
+                    product={{
+                      id: product.id,
+                      name: product.name,
+                      brand: product.brand,
+                      price: product.price,
+                      rating: product.rating,
+                      reviews: product.reviewCount,
+                      image: product.image,
+                      badge: product.badge,
+                    }}
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+          
+          {/* Desktop: Grid */}
+          <div className="hidden md:grid grid-cols-3 lg:grid-cols-6 gap-4">
             {recommendedProducts.slice(6, 12).map((product) => (
               <ProductCard
                 key={product.id}

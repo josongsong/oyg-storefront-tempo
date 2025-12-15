@@ -31,6 +31,25 @@ export function AIAgent() {
     }
   }, [isOpen])
 
+  // 모바일에서 배경 스크롤 막기
+  useEffect(() => {
+    if (isOpen && window.innerWidth < 768) {
+      const scrollY = window.scrollY
+      document.body.style.position = 'fixed'
+      document.body.style.top = `-${scrollY}px`
+      document.body.style.width = '100%'
+      document.body.style.overflowY = 'scroll'
+      
+      return () => {
+        document.body.style.position = ''
+        document.body.style.top = ''
+        document.body.style.width = ''
+        document.body.style.overflowY = ''
+        window.scrollTo(0, scrollY)
+      }
+    }
+  }, [isOpen])
+
   const handleSendMessage = () => {
     if (!inputValue.trim()) return
 
@@ -73,7 +92,7 @@ export function AIAgent() {
     return (
       <button
         onClick={openAgent}
-        className="fixed bottom-0 right-0 bg-black hover:bg-gray-900 text-white transition-all px-3.5 py-3.5 flex items-center gap-2 group rounded-tl-lg z-40"
+        className="fixed bottom-0 right-0 bg-black hover:bg-gray-900 text-white transition-all px-3 py-3 md:px-3.5 md:py-3.5 flex items-center gap-2 group rounded-tl-lg z-[60]"
         aria-label="Open AI Assistant"
       >
         <Wand2 className="w-4 h-4 animate-sparkle" />
@@ -83,36 +102,34 @@ export function AIAgent() {
   }
 
   return (
-    <div className="fixed bottom-0 right-0 w-[340px] md:w-[400px] h-[500px] bg-white shadow-2xl flex flex-col z-40 animate-slideInUp border border-gray-200 overflow-hidden font-inherit">
+    <div className="fixed inset-0 md:inset-auto md:bottom-0 md:right-0 w-full md:w-[400px] h-full md:h-[500px] bg-white shadow-2xl flex flex-col z-[100] animate-slideInUp md:border border-gray-200 overflow-hidden font-inherit">
       {/* Header */}
-      <div className="relative px-5 py-4 border-b border-gray-100 bg-white">
+      <div className="relative px-4 md:px-5 py-4 border-b border-gray-100 bg-white">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <button className="flex items-center gap-1.5 hover:bg-gray-50 px-2 py-1 rounded transition-colors">
-              <span className="text-sm font-medium text-black">New AI chat</span>
-              <ChevronDown className="w-4 h-4 text-gray-400" />
-            </button>
+            <Wand2 className="w-4 h-4 text-black" />
+            <span className="text-sm font-medium text-black">AI Assistant</span>
           </div>
           <button
             onClick={closeAgent}
-            className="w-7 h-7 hover:bg-gray-100 rounded-full flex items-center justify-center transition-colors text-gray-500"
+            className="w-9 h-9 md:w-8 md:h-8 hover:bg-gray-100 rounded-full flex items-center justify-center transition-colors text-gray-700 hover:text-black"
             aria-label="Close"
           >
-            <X className="w-4 h-4" />
+            <X className="w-6 h-6 md:w-5 md:h-5 stroke-2" />
           </button>
         </div>
       </div>
 
       {/* Welcome Screen */}
       {messages.length === 1 && (
-        <div className="flex-1 px-6 py-8 bg-white">
+        <div className="flex-1 px-4 md:px-6 py-8 md:py-8 bg-white overflow-y-auto">
           <div className="flex items-center justify-center mb-6">
             <div className="w-16 h-16 bg-gray-50 rounded-full flex items-center justify-center">
               <span className="text-3xl">✨</span>
             </div>
           </div>
           
-          <h2 className="text-xl font-bold text-black mb-8 text-center">What can I help you with?</h2>
+          <h2 className="text-lg md:text-xl font-bold text-black mb-6 md:mb-8 text-center">What can I help you with?</h2>
           
           <div className="space-y-2">
             {quickActions.map((action) => (
@@ -131,7 +148,7 @@ export function AIAgent() {
 
       {/* Messages */}
       {messages.length > 1 && (
-        <div className="flex-1 overflow-y-auto px-5 pt-4 pb-8 space-y-4 bg-gray-50 custom-scrollbar">
+        <div className="flex-1 overflow-y-auto px-4 md:px-5 pt-4 pb-8 space-y-4 bg-gray-50 custom-scrollbar">
           {messages.slice(1).map((message) => (
             <div key={message.id} className={`flex ${message.role === 'user' ? 'justify-end' : 'justify-start'}`}>
               <div className={`max-w-[85%] ${message.role === 'user' ? 'order-2' : 'order-1'}`}>
@@ -255,8 +272,8 @@ export function AIAgent() {
       )}
 
       {/* Input */}
-      <div className="border-t border-gray-100 p-4 bg-white">
-        <div className="flex gap-2 items-center bg-gray-50 px-3.5 py-2.5 hover:bg-gray-100 transition-colors">
+      <div className="border-t border-gray-100 p-4 md:p-4 bg-white">
+        <div className="flex gap-2 items-center bg-gray-50 px-3.5 py-3 md:py-2.5 hover:bg-gray-100 transition-colors">
           <input
             ref={inputRef}
             type="text"

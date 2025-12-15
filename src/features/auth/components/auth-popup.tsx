@@ -117,7 +117,7 @@ export function AuthPopup() {
             {/* Modal */}
             <motion.div
               layout
-              className="relative bg-white w-full max-w-[650px] overflow-hidden shadow-2xl"
+              className="relative bg-white w-full max-w-[650px] max-h-[90vh] md:max-h-none overflow-y-auto md:overflow-hidden shadow-2xl"
               initial={{ scale: 0.9, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               exit={{ opacity: 0 }}
@@ -148,7 +148,7 @@ export function AuthPopup() {
                     transition={{ duration: 0.3 }}
                   >
                     {/* Hero Image */}
-                    <div className="w-full h-[280px] overflow-hidden">
+                    <div className="w-full h-[180px] md:h-[280px] overflow-hidden">
                       <img
                         src="/cosmetics/s2895985-main-zoom.webp"
                         alt="Welcome"
@@ -157,12 +157,12 @@ export function AuthPopup() {
                     </div>
 
                     {/* Form Content */}
-                    <div className="px-10 py-12">
-                      <h2 className="text-3xl font-bold mb-4 text-center">
+                    <div className="px-6 py-8 md:px-10 md:py-12">
+                      <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4 text-center">
                         Welcome! We're so thrilled to have you here.
                       </h2>
                       
-                      <p className="text-base mb-8 text-center leading-relaxed">
+                      <p className="text-sm md:text-base mb-6 md:mb-8 text-center leading-relaxed">
                         Pop your email address below. We'll check if there's an existing account, or, we can start a new one for you.
                       </p>
 
@@ -212,12 +212,12 @@ export function AuthPopup() {
                     exit={{ opacity: 0, x: -20 }}
                     transition={{ duration: 0.3 }}
                   >
-                    <div className="px-10 py-12">
-                      <h2 className="text-3xl font-bold mb-4 text-center">
+                    <div className="px-6 py-8 md:px-10 md:py-12">
+                      <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4 text-center">
                         Welcome back, {name}!
                       </h2>
                       
-                      <p className="text-base mb-8 text-center leading-relaxed text-gray-600">
+                      <p className="text-sm md:text-base mb-6 md:mb-8 text-center leading-relaxed text-gray-600">
                         {email}
                       </p>
 
@@ -264,12 +264,12 @@ export function AuthPopup() {
                     exit={{ opacity: 0, x: -20 }}
                     transition={{ duration: 0.3 }}
                   >
-                    <div className="px-10 py-12">
-                      <h2 className="text-3xl font-bold mb-4 text-center">
+                    <div className="px-6 py-8 md:px-10 md:py-12">
+                      <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4 text-center">
                         Just a few more details
                       </h2>
                       
-                      <p className="text-base mb-8 text-center leading-relaxed text-gray-600">
+                      <p className="text-sm md:text-base mb-6 md:mb-8 text-center leading-relaxed text-gray-600">
                         {email}
                       </p>
 
@@ -355,7 +355,7 @@ export function AuthPopup() {
                     exit={{ opacity: 0, scale: 0.9 }}
                     transition={{ duration: 0.4 }}
                   >
-                    <div className="px-10 py-20 text-center">
+                    <div className="px-6 py-16 md:px-10 md:py-20 text-center">
                       <motion.div
                         initial={{ scale: 0 }}
                         animate={{ scale: 1 }}
@@ -365,10 +365,10 @@ export function AuthPopup() {
                           damping: 20,
                           delay: 0.1
                         }}
-                        className="w-20 h-20 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-6"
+                        className="w-16 h-16 md:w-20 md:h-20 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-4 md:mb-6"
                       >
                         <svg
-                          className="w-10 h-10 text-white"
+                          className="w-8 h-8 md:w-10 md:h-10 text-white"
                           fill="none"
                           stroke="currentColor"
                           viewBox="0 0 24 24"
@@ -382,15 +382,15 @@ export function AuthPopup() {
                         </svg>
                       </motion.div>
 
-                      <h2 className="text-3xl font-bold mb-4">
+                      <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4">
                         Welcome aboard, {name}!
                       </h2>
                       
-                      <p className="text-base text-gray-600 mb-2">
+                      <p className="text-sm md:text-base text-gray-600 mb-2">
                         Your account has been created successfully.
                       </p>
                       
-                      <p className="text-sm text-gray-500">
+                      <p className="text-xs md:text-sm text-gray-500">
                         You'll be redirected shortly...
                       </p>
                     </div>

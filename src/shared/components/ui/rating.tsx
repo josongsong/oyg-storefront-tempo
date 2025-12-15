@@ -1,4 +1,5 @@
 import { Star } from 'lucide-react'
+import { cn } from '@/shared/utils/cn'
 
 interface RatingProps {
   rating: number
@@ -8,60 +9,54 @@ interface RatingProps {
   className?: string
 }
 
-const sizeStyles = {
-  sm: 'w-3 h-3 md:w-4 md:h-4',
-  md: 'w-5 h-5 md:w-6 md:h-6',
-  lg: 'w-6 h-6 md:w-7 md:h-7',
+const sizeClasses = {
+  sm: 'w-3 h-3',
+  md: 'w-5 h-5',
+  lg: 'w-6 h-6',
 }
 
-export function Rating({
-  rating,
-  maxRating = 5,
-  size = 'md',
+export function Rating({ 
+  rating, 
+  maxRating = 5, 
+  size = 'md', 
   showValue = false,
-  className = '',
+  className 
 }: RatingProps) {
-  const clampedRating = Math.min(Math.max(rating, 0), maxRating)
-  const fullStars = Math.floor(clampedRating)
-  const hasHalfStar = clampedRating % 1 >= 0.5
-  const emptyStars = maxRating - fullStars - (hasHalfStar ? 1 : 0)
+  const normalizedRating = Math.max(0, Math.min(rating, maxRating))
+  const fullStars = Math.floor(normalizedRating)
+  const hasHalfStar = normalizedRating % 1 >= 0.5
 
   return (
-    <div className={`flex items-center gap-2 ${className}`}>
-      <div className="flex items-center gap-0.5" role="img" aria-label={`Rating: ${rating} out of ${maxRating} stars`}>
-        {/* Full stars */}
-        {[...Array(fullStars)].map((_, i) => (
-          <Star
-            key={`full-${i}`}
-            className={`${sizeStyles[size]} fill-current stroke-current text-black`}
-          />
-        ))}
+    <div 
+      className={cn('flex items-center gap-1', className)} 
+      role="img" 
+      aria-label={`Rating: ${normalizedRating} out of ${maxRating} stars`}
+      data-testid="rating-component"
+    >
+      {[...Array(maxRating)].map((_, i) => {
+        const isFilled = i < fullStars
+        const isHalf = i === fullStars && hasHalfStar
+        const isEmpty = !isFilled && !isHalf
         
-        {/* Half star */}
-        {hasHalfStar && (
-          <div className="relative">
-            <Star className={`${sizeStyles[size]} stroke-current text-black`} />
-            <div className="absolute inset-0 overflow-hidden" style={{ width: '50%' }}>
-              <Star className={`${sizeStyles[size]} fill-current stroke-current text-black`} />
-            </div>
-          </div>
-        )}
-        
-        {/* Empty stars */}
-        {[...Array(emptyStars)].map((_, i) => (
+        return (
           <Star
-            key={`empty-${i}`}
-            className={`${sizeStyles[size]} fill-none stroke-current stroke-[1.5] text-black`}
+            key={i}
+            className={cn(
+              sizeClasses[size],
+              isFilled && 'fill-black text-black fill-current stroke-current',
+              isHalf && 'fill-black/50 text-black',
+              isEmpty && 'fill-none text-gray-300'
+            )}
+            data-filled={isFilled}
+            data-half={isHalf}
           />
-        ))}
-      </div>
-      
+        )
+      })}
       {showValue && (
-        <span className="text-sm font-medium text-gray-700">
-          {rating.toFixed(1)}
+        <span className="text-sm text-gray-600 ml-1" data-testid="rating-value">
+          {normalizedRating.toFixed(1)}
         </span>
       )}
     </div>
   )
 }
-

@@ -55,13 +55,23 @@ export function ProductComparison({ currentProduct, similarProducts }: ProductCo
     <div className="w-full border-t border-gray-200 pt-8">
       <h2 className="text-xl md:text-2xl font-normal mb-6">Similar Products</h2>
       
-      <div className="overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0">
-        <table className="w-full border-collapse">
+      <style>{`
+        .scrollbar-hide::-webkit-scrollbar {
+          display: none;
+        }
+        .scrollbar-hide {
+          -ms-overflow-style: none;
+          scrollbar-width: none;
+        }
+      `}</style>
+      
+      <div className="overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0 scrollbar-hide">
+        <table className="border-collapse min-w-full md:w-full">
           <thead>
             <tr>
               <th className="w-32 md:w-40"></th>
               {productsToCompare.map((product) => (
-                <th key={product.id} className="w-56 md:w-64 px-2 md:px-3 align-top pb-6">
+                <th key={product.id} className="min-w-[320px] md:w-64 px-3 md:px-3 align-top pb-6">
                   <div className={`${product.isCurrent ? 'border-2 border-black rounded-lg p-4 bg-gray-50/30 shadow-sm' : 'p-2'}`}>
                     <div 
                       className="bg-gray-50 aspect-square flex items-center justify-center mb-3 rounded-lg overflow-hidden cursor-pointer hover:opacity-80 transition-opacity"
@@ -95,7 +105,7 @@ export function ProductComparison({ currentProduct, similarProducts }: ProductCo
             <tr className="border-t border-gray-200">
               <td className="py-4 px-2 md:px-0 text-sm font-medium align-top">Price</td>
               {productsToCompare.map((product) => (
-                <td key={product.id} className="py-4 px-2 md:px-3 align-top">
+                <td key={product.id} className="py-4 px-3 md:px-3 align-top">
                   <div className="text-lg font-bold">{product.price}</div>
                 </td>
               ))}
@@ -105,7 +115,7 @@ export function ProductComparison({ currentProduct, similarProducts }: ProductCo
             <tr className="border-t border-gray-200">
               <td className="py-4 px-2 md:px-0 text-sm font-medium align-top">Rating</td>
               {productsToCompare.map((product) => (
-                <td key={product.id} className="py-4 px-2 md:px-3 align-top">
+                <td key={product.id} className="py-4 px-3 md:px-3 align-top">
                   <div className="flex mb-2">
                     {[...Array(5)].map((_, i) => (
                       <Star
@@ -134,7 +144,7 @@ export function ProductComparison({ currentProduct, similarProducts }: ProductCo
             <tr className="border-t border-gray-200">
               <td className="py-4 px-2 md:px-0 text-sm font-medium align-top">Ingredient<br />Highlights</td>
               {productsToCompare.map((product) => (
-                <td key={product.id} className="py-4 px-2 md:px-3 align-top">
+                <td key={product.id} className="py-4 px-3 md:px-3 align-top">
                   {product.specialFeatures.length > 0 ? (
                     <div className="text-xs text-gray-700">
                       {product.specialFeatures.slice(0, 3).join(', ')}

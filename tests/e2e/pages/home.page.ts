@@ -3,37 +3,30 @@
  */
 
 import { BasePage } from './base.page'
-import { TEST_IDS } from '../../config/test-ids'
+import { type Locator } from '@playwright/test'
 
 export class HomePage extends BasePage {
-  /**
-   * 홈페이지로 이동
-   */
+  readonly productCards: Locator
+  readonly searchButton: Locator
+
+  constructor(page: any) {
+    super(page)
+    this.productCards = page.locator('.group.relative.flex.flex-col.cursor-pointer')
+    this.searchButton = page.locator('button[aria-label*="search"], button:has-text("Search")')
+  }
+
   async goto() {
     await super.goto('/')
-    await this.waitForLoadingComplete()
+    await this.page.waitForTimeout(1000)
   }
 
-  /**
-   * 상품 검색
-   */
-  async searchProduct(query: string) {
-    await this.fillByTestId(TEST_IDS.SEARCH.INPUT, query)
-    await this.page.keyboard.press('Enter')
+  async clickFirstProduct() {
+    await this.productCards.first().waitFor({ state: 'visible', timeout: 10000 })
+    await this.productCards.first().click()
   }
 
-  /**
-   * 특정 상품 카드 클릭
-   */
-  async clickProductCard(index: number = 0) {
-    const cards = this.page.locator(`[data-testid="${TEST_IDS.PRODUCT.CARD}"]`)
-    await cards.nth(index).click()
-  }
-
-  /**
-   * 상품이 표시되는지 확인
-   */
-  async isProductVisible(productName: string) {
-    return await this.page.isVisible(`text=${productName}`)
+  async getProductCount(): Promise<number> {
+    await this.productCards.first().waitFor({ state: 'visible', timeout: 10000 })
+    return await this.productCards.count()
   }
 }
