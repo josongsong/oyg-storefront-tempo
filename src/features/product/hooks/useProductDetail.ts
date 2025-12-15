@@ -10,6 +10,7 @@ import { useCartStore } from '@/features/cart/stores'
 import { useWishlistStore } from '@/features/product/stores'
 import { useToastStore } from '@/app/stores'
 import { RECOMMENDATION_CONFIG } from '@/features/cart/constants'
+import { toProductId, toPrice } from '@/features/cart/utils/cart-helpers'
 import { getRandomProducts } from '@/shared/utils/product-transformer'
 import { logger } from '@/shared/utils/logger'
 
@@ -66,12 +67,12 @@ export function useProductDetail(slug: string | undefined) {
 
     try {
       addItem({
-        productId: product.product_id as any,
+        productId: toProductId(product.product_id),
         name: product.product_name,
         brand: product.brand,
         image: product.images[0] || product.detailed_images[0] || '',
-        price: salePrice as any,
-        originalPrice: listPrice as any,
+        price: toPrice(salePrice),
+        originalPrice: listPrice ? toPrice(listPrice) : undefined,
       }, quantity)
       
       // Basket animation

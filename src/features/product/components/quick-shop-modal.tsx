@@ -4,7 +4,10 @@ import { motion, AnimatePresence } from 'framer-motion'
 
 import { useQuickShopStore } from '@/features/product/stores'
 import { useCartStore } from '@/features/cart/stores'
+import { toProductId, toPrice } from '@/features/cart/utils/cart-helpers'
 import { getRandomCosmeticImage } from '@/shared/utils/image'
+
+import type { QuickShopProduct } from '@/features/product/types'
 
 interface CartIcon {
   id: number
@@ -94,11 +97,11 @@ export function QuickShopModal() {
     const price = parseFloat(priceStr) || 0
 
     addItem({
-      productId: String(product.id) as any,
+      productId: toProductId(String(product.id)),
       name: product.name,
       brand: product.brand || 'Unknown Brand',
       image: product.images?.[0] || getRandomCosmeticImage(),
-      price: price as any,
+      price: toPrice(price),
       options: {
         shade: shadeName,
         size: sizeName,

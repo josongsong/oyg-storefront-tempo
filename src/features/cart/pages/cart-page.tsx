@@ -13,6 +13,7 @@ import {
   SHIPPING_CONFIG, 
   TAX_CONFIG 
 } from '@/features/cart/constants'
+import { toCartItemId } from '@/features/cart/utils/cart-helpers'
 import { logger } from '@/shared/utils/logger'
 
 import type { GlossierProduct } from '@/shared/types/glossier'
@@ -38,11 +39,11 @@ export function Component() {
   }, [])
 
   const handleUpdateQuantity = (id: string, quantity: number) => {
-    updateQuantity(id as any, quantity)
+    updateQuantity(toCartItemId(id), quantity)
   }
 
   const handleRemove = (id: string) => {
-    removeItem(id as any)
+    removeItem(toCartItemId(id))
   }
 
   const handleMoveToWishlist = (id: string) => {
@@ -58,13 +59,13 @@ export function Component() {
         reviews: DEFAULT_PRODUCT_META.REVIEWS,
       })
     }
-    removeItem(id as any)
+    removeItem(toCartItemId(id))
   }
 
   const handleChangeShade = (id: string, _shade: string) => {
     const currentItem = items.find((i: any) => i.id === id)
     if (currentItem?.quantity) {
-      updateQuantity(id as any, currentItem.quantity)
+      updateQuantity(toCartItemId(id), currentItem.quantity)
     }
   }
 
@@ -130,15 +131,15 @@ export function Component() {
                   quantity: item.quantity || 1,
                   price: item.price || 0,
                   originalPrice: item.originalPrice,
-                  sku: (item as any).sku,
-                  shade: (item as any).shade,
-                  shadeOptions: (item as any).shadeOptions,
+                  sku: item.sku,
+                  shade: item.shade,
+                  shadeOptions: item.shadeOptions,
                   product: {
                     name: item.name || '',
                     brand: item.brand || '',
                     image: item.image || '',
                   },
-                  isNew: (item as any).isNew,
+                  isNew: item.isNew,
                 }}
                 onUpdateQuantity={handleUpdateQuantity}
                 onRemove={handleRemove}

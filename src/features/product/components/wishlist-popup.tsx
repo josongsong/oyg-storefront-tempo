@@ -6,6 +6,7 @@ import { useWishlistStore } from '@/features/product/stores'
 import { useCartStore } from '@/features/cart/stores'
 import { useToastStore } from '@/app/stores/toast.store'
 import { Modal } from '@/shared/components/Modal'
+import { toProductId, parsePriceString, toPrice } from '@/features/cart/utils/cart-helpers'
 
 export function WishlistPopup() {
   const { isOpen, closeWishlist, items, removeItem } = useWishlistStore()
@@ -15,11 +16,11 @@ export function WishlistPopup() {
 
   const handleAddToCart = (item: typeof items[0]) => {
     const priceValue = typeof item.price === 'string' 
-      ? parseFloat(item.price.replace(/[^0-9.]/g, '')) 
-      : item.price
+      ? parsePriceString(item.price)
+      : toPrice(item.price)
     
     addToCart({
-      productId: item.id,
+      productId: toProductId(item.id),
       name: item.name,
       brand: item.brand,
       price: priceValue,
