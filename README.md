@@ -200,24 +200,65 @@ widgets/my-widget/
 
 ### 테스트 구조
 ```
-tests/               # E2E 테스트 (Playwright)
-├── cart.spec.ts
-├── product.spec.ts
-└── ...
+tests/                        # Unit & Integration Tests (Vitest)
+├── unit/                     # 단위 테스트
+│   ├── entities/             # 엔티티 로직 테스트
+│   │   └── product/
+│   │       └── model/        # Branded Types, Zod 스키마
+│   ├── features/             # Feature 단위 테스트
+│   │   ├── auth/             # 인증 (API, stores)
+│   │   ├── cart/             # 장바구니 (API, hooks, model, stores)
+│   │   └── product/          # 상품 (API, components, hooks, stores, utils)
+│   ├── shared/               # 공용 코드 테스트
+│   │   ├── components/       # Modal, Carousel
+│   │   └── hooks/            # useModal, useCarousel
+│   ├── stores/               # 글로벌 스토어 (toast)
+│   └── utils/                # 유틸리티 (cn, format, image)
+│
+├── integration/              # 통합 테스트
+│   └── features/
+│       ├── cart/             # 장바구니 플로우
+│       └── product/          # 상품 플로우
+│
+└── config/                   # 테스트 설정
+    └── test-ids.ts           # Test ID 상수
 
-src/test/            # 테스트 헬퍼
-├── factories/       # 테스트 데이터 팩토리
-├── fixtures/        # 픽스처
-├── mocks/           # MSW 핸들러
-└── helpers/         # 테스트 유틸리티
+e2e/                          # E2E Tests (Playwright)
+├── specs/                    # 테스트 시나리오
+│   ├── auth.spec.ts          # 인증 플로우
+│   ├── checkout.spec.ts      # 체크아웃
+│   ├── search.spec.ts        # 검색
+│   └── wishlist.spec.ts      # 위시리스트
+├── pages/                    # Page Object Model
+│   ├── base.page.ts
+│   ├── cart.page.ts
+│   ├── home.page.ts
+│   └── product.page.ts
+└── fixtures/                 # E2E 픽스처
 
-e2e/                 # E2E 설정
+src/test/                     # 테스트 헬퍼
+├── factories/                # 테스트 데이터 팩토리
+│   ├── cart.factory.ts
+│   ├── product.factory.ts
+│   └── user.factory.ts
+├── fixtures/                 # 고정 테스트 데이터
+│   ├── products.fixture.ts
+│   └── users.fixture.ts
+├── mocks/                    # MSW Mock Handlers
+│   ├── handlers/
+│   ├── browser.ts
+│   └── server.ts
+├── helpers/                  # 테스트 유틸리티
+│   ├── assertions.ts
+│   └── wait.ts
+└── setup.ts                  # Vitest 전역 설정
 ```
 
 ### 테스트 전략
-- **Unit Tests** - Vitest로 개별 함수/컴포넌트 테스트
-- **Integration Tests** - Feature 간 통합 테스트
-- **E2E Tests** - Playwright로 사용자 시나리오 테스트
+- **Unit Tests** - 개별 함수/컴포넌트/훅/스토어 검증
+- **Integration Tests** - Feature 간 상호작용 및 플로우 테스트
+- **E2E Tests** - 실제 사용자 시나리오 검증 (Playwright)
+- **MSW** - API 모킹으로 독립적인 프론트엔드 테스트
 
 ## 문서
 
