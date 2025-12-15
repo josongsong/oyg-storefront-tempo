@@ -1,5 +1,4 @@
-import { ThumbsUp, ThumbsDown, Flag } from 'lucide-react'
-import { Rating } from '@/shared/components/ui/rating'
+import { ThumbsUp, ThumbsDown, Flag, Star } from 'lucide-react'
 
 export interface Review {
   review_id: string | number
@@ -33,7 +32,18 @@ export function ReviewCard({
           <div className="flex items-center gap-2 mb-1">
             <span className="text-sm font-medium">{review.nickname}</span>
           </div>
-          <Rating rating={review.rating} size="sm" />
+          <div className="flex">
+            {[...Array(5)].map((_, i) => (
+              <Star
+                key={i}
+                className={`w-3 h-3 ${
+                  i < review.rating
+                    ? 'fill-black text-black'
+                    : 'fill-none text-gray-300'
+                }`}
+              />
+            ))}
+          </div>
         </div>
         <span className="text-xs text-gray-500">
           {new Date(review.created_date * 1000).toLocaleDateString()}

@@ -3,10 +3,10 @@
  * 리뷰 섹션 전체
  */
 
+import { Star } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
 
 import { ReviewCard } from '@/features/product/components'
-import { Rating } from '@/shared/components/ui/rating'
 
 import type { ProductData } from '@/features/product/types'
 
@@ -67,8 +67,19 @@ export function ProductReviews({
           
           <div className="flex items-end gap-3 mb-4">
             <span className="text-4xl md:text-5xl font-bold">{averageRating.toFixed(1)}</span>
-            <div className="flex flex-col pb-1">
-              <Rating rating={averageRating} />
+            <div className="flex flex-col">
+              <div className="flex">
+                {[...Array(5)].map((_, i) => (
+                  <Star
+                    key={i}
+                    className={`w-4 h-4 ${
+                      i < Math.floor(averageRating)
+                        ? 'fill-black text-black'
+                        : 'fill-none text-gray-300'
+                    }`}
+                  />
+                ))}
+              </div>
               <span className="text-xs text-gray-500 mt-1">{totalReviews} reviews</span>
             </div>
           </div>
