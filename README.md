@@ -13,26 +13,51 @@
 ### Tech Stack
 - **React 19** + **TypeScript 5.9**
 - **Vite 7** - 빠른 개발 환경
+- **React Router v7** - 라우팅
 - **TanStack Query v5** - 서버 상태 관리
 - **Zustand** - 클라이언트 상태 관리
 - **Framer Motion** - 애니메이션
 - **Tailwind CSS v4** - 스타일링
 - **Zod** - 런타임 검증
+- **Ky** - HTTP 클라이언트
+- **Vitest** + **Playwright** - 테스팅
 
 ## 프로젝트 구조
 
 ```
 src/
-├── app/           # 앱 초기화, 라우팅
-├── widgets/       # 페이지 레벨 조합 (Header, Footer)
-├── features/      # 비즈니스 기능
-│   ├── auth/      # 인증
-│   ├── cart/      # 장바구니
-│   ├── product/   # 상품
-│   └── ...
-├── entities/      # 비즈니스 엔티티 (Branded Types, Zod)
-├── shared/        # 재사용 가능한 공통 코드
-└── components/    # UI 컴포넌트
+├── app/              # 앱 진입점, 라우터, 글로벌 스토어
+│   ├── router/       # React Router 설정
+│   └── stores/       # 앱 전역 상태 (app, toast)
+│
+├── widgets/          # 페이지 레벨 조합 컴포넌트
+│   ├── header/       # 헤더 (검색, 네비게이션, 카트)
+│   └── footer/       # 푸터
+│
+├── features/         # 비즈니스 기능 모듈 (독립적)
+│   ├── auth/         # 인증 (로그인, 회원가입, 사용자)
+│   ├── cart/         # 장바구니
+│   ├── product/      # 상품 (목록, 상세, 필터, 리뷰)
+│   ├── home/         # 홈 섹션 (히어로, 트렌드, TikTok)
+│   ├── search/       # 검색 오버레이
+│   ├── notification/ # 알림 센터
+│   ├── locale/       # 다국어 전환
+│   ├── promotion/    # 프로모션 팝업
+│   ├── ai-assistant/ # AI 에이전트
+│   └── checkout/     # 체크아웃
+│
+├── entities/         # 비즈니스 엔티티 (도메인 모델)
+│   └── product/      # Product 엔티티 (Branded Types, Zod)
+│
+├── shared/           # 공용 재사용 코드
+│   ├── api/          # HTTP 클라이언트
+│   ├── components/   # UI 컴포넌트 (Modal, Carousel, Button)
+│   ├── hooks/        # 공용 훅 (useDebounce, useModal)
+│   ├── utils/        # 유틸리티 (cn, format, image)
+│   ├── constants/    # 상수 (메뉴, 프로모션)
+│   └── types/        # 공용 타입
+│
+└── test/             # 테스트 헬퍼 (factories, fixtures, mocks)
 ```
 
 자세한 내용은 [ARCHITECTURE.md](./ARCHITECTURE.md) 참조
@@ -52,52 +77,109 @@ pnpm install
 ### Development
 
 ```bash
-pnpm dev
+pnpm dev              # 개발 서버 (http://localhost:5173)
+pnpm build            # 프로덕션 빌드
+pnpm preview          # 빌드 미리보기
 ```
 
-### Build
+### Testing
 
 ```bash
-pnpm build
+# Unit & Integration Tests (Vitest)
+pnpm test             # 테스트 실행
+pnpm test:unit        # 유닛 테스트만
+pnpm test:integration # 통합 테스트만
+pnpm test:ui          # Vitest UI
+pnpm test:coverage    # 커버리지 리포트
+pnpm test:watch       # Watch 모드
+
+# E2E Tests (Playwright)
+pnpm test:e2e         # E2E 테스트
+pnpm test:e2e:ui      # Playwright UI
+pnpm test:e2e:report  # 리포트 보기
 ```
 
-### Preview
+### Linting
 
 ```bash
-pnpm preview
+pnpm lint             # ESLint 검사
 ```
 
-## 주요 기능
+## Features
 
-- ✅ 상품 목록/상세 조회
-- ✅ 장바구니 관리
-- ✅ 사용자 인증
-- ✅ 검색 기능
-- ✅ 위시리스트
-- ✅ 알림 센터
-- ✅ 다국어 지원
-- ✅ 프로모션 관리
+### Core
+- ✅ **Product** - 목록, 상세, 필터링, 비교, 리뷰
+- ✅ **Cart** - 장바구니, 저장된 아이템, 주문 요약
+- ✅ **Auth** - 로그인, 회원가입, 사용자 관리
+- ✅ **Search** - 실시간 검색, 오버레이
+- ✅ **Checkout** - 결제 프로세스
+
+### Experience
+- ✅ **Home** - 히어로, 트렌딩, 큐레이션, TikTok 갤러리
+- ✅ **AI Assistant** - AI 에이전트 채팅
+- ✅ **Notification** - 알림 센터
+- ✅ **Promotion** - 프로모션 팝업, 럭키드로우
+- ✅ **Locale** - 다국어 지원 (KR/EN)
+- ✅ **Wishlist** - 위시리스트 관리
 
 ## 개발 가이드
 
 ### Feature 추가
+```
+features/my-feature/
+├── api/              # API 레이어
+│   ├── service.ts    # HTTP 요청
+│   ├── queries.ts    # React Query (optional)
+│   └── mutations.ts  # Mutations (optional)
+├── components/       # UI 컴포넌트
+├── hooks/            # Custom hooks
+├── stores/           # Zustand stores
+├── types/            # TypeScript 타입
+├── utils/            # 유틸리티 (optional)
+├── pages/            # 페이지 컴포넌트 (optional)
+└── index.ts          # Public API
+```
+
+**예시:**
 ```typescript
-// features/my-feature/
-├── api/           # API 레이어
-├── components/    # UI 컴포넌트
-├── hooks/         # React hooks
-├── stores/        # Zustand stores
-├── types/         # TypeScript 타입
-└── index.ts       # Public API
+// features/product/index.ts
+export { ProductCard, ProductDetailView } from './components'
+export { useProducts, useProductDetail } from './hooks/use-products'
+export { useQuickShopStore } from './stores'
+export type { Product, ProductFilter } from './types'
 ```
 
 ### Entity 추가
-```typescript
-// entities/my-entity/
+```
+entities/my-entity/
 └── model/
     ├── types.ts      # Branded types
     ├── schemas.ts    # Zod schemas
-    └── index.ts
+    └── index.ts      # Public API
+```
+
+**예시:**
+```typescript
+// entities/product/model/types.ts
+export type ProductId = string & { readonly __brand: 'ProductId' }
+export const ProductId = {
+  create: (value: string): ProductId => value as ProductId,
+}
+
+// entities/product/model/schemas.ts
+export const ProductSchema = z.object({
+  id: z.string().transform(ProductId.create),
+  name: z.string(),
+  price: PriceSchema,
+})
+```
+
+### Widget 추가
+```
+widgets/my-widget/
+├── components/       # 하위 컴포넌트
+├── my-widget.tsx     # 메인 컴포넌트
+└── index.ts          # Public API
 ```
 
 ## 아키텍처 규칙
@@ -114,21 +196,63 @@ pnpm preview
 - Lazy Loading
 - Optimized Builds
 
+## 테스트
+
+### 테스트 구조
+```
+tests/               # E2E 테스트 (Playwright)
+├── cart.spec.ts
+├── product.spec.ts
+└── ...
+
+src/test/            # 테스트 헬퍼
+├── factories/       # 테스트 데이터 팩토리
+├── fixtures/        # 픽스처
+├── mocks/           # MSW 핸들러
+└── helpers/         # 테스트 유틸리티
+
+e2e/                 # E2E 설정
+```
+
+### 테스트 전략
+- **Unit Tests** - Vitest로 개별 함수/컴포넌트 테스트
+- **Integration Tests** - Feature 간 통합 테스트
+- **E2E Tests** - Playwright로 사용자 시나리오 테스트
+
 ## 문서
 
-- [Architecture Guide](./ARCHITECTURE.md) - 상세 아키텍처 가이드
-- [Refactoring Complete](./.temp/SOTA_REFACTORING_COMPLETE.md) - 리팩토링 완료 보고서
+- [Architecture Guide](./ARCHITECTURE.md) - FSD 아키텍처 상세 가이드
+- [Store Architecture](./STORE_ARCHITECTURE.md) - Zustand 스토어 설계
+- [Test README](./README.TEST.md) - 테스트 가이드
 - [Shared Layer](./src/shared/README.md) - Shared 레이어 규칙
 
 ## 프로젝트 상태
 
 ✅ **Production Ready**
 
-- TypeScript 컴파일: ✅ 0 Errors
-- Vite 빌드: ✅ Success
-- FSD 아키텍처: ✅ 완전 적용
-- 타입 안전성: ✅ Branded Types + Zod
-- 코드 분할: ✅ Route-based Lazy Loading
+### 아키텍처
+- ✅ FSD 완전 적용 (app → widgets → features → entities → shared)
+- ✅ Zero Circular Dependencies
+- ✅ Public API Pattern
+- ✅ Feature 독립성 확보
+
+### 타입 안전성
+- ✅ TypeScript 5.9 Strict Mode
+- ✅ Branded Types (entities)
+- ✅ Zod Runtime Validation
+- ✅ 0 Type Errors
+
+### 성능
+- ✅ Bundle Size: ~192 kB (gzipped)
+- ✅ Route-based Code Splitting
+- ✅ React 19 Lazy Loading
+- ✅ Optimized Builds
+
+### 테스트
+- ✅ Vitest 설정 완료
+- ✅ Playwright E2E 설정 완료
+- ✅ MSW 핸들러
+- ✅ Test Factories & Fixtures
 
 ## License
 
