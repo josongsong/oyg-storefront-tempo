@@ -1,6 +1,6 @@
 import { Star } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
-import type { ProductListItem } from '@/types/product-data'
+import type { ProductListItem } from '@/features/product/types'
 
 interface ProductComparisonProps {
   currentProduct: {

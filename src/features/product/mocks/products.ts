@@ -1,6 +1,6 @@
-import { getRandomCosmeticImage } from '@/utils/image'
+import { getRandomCosmeticImage } from '@/shared/utils/image'
 
-import type { GlossierProduct } from '@/types/glossier'
+import type { GlossierProduct } from '@/shared/types/glossier'
 
 export const MOCK_PRODUCTS: GlossierProduct[] = [
   {

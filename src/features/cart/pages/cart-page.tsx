@@ -2,12 +2,14 @@ import { ChevronRight, Heart } from 'lucide-react'
 
 import { CartItem, OrderSummary } from '@/features/cart/components'
 import { SIMILAR_ITEMS, WISHLIST_ITEMS } from '@/features/cart/mocks'
-import { useCartStore } from '@/stores'
+import { useCartStore } from '@/features/cart/stores'
+import { useWishlistStore } from '@/features/product/stores'
 import { useNavigate } from 'react-router-dom'
 
 export function Component() {
   const navigate = useNavigate()
-  const { items, updateQuantity, removeItem, updateShade, getSubtotal } = useCartStore()
+  const { items, updateQuantity, removeItem, updateShade, getSubtotal, loadMockData } = useCartStore()
+  const { addItem: addToWishlist } = useWishlistStore()
 
   const handleUpdateQuantity = (id: string, quantity: number) => {
     updateQuantity(id, quantity)
@@ -18,8 +20,18 @@ export function Component() {
   }
 
   const handleMoveToWishlist = (id: string) => {
-    // TODO: 위시리스트 기능 구현
-    console.log('Move to wishlist:', id)
+    const item = items.find((i) => i.id === id)
+    if (item) {
+      addToWishlist({
+        id: item.productId,
+        name: item.name,
+        brand: item.brand,
+        price: String(item.price),
+        image: item.image,
+        rating: 4.5,
+        reviews: 100,
+      })
+    }
     removeItem(id)
   }
 
@@ -32,8 +44,7 @@ export function Component() {
   }
 
   const handleCheckout = () => {
-    console.log('Proceed to checkout')
-    // TODO: 체크아웃 페이지로 이동
+    navigate('/checkout')
   }
 
   // 계산
@@ -50,12 +61,22 @@ export function Component() {
         <div className="text-center">
           <h1 className="text-3xl font-semibold mb-4">Your cart is empty</h1>
           <p className="text-gray-600 mb-8">Add some products to get started</p>
-          <button
-            onClick={() => navigate('/')}
-            className="bg-black text-white px-8 py-3 hover:bg-gray-800 transition-colors"
-          >
-            Continue Shopping
-          </button>
+          <div className="flex gap-4 justify-center">
+            <button
+              onClick={() => navigate('/')}
+              className="bg-black text-white px-8 py-3 hover:bg-gray-800 transition-colors"
+            >
+              Continue Shopping
+            </button>
+            {import.meta.env.DEV && (
+              <button
+                onClick={loadMockData}
+                className="bg-gray-200 text-black px-8 py-3 hover:bg-gray-300 transition-colors"
+              >
+                Load Sample Data
+              </button>
+            )}
+          </div>
         </div>
       </div>
     )

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Minus, Plus, Search } from 'lucide-react'
 
-import type { Filter } from '@/types/glossier'
+import type { Filter } from '@/shared/types/glossier'
 
 interface FilterFacetProps {
   filter: Filter

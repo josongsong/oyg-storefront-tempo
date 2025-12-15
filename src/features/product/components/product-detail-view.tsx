@@ -1,7 +1,7 @@
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react'
 import { BalmSelector, TubeVisual, AITrioPicker } from '@/features/product/components'
 import { THUMBNAILS } from '@/features/product/constants'
-import type { Flavor } from '@/types/glossier'
+import type { Flavor } from '@/shared/types/glossier'
 
 interface ProductDetailViewProps {
   selections: Flavor[]

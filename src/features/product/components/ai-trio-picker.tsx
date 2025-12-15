@@ -3,7 +3,7 @@ import { Loader2, Sparkles, X } from 'lucide-react'
 
 import { FLAVORS } from '@/features/product/constants/product-data'
 
-import type { Flavor } from '@/types/glossier'
+import type { Flavor } from '@/shared/types/glossier'
 
 interface AITrioPickerProps {
   onSelectTrio: (flavors: Flavor[]) => void

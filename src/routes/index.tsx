@@ -1,6 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom'
 
-import { RootLayout } from '@/components/layout/root-layout'
+import { RootLayout } from '@/shared/components/layout/root-layout'
 
 export const router = createBrowserRouter([
   {
@@ -18,6 +18,10 @@ export const router = createBrowserRouter([
       {
         path: 'products/:slug',
         lazy: () => import('@/features/product/pages/product-detail-page'),
+      },
+      {
+        path: 'products/:slug/write-review',
+        lazy: () => import('@/features/product/pages/write-review-page'),
       },
       {
         path: 'cart',

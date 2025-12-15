@@ -33,7 +33,7 @@ export function HeroSectionV2() {
       </video>
 
       {/* Dark Overlay */}
-      <div className="absolute inset-0 bg-black/30" />
+      <div className="absolute inset-0 bg-black/20" />
 
       {/* Content */}
       <HeroContent

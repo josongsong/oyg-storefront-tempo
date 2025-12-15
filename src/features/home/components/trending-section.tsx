@@ -17,13 +17,15 @@ export function TrendingSection() {
             {TRENDING_CONTENT.buttonText}
           </button>
         </div>
-        <div className="flex-3 w-full overflow-x-auto pb-4 hide-scrollbar">
-          <div className="flex gap-4 min-w-max">
-            {MOCK_PRODUCTS.slice(0, 4).map((p, i) => (
-              <div key={i} className="w-[200px] md:w-[250px]">
-                <ProductCard product={{ ...p, id: `trend-${i}` }} />
-              </div>
-            ))}
+        <div className="flex-3 w-full">
+          <div className="overflow-x-auto hide-scrollbar pb-4">
+            <div className="flex gap-4 min-w-max">
+              {MOCK_PRODUCTS.slice(0, 4).map((p, i) => (
+                <div key={i} className="w-[200px] md:w-[250px]">
+                  <ProductCard product={{ ...p, id: `trend-${i}` }} variant="compact" />
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </div>

@@ -1,4 +1,4 @@
-import { getRandomCosmeticImage } from '@/utils/image'
+import { getRandomCosmeticImage } from '@/shared/utils/image'
 
 export const MOCK_CART_DATA = {
   items: [

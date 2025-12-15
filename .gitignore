@@ -7,9 +7,26 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
+
+# Build outputs
 dist
 dist-ssr
+
+# Test coverage and reports
+coverage
+*.lcov
+.nyc_output
+
+# Playwright
+playwright-report
+test-results
+
+# Temp files
+.temp
+_temp_test
+*.backup
 *.local
 
 # Editor directories and files

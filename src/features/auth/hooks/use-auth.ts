@@ -1,9 +1,8 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useNavigate } from 'react-router-dom'
 
-import { authService } from '@/services'
-
-import type { LoginRequest, RegisterRequest } from '@/types/auth'
+import { authApi } from '../api'
+import type { LoginRequest, RegisterRequest } from '../types'
 
 export const authKeys = {
   all: ['auth'] as const,
@@ -13,7 +12,7 @@ export const authKeys = {
 export function useUser() {
   return useQuery({
     queryKey: authKeys.user(),
-    queryFn: () => authService.getMe(),
+    queryFn: () => authApi.getMe(),
     retry: false,
   })
 }
@@ -23,7 +22,7 @@ export function useLogin() {
   const navigate = useNavigate()
 
   return useMutation({
-    mutationFn: (data: LoginRequest) => authService.login(data),
+    mutationFn: (data: LoginRequest) => authApi.login(data),
     onSuccess: (response) => {
       localStorage.setItem('access_token', response.accessToken)
       queryClient.setQueryData(authKeys.user(), response.user)
@@ -36,7 +35,7 @@ export function useRegister() {
   const navigate = useNavigate()
 
   return useMutation({
-    mutationFn: (data: RegisterRequest) => authService.register(data),
+    mutationFn: (data: RegisterRequest) => authApi.register(data),
     onSuccess: () => {
       navigate('/login')
     },
@@ -48,11 +47,10 @@ export function useLogout() {
   const navigate = useNavigate()
 
   return useMutation({
-    mutationFn: () => authService.logout(),
+    mutationFn: () => authApi.logout(),
     onSuccess: () => {
       queryClient.clear()
       navigate('/login')
     },
   })
 }
-

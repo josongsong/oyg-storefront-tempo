@@ -1,8 +1,8 @@
 import { useQuery } from '@tanstack/react-query'
 
-import { productService } from '@/services'
+import { productService } from '@/features/product/api'
 
-import type { ProductListParams } from '@/types/product'
+import type { ProductListParams } from '@/features/product/types'
 
 export const productKeys = {
   all: ['products'] as const,

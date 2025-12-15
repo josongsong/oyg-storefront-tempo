@@ -3,12 +3,12 @@ import { useState, useMemo, useEffect } from 'react'
 import { ChevronDown, ChevronUp, Plus, Check, ChevronLeft, ChevronRight } from 'lucide-react'
 
 import { ProductCard } from '@/features/product/components'
-import { LoadingSpinner } from '@/components/ui/loading-spinner'
+import { LoadingSpinner } from '@/shared/components/ui/loading-spinner'
 import { FilterFacet } from '@/features/product/components'
 import { FILTER_DATA } from '@/features/product/constants/filter-data'
-import { loadAllProducts, filterByCategory, sortProducts } from '@/utils/product-loader'
-import type { ProductListItem } from '@/types/product-data'
-import type { GlossierProduct } from '@/types/glossier'
+import { loadAllProducts, filterByCategory, sortProducts } from '@/features/product/utils'
+import type { ProductListItem } from '@/features/product/types'
+import type { GlossierProduct } from '@/shared/types/glossier'
 
 type SortOption = 'best-sellers' | 'whats-new' | 'top-rated' | 'a-z' | 'z-a' | 'price-low' | 'price-high'
 

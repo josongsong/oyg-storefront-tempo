@@ -1,7 +1,8 @@
 import { useState, useRef, useEffect } from 'react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
+import { useNavigate } from 'react-router-dom'
 import { TIKTOK_VIDEOS } from '@/features/home/constants/tiktok-data'
-import type { TikTokVideo } from '@/types/tiktok'
+import type { TikTokVideo } from '@/features/home/types/tiktok'
 
 export function TikTokGallerySection() {
   const scrollContainerRef = useRef<HTMLDivElement>(null)
@@ -100,6 +101,7 @@ interface TikTokVideoCardProps {
 }
 
 function TikTokVideoCard({ video }: TikTokVideoCardProps) {
+  const navigate = useNavigate()
   const [isPlaying, setIsPlaying] = useState(false)
   const videoRef = useRef<HTMLVideoElement>(null)
 
@@ -112,6 +114,12 @@ function TikTokVideoCard({ video }: TikTokVideoCardProps) {
         videoRef.current.play()
         setIsPlaying(true)
       }
+    }
+  }
+
+  const handleProductClick = () => {
+    if (video.product?.id) {
+      navigate(`/products/${video.product.id}`)
     }
   }
 
@@ -207,10 +215,13 @@ function TikTokVideoCard({ video }: TikTokVideoCardProps) {
 
       {/* 제품 정보 카드 */}
       {video.product && (
-        <div className="relative w-[300px] min-h-[80px] rounded-[5px] border border-[#767676] bg-white p-0 overflow-hidden">
+        <div 
+          className="relative w-[300px] min-h-[80px] rounded-[5px] border border-[#767676] bg-white p-0 overflow-hidden cursor-pointer hover:border-black transition-colors"
+          onClick={handleProductClick}
+        >
           <div className="flex min-h-[80px]">
             {/* 제품 이미지 및 정보 */}
-            <div className="flex flex-1 gap-3 p-3 pr-10">
+            <div className="flex flex-1 gap-3 p-3">
               <img
                 src={video.product.image}
                 alt={video.product.name}
@@ -232,22 +243,6 @@ function TikTokVideoCard({ video }: TikTokVideoCardProps) {
                 </p>
               </div>
             </div>
-
-            {/* 추가 버튼 */}
-            <button
-              className="absolute right-3 top-1/2 -translate-y-1/2 w-[30px] h-[30px] rounded-full bg-[#090A0B] flex items-center justify-center cursor-pointer border-none hover:bg-gray-800 transition-colors"
-              aria-label="Add to cart"
-            >
-              <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="30" height="30" rx="15" fill="#090A0B" />
-                <path
-                  fillRule="evenodd"
-                  clipRule="evenodd"
-                  d="M16 11a1 1 0 1 0-2 0v3h-3a1 1 0 1 0 0 2h3v3a1 1 0 0 0 2 0v-3h3a1 1 0 1 0 0-2h-3v-3Z"
-                  fill="#fff"
-                />
-              </svg>
-            </button>
           </div>
         </div>
       )}

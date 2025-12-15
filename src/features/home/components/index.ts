@@ -8,7 +8,8 @@ export { ExpandableGridSection } from './expandable-grid-section'
 export { CategoryLinksSection } from './category-links-section'
 export { TikTokGallerySection } from './tiktok-gallery-section'
 export { GiftCategoryCard } from './gift-category-card'
-export { ScrollNavigation } from './scroll-navigation'
 export { HeroContent } from './hero-content'
 export { VideoControls } from './video-controls'
-export { ProductCardCarousel } from './product-card-carousel'
+// Removed (moved to shared):
+// - ScrollNavigation → shared/components/Carousel/CarouselNavigation
+// - ProductCardCarousel → features/product/components/ProductCarousel

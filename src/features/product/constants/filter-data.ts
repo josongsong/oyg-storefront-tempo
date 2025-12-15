@@ -1,4 +1,4 @@
-import type { Filter } from '@/types/glossier'
+import type { Filter } from '@/shared/types/glossier'
 
 export const FILTER_DATA: Filter[] = [
   {

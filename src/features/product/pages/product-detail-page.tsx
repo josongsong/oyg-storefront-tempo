@@ -3,12 +3,14 @@ import { useState, useEffect } from 'react'
 import { ChevronLeft, ChevronRight, Heart, Star, Package, Truck, Store, ShoppingCart } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
 
-import { loadProductById, loadAllProducts } from '@/utils/product-loader'
-import { Breadcrumb } from '@/components/ui'
+import { loadProductById, loadAllProducts } from '@/features/product/utils'
+import { Breadcrumb } from '@/shared/components/ui'
 import { ProductCard } from '@/features/product/components'
 import { ProductComparison, DeliveryOption, ProductImageGallery, ReviewCard } from '@/features/product/components'
-import { useCartStore, useWishlistStore, useToastStore } from '@/stores'
-import type { ProductData, ProductListItem } from '@/types/product-data'
+import { useCartStore } from '@/features/cart/stores'
+import { useWishlistStore } from '@/features/product/stores'
+import { useToastStore } from '@/app/stores'
+import type { ProductData, ProductListItem } from '@/features/product/types'
 
 export function Component() {
   const { slug } = useParams<{ slug: string }>()
@@ -657,7 +659,10 @@ export function Component() {
           {/* Header */}
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-6 md:mb-8 gap-3">
             <h2 className="text-xl md:text-2xl font-normal">Reviews</h2>
-            <button className="w-full sm:w-auto px-4 md:px-6 py-2 md:py-2.5 border-2 border-black hover:bg-black hover:text-white transition-colors text-xs md:text-sm font-medium uppercase">
+            <button 
+              onClick={() => navigate(`/products/${slug}/write-review`)}
+              className="w-full sm:w-auto px-4 md:px-6 py-2 md:py-2.5 border-2 border-black hover:bg-black hover:text-white transition-colors text-xs md:text-sm font-medium uppercase"
+            >
               Write A REVIEW
             </button>
           </div>

@@ -1,5 +1,5 @@
 import { ThumbsUp, ThumbsDown, Flag } from 'lucide-react'
-import { Rating } from '@/components/ui/rating'
+import { Rating } from '@/shared/components/ui/rating'
 
 export interface Review {
   review_id: string | number

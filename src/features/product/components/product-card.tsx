@@ -1,24 +1,40 @@
 import { Heart, Star } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, memo, useMemo } from 'react'
 import { motion } from 'framer-motion'
 
-import { useQuickShopStore, useWishlistStore } from '@/stores'
-import { loadAllProducts } from '@/utils/product-loader'
+import { useQuickShopStore, useWishlistStore } from '@/features/product/stores'
+import { loadAllProducts } from '@/features/product/utils'
 
-import type { GlossierProduct } from '@/types/glossier'
-import type { QuickShopProduct } from '@/types/quick-shop'
+import type { GlossierProduct } from '@/shared/types/glossier'
+import type { QuickShopProduct } from '@/features/product/types'
 
 interface ProductCardProps {
   product: GlossierProduct
+  variant?: 'default' | 'compact'
+  showWishlist?: boolean
+  onQuickShop?: () => void
 }
 
-export function ProductCard({ product }: ProductCardProps) {
+function ProductCardComponent({
+  product,
+  variant = 'default',
+  showWishlist = true,
+  onQuickShop,
+}: ProductCardProps) {
   const navigate = useNavigate()
   const openQuickShop = useQuickShopStore((state) => state.openQuickShop)
-  const { toggleItem, isInWishlist } = useWishlistStore()
+  const toggleItem = useWishlistStore((state) => state.toggleItem)
+  const wishlistItems = useWishlistStore((state) => state.items)
+  const productId = String(product.id)
+  const isFavorited = useMemo(
+    () => wishlistItems.some(item => item.id === productId),
+    [wishlistItems, productId]
+  )
   const [productIds, setProductIds] = useState<string[]>([])
-  const isFavorited = isInWishlist(String(product.id))
+  
+  // Compute classes based on variant
+  const widthClass = variant === 'compact' ? 'w-[260px] shrink-0' : 'w-full'
 
   // Load all product IDs on mount
   useEffect(() => {
@@ -28,6 +44,15 @@ export function ProductCard({ product }: ProductCardProps) {
   }, [])
 
   const handleQuickShop = (e: React.MouseEvent) => {
+    // 외부에서 onQuickShop이 제공되면 그것을 사용
+    if (onQuickShop) {
+      e.preventDefault()
+      e.stopPropagation()
+      onQuickShop()
+      return
+    }
+
+    // 기본 QuickShop 로직
     e.preventDefault()
     e.stopPropagation()
 
@@ -86,7 +111,7 @@ export function ProductCard({ product }: ProductCardProps) {
   }
 
   return (
-    <div className="group relative flex flex-col cursor-pointer" onClick={handleCardClick}>
+    <div className={`group relative flex flex-col cursor-pointer ${widthClass}`} onClick={handleCardClick}>
       <div className="relative aspect-4/5 bg-[#F9F9F9] overflow-hidden mb-3">
         {product.badge && (
           <div className="absolute top-2 left-2 z-10">
@@ -97,18 +122,20 @@ export function ProductCard({ product }: ProductCardProps) {
             </span>
           </div>
         )}
-        <motion.button 
-          onClick={handleToggleFavorite}
-          className="absolute top-3 right-3 z-10 p-2 hover:bg-white/80 rounded-full transition-colors"
-          whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.9 }}
-        >
-          <Heart 
-            className={`w-5 h-5 stroke-1 transition-colors ${
-              isFavorited ? 'fill-red-500 text-red-500' : 'text-black fill-none'
-            }`} 
-          />
-        </motion.button>
+        {showWishlist && (
+          <motion.button
+            onClick={handleToggleFavorite}
+            className="absolute top-3 right-3 z-10 p-2 hover:bg-white/80 rounded-full transition-colors"
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            <Heart
+              className={`w-5 h-5 stroke-1 transition-colors ${
+                isFavorited ? 'fill-red-500 text-red-500' : 'text-black fill-none'
+              }`}
+            />
+          </motion.button>
+        )}
         <img
           src={product.image}
           alt={product.name}
@@ -179,3 +206,5 @@ export function ProductCard({ product }: ProductCardProps) {
     </div>
   )
 }
+
+export const ProductCard = memo(ProductCardComponent)

@@ -1,4 +1,4 @@
-import type { TikTokVideo } from '@/types/tiktok'
+import type { TikTokVideo } from '@/features/home/types/tiktok'
 
 export const TIKTOK_VIDEOS: TikTokVideo[] = [
   {
@@ -9,6 +9,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/c4002177d90f4d7aa7ac721041fbb414/c4002177d90f4d7aa7ac721041fbb414.HD-720p-1.6Mbps-49090352.mp4',
     title: 'Body Lava Body Luminizer — Penny Drop',
     product: {
+      id: 1,
       name: 'Body Lava Body Luminizer — Penny Drop',
       price: '$59',
       image:
@@ -23,6 +24,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/59ef38cec6694bb786dc4c381745f156/59ef38cec6694bb786dc4c381745f156.HD-720p-1.6Mbps-63370886.mp4',
     title: "Skincare Lov'rs Cleanser, Toner, SPF Moisturizer + Collector's Case",
     product: {
+      id: 2,
       name: "Skincare Lov'rs Cleanser, Toner, SPF Moisturizer + Collector's Case",
       price: '$34.30',
       image:
@@ -37,6 +39,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/093a5074c26442e0bfea7f826053b08e/093a5074c26442e0bfea7f826053b08e.HD-720p-1.6Mbps-49624579.mp4',
     title: "Trace'd Out Longwear Waterproof Pencil Lip Liner — I Woodn't",
     product: {
+      id: 3,
       name: "Trace'd Out Longwear Waterproof Pencil Lip Liner — I Woodn't",
       price: '$20',
       image:
@@ -51,6 +54,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/d6c9f28adf594bf0b9d407002e057db1/d6c9f28adf594bf0b9d407002e057db1.HD-720p-1.6Mbps-59101484.mp4',
     title: "Trace'd Out Longwear Waterproof Pencil Lip Liner — RiRi",
     product: {
+      id: 4,
       name: "Trace'd Out Longwear Waterproof Pencil Lip Liner — RiRi",
       price: '$20',
       image:
@@ -65,6 +69,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/db6e10c69840452fb48995b62c7052ea/db6e10c69840452fb48995b62c7052ea.HD-720p-1.6Mbps-50396038.mp4',
     title: 'Hydra Vizor Huez Tinted Moisturizer SPF 30 — Shade 8',
     product: {
+      id: 5,
       name: 'Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 8',
       price: '$44',
       image:
@@ -79,6 +84,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/21fd41d7d3d14500825023efa4acb0d4/21fd41d7d3d14500825023efa4acb0d4.HD-720p-1.6Mbps-59269864.mp4',
     title: 'Allover Body Mist — Vanilla Flowers',
     product: {
+      id: 6,
       name: 'Allover Body Mist — Vanilla Flowers',
       price: '$35',
       image:
@@ -93,6 +99,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/8fe7b685852d4df0902c6bf8dbfc9dea/8fe7b685852d4df0902c6bf8dbfc9dea.HD-720p-4.5Mbps-37396908.mp4',
     title: "Gloss Bomb Stix High-Shine Gloss Stick — Black'r Berry",
     product: {
+      id: 7,
       name: "Gloss Bomb Stix High-Shine Gloss Stick — Black'r Berry",
       price: '$26',
       image:
@@ -107,6 +114,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/e6eef33b9b6d4495bb723f21c9f0ba71/e6eef33b9b6d4495bb723f21c9f0ba71.HD-720p-4.5Mbps-59120538.mp4',
     title: 'Lined + Luminized 2-Piece Lip Set',
     product: {
+      id: 8,
       name: 'Lined + Luminized 2-Piece Lip Set',
       price: '$16.80',
       image:
@@ -121,6 +129,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/9c469d13da38467b966c8c4612ac1c34/9c469d13da38467b966c8c4612ac1c34.HD-720p-1.6Mbps-49094010.mp4',
     title: 'Fenty Parfum Hair + Body Mist',
     product: {
+      id: 9,
       name: 'Fenty Parfum Hair + Body Mist',
       price: '$53',
       image:
@@ -135,6 +144,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/9eb44f554218434aa137c8fc1896b05e/9eb44f554218434aa137c8fc1896b05e.HD-720p-1.6Mbps-49090234.mp4',
     title: 'Hydra Vizor Huez SPF 30 Refillable Tinted Moisturizer Set',
     product: {
+      id: 10,
       name: 'Hydra Vizor Huez SPF 30 Refillable Tinted Moisturizer Set',
       price: '$49',
       image:
@@ -149,6 +159,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/9b1e2a63c2534f50a88afe4c42fcc0b8/9b1e2a63c2534f50a88afe4c42fcc0b8.HD-720p-4.5Mbps-20625007.mp4',
     title: "Hella Thicc Volumizing Mascara — Cuz I'm Black",
     product: {
+      id: 11,
       name: "Hella Thicc Volumizing Mascara — Cuz I'm Black",
       price: '$21',
       image: 'https://cdn.shopify.com/s/files/1/0341/3458/9485/products/54548.jpg?v=1762271787&width=80',
@@ -162,6 +173,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/0ab78985c9524ed49784baadb5f605fb/0ab78985c9524ed49784baadb5f605fb.HD-720p-1.6Mbps-51377395.mp4',
     title: 'Dew N Plump Hydrating Nectar Glow Serum',
     product: {
+      id: 12,
       name: 'Dew N Plump Hydrating Nectar Glow Serum',
       price: '$38',
       image:
@@ -176,6 +188,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/65ee80e0021b4fd287da5c75247240ec/65ee80e0021b4fd287da5c75247240ec.HD-720p-1.6Mbps-57616409.mp4',
     title: 'Prime, Set & Seal Your Makeup',
     product: {
+      id: 13,
       name: "Pro Filt'r Instant Retouch Setting Powder",
       price: '$32',
       image:
@@ -190,6 +203,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/3e17b8113dc8422986c8a4fab0cab05a/3e17b8113dc8422986c8a4fab0cab05a.HD-720p-1.6Mbps-51350929.mp4',
     title: "We're Even Hydrating Longwear Concealer — 345C",
     product: {
+      id: 14,
       name: "We're Even Hydrating Longwear Concealer — 345C",
       price: '$33',
       image:
@@ -204,6 +218,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/98ac356e2a3c42b3a062d167698c2b97/98ac356e2a3c42b3a062d167698c2b97.HD-720p-1.6Mbps-57616448.mp4',
     title: 'Butta Drop Hydrating Body Milk — Salted Caramel',
     product: {
+      id: 15,
       name: 'Butta Drop Hydrating Body Milk — Salted Caramel',
       price: '$30',
       image:
@@ -218,6 +233,7 @@ export const TIKTOK_VIDEOS: TikTokVideo[] = [
       'https://cdn.shopify.com/videos/c/vp/d530d5637078458987baeff4a0ab768c/d530d5637078458987baeff4a0ab768c.HD-720p-1.6Mbps-57214085.mp4',
     title: 'Hydra Vizor Invisible Moisturizer SPF 30',
     product: {
+      id: 16,
       name: 'Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide + Kalahari Melon',
       price: '$45',
       image:

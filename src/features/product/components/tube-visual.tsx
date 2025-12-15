@@ -1,4 +1,4 @@
-import type { Flavor } from '@/types/glossier'
+import type { Flavor } from '@/shared/types/glossier'
 
 interface TubeVisualProps {
   flavor: Flavor
