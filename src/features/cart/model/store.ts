@@ -52,67 +52,72 @@ export const useCartStore = create<CartState>()(
         },
         
         getTotalItems: () => {
-          return Array.from(get().items.values())
-            .reduce((sum, item) => sum + item.quantity, 0)
+          const items = get().items
+          let total = 0
+          for (const item of items.values()) {
+            total += item.quantity
+          }
+          return total
         },
         
         getSummary: () => {
-          const items = Array.from(get().items.values())
-          const subtotal = items.reduce(
-            (sum, item) => sum + (item.price as number) * item.quantity,
-            0
-          ) as Price
+          const items = get().items
+          let subtotal = 0
+          let savings = 0
+          let itemCount = 0
           
-          const savings = items.reduce(
-            (sum, item) => {
-              if (item.originalPrice) {
-                return sum + ((item.originalPrice as number) - (item.price as number)) * item.quantity
-              }
-              return sum
-            },
-            0
-          ) as Price | undefined
+          for (const item of items.values()) {
+            subtotal += (item.price as number) * item.quantity
+            itemCount += item.quantity
+            
+            if (item.originalPrice) {
+              savings += ((item.originalPrice as number) - (item.price as number)) * item.quantity
+            }
+          }
           
           const shippingInfo = SHIPPING_OPTIONS[get().shippingMethod]
           const shipping = (subtotal as number) >= (FREE_SHIPPING_THRESHOLD as number)
             ? (0 as Price)
             : shippingInfo.cost
           
-          const tax = ((subtotal as number) * TAX_RATE) as Price
-          const total = ((subtotal as number) + (shipping as number) + (tax as number)) as Price
+          const tax = (subtotal * TAX_RATE) as Price
+          const total = (subtotal + (shipping as number) + tax) as Price
           
           return {
-            itemCount: get().getTotalItems(),
-            subtotal,
+            itemCount,
+            subtotal: subtotal as Price,
             shipping,
             tax,
             total,
-            savings: (savings as number) > 0 ? savings : undefined,
+            savings: savings > 0 ? (savings as Price) : undefined,
           }
         },
         
         hasItem: (productId: ProductId, options?: CartItemOptions) => {
-          const items = Array.from(get().items.values())
-          return items.some(item => 
-            item.productId === productId &&
-            (!options || (
-              item.options?.shade === options.shade &&
-              item.options?.size === options.size
-            ))
-          )
+          for (const item of get().items.values()) {
+            if (item.productId === productId) {
+              if (!options) return true
+              if (item.options?.shade === options.shade && item.options?.size === options.size) {
+                return true
+              }
+            }
+          }
+          return false
         },
         
         // Actions
         addItem: (item: Omit<CartItem, 'id' | 'quantity'>, quantity = 1) => {
           set((state: CartState) => {
             // Check if item with same product and options exists
-            const itemsArray: CartItem[] = Array.from(state.items.values())
-            const existingItem = itemsArray.find(
-              (i) =>
-                i.productId === item.productId &&
-                i.options?.shade === item.options?.shade &&
-                i.options?.size === item.options?.size
-            )
+            let existingItem: CartItem | undefined
+            for (const cartItem of state.items.values()) {
+              if (cartItem.productId === item.productId &&
+                  cartItem.options?.shade === item.options?.shade &&
+                  cartItem.options?.size === item.options?.size) {
+                existingItem = cartItem
+                break
+              }
+            }
             
             if (existingItem) {
               // Update quantity

@@ -20,19 +20,16 @@ export const useToastStore = create<ToastState>((set) => ({
   
   addToast: (message, type = 'success', duration = 3000) => {
     const id = crypto.randomUUID()
+    let timeoutId: ReturnType<typeof setTimeout> | undefined
+    
+    // Auto remove after duration (race condition 방지)
+    if (duration > 0) {
+      timeoutId = setTimeout(() => {
+        useToastStore.getState().removeToast(id)
+      }, duration)
+    }
     
     set((state) => {
-      let timeoutId: ReturnType<typeof setTimeout> | undefined
-      
-      // Auto remove after duration
-      if (duration > 0) {
-        timeoutId = setTimeout(() => {
-          set((state) => ({
-            toasts: state.toasts.filter((t) => t.id !== id)
-          }))
-        }, duration)
-      }
-      
       const toast: Toast = { id, message, type, duration, timeoutId }
       
       // 최대 3개까지만 표시, 오래된 것부터 제거
