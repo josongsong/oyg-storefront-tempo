@@ -15,6 +15,7 @@ import { ChevronLeft, ChevronRight, Heart, Menu, Pause, Play, Search, ShoppingBa
 import { SearchOverlay } from '@/features/search/components'
 import { NotificationCenter } from '@/features/notification/components'
 import { WishlistPopup, WishlistEmptyTooltip } from '@/features/product/components'
+import { MobileMenu } from '@/widgets/header/ui/mobile-menu'
 import { MEGA_MENU_DATA, TRENDING_SEARCHES } from '@/shared/constants/menu-data'
 import { PROMO_BANNERS } from '@/shared/constants/promo-banners'
 import { NAV_LINKS } from '@/shared/constants/nav-links'
@@ -40,21 +41,26 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
   const [currentBannerIndex, setCurrentBannerIndex] = useState(0)
   const [isPaused, setIsPaused] = useState(false)
   const [isSearchHovered, setIsSearchHovered] = useState(false)
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const notificationTriggerRef = useRef<HTMLDivElement | null>(null)
   
   // Stores
   const { openPopup: openAuthPopup } = useAuthPopupStore()
   const { user, isLoggedIn, initUser, logout } = useUserStore()
   const { getTotalItems } = useCartStore()
-  const { openPopup: openLocalePopup, settings: localeSettings, initSettings } = useLocaleStore()
+  const { openPopup: openLocalePopup, settings: localeSettings } = useLocaleStore()
+  
+  // Initialize locale settings on mount
+  useEffect(() => {
+    // Locale settings are automatically loaded from localStorage via persist middleware
+  }, [])
   const { openLuckyDraw } = useLuckyDrawStore()
   const { isOpen: isNotificationOpen, toggleOpen: toggleNotification, closeNotification, getUnreadCount } = useNotificationStore()
   const { toggleWishlist, getTotalItems: getWishlistCount, showEmptyTooltip, closeEmptyTooltip } = useWishlistStore()
 
   useEffect(() => {
     initUser()
-    initSettings()
-  }, [initUser, initSettings])
+  }, [initUser])
 
   // Show tooltip on first visit if not logged in
   useEffect(() => {
@@ -93,6 +99,13 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
 
   return (
     <>
+      {/* Mobile Menu */}
+      <MobileMenu 
+        isOpen={isMobileMenuOpen} 
+        onClose={() => setIsMobileMenuOpen(false)}
+        onNavigate={onNavigate}
+      />
+
       {/* Overlay for body content when mega menu is open */}
       {activeMenu && !isSearchOpen && (
         <div
@@ -206,8 +219,18 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
         {/* Logo, Search and Icons */}
         <div className="px-4 md:px-8 py-5 relative" onMouseEnter={() => setActiveMenu(null)}>
           <div className="max-w-[1600px] mx-auto grid grid-cols-3 items-center gap-4">
-            {/* Left: Logo */}
-            <div className="flex items-center">
+            {/* Left: Mobile Menu + Logo */}
+            <div className="flex items-center gap-3">
+              {/* Mobile Hamburger Menu */}
+              <motion.button
+                onClick={() => setIsMobileMenuOpen(true)}
+                className="lg:hidden p-2 -ml-2 hover:bg-gray-100 rounded-lg transition-colors"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                aria-label="Open menu"
+              >
+                <Menu className="w-6 h-6" />
+              </motion.button>
               <motion.div
                 className="cursor-pointer flex items-center overflow-hidden relative"
                 onClick={onLogoClick}
@@ -247,7 +270,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
             {/* Center: Search */}
             <div className="flex justify-center">
               <motion.div
-                className={`w-full max-w-2xl flex items-center px-4 py-2.5 border-2 ${
+                className={`w-full max-w-2xl flex items-center px-3 md:px-4 py-2 md:py-2.5 border-2 ${
                   isSearchOpen ? 'border-black' : 'border-transparent'
                 }`}
                 style={{ backgroundColor: '#F5F5F5' }}
@@ -288,7 +311,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                 <input
                   type="text"
                   placeholder="Search 150+ global beauty brands"
-                  className="flex-1 bg-transparent text-[0.8125rem] text-gray-900 placeholder-gray-600 outline-none font-normal"
+                  className="flex-1 bg-transparent text-[0.75rem] md:text-[0.8125rem] text-gray-900 placeholder-gray-600 outline-none font-normal"
                   onFocus={() => {
                     setIsSearchOpen(true)
                     setActiveMenu(null)
@@ -298,7 +321,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
             </div>
 
             {/* Right: Icons */}
-            <div className="flex items-center justify-end gap-3 md:gap-5 text-black">
+            <div className="flex items-center justify-end gap-2 sm:gap-3 md:gap-5 text-black">
               <motion.div
                 className="hidden md:block text-[0.8125rem] font-normal cursor-pointer hover:text-gray-600"
                 whileHover={{ y: -1 }}
@@ -315,7 +338,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               </motion.div>
               
               {isLoggedIn ? (
-                <div className="flex items-center gap-3">
+                <div className="flex items-center gap-2 sm:gap-3">
                   <motion.div
                     className="hidden md:block text-[0.8125rem] font-normal text-gray-700"
                     whileHover={{ y: -1 }}
@@ -326,7 +349,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                     whileHover={{ scale: 1.1 }} 
                     whileTap={{ scale: 0.95 }}
                     onClick={logout}
-                    className="cursor-pointer"
+                    className="cursor-pointer p-1"
                   >
                     <LogOut className="w-5 h-5 hover:text-gray-600 stroke-1" />
                   </motion.div>
@@ -336,13 +359,14 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                   whileHover={{ scale: 1.1, rotate: 5 }} 
                   whileTap={{ scale: 0.95 }}
                   onClick={openAuthPopup}
+                  className="p-1"
                 >
                   <User className="w-5 h-5 cursor-pointer hover:text-gray-600 stroke-1" />
                 </motion.div>
               )}
               <div className="relative">
                 <motion.div 
-                  className="cursor-pointer hover:text-gray-600"
+                  className="cursor-pointer hover:text-gray-600 p-1"
                   whileHover={{ scale: 1.15 }} 
                   whileTap={{ scale: 0.95 }}
                   onClick={toggleWishlist}
@@ -350,7 +374,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                   <Heart className="w-5 h-5 stroke-1" />
                   {getWishlistCount() > 0 && (
                     <motion.span
-                      className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center"
+                      className="count-badge"
                       initial={{ scale: 0 }}
                       animate={{ scale: 1 }}
                       transition={{ type: 'spring', stiffness: 500, damping: 15 }}
@@ -370,7 +394,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               {/* Notification Bell */}
               <motion.div
                 ref={notificationTriggerRef}
-                className="relative cursor-pointer hover:text-gray-600"
+                className="relative cursor-pointer hover:text-gray-600 p-1"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
                 onClick={toggleNotification}
@@ -400,7 +424,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
               </motion.div>
 
               <motion.div
-                className="relative cursor-pointer hover:text-gray-600"
+                className="relative cursor-pointer hover:text-gray-600 p-1"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
                 onClick={() => navigate('/cart')}
@@ -439,8 +463,8 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
           <WishlistPopup />
         </div>
 
-        {/* Category Nav */}
-        <div className="flex items-center py-3 px-4 md:px-8 relative border-b border-gray-200">
+        {/* Category Nav - Hidden on mobile */}
+        <div className="hidden lg:flex items-center py-3 px-4 md:px-8 relative border-b border-gray-200">
           <nav className="flex-1 flex justify-center gap-8 text-base font-medium tracking-wide text-black h-full items-center">
             <motion.div
               className="flex items-center gap-2 cursor-pointer pb-1 relative"
@@ -722,7 +746,7 @@ export function Header({ onNavigate, onLogoClick, products = [] }: HeaderProps) 
                             {MEGA_MENU_DATA[activeMenu].ad!.title}
                           </h3>
                           <p className="text-lg font-bold text-white mb-2">{MEGA_MENU_DATA[activeMenu].ad!.subtitle}</p>
-                          <div className="flex items-center text-sm font-bold bg-[#F5A7B8] w-fit px-3 py-1 rounded-full">
+                          <div className="flex items-center text-sm font-bold bg-[var(--color-danger-light)] w-fit px-3 py-1 rounded-full">
                             {MEGA_MENU_DATA[activeMenu].ad!.linkText}
                           </div>
                         </div>

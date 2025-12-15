@@ -230,13 +230,13 @@ function TikTokVideoCard({ video }: TikTokVideoCardProps) {
               />
               <div className="flex flex-col justify-between flex-1 min-w-0">
                 <p
-                  className="text-[13px] leading-[15px] font-bold text-[#090A0B] line-clamp-2"
+                  className="text-[13px] leading-[15px] font-bold text-black line-clamp-2"
                   style={{ fontFamily: 'Nunito Sans, sans-serif' }}
                 >
                   {video.product.name}
                 </p>
                 <p
-                  className="text-[12px] leading-[14px] font-bold text-[#090A0B]"
+                  className="text-[12px] leading-[14px] font-bold text-black"
                   style={{ fontFamily: 'Nunito Sans, sans-serif' }}
                 >
                   {video.product.price}

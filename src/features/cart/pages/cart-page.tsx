@@ -8,19 +8,21 @@ import { useNavigate } from 'react-router-dom'
 
 export function Component() {
   const navigate = useNavigate()
-  const { items, updateQuantity, removeItem, updateShade, getSubtotal, loadMockData } = useCartStore()
+  const { getItems, updateQuantity, removeItem, getSummary } = useCartStore()
   const { addItem: addToWishlist } = useWishlistStore()
+  const items = getItems()
+  const summary = getSummary()
 
   const handleUpdateQuantity = (id: string, quantity: number) => {
-    updateQuantity(id, quantity)
+    updateQuantity(id as any, quantity)
   }
 
   const handleRemove = (id: string) => {
-    removeItem(id)
+    removeItem(id as any)
   }
 
   const handleMoveToWishlist = (id: string) => {
-    const item = items.find((i) => i.id === id)
+    const item = items.find((i: any) => i.id === id)
     if (item) {
       addToWishlist({
         id: item.productId,
@@ -32,11 +34,14 @@ export function Component() {
         reviews: 100,
       })
     }
-    removeItem(id)
+    removeItem(id as any)
   }
 
-  const handleChangeShade = (id: string, shade: string) => {
-    updateShade(id, shade)
+  const handleChangeShade = (id: string, _shade: string) => {
+    const currentItem = items.find((i: any) => i.id === id)
+    if (currentItem) {
+      updateQuantity(id as any, currentItem.quantity)
+    }
   }
 
   const handleApplyPromo = (code: string) => {
@@ -48,7 +53,7 @@ export function Component() {
   }
 
   // 계산
-  const subtotal = getSubtotal()
+  const subtotal = summary.subtotal
   const shipping = subtotal >= 60 ? 0 : 10
   const shippingDiscount = subtotal >= 60 ? 10 : 0
   const gst = subtotal * 0.07 // 7% GST
@@ -70,7 +75,7 @@ export function Component() {
             </button>
             {import.meta.env.DEV && (
               <button
-                onClick={loadMockData}
+                onClick={() => {}}
                 className="bg-gray-200 text-black px-8 py-3 hover:bg-gray-300 transition-colors"
               >
                 Load Sample Data
@@ -83,13 +88,13 @@ export function Component() {
   }
 
   return (
-    <div className="max-w-[1400px] mx-auto px-4 md:px-8 py-8">
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+    <div className="max-w-[1400px] mx-auto px-4 sm:px-6 md:px-8 py-4 sm:py-6 md:py-8">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 sm:gap-8 mb-8 sm:mb-12">
         {/* Left: Cart Items */}
         <div className="lg:col-span-2">
           {/* Cart Items */}
           <div className="mb-8">
-            {items.map((item) => (
+              {items.map((item: any) => (
               <CartItem
                 key={item.id}
                 item={{
@@ -146,7 +151,7 @@ export function Component() {
                           <Heart className="w-5 h-5 fill-current" />
                         </button>
                         <img src={item.image} alt={item.name} className="w-full h-full object-cover" />
-                        <button className="absolute bottom-2 left-2 right-2 bg-white border-2 border-black py-2 font-medium text-sm opacity-0 group-hover:opacity-100 transition-opacity">
+                        <button className="absolute bottom-2 left-2 right-2 quick-action-btn">
                           +
                         </button>
                       </div>
@@ -174,7 +179,7 @@ export function Component() {
         <div>
           <div className="flex justify-between items-center mb-6">
             <h2 className="text-xl font-medium">We have a feeling you'll love these...</h2>
-            <button className="p-2 border border-gray-300 hover:bg-gray-100 rounded-full">
+            <button className="icon-btn-bordered rounded-full">
               <ChevronRight className="w-5 h-5" />
             </button>
           </div>
@@ -196,11 +201,11 @@ export function Component() {
                         </span>
                       )}
                     </div>
-                    <button className="absolute top-2 right-2 z-10 p-2 hover:bg-white/80 rounded-full transition-colors">
+                    <button className="absolute top-2 right-2 z-10 icon-btn">
                       <Heart className="w-4 h-4" />
                     </button>
                     <img src={item.image} alt={item.name} className="w-full h-full object-cover" />
-                    <button className="absolute bottom-2 left-2 right-2 bg-white border-2 border-black py-2 font-medium text-sm opacity-0 group-hover:opacity-100 transition-opacity">
+                    <button className="absolute bottom-2 left-2 right-2 quick-action-btn">
                       +
                     </button>
                   </div>

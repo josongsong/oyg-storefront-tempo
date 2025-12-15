@@ -1,6 +1,40 @@
 @import "tailwindcss";
 
 @theme {
+  /* ===== Breakpoints ===== */
+  --breakpoint-xs: 475px;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+  
+  /* ===== Colors - Brand ===== */
+  --color-brand-primary: #00C73C;
+  --color-brand-primary-hover: #00B035;
+  --color-brand-primary-light: #E6F9ED;
+  --color-brand-primary-dark: #009B2E;
+  --color-brand-primary-bright: #00E844;
+  --color-brand-accent-lime: #7DD321;
+  --color-brand-accent-mint: #00D98F;
+  
+  /* ===== Colors - Semantic ===== */
+  --color-danger: #D23F57;
+  --color-danger-light: #F5A7B8;
+  --color-warning: #D4A017;
+  --color-success: #00C73C;
+  --color-info: #3B82F6;
+  
+  /* ===== Colors - Neutral ===== */
+  --color-surface-primary: #FFFFFF;
+  --color-surface-secondary: #F9F9F9;
+  --color-surface-tertiary: #F0EAE5;
+  --color-text-primary: #000000;
+  --color-text-secondary: #4B5563;
+  --color-border-default: #E5E7EB;
+  --color-border-strong: #000000;
+  
+  /* ===== Typography ===== */
   --font-size-xs: var(--asc-text-font-size-xs);
   --font-size-sm: var(--asc-text-font-size-sm);
   --font-size-md: var(--asc-text-font-size-md);
@@ -9,13 +43,32 @@
   --font-size-xxl: var(--asc-text-font-size-xxl);
   --font-size-3xl: var(--asc-text-font-size-3xl);
   
-  /* 히어로 & 로고 커스텀 크기 */
+  /* 히어로 & 로고 */
   --font-size-hero-title: 4rem;
   --font-size-hero-title-md: 6rem;
   --font-size-hero-desc: 1.25rem;
   --font-size-hero-desc-md: 1.5rem;
   --font-size-logo: 2.5rem;
   --font-size-logo-md: 2.75rem;
+  
+  /* ===== Spacing ===== */
+  --touch-target-min: 44px;
+  --spacing-touch: 0.75rem;
+  
+  /* ===== Shadows ===== */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  
+  /* ===== Z-index Layers ===== */
+  --z-base: 0;
+  --z-dropdown: 10;
+  --z-sticky: 20;
+  --z-modal-backdrop: 40;
+  --z-modal: 50;
+  --z-popover: 60;
+  --z-toast: 70;
+  --z-tooltip: 80;
 }
 
 :root {
@@ -28,15 +81,6 @@
   --asc-text-font-size-xl: 1.25rem;
   --asc-text-font-size-xxl: 1.5rem;
   --asc-text-font-size-3xl: 1.875rem;
-  
-  /* Oliveyoung Brand Colors Palette */
-  --oliveyoung-green: #00C73C;
-  --oliveyoung-green-hover: #00B035;
-  --oliveyoung-green-light: #E6F9ED;
-  --oliveyoung-green-dark: #009B2E;
-  --oliveyoung-green-bright: #00E844;
-  --oliveyoung-lime: #7DD321;
-  --oliveyoung-mint: #00D98F;
 }
 
 body {
@@ -135,5 +179,96 @@ body {
 
 .animate-sparkle {
   animation: sparkle 2s ease-in-out infinite;
+}
+
+/* 모바일 성능 최적화: 애니메이션 감소 선호 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* 모바일 탭 하이라이트 제거 */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* 스크롤 성능 개선 */
+.will-change-scroll {
+  will-change: scroll-position;
+}
+
+.will-change-transform {
+  will-change: transform;
+}
+
+/* GPU 가속 */
+.gpu-accelerated {
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+/* ===== Common Patterns ===== */
+@layer utilities {
+  /* Badge Variants */
+  .badge {
+    @apply text-xs font-medium px-2 py-1 uppercase tracking-wider;
+  }
+  
+  .badge-default {
+    @apply badge bg-white border border-black text-black;
+  }
+  
+  .badge-premium {
+    @apply badge bg-[var(--color-warning)] text-white;
+  }
+  
+  .badge-danger {
+    @apply badge bg-[var(--color-danger)] text-white;
+  }
+  
+  /* Count Badge */
+  .count-badge {
+    @apply absolute -top-0.5 -right-0.5 bg-[var(--color-danger)] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center;
+  }
+  
+  /* Icon Button */
+  .icon-btn {
+    @apply p-2 hover:bg-white/80 rounded-full transition-colors;
+  }
+  
+  .icon-btn-bordered {
+    @apply p-2 border border-gray-300 hover:border-black transition-colors;
+  }
+  
+  /* Card Surfaces */
+  .card-surface {
+    @apply bg-[var(--color-surface-secondary)] overflow-hidden;
+  }
+  
+  .card-surface-alt {
+    @apply bg-[var(--color-surface-tertiary)] overflow-hidden;
+  }
+  
+  /* Quick Action Button */
+  .quick-action-btn {
+    @apply bg-white border-2 border-black py-2 font-medium text-sm opacity-0 group-hover:opacity-100 transition-opacity;
+  }
+  
+  /* Interactive Card */
+  .interactive-card {
+    @apply group cursor-pointer hover:opacity-80 transition-opacity;
+  }
+  
+  /* Brand Link */
+  .brand-link {
+    @apply font-medium underline decoration-gray-400 underline-offset-4 group-hover:decoration-black transition-all;
+  }
 }
 

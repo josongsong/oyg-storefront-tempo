@@ -5,6 +5,7 @@ import { motion } from 'framer-motion'
 
 import { useQuickShopStore, useWishlistStore } from '@/features/product/stores'
 import { loadAllProducts } from '@/features/product/utils'
+import { Badge } from '@/shared/components/ui/badge'
 
 import type { GlossierProduct } from '@/shared/types/glossier'
 import type { QuickShopProduct } from '@/features/product/types'
@@ -112,20 +113,18 @@ function ProductCardComponent({
 
   return (
     <div className={`group relative flex flex-col cursor-pointer ${widthClass}`} onClick={handleCardClick}>
-      <div className="relative aspect-4/5 bg-[#F9F9F9] overflow-hidden mb-3">
+      <div className="relative aspect-4/5 card-surface mb-3">
         {product.badge && (
           <div className="absolute top-2 left-2 z-10">
-            <span
-              className={`text-xs font-medium px-2 py-1 uppercase tracking-wider ${product.badge === 'VALUE SET' ? 'bg-[#D4A017] text-white' : 'bg-white border border-black text-black'}`}
-            >
+            <Badge variant={product.badge === 'VALUE SET' ? 'premium' : 'default'}>
               {product.badge}
-            </span>
+            </Badge>
           </div>
         )}
         {showWishlist && (
           <motion.button
             onClick={handleToggleFavorite}
-            className="absolute top-3 right-3 z-10 p-2 hover:bg-white/80 rounded-full transition-colors"
+            className="absolute top-3 right-3 z-10 icon-btn"
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >

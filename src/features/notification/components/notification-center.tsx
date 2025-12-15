@@ -233,7 +233,7 @@ export function NotificationCenter({ isOpen, onClose, triggerRef }: Notification
                                   </h4>
                                   {!notification.isRead && (
                                     <motion.div
-                                      className="shrink-0 w-2 h-2 bg-[#D23F57] rounded-full"
+                                      className="shrink-0 w-2 h-2 bg-[var(--color-danger)] rounded-full"
                                       initial={{ scale: 0 }}
                                       animate={{ scale: 1 }}
                                       transition={{ type: 'spring', stiffness: 500 }}

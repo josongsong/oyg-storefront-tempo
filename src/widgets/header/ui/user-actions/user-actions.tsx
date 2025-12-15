@@ -110,7 +110,7 @@ export function UserActions({
         <Heart className="w-5 h-5 stroke-1" />
         {wishlistCount > 0 && (
           <motion.span
-            className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center"
+            className="count-badge"
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ type: 'spring', stiffness: 500, damping: 15 }}
@@ -146,7 +146,7 @@ export function UserActions({
         </motion.div>
         {notificationCount > 0 && (
           <motion.span
-            className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center"
+            className="count-badge"
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ type: 'spring', stiffness: 500, damping: 15 }}
@@ -166,7 +166,7 @@ export function UserActions({
         <ShoppingBag className="w-5 h-5 stroke-1" />
         {cartCount > 0 && (
           <motion.span
-            className="absolute -top-0.5 -right-0.5 bg-[#D23F57] text-white text-[9px] font-bold rounded-full h-3.5 min-w-[14px] px-1 flex items-center justify-center"
+            className="count-badge"
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ type: 'spring', stiffness: 500, damping: 15 }}

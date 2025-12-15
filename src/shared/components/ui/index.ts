@@ -10,8 +10,11 @@
 
 // Pure UI components only
 export { Button } from './button'
+export { Badge, CountBadge } from './badge'
+export { IconButton } from './icon-button'
 export { Toast } from './toast'
 export { LoadingSpinner } from './loading-spinner'
 export { Breadcrumb } from './breadcrumb'
 export { Rating } from './rating'
+export { ResponsiveImage } from './responsive-image'
 export type { BreadcrumbItem } from './breadcrumb'

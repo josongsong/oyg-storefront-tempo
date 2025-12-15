@@ -353,7 +353,7 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
                             onClose({ stopPropagation: () => {} } as any)
                           }}
                         >
-                          <div className="relative aspect-square bg-[#F9F9F9] overflow-hidden mb-3">
+                          <div className="relative aspect-square card-surface mb-3">
                             {product.badge && (
                               <span className="absolute top-2 left-2 z-10 text-[10px] font-medium px-2 py-1 border border-black bg-white uppercase">
                                 {product.badge}

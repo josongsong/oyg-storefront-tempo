@@ -64,7 +64,7 @@ export function ProductDetailView({ selections, onSelectFlavor }: ProductDetailV
         </div>
 
         {/* MIDDLE COLUMN: Visual Preview */}
-        <div className="md:col-span-5 lg:col-span-5 bg-[#F9F9F9] md:bg-white flex flex-col justify-between relative overflow-hidden">
+        <div className="md:col-span-5 lg:col-span-5 card-surface md:bg-white flex flex-col justify-between relative overflow-hidden">
           <div className="grow flex items-center justify-center p-10 relative min-h-[400px]">
             <div className="flex items-end justify-center gap-4 md:gap-8 transform translate-y-10">
               <TubeVisual flavor={selections[0]} rotation={-5} />
@@ -102,7 +102,7 @@ export function ProductDetailView({ selections, onSelectFlavor }: ProductDetailV
 
         {/* RIGHT COLUMN: Lifestyle Image */}
         <div className="hidden lg:block lg:col-span-4 relative h-[calc(100vh-100px)] overflow-hidden">
-          <div className="absolute inset-0 bg-[#F0EAE5]">
+          <div className="absolute inset-0 card-surface-alt">
             <div className="w-full h-full flex items-center justify-center overflow-hidden">
               <img
                 src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=1200&auto=format&fit=crop"

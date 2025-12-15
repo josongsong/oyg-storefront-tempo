@@ -2,7 +2,7 @@ import { useSearchParams } from 'react-router-dom'
 import { useState, useMemo, useEffect } from 'react'
 import { ChevronDown, ChevronUp, Plus, Check, ChevronLeft, ChevronRight } from 'lucide-react'
 
-import { ProductCard } from '@/features/product/components'
+import { ProductCard, MobileFilterModal } from '@/features/product/components'
 import { LoadingSpinner } from '@/shared/components/ui/loading-spinner'
 import { FilterFacet } from '@/features/product/components'
 import { FILTER_DATA } from '@/features/product/constants/filter-data'
@@ -50,6 +50,7 @@ export function Component() {
   const [currentPage, setCurrentPage] = useState(1)
   const [itemsPerPage, setItemsPerPage] = useState(20)
   const [isPerPageOpen, setIsPerPageOpen] = useState(false)
+  const [isFilterOpen, setIsFilterOpen] = useState(false)
 
   // Load products on mount
   useEffect(() => {
@@ -162,6 +163,8 @@ export function Component() {
 
   return (
     <div className="max-w-[1600px] mx-auto px-4 md:px-8 pt-8 pb-32">
+      {/* Mobile Filter Modal */}
+      <MobileFilterModal isOpen={isFilterOpen} onClose={() => setIsFilterOpen(false)} />
       {/* Header */}
       <div className="mb-8">
         <h1 className="text-3xl md:text-4xl font-normal mb-2">{title}</h1>
@@ -182,8 +185,11 @@ export function Component() {
         <div className="flex-1">
           {/* Sort Bar */}
           <div className="flex justify-between items-center mb-6 pb-4 border-b border-gray-200">
-            <button className="md:hidden text-sm font-medium flex items-center gap-1 hover:text-gray-600">
-              Filter <Plus className="w-3 h-3" />
+            <button 
+              onClick={() => setIsFilterOpen(true)}
+              className="md:hidden text-sm font-medium flex items-center gap-1 px-4 py-2 border border-gray-300 hover:border-black transition-colors"
+            >
+              Filter <Plus className="w-4 h-4" />
             </button>
             <div className="ml-auto flex items-center gap-4">
               {/* Items per page */}
@@ -193,7 +199,7 @@ export function Component() {
                   className="flex items-center gap-2 cursor-pointer text-sm group"
                 >
                   <span className="text-gray-500">Show</span>
-                  <span className="font-medium underline decoration-gray-400 underline-offset-4 group-hover:decoration-black transition-all">
+                  <span className="brand-link">
                     {itemsPerPage}
                   </span>
                   {isPerPageOpen ? (
@@ -232,7 +238,7 @@ export function Component() {
                   className="flex items-center gap-2 cursor-pointer text-sm group"
                 >
                   <span className="text-gray-500">Sort by</span>
-                  <span className="font-medium underline decoration-gray-400 underline-offset-4 group-hover:decoration-black transition-all">
+                  <span className="brand-link">
                     {selectedLabel}
                   </span>
                   {isSortOpen ? (
@@ -283,7 +289,7 @@ export function Component() {
             </div>
           ) : (
             <>
-              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-5 gap-y-10">
+              <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-4 sm:gap-x-5 gap-y-8 sm:gap-y-10">
                 {displayProducts.map((product) => (
                   <ProductCard key={product.id} product={product} />
                 ))}
@@ -297,7 +303,7 @@ export function Component() {
                     <button
                       onClick={() => handlePageChange(currentPage - 1)}
                       disabled={currentPage === 1}
-                      className="p-2 border border-gray-300 hover:border-black disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:border-gray-300 transition-colors"
+                      className="icon-btn-bordered disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:border-gray-300"
                     >
                       <ChevronLeft className="w-4 h-4" />
                     </button>
@@ -327,7 +333,7 @@ export function Component() {
                     <button
                       onClick={() => handlePageChange(currentPage + 1)}
                       disabled={currentPage === totalPages}
-                      className="p-2 border border-gray-300 hover:border-black disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:border-gray-300 transition-colors"
+                      className="icon-btn-bordered disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:border-gray-300"
                     >
                       <ChevronRight className="w-4 h-4" />
                     </button>
