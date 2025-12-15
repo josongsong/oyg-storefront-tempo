@@ -19,7 +19,8 @@
     "test:e2e": "playwright test",
     "test:e2e:ui": "playwright test --ui",
     "test:e2e:report": "playwright show-report",
-    "docs:view": "node scripts/view-docs.js"
+    "docs:view": "node scripts/view-docs.js",
+    "docs:web": "open http://localhost:5173/docs/viewer.html && pnpm dev"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
@@ -58,6 +59,7 @@
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+    "github-markdown-css": "^5.8.1",
     "globals": "^16.5.0",
     "jsdom": "^27.3.0",
     "marked": "^17.0.1",

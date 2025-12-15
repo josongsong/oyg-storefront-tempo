@@ -131,15 +131,15 @@ export function Component() {
                   quantity: item.quantity || 1,
                   price: item.price || 0,
                   originalPrice: item.originalPrice,
-                  sku: item.sku,
-                  shade: item.shade,
-                  shadeOptions: item.shadeOptions,
+                  sku: (item as any).sku,
+                  shade: (item as any).shade,
+                  shadeOptions: (item as any).shadeOptions,
                   product: {
                     name: item.name || '',
                     brand: item.brand || '',
                     image: item.image || '',
                   },
-                  isNew: item.isNew,
+                  isNew: (item as any).isNew,
                 }}
                 onUpdateQuantity={handleUpdateQuantity}
                 onRemove={handleRemove}

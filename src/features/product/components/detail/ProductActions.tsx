@@ -7,7 +7,6 @@ import { Heart, ShoppingCart } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
 
 interface ProductActionsProps {
-  quantity: number
   isInWishlist: boolean
   isHoveringBasket: boolean
   bubbles: { id: number; x: number }[]
@@ -17,7 +16,6 @@ interface ProductActionsProps {
 }
 
 export function ProductActions({
-  quantity,
   isInWishlist,
   isHoveringBasket,
   bubbles,

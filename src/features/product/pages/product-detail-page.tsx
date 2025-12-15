@@ -229,7 +229,6 @@ export function Component() {
 
             {/* Add to Cart Button */}
             <ProductActions
-              quantity={quantity}
               isInWishlist={isInWishlist}
               isHoveringBasket={isHoveringBasket}
               bubbles={bubbles}

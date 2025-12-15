@@ -7,8 +7,6 @@ import { useCartStore } from '@/features/cart/stores'
 import { toProductId, toPrice } from '@/features/cart/utils/cart-helpers'
 import { getRandomCosmeticImage } from '@/shared/utils/image'
 
-import type { QuickShopProduct } from '@/features/product/types'
-
 interface CartIcon {
   id: number
   x: number
