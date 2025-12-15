@@ -61,6 +61,8 @@ global.IntersectionObserver = vi.fn().mockImplementation(() => ({
   unobserve: vi.fn(),
   disconnect: vi.fn(),
 }))
+
+vi.mock('lucide-react', () => ({
   Star: ({ className, ...props }: any) => (
     <svg className={className} data-testid="star-icon" {...props}>
       <title>Star</title>
