@@ -26,17 +26,13 @@ export function Component() {
     isHoveringBasket,
     bubbles,
     handleAddToCart: handleAddToBasket,
-    handleToggleWishlist: toggleItem,
+    handleToggleWishlist,
     isInWishlist,
   } = useProductDetail(slug)
 
   const INITIAL_REVIEWS_COUNT = 3
   const [displayedReviews, setDisplayedReviews] = useState(INITIAL_REVIEWS_COUNT)
   const [sortBy, setSortBy] = useState<'recent' | 'helpful' | 'highest' | 'lowest'>('recent')
-  
-  // Alias for compatibility
-  const setIsHoveringBasket = () => {}
-  const setBubbles = () => {}
 
   if (isLoading) {
     return <ProductDetailLoading />
@@ -236,21 +232,6 @@ export function Component() {
             <div className="flex gap-2">
               <motion.button 
                 onClick={handleAddToBasket}
-                onMouseEnter={() => {
-                  setIsHoveringBasket(true)
-                  // Generate bubbles
-                  const interval = setInterval(() => {
-                    setBubbles(prev => [...prev, { 
-                      id: Date.now() + Math.random(), 
-                      x: Math.random() * 100 
-                    }])
-                  }, 150)
-                  setTimeout(() => clearInterval(interval), 1000)
-                }}
-                onMouseLeave={() => {
-                  setIsHoveringBasket(false)
-                  setBubbles([])
-                }}
                 className="relative flex-1 bg-black text-white py-3 px-6 text-sm font-bold uppercase tracking-wide overflow-hidden shadow-lg"
                 animate={{ 
                   backgroundColor: isHoveringBasket 
@@ -317,7 +298,7 @@ export function Component() {
                           ease: "easeOut"
                         }}
                         onAnimationComplete={() => {
-                          setBubbles(prev => prev.filter(b => b.id !== bubble.id))
+                          // Animation complete
                         }}
                       />
                     )
@@ -347,29 +328,17 @@ export function Component() {
               </motion.button>
               <motion.button 
                 onClick={() => {
-                  if (product) {
-                    const isCurrentlyInWishlist = isInWishlist(product.product_id)
-                    toggleItem({
-                      id: product.product_id,
-                      name: product.product_name,
-                      brand: product.brand,
-                      price: product.sale_price,
-                      image: product.images[0] || product.detailed_images[0],
-                      rating: parseFloat(product.rating_avg),
-                      reviews: parseInt(product.rating_count),
-                    })
-                    
-                    addToast(
-                      isCurrentlyInWishlist 
-                        ? 'Removed from wishlist' 
-                        : 'Added to wishlist',
-                      'success',
-                      2000
-                    )
-                  }
+                  handleToggleWishlist()
+                  addToast(
+                    isInWishlist 
+                      ? 'Removed from wishlist' 
+                      : 'Added to wishlist',
+                    'success',
+                    2000
+                  )
                 }}
                 className={`p-3 border-2 transition-all duration-300 hover:scale-110 active:scale-95 ${
-                  product && isInWishlist(product.product_id)
+                  isInWishlist
                     ? 'border-red-500 bg-red-50'
                     : 'border-gray-300 hover:border-black hover:bg-gray-50'
                 }`}
@@ -378,7 +347,7 @@ export function Component() {
               >
                 <Heart 
                   className={`w-5 h-5 transition-colors ${
-                    product && isInWishlist(product.product_id)
+                    isInWishlist
                       ? 'fill-red-500 text-red-500'
                       : 'fill-none text-black'
                   }`} 

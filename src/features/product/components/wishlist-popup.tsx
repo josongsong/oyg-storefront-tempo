@@ -19,10 +19,10 @@ export function WishlistPopup() {
       : item.price
     
     addToCart({
-      productId: item.id,
+      productId: item.id as any,
       name: item.name,
       brand: item.brand,
-      price: priceValue,
+      price: priceValue as any,
       image: item.image,
     }, 1)
     

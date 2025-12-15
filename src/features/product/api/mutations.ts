@@ -3,8 +3,11 @@
  */
 
 import { useMutation, useQueryClient } from '@tanstack/react-query'
+
 import { useToastStore } from '@/app/stores/toast.store'
 import { productQueries } from './queries'
+import { logger } from '@/shared/utils/logger'
+
 import type { ProductId, Product } from '@/entities/product'
 
 // API functions (implement actual API calls)

@@ -76,6 +76,9 @@ export interface GlossierProduct {
   rating: number
   reviews: number
   badge?: string
+  badgeSecondary?: string
   valueText?: string
   image: string
+  originalPrice?: string
+  isNew?: boolean
 }

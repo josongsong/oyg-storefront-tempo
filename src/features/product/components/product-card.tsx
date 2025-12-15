@@ -45,17 +45,15 @@ function ProductCardComponent({
   }, [])
 
   const handleQuickShop = (e: React.MouseEvent) => {
-    // 외부에서 onQuickShop이 제공되면 그것을 사용
+    e.preventDefault()
+    e.stopPropagation()
+    
     if (onQuickShop) {
-      e.preventDefault()
-      e.stopPropagation()
       onQuickShop()
       return
     }
 
     // 기본 QuickShop 로직
-    e.preventDefault()
-    e.stopPropagation()
 
     const quickShopProduct: QuickShopProduct = {
       id: product.id,

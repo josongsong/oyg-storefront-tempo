@@ -4,9 +4,11 @@ import { Star, Upload } from 'lucide-react'
 import { motion } from 'framer-motion'
 
 import { loadProductById } from '@/features/product/utils'
-import type { ProductData, ReviewSubmitData } from '@/features/product/types'
 import { useToastStore } from '@/app/stores'
 import { productApi } from '@/features/product/api'
+import { logger } from '@/shared/utils/logger'
+
+import type { ProductData, ReviewSubmitData } from '@/features/product/types'
 
 export function Component() {
   const { slug } = useParams<{ slug: string }>()

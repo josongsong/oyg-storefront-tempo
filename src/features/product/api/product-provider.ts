@@ -4,7 +4,6 @@
  */
 
 import type { GlossierProduct } from '@/shared/types/glossier'
-import { createGlossierProduct } from '@/test/factories'
 import { logger } from '@/shared/utils/logger'
 import { shuffleArray } from '@/shared/utils/product-transformer'
 
@@ -17,23 +16,28 @@ const isDevelopment = import.meta.env.DEV
  * Mock 상품 데이터 생성 (개발용)
  */
 function generateMockProducts(count: number = 8): GlossierProduct[] {
-  return Array.from({ length: count }, (_, i) => 
-    createGlossierProduct({
-      id: String(i + 1),
-      name: [
-        'Milky Jelly Cleanser',
-        'Water Sleeping Mask',
-        'Super Pure Serum',
-        'Hydrating Face Mist',
-        'Daily Moisturizer',
-        'Eye Cream',
-        'Face Oil',
-        'Night Repair',
-      ][i] ?? `Product ${i + 1}`,
-      brand: ['GLOSSIER', 'LANEIGE', 'MECCA MAX'][i % 3],
-      badge: i % 3 === 0 ? 'BESTSELLER' : i % 4 === 0 ? 'NEW' : undefined,
-    })
-  )
+  const names = [
+    'Milky Jelly Cleanser',
+    'Water Sleeping Mask',
+    'Super Pure Serum',
+    'Hydrating Face Mist',
+    'Daily Moisturizer',
+    'Eye Cream',
+    'Face Oil',
+    'Night Repair',
+  ]
+  const brands = ['GLOSSIER', 'LANEIGE', 'MECCA MAX']
+  
+  return Array.from({ length: count }, (_, i) => ({
+    id: i + 1,
+    name: names[i] ?? `Product ${i + 1}`,
+    brand: brands[i % 3],
+    price: `$${(Math.random() * 50 + 20).toFixed(2)}`,
+    rating: Number((Math.random() * 1 + 4).toFixed(1)),
+    reviews: Math.floor(Math.random() * 1000) + 10,
+    badge: i % 3 === 0 ? 'BESTSELLER' : i % 4 === 0 ? 'NEW' : undefined,
+    image: `/cosmetics/cosmetic${(i % 2) + 1}.png`,
+  }))
 }
 
 /**
@@ -88,7 +92,7 @@ export async function searchProducts(query: string): Promise<GlossierProduct[]> 
 /**
  * 카테고리별 필터링
  */
-export async function getProductsByCategory(category: string): Promise<GlossierProduct[]> {
+export async function getProductsByCategory(_category: string): Promise<GlossierProduct[]> {
   const products = await getProducts()
   // 실제 카테고리 필드가 있다면 필터링
   return products
@@ -116,15 +120,12 @@ export async function getRecommendedProducts(
  * 유사 상품 가져오기
  */
 export async function getSimilarProducts(
-  category?: string,
+  _category?: string,
   count: number = 6
 ): Promise<GlossierProduct[]> {
   const products = await getProducts()
   
-  // 카테고리 필터링 (실제 구현 시)
-  const filtered = category ? products : products
-  
-  return shuffleArray(filtered).slice(0, count)
+  return shuffleArray(products).slice(0, count)
 }
 
 /**

@@ -9,6 +9,10 @@ export interface CartItem extends BaseEntity {
   variant?: ProductVariant
   price: number
   originalPrice?: number
+  sku?: string
+  shade?: string
+  shadeOptions?: string[]
+  isNew?: boolean
 }
 
 export interface Cart extends BaseEntity {

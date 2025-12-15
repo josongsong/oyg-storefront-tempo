@@ -1,6 +1,8 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 
+import { logger } from '@/shared/utils/logger'
+
 export interface WishlistItem {
   id: string
   name: string

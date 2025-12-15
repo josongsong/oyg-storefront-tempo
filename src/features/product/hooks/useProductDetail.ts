@@ -14,7 +14,6 @@ import { getRandomProducts } from '@/shared/utils/product-transformer'
 import { logger } from '@/shared/utils/logger'
 
 import type { ProductData, ProductListItem } from '@/features/product/types'
-import type { Price } from '@/entities/product'
 
 type DeliveryOption = 'free-shipping' | 'auto-replenish' | 'same-day' | 'pickup'
 
@@ -67,12 +66,12 @@ export function useProductDetail(slug: string | undefined) {
 
     try {
       addItem({
-        productId: product.product_id,
+        productId: product.product_id as any,
         name: product.product_name,
         brand: product.brand,
         image: product.images[0] || product.detailed_images[0] || '',
-        price: salePrice as Price,
-        originalPrice: listPrice as Price | undefined,
+        price: salePrice as any,
+        originalPrice: listPrice as any,
       }, quantity)
       
       // Basket animation

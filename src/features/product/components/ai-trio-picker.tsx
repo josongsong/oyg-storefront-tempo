@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Loader2, Sparkles, X } from 'lucide-react'
 
 import { FLAVORS } from '@/features/product/constants/product-data'
+import { logger } from '@/shared/utils/logger'
 
 import type { Flavor } from '@/shared/types/glossier'
 

@@ -94,11 +94,11 @@ export function QuickShopModal() {
     const price = parseFloat(priceStr) || 0
 
     addItem({
-      productId: String(product.id),
+      productId: String(product.id) as any,
       name: product.name,
       brand: product.brand || 'Unknown Brand',
       image: product.images?.[0] || getRandomCosmeticImage(),
-      price: price,
+      price: price as any,
       options: {
         shade: shadeName,
         size: sizeName,

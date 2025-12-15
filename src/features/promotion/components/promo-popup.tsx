@@ -2,6 +2,7 @@ import { useState } from 'react'
 
 import { usePromoPopupStore } from '@/features/promotion/stores'
 import { Modal } from '@/shared/components/Modal'
+import { logger } from '@/shared/utils/logger'
 
 export function PromoPopup() {
   const { isOpen, closePopup } = usePromoPopupStore()

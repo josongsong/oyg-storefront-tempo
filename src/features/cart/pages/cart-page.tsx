@@ -13,11 +13,9 @@ import {
   SHIPPING_CONFIG, 
   TAX_CONFIG 
 } from '@/features/cart/constants'
-import { createCartItemId } from '@/features/cart/types'
 import { logger } from '@/shared/utils/logger'
 
 import type { GlossierProduct } from '@/shared/types/glossier'
-import type { CartItem as CartItemType } from '@/features/cart/types/cart-item'
 
 export function Component() {
   const navigate = useNavigate()
@@ -40,15 +38,15 @@ export function Component() {
   }, [])
 
   const handleUpdateQuantity = (id: string, quantity: number) => {
-    updateQuantity(createCartItemId(id), quantity)
+    updateQuantity(id as any, quantity)
   }
 
   const handleRemove = (id: string) => {
-    removeItem(createCartItemId(id))
+    removeItem(id as any)
   }
 
   const handleMoveToWishlist = (id: string) => {
-    const item = items.find((i): i is CartItemType => i.id === id)
+    const item = items.find((i: any) => i.id === id)
     if (item) {
       addToWishlist({
         id: item.productId,
@@ -60,13 +58,13 @@ export function Component() {
         reviews: DEFAULT_PRODUCT_META.REVIEWS,
       })
     }
-    removeItem(createCartItemId(id))
+    removeItem(id as any)
   }
 
   const handleChangeShade = (id: string, _shade: string) => {
-    const currentItem = items.find((i): i is CartItemType => i.id === id)
+    const currentItem = items.find((i: any) => i.id === id)
     if (currentItem?.quantity) {
-      updateQuantity(createCartItemId(id), currentItem.quantity)
+      updateQuantity(id as any, currentItem.quantity)
     }
   }
 

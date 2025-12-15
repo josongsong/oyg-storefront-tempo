@@ -1,7 +1,10 @@
 import { motion, AnimatePresence } from 'framer-motion'
 import { Bell, Package, Tag, AlertCircle, MessageSquare, X, Check, Trash2 } from 'lucide-react'
-import { useNotificationStore } from '@/features/notification/stores'
 import { useEffect, useRef } from 'react'
+
+import { useNotificationStore } from '@/features/notification/stores'
+import { logger } from '@/shared/utils/logger'
+
 import type { Notification } from '@/features/notification/stores/notification.store'
 
 const NOTIFICATION_ICONS = {
