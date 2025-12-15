@@ -6,6 +6,7 @@ import { motion } from 'framer-motion'
 import { useQuickShopStore, useWishlistStore } from '@/features/product/stores'
 import { loadAllProducts } from '@/features/product/utils'
 import { Badge } from '@/shared/components/ui/badge'
+import { LazyImage } from '@/shared/components/ui/lazy-image'
 
 import type { GlossierProduct } from '@/shared/types/glossier'
 import type { QuickShopProduct } from '@/features/product/types'
@@ -53,8 +54,6 @@ function ProductCardComponent({
       return
     }
 
-    // 기본 QuickShop 로직
-
     const quickShopProduct: QuickShopProduct = {
       id: product.id,
       name: product.name,
@@ -81,6 +80,9 @@ function ProductCardComponent({
 
     openQuickShop(quickShopProduct)
   }
+  
+  // QuickShop 기능 사용 (미래 기능)
+  void handleQuickShop
 
   const handleCardClick = () => {
     // Pick a random product ID from the loaded products
@@ -133,10 +135,11 @@ function ProductCardComponent({
             />
           </motion.button>
         )}
-        <img
+        <LazyImage
           src={product.image}
           alt={product.name}
           className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700"
+          placeholderClassName="bg-gray-100"
           onError={(e) => {
             ;(e.target as HTMLImageElement).style.display = 'none'
           }}

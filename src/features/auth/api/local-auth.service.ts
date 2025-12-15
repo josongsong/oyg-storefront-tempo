@@ -1,7 +1,9 @@
 /**
  * Local Auth Service
- * LocalStorage 기반 인증 서비스
+ * LocalStorage 기반 인증 서비스 (암호화 적용)
  */
+
+import { setSecureItem, getSecureItem, removeSecureItem } from '@/shared/utils/crypto'
 
 interface User {
   email: string
@@ -21,22 +23,34 @@ const USERS_KEY = 'oyg_users'
 const CURRENT_USER_KEY = 'oyg_current_user'
 
 export const localAuthService = {
-  getUsers(): User[] {
-    const users = localStorage.getItem(USERS_KEY)
-    return users ? JSON.parse(users) : []
+  async getUsers(): Promise<User[]> {
+    try {
+      const users = await getSecureItem(USERS_KEY)
+      return users ? JSON.parse(users) : []
+    } catch {
+      // Fallback to plain localStorage for backward compatibility
+      const users = localStorage.getItem(USERS_KEY)
+      return users ? JSON.parse(users) : []
+    }
   },
 
-  saveUsers(users: User[]): void {
-    localStorage.setItem(USERS_KEY, JSON.stringify(users))
+  async saveUsers(users: User[]): Promise<void> {
+    try {
+      await setSecureItem(USERS_KEY, JSON.stringify(users))
+    } catch (error) {
+      console.error('Failed to save users securely:', error)
+      // Fallback
+      localStorage.setItem(USERS_KEY, JSON.stringify(users))
+    }
   },
 
-  findUserByEmail(email: string): User | undefined {
-    const users = this.getUsers()
+  async findUserByEmail(email: string): Promise<User | undefined> {
+    const users = await this.getUsers()
     return users.find((u) => u.email === email)
   },
 
-  register(email: string, name: string, password: string, phone?: string): LoginResponse {
-    const users = this.getUsers()
+  async register(email: string, name: string, password: string, phone?: string): Promise<LoginResponse> {
+    const users = await this.getUsers()
     
     if (users.some((u) => u.email === email)) {
       return {
@@ -54,10 +68,10 @@ export const localAuthService = {
     }
 
     users.push(newUser)
-    this.saveUsers(users)
+    await this.saveUsers(users)
 
     const { password: _, ...userWithoutPassword } = newUser
-    this.setCurrentUser(userWithoutPassword)
+    await this.setCurrentUser(userWithoutPassword)
 
     return {
       success: true,
@@ -65,8 +79,8 @@ export const localAuthService = {
     }
   },
 
-  login(email: string, password: string): LoginResponse {
-    const user = this.findUserByEmail(email)
+  async login(email: string, password: string): Promise<LoginResponse> {
+    const user = await this.findUserByEmail(email)
 
     if (!user) {
       return {
@@ -83,7 +97,7 @@ export const localAuthService = {
     }
 
     const { password: _, ...userWithoutPassword } = user
-    this.setCurrentUser(userWithoutPassword)
+    await this.setCurrentUser(userWithoutPassword)
 
     return {
       success: true,
@@ -91,25 +105,36 @@ export const localAuthService = {
     }
   },
 
-  setCurrentUser(user: Omit<User, 'password'>): void {
-    localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(user))
+  async setCurrentUser(user: Omit<User, 'password'>): Promise<void> {
+    try {
+      await setSecureItem(CURRENT_USER_KEY, JSON.stringify(user))
+    } catch (error) {
+      console.error('Failed to set current user securely:', error)
+      localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(user))
+    }
   },
 
-  getCurrentUser(): Omit<User, 'password'> | null {
-    const user = localStorage.getItem(CURRENT_USER_KEY)
-    return user ? JSON.parse(user) : null
+  async getCurrentUser(): Promise<Omit<User, 'password'> | null> {
+    try {
+      const user = await getSecureItem(CURRENT_USER_KEY)
+      return user ? JSON.parse(user) : null
+    } catch {
+      // Fallback
+      const user = localStorage.getItem(CURRENT_USER_KEY)
+      return user ? JSON.parse(user) : null
+    }
   },
 
   logout(): void {
-    localStorage.removeItem(CURRENT_USER_KEY)
+    removeSecureItem(CURRENT_USER_KEY)
   },
 
   isLoggedIn(): boolean {
     return this.getCurrentUser() !== null
   },
 
-  initTestAccounts(): void {
-    const users = this.getUsers()
+  async initTestAccounts(): Promise<void> {
+    const users = await this.getUsers()
     
     if (users.some((u) => u.email === 'test@oliveyoung.com')) {
       return

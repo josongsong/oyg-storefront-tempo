@@ -19,12 +19,12 @@ export function WishlistPopup() {
       : item.price
     
     addToCart({
-      productId: item.id as any,
+      productId: item.id,
       name: item.name,
       brand: item.brand,
-      price: priceValue as any,
+      price: priceValue,
       image: item.image,
-    }, 1)
+    } as any, 1)
     
     addToast(
       'Added to cart',

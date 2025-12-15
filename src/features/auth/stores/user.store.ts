@@ -12,7 +12,7 @@ interface User {
 interface UserState {
   user: User | null
   isLoggedIn: boolean
-  initUser: () => void
+  initUser: () => Promise<void>
   login: (user: User) => void
   logout: () => void
 }
@@ -28,15 +28,20 @@ export const useUserStore = create<UserState>()(
         user: null,
         isLoggedIn: false,
         
-        initUser: () => {
-          // 테스트 계정 초기화
-          localAuthService.initTestAccounts()
-          
-          const currentUser = localAuthService.getCurrentUser()
-          set({ 
-            user: currentUser, 
-            isLoggedIn: currentUser !== null 
-          })
+        initUser: async () => {
+          try {
+            // 테스트 계정 초기화
+            await localAuthService.initTestAccounts()
+            
+            const currentUser = await localAuthService.getCurrentUser()
+            set({ 
+              user: currentUser, 
+              isLoggedIn: currentUser !== null 
+            })
+          } catch (error) {
+            console.error('Failed to init user:', error)
+            set({ user: null, isLoggedIn: false })
+          }
         },
         
         login: (user: User) => {
@@ -56,7 +61,7 @@ export const useUserStore = create<UserState>()(
         }),
         onRehydrateStorage: () => (_state, error) => {
           if (error) {
-            logger.error('Failed to rehydrate user:', error)
+            console.error('Failed to rehydrate user:', error)
           }
         },
       }

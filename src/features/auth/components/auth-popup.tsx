@@ -35,11 +35,11 @@ export function AuthPopup() {
     }
   }, [isOpen])
 
-  const handleEmailSubmit = (e: React.FormEvent) => {
+  const handleEmailSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     if (email) {
       // 기존 사용자 확인
-      const existingUser = localAuthService.findUserByEmail(email)
+      const existingUser = await localAuthService.findUserByEmail(email)
       if (existingUser) {
         setIsExistingUser(true)
         setName(existingUser.name)
@@ -51,10 +51,10 @@ export function AuthPopup() {
     }
   }
 
-  const handleLoginSubmit = (e: React.FormEvent) => {
+  const handleLoginSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     if (password) {
-      const result = localAuthService.login(email, password)
+      const result = await localAuthService.login(email, password)
       
       if (result.success) {
         setStep('complete')
@@ -69,10 +69,10 @@ export function AuthPopup() {
     }
   }
 
-  const handleRegisterSubmit = (e: React.FormEvent) => {
+  const handleRegisterSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     if (name && password) {
-      const result = localAuthService.register(email, name, password, phone)
+      const result = await localAuthService.register(email, name, password, phone)
       
       if (result.success) {
         setStep('complete')

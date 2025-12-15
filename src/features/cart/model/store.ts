@@ -5,6 +5,8 @@
 import { create } from 'zustand'
 import { persist, devtools } from 'zustand/middleware'
 import { immer } from 'zustand/middleware/immer'
+
+import { logger } from '@/shared/utils/logger'
 import { enableMapSet } from 'immer'
 import { useToastStore } from '@/app/stores/toast.store'
 import type { CartItem, CartItemId, CartItemOptions, CartSummary, ShippingInfo } from './types'

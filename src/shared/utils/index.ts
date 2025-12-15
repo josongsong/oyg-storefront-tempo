@@ -2,6 +2,7 @@
 export * from './cn'
 export * from './format'
 export * from './image'
+export * from './crypto'
 export * from './logger'
 export * from './product-transformer'
 

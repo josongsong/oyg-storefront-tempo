@@ -63,10 +63,10 @@ export const useAIAgentStore = create<AIAgentState & AIAgentActions>()(
         }
         
         // Add user message
-        addMessage({
-          role: 'user',
-          content: params?.query || actionLabels[action],
-        })
+      addMessage({
+        role: 'user',
+        content: String(params?.query || actionLabels[action] || ''),
+      })
 
         // Start typing
         setTyping(true)

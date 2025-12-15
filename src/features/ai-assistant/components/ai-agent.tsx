@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { X, Send, ChevronDown, Wand2, Star, Package, Truck, Clock } from 'lucide-react'
+import { X, Send, Wand2, Star, Package, Truck, Clock } from 'lucide-react'
+
 import { useAIAgentStore } from '@/features/ai-assistant/stores'
 
 export function AIAgent() {
