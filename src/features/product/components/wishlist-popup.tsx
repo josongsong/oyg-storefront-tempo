@@ -15,13 +15,12 @@ export function WishlistPopup() {
 
   const handleAddToCart = (item: typeof items[0]) => {
     addToCart({
-      productId: item.id,
+      productId: item.id as any,
       name: item.name,
       brand: item.brand,
-      price: typeof item.price === 'string' ? parseFloat(item.price.replace(/[^0-9.]/g, '')) : item.price,
+      price: (typeof item.price === 'string' ? parseFloat(item.price.replace(/[^0-9.]/g, '')) : item.price) as any,
       image: item.image,
-      quantity: 1,
-    })
+    }, 1)
     
     addToast(
       'Added to cart',

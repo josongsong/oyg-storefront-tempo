@@ -155,14 +155,13 @@ export function Component() {
     if (!product) return
 
     addItem({
-      productId: product.product_id,
+      productId: product.product_id as any,
       name: product.product_name,
       brand: product.brand,
       image: product.images[0] || product.detailed_images[0],
-      price: parseFloat(product.sale_price),
-      originalPrice: product.list_price ? parseFloat(product.list_price) : undefined,
-      quantity: quantity,
-    })
+      price: parseFloat(product.sale_price) as any,
+      originalPrice: product.list_price ? (parseFloat(product.list_price) as any) : undefined,
+    }, quantity)
 
     // Success feedback is handled by cart store toast
   }

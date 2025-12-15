@@ -48,3 +48,6 @@ export interface AsyncState<T> {
 
 // Legacy Glossier types (호환성 유지)
 export * from './glossier'
+
+// Route types (React Router v7)
+export type { RouteParams, ProductListSearchParams, RouteHandle } from './route'

@@ -94,15 +94,16 @@ export function QuickShopModal() {
     const price = parseFloat(priceStr) || 0
 
     addItem({
-      productId: String(product.id),
+      productId: String(product.id) as any,
       name: product.name,
       brand: product.brand || 'Unknown Brand',
       image: product.images?.[0] || getRandomCosmeticImage(),
-      price: price,
-      quantity: quantity,
-      shade: shadeName,
-      size: sizeName,
-    })
+      price: price as any,
+      options: {
+        shade: shadeName,
+        size: sizeName,
+      }
+    }, quantity)
 
     // 모달 닫기
     closeQuickShop()

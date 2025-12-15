@@ -19,8 +19,10 @@ interface UserState {
 
 const isDev = import.meta.env.DEV
 
+const middleware = isDev ? devtools : ((f: any) => f)
+
 export const useUserStore = create<UserState>()(
-  (isDev ? devtools : (fn) => fn)(
+  middleware(
     persist(
       (set) => ({
         user: null,
@@ -37,7 +39,7 @@ export const useUserStore = create<UserState>()(
           })
         },
         
-        login: (user) => {
+        login: (user: User) => {
           set({ user, isLoggedIn: true })
         },
         
@@ -48,11 +50,11 @@ export const useUserStore = create<UserState>()(
       }),
       {
         name: 'user-storage',
-        partialize: (state) => ({ 
+        partialize: (state: UserState) => ({ 
           user: state.user,
           isLoggedIn: state.isLoggedIn 
         }),
-        onRehydrateStorage: () => (state, error) => {
+        onRehydrateStorage: () => (_state, error) => {
           if (error) {
             console.error('Failed to rehydrate user:', error)
           }

@@ -4,13 +4,7 @@ import { useToastStore } from '@/app/stores/toast.store'
 describe('useToastStore', () => {
   beforeEach(() => {
     // Clear all toasts and timeouts
-    const state = useToastStore.getState()
-    state.toasts.forEach((toast) => {
-      if (toast.timeoutId) {
-        clearTimeout(toast.timeoutId)
-      }
-    })
-    useToastStore.setState({ toasts: [] }, true)
+    useToastStore.getState().clearToasts()
     
     vi.clearAllTimers()
     vi.useFakeTimers()
@@ -18,13 +12,7 @@ describe('useToastStore', () => {
 
   afterEach(() => {
     // Clear all toasts and timeouts
-    const state = useToastStore.getState()
-    state.toasts.forEach((toast) => {
-      if (toast.timeoutId) {
-        clearTimeout(toast.timeoutId)
-      }
-    })
-    useToastStore.setState({ toasts: [] }, true)
+    useToastStore.getState().clearToasts()
     
     vi.restoreAllMocks()
   })

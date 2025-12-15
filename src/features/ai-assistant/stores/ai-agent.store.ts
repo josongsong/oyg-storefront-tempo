@@ -53,7 +53,7 @@ export const useAIAgentStore = create<AIAgentState & AIAgentActions>()(
       handleAction: async (action, params) => {
         const { addMessage, setTyping } = get()
         
-        // Add user message
+        // Action labels
         const actionLabels: Record<AIActionType, string> = {
           search_products: 'Search for products',
           check_orders: 'Check my orders',
@@ -62,99 +62,73 @@ export const useAIAgentStore = create<AIAgentState & AIAgentActions>()(
           custom: 'Help me',
         }
         
+        // Add user message
         addMessage({
           role: 'user',
           content: params?.query || actionLabels[action],
         })
 
-        // Simulate AI thinking
+        // Start typing
         setTyping(true)
         
-        await new Promise((resolve) => setTimeout(resolve, 1000))
+        try {
+          await new Promise((resolve) => setTimeout(resolve, 800))
+          
+          // Handle action
+          let response: Partial<AIMessage> = {}
+          
+          switch (action) {
+            case 'search_products':
+              response = {
+                content: params?.query 
+                  ? `I found several products matching "${params.query}". Here are the top results:\n\n1. Premium Face Cream - $45\n2. Hydrating Serum - $32\n3. Vitamin C Toner - $28\n\nWould you like to see more details?`
+                  : 'What product would you like to search for?'
+              }
+              break
 
-        let response = ''
-        let suggestions = initialSuggestions
+            case 'check_orders':
+              response = {
+                content: 'Here are your recent orders:',
+                orders: [
+                  { id: '#12345', date: 'Dec 1, 2025', status: 'delivered', items: 'Face Cream, Serum', total: '₩83,000' },
+                  { id: '#12344', date: 'Dec 3, 2025', status: 'in_transit', items: 'Vitamin C Toner', total: '₩28,000' },
+                  { id: '#12343', date: 'Dec 4, 2025', status: 'processing', items: 'Face Mask Set', total: '₩24,000' },
+                ],
+              }
+              break
 
-        switch (action) {
-          case 'search_products':
-            response = params?.query 
-              ? `I found several products matching "${params.query}". Here are the top results:\n\n1. Premium Face Cream - $45\n2. Hydrating Serum - $32\n3. Vitamin C Toner - $28\n\nWould you like to see more details?`
-              : 'What product would you like to search for?'
-            break
+            case 'check_points':
+              response = {
+                content: '💰 Your current point balance: 15,450 points\n\n• Earned this month: 3,200 points\n• Expiring soon: 500 points (Dec 31, 2025)\n• Membership tier: Gold\n\nYou can use your points for your next purchase!'
+              }
+              break
 
-          case 'check_orders':
-            response = 'Here are your recent orders:'
-            addMessage({
-              role: 'assistant',
-              content: response,
-              orders: [
-                {
-                  id: '#12345',
-                  date: 'Dec 1, 2025',
-                  status: 'delivered',
-                  items: 'Face Cream, Serum',
-                  total: '₩83,000',
-                },
-                {
-                  id: '#12344',
-                  date: 'Dec 3, 2025',
-                  status: 'in_transit',
-                  items: 'Vitamin C Toner',
-                  total: '₩28,000',
-                },
-                {
-                  id: '#12343',
-                  date: 'Dec 4, 2025',
-                  status: 'processing',
-                  items: 'Face Mask Set',
-                  total: '₩24,000',
-                },
-              ],
-              suggestions,
-            })
-            setTyping(false)
-            return
+            case 'recommend_products':
+              response = {
+                content: 'Based on your preferences, here are some products you might love:',
+                products: [
+                  { id: '1', name: 'Hydrating Face Cream', price: '₩45,000', image: '/cosmetics/cosmetic1.png', rating: 4.5 },
+                  { id: '2', name: 'Vitamin C Serum', price: '₩38,000', image: '/cosmetics/cosmetic2.png', rating: 4.8 },
+                ],
+              }
+              break
 
-          case 'check_points':
-            response = '💰 Your current point balance: 15,450 points\n\n• Earned this month: 3,200 points\n• Expiring soon: 500 points (Dec 31, 2025)\n• Membership tier: Gold\n\nYou can use your points for your next purchase!'
-            break
-
-          case 'recommend_products':
-            response = 'Based on your preferences, here are some products you might love:'
-            addMessage({
-              role: 'assistant',
-              content: response,
-              products: [
-                {
-                  id: '1',
-                  name: 'Hydrating Face Cream',
-                  price: '₩45,000',
-                  image: '/cosmetics/cosmetic1.png',
-                  rating: 4.5,
-                },
-                {
-                  id: '2',
-                  name: 'Vitamin C Serum',
-                  price: '₩38,000',
-                  image: '/cosmetics/cosmetic2.png',
-                  rating: 4.8,
-                },
-              ],
-              suggestions,
-            })
-            setTyping(false)
-            return
-
-          default:
-            response = 'I\'m here to help! You can ask me to search products, check orders, view your points, or get recommendations.'
+            default:
+              response = {
+                content: 'I\'m here to help! You can ask me to search products, check orders, view your points, or get recommendations.'
+              }
+          }
+          
+          // Add response
+          addMessage({
+            role: 'assistant',
+            content: response.content || '',
+            ...response,
+            suggestions: initialSuggestions,
+          })
+        } finally {
+          setTyping(false)
         }
-
-        setTyping(false)
-        addMessage({
-          role: 'assistant',
-          content: response,
-          suggestions,
-        })
       },
     }),
     {

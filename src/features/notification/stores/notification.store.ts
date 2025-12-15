@@ -1,5 +1,7 @@
 import { create } from 'zustand'
 import { persist, devtools } from 'zustand/middleware'
+import { immer } from 'zustand/middleware/immer'
+import { createInitialNotifications } from '../constants/initial-notifications'
 
 export interface Notification {
   id: string
@@ -15,87 +17,66 @@ export interface Notification {
 interface NotificationState {
   notifications: Notification[]
   isOpen: boolean
+  
+  // Commands
   addNotification: (notification: Omit<Notification, 'id' | 'timestamp' | 'isRead'>) => void
   markAsRead: (id: string) => void
   markAllAsRead: () => void
   removeNotification: (id: string) => void
   clearAll: () => void
+  
+  // UI Actions
   toggleOpen: () => void
   closeNotification: () => void
+  
+  // Queries
   getUnreadCount: () => number
 }
 
 const isDev = import.meta.env.DEV
-
-const initialNotifications: Notification[] = [
-  {
-    id: crypto.randomUUID(),
-    type: 'promotion',
-    title: 'Special Discount Event',
-    message: 'Up to 30% off on all Oliveyoung products! Check it out now.',
-    timestamp: Date.now() - 3600000,
-    isRead: false,
-    link: '/promotions',
-  },
-  {
-    id: crypto.randomUUID(),
-    type: 'order',
-    title: 'Delivery Complete',
-    message: 'Your order has been delivered.',
-    timestamp: Date.now() - 7200000,
-    isRead: false,
-    link: '/orders',
-  },
-  {
-    id: crypto.randomUUID(),
-    type: 'system',
-    title: 'System Notice',
-    message: 'Oliveyoung USA Times Square store now open!',
-    timestamp: Date.now() - 86400000,
-    isRead: true,
-  },
-]
+const middleware = isDev ? devtools : ((f: any) => f)
+const MAX_NOTIFICATIONS = 50
 
 export const useNotificationStore = create<NotificationState>()(
-  (isDev ? devtools : (fn) => fn)(
+  middleware(
     persist(
-      (set, get) => ({
-        notifications: isDev ? initialNotifications : [],
+      immer<NotificationState>((set, get) => ({
+        notifications: isDev ? createInitialNotifications() : [],
         isOpen: false,
 
-        addNotification: (notification) => {
-          const newNotification: Notification = {
-            ...notification,
-            id: crypto.randomUUID(),
-            timestamp: Date.now(),
-            isRead: false,
-          }
-          set((state) => ({
-            notifications: [newNotification, ...state.notifications].slice(0, 50), // 최대 50개로 제한
-          }))
+        addNotification: (notification: Omit<Notification, 'id' | 'timestamp' | 'isRead'>) => {
+          set((state: NotificationState) => {
+            const newNotification: Notification = {
+              ...notification,
+              id: crypto.randomUUID(),
+              timestamp: Date.now(),
+              isRead: false,
+            }
+            state.notifications = [newNotification, ...state.notifications].slice(0, MAX_NOTIFICATIONS)
+          })
         },
 
-        markAsRead: (id) => {
-          set((state) => ({
-            notifications: state.notifications.map((notification) =>
-              notification.id === id ? { ...notification, isRead: true } : notification
-            ),
-          }))
+        markAsRead: (id: string) => {
+          set((state: NotificationState) => {
+            const notification = state.notifications.find((n: Notification) => n.id === id)
+            if (notification) {
+              notification.isRead = true
+            }
+          })
         },
 
         markAllAsRead: () => {
-          set((state) => ({
-            notifications: state.notifications.map((notification) => ({
-              ...notification,
-              isRead: true,
-            })),
-          }))
+          set((state: NotificationState) => {
+            state.notifications.forEach((n: Notification) => {
+              n.isRead = true
+            })
+          })
         },
 
-        removeNotification: (id) => {
-          set((state) => ({
-            notifications: state.notifications.filter((notification) => notification.id !== id),
-          }))
+        removeNotification: (id: string) => {
+          set((state: NotificationState) => {
+            state.notifications = state.notifications.filter((n: Notification) => n.id !== id)
+          })
         },
 
         clearAll: () => {
@@ -103,7 +84,9 @@ export const useNotificationStore = create<NotificationState>()(
         },
 
         toggleOpen: () => {
-          set((state) => ({ isOpen: !state.isOpen }))
+          set((state: NotificationState) => { 
+            state.isOpen = !state.isOpen 
+          })
         },
 
         closeNotification: () => {
@@ -111,20 +94,18 @@ export const useNotificationStore = create<NotificationState>()(
         },
 
         getUnreadCount: () => {
-          return get().notifications.filter((n) => !n.isRead).length
+          return get().notifications.filter((n: Notification) => !n.isRead).length
         },
-      }),
+      })),
       {
         name: 'notification-storage-v2',
-        partialize: (state) => ({ notifications: state.notifications }),
-        onRehydrateStorage: () => (state, error) => {
-          if (error) {
-            console.error('Failed to rehydrate notifications:', error)
-          }
-        },
+        partialize: (state: NotificationState) => ({ notifications: state.notifications }),
       }
     ),
     { name: 'NotificationStore', enabled: isDev }
   )
 )
 
+// Selector hooks
+export const useNotifications = () => useNotificationStore((s) => s.notifications)
+export const useUnreadCount = () => useNotificationStore((s) => s.getUnreadCount())

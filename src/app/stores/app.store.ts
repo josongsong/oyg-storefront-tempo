@@ -19,14 +19,16 @@ const initialState = {
 
 const isDev = import.meta.env.DEV
 
+const middleware = isDev ? devtools : ((f: any) => f)
+
 export const useAppStore = create<AppState>()(
-  (isDev ? devtools : (fn) => fn)(
+  middleware(
     persist(
       (set) => ({
         ...initialState,
 
-        toggleSidebar: () => set((state) => ({ isSidebarOpen: !state.isSidebarOpen })),
-        setLoading: (loading) => set({ isLoading: loading }),
+        toggleSidebar: () => set((state: AppState) => ({ isSidebarOpen: !state.isSidebarOpen })),
+        setLoading: (loading: boolean) => set({ isLoading: loading }),
         reset: () => set(initialState),
       }),
       { name: 'app-store' }

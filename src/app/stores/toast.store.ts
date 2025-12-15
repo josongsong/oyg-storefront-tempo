@@ -5,7 +5,7 @@ export interface Toast {
   message: string
   type?: 'success' | 'error' | 'info'
   duration?: number
-  timeoutId?: NodeJS.Timeout
+  timeoutId?: ReturnType<typeof setTimeout>
 }
 
 interface ToastState {
@@ -22,7 +22,7 @@ export const useToastStore = create<ToastState>((set) => ({
     const id = crypto.randomUUID()
     
     set((state) => {
-      let timeoutId: NodeJS.Timeout | undefined
+      let timeoutId: ReturnType<typeof setTimeout> | undefined
       
       // Auto remove after duration
       if (duration > 0) {

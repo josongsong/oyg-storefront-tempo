@@ -33,15 +33,17 @@ interface CartState {
 
 const isDev = import.meta.env.DEV
 
+const middleware = isDev ? devtools : ((f: any) => f)
+
 export const useCartStore = create<CartState>()(
-  (isDev ? devtools : (fn) => fn)(
+  middleware(
     persist(
-      immer((set, get) => ({
+      immer<CartState>((set, get) => ({
         items: new Map(),
         shippingMethod: 'standard',
         
         // Selectors
-        getItem: (id) => {
+        getItem: (id: CartItemId) => {
           return get().items.get(id)
         },
         
@@ -89,7 +91,7 @@ export const useCartStore = create<CartState>()(
           }
         },
         
-        hasItem: (productId, options) => {
+        hasItem: (productId: ProductId, options?: CartItemOptions) => {
           const items = Array.from(get().items.values())
           return items.some(item => 
             item.productId === productId &&
@@ -101,8 +103,8 @@ export const useCartStore = create<CartState>()(
         },
         
         // Actions
-        addItem: (item, quantity = 1) => {
-          set((state) => {
+        addItem: (item: Omit<CartItem, 'id' | 'quantity'>, quantity = 1) => {
+          set((state: CartState) => {
             // Check if item with same product and options exists
             const itemsArray: CartItem[] = Array.from(state.items.values())
             const existingItem = itemsArray.find(
@@ -141,14 +143,14 @@ export const useCartStore = create<CartState>()(
           })
         },
         
-        removeItem: (id) => {
-          set((state) => {
+        removeItem: (id: CartItemId) => {
+          set((state: CartState) => {
             state.items.delete(id)
           })
         },
         
-        updateQuantity: (id, quantity) => {
-          set((state) => {
+        updateQuantity: (id: CartItemId, quantity: number) => {
+          set((state: CartState) => {
             const item = state.items.get(id)
             if (item) {
               item.quantity = Math.max(1, quantity)
@@ -156,8 +158,8 @@ export const useCartStore = create<CartState>()(
           })
         },
         
-        updateOptions: (id, options) => {
-          set((state) => {
+        updateOptions: (id: CartItemId, options: Partial<CartItemOptions>) => {
+          set((state: CartState) => {
             const item = state.items.get(id)
             if (item && item.options) {
               Object.assign(item.options, options)
@@ -165,14 +167,14 @@ export const useCartStore = create<CartState>()(
           })
         },
         
-        setShippingMethod: (method) => {
-          set((state) => {
+        setShippingMethod: (method: ShippingInfo['method']) => {
+          set((state: CartState) => {
             state.shippingMethod = method
           })
         },
         
         clear: () => {
-          set((state) => {
+          set((state: CartState) => {
             state.items.clear()
           })
         },
@@ -194,7 +196,7 @@ export const useCartStore = create<CartState>()(
             items: new Map(persistedState.items || []),
           }
         },
-        onRehydrateStorage: () => (state, error) => {
+        onRehydrateStorage: () => (_state, error) => {
           if (error) {
             console.error('Failed to rehydrate cart:', error)
           }

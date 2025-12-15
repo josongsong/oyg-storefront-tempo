@@ -6,7 +6,7 @@
 import { defineConfig, devices } from '@playwright/test'
 
 export default defineConfig({
-  testDir: './e2e/specs',
+  testDir: './tests/e2e/specs',
   
   // 병렬 실행
   fullyParallel: true,

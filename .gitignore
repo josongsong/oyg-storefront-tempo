@@ -9,29 +9,49 @@ lerna-debug.log*
 
 # Dependencies
 node_modules
+.pnp
+.pnp.js
 
 # Build outputs
 dist
 dist-ssr
+build
+out
+*.tsbuildinfo
 
 # Test coverage and reports
 coverage
 *.lcov
 .nyc_output
+.vitest
 
 # Playwright
 playwright-report
 test-results
+playwright/.cache
 
-# Temp files
+# Temp and backup files
 .temp
 _temp_test
 *.backup
+*.bak
+*.old
+*.tmp
+*.swp
+*~
+.cache
+.turbo
+
+# Environment
 *.local
+.env
+.env.local
+.env.*.local
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
+!.vscode/settings.json
 .idea
 .DS_Store
 *.suo
@@ -39,3 +59,8 @@ _temp_test
 *.njsproj
 *.sln
 *.sw?
+.history/
+
+# OS
+Thumbs.db
+Desktop.ini

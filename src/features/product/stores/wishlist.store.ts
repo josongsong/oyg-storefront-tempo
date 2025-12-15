@@ -75,7 +75,7 @@ export const useWishlistStore = create<WishlistState>()(
       partialize: (state) => ({
         items: state.items,
       }),
-      onRehydrateStorage: () => (state, error) => {
+      onRehydrateStorage: () => (_state, error) => {
         if (error) {
           console.error('Failed to rehydrate wishlist:', error)
         }
@@ -83,4 +83,9 @@ export const useWishlistStore = create<WishlistState>()(
     }
   )
 )
+
+// Selector hooks for optimized re-renders
+export const useWishlistItems = () => useWishlistStore((state) => state.items)
+export const useWishlistCount = () => useWishlistStore((state) => state.getTotalItems())
+export const useIsInWishlist = (id: string) => useWishlistStore((state) => state.isInWishlist(id))
 

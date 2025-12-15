@@ -39,7 +39,7 @@ export function Component() {
 
   const handleChangeShade = (id: string, _shade: string) => {
     const currentItem = items.find((i: any) => i.id === id)
-    if (currentItem) {
+    if (currentItem?.quantity) {
       updateQuantity(id as any, currentItem.quantity)
     }
   }
@@ -99,16 +99,16 @@ export function Component() {
                 key={item.id}
                 item={{
                   id: item.id,
-                  quantity: item.quantity,
-                  price: item.price,
+                  quantity: item.quantity || 1,
+                  price: item.price || 0,
                   originalPrice: item.originalPrice,
                   sku: item.sku,
                   shade: item.shade,
                   shadeOptions: item.shadeOptions,
                   product: {
-                    name: item.name,
-                    brand: item.brand,
-                    image: item.image,
+                    name: item.name || '',
+                    brand: item.brand || '',
+                    image: item.image || '',
                   },
                   isNew: item.isNew,
                 }}
