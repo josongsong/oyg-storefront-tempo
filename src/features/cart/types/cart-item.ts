@@ -45,7 +45,7 @@ export function createCartItemId(id: string): CartItemId {
 /**
  * Type Guard
  */
-export function isValidCartItem(item: any): item is CartItem {
+export function isValidCartItem(item: unknown): item is CartItem {
   return (
     typeof item === 'object' &&
     item !== null &&

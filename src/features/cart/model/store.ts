@@ -199,7 +199,7 @@ export const useCartStore = create<CartState>()(
           items: Array.from(state.items.entries()),
           shippingMethod: state.shippingMethod,
         }),
-        merge: (persistedState: any, currentState) => {
+        merge: (persistedState: any, currentState: CartState) => {
           if (!persistedState || !persistedState.items) {
             return currentState
           }

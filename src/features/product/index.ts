@@ -37,6 +37,3 @@ export type {
   QuickShopProduct,
   Review,
 } from './types'
-
-// Mocks (for development)
-export { MOCK_PRODUCTS } from './mocks'

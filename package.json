@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "paraglide": "paraglide-js compile --project ./project.inlang --outdir ./src/app/i18n/paraglide",
+    "dev": "pnpm paraglide && vite",
+    "build": "pnpm paraglide && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest",
@@ -39,7 +40,6 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
-    "@inlang/paraglide-vite": "^1.4.0",
     "@playwright/test": "^1.57.0",
     "@tailwindcss/vite": "^4.1.17",
     "@tanstack/react-query-devtools": "^5.91.1",

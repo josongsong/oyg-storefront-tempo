@@ -5,6 +5,11 @@ import viteConfig from './vite.config'
 export default mergeConfig(
   viteConfig,
   defineConfig({
+    resolve: {
+      alias: {
+        'lucide-react': path.resolve(__dirname, './src/test/mocks/lucide-react.tsx'),
+      },
+    },
     test: {
       globals: true,
       environment: 'jsdom',

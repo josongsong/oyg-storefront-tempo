@@ -16,7 +16,7 @@ describe('useDebounce', () => {
     expect(result.current).toBe('initial')
   })
 
-  it('should debounce value changes', async () => {
+  it('should debounce value changes', () => {
     const { result, rerender } = renderHook(
       ({ value, delay }) => useDebounce(value, delay),
       { initialProps: { value: 'first', delay: 300 } }
@@ -25,7 +25,9 @@ describe('useDebounce', () => {
     expect(result.current).toBe('first')
 
     // 값 변경
-    rerender({ value: 'second', delay: 300 })
+    act(() => {
+      rerender({ value: 'second', delay: 300 })
+    })
     
     // 아직 debounce 시간이 지나지 않음
     expect(result.current).toBe('first')
@@ -38,19 +40,16 @@ describe('useDebounce', () => {
     expect(result.current).toBe('second')
   })
 
-  it('should cancel previous timeout on rapid changes', async () => {
+  it('should cancel previous timeout on rapid changes', () => {
     const { result, rerender } = renderHook(
       ({ value }) => useDebounce(value, 300),
       { initialProps: { value: 'first' } }
     )
 
-    rerender({ value: 'second' })
     act(() => {
+      rerender({ value: 'second' })
       vi.advanceTimersByTime(150)
-    })
-
-    rerender({ value: 'third' })
-    act(() => {
+      rerender({ value: 'third' })
       vi.advanceTimersByTime(150)
     })
 
@@ -65,7 +64,7 @@ describe('useDebounce', () => {
     expect(result.current).toBe('third')
   })
 
-  it('should use default delay of 300ms', async () => {
+  it('should use default delay of 300ms', () => {
     const { result, rerender } = renderHook(
       ({ value }) => useDebounce(value),
       { initialProps: { value: 'first' } }
@@ -84,7 +83,7 @@ describe('useDebounce', () => {
     expect(result.current).toBe('second')
   })
 
-  it('should work with custom delay', async () => {
+  it('should work with custom delay', () => {
     const { result, rerender } = renderHook(
       ({ value }) => useDebounce(value, 500),
       { initialProps: { value: 'first' } }
@@ -99,7 +98,7 @@ describe('useDebounce', () => {
     expect(result.current).toBe('second')
   })
 
-  it('should work with different types', async () => {
+  it('should work with different types', () => {
     const { result, rerender } = renderHook(
       ({ value }) => useDebounce(value, 300),
       { initialProps: { value: 123 } }
@@ -114,7 +113,7 @@ describe('useDebounce', () => {
     expect(result.current).toBe(456)
   })
 
-  it('should work with objects', async () => {
+  it('should work with objects', () => {
     const { result, rerender } = renderHook(
       ({ value }) => useDebounce(value, 300),
       { initialProps: { value: { count: 1 } } }

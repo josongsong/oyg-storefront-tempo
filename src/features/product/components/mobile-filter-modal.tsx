@@ -17,7 +17,7 @@ interface MobileFilterModalProps {
 export function MobileFilterModal({ isOpen, onClose }: MobileFilterModalProps) {
   const [isMinimized, setIsMinimized] = useState(false)
 
-  const handleDragEnd = (_: any, info: { offset: { y: number } }) => {
+  const handleDragEnd = (_: unknown, info: { offset: { y: number } }) => {
     if (info.offset.y > 150) {
       onClose()
     }

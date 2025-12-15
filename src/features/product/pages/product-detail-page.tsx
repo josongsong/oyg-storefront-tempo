@@ -1,15 +1,19 @@
 import { useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { ChevronLeft, ChevronRight } from 'lucide-react'
+import { ChevronLeft, ChevronRight, Heart, Star, ShoppingCart, Truck, Package, Store } from 'lucide-react'
+import { motion, AnimatePresence } from 'framer-motion'
 
 import { ProductCard } from '@/features/product/components'
 import { ProductComparison, DeliveryOption, ProductImageGallery, ReviewCard } from '@/features/product/components'
 import { ProductDetailLoading, ProductDetailHeader } from '@/features/product/components/detail'
 import { useProductDetail } from '@/features/product/hooks/useProductDetail'
+import { useToastStore } from '@/app/stores'
 
 export function Component() {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
+  
+  const { addToast } = useToastStore()
   
   const {
     product,
@@ -21,14 +25,18 @@ export function Component() {
     setQuantity,
     isHoveringBasket,
     bubbles,
-    handleAddToCart,
-    handleToggleWishlist,
-    isInWishlist: isInWishlistFlag,
+    handleAddToCart: handleAddToBasket,
+    handleToggleWishlist: toggleItem,
+    isInWishlist,
   } = useProductDetail(slug)
 
   const INITIAL_REVIEWS_COUNT = 3
   const [displayedReviews, setDisplayedReviews] = useState(INITIAL_REVIEWS_COUNT)
   const [sortBy, setSortBy] = useState<'recent' | 'helpful' | 'highest' | 'lowest'>('recent')
+  
+  // Alias for compatibility
+  const setIsHoveringBasket = () => {}
+  const setBubbles = () => {}
 
   if (isLoading) {
     return <ProductDetailLoading />

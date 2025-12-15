@@ -54,6 +54,6 @@ export interface AIAgentActions {
   addMessage: (message: Omit<AIMessage, 'id' | 'timestamp'>) => void
   clearMessages: () => void
   setTyping: (isTyping: boolean) => void
-  handleAction: (action: AIActionType, params?: any) => void
+  handleAction: (action: AIActionType, params?: Record<string, unknown>) => void
 }
 

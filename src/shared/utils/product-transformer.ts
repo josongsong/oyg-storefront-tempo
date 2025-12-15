@@ -27,7 +27,6 @@ export function toGlossierProduct(item: ProductListItem): GlossierProduct {
     reviews: item.reviewCount || 0,
     badge: item.badge,
     image: item.image,
-    originalPrice: item.originalPrice,
   }
 }
 
