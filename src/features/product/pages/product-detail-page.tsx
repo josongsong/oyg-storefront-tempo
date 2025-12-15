@@ -1,10 +1,15 @@
 import { useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { ChevronLeft, ChevronRight, Star, Truck, Package, Store } from 'lucide-react'
+import { Truck, Package, Store, ChevronRight } from 'lucide-react'
 
-import { ProductCard } from '@/features/product/components'
-import { ProductComparison, DeliveryOption, ProductImageGallery, ReviewCard } from '@/features/product/components'
-import { ProductDetailLoading, ProductDetailHeader, ProductActions } from '@/features/product/components/detail'
+import { DeliveryOption, ProductImageGallery } from '@/features/product/components'
+import { 
+  ProductDetailLoading, 
+  ProductDetailHeader, 
+  ProductActions,
+  ProductReviews,
+  ProductRecommendations 
+} from '@/features/product/components/detail'
 import { useProductDetail } from '@/features/product/hooks/useProductDetail'
 import { useToastStore } from '@/app/stores'
 
@@ -53,39 +58,6 @@ export function Component() {
 
   const images = product.detailed_images.length > 0 ? product.detailed_images : product.images
   const hasDiscount = product.list_price && parseFloat(product.list_price) > parseFloat(product.sale_price)
-
-  // Review data
-  const reviews = product.reviews?.reviews || []
-  const rollup = product.reviews?.rollup
-  const ratingHistogram = rollup?.rating_histogram || [0, 0, 0, 0, 0]
-  const reviewMedia = rollup?.media || []
-  const averageRating = rollup?.average_rating || parseFloat(product.rating_avg)
-  const totalReviews = rollup?.review_count || parseInt(product.rating_count)
-  const recommendedRatio = rollup?.recommended_ratio || 0
-
-  // Sort reviews
-  const sortedReviews = [...reviews].sort((a, b) => {
-    switch (sortBy) {
-      case 'recent':
-        return b.created_date - a.created_date
-      case 'helpful':
-        return b.helpful_votes - a.helpful_votes
-      case 'highest':
-        return b.rating - a.rating
-      case 'lowest':
-        return a.rating - b.rating
-      default:
-        return 0
-    }
-  })
-
-  const displayReviews = sortedReviews.slice(0, displayedReviews)
-  
-  // Get most helpful positive and negative reviews
-  const positiveReviews = reviews.filter(r => r.rating >= 4).sort((a, b) => b.helpful_votes - a.helpful_votes)
-  const negativeReviews = reviews.filter(r => r.rating <= 2).sort((a, b) => b.helpful_votes - a.helpful_votes)
-  const mostHelpfulPositive = positiveReviews[0]
-  const mostHelpfulNegative = negativeReviews[0]
 
   return (
     <div className="w-full">
@@ -298,328 +270,18 @@ export function Component() {
         </div>
       </div>
 
-      {/* Recommended Products Section */}
-      {recommendedProducts.length > 0 && (
-        <div className="mb-12 md:mb-20">
-          <div className="flex items-center justify-between mb-4 md:mb-5">
-            <h2 className="text-xl md:text-2xl font-normal">We think you'll like</h2>
-            <div className="hidden md:flex gap-2">
-              <button className="p-2 border border-gray-300 hover:border-black transition-colors">
-                <ChevronLeft className="w-5 h-5" />
-              </button>
-              <button className="p-2 border border-gray-300 hover:border-black transition-colors">
-                <ChevronRight className="w-5 h-5" />
-              </button>
-            </div>
-          </div>
-          
-          {/* Mobile: Horizontal scroll */}
-          <div className="md:hidden overflow-x-auto -mx-4 px-4 scrollbar-hide">
-            <div className="flex gap-3 pb-2">
-              {recommendedProducts.slice(0, 6).map((product) => (
-                <div key={product.id} className="w-56 shrink-0">
-                  <ProductCard
-                    product={{
-                      id: product.id,
-                      name: product.name,
-                      brand: product.brand,
-                      price: product.price,
-                      rating: product.rating,
-                      reviews: product.reviewCount,
-                      image: product.image,
-                      badge: product.badge,
-                    }}
-                  />
-                </div>
-              ))}
-            </div>
-          </div>
-          
-          {/* Desktop: Grid */}
-          <div className="hidden md:grid grid-cols-3 lg:grid-cols-6 gap-4">
-            {recommendedProducts.slice(0, 6).map((product) => (
-              <ProductCard
-                key={product.id}
-                product={{
-                  id: product.id,
-                  name: product.name,
-                  brand: product.brand,
-                  price: product.price,
-                  rating: product.rating,
-                  reviews: product.reviewCount,
-                  image: product.image,
-                  badge: product.badge,
-                }}
-              />
-            ))}
-          </div>
-        </div>
-      )}
+      {/* Reviews */}
+      <ProductReviews
+        product={product}
+        displayedReviews={displayedReviews}
+        sortBy={sortBy}
+        onSortChange={setSortBy}
+        onLoadMore={() => setDisplayedReviews(prev => prev + 10)}
+      />
 
-      {/* Similar Products Section */}
-      {recommendedProducts.length > 6 && (
-        <div className="mb-12 md:mb-20">
-          <div className="flex items-center justify-between mb-4 md:mb-5">
-            <h2 className="text-xl md:text-2xl font-normal">Similar items for you</h2>
-            <div className="hidden md:flex gap-2">
-              <button className="p-2 border border-gray-300 hover:border-black transition-colors">
-                <ChevronLeft className="w-5 h-5" />
-              </button>
-              <button className="p-2 border border-gray-300 hover:border-black transition-colors">
-                <ChevronRight className="w-5 h-5" />
-              </button>
-            </div>
-          </div>
-          
-          {/* Mobile: Horizontal scroll */}
-          <div className="md:hidden overflow-x-auto -mx-4 px-4 scrollbar-hide">
-            <div className="flex gap-3 pb-2">
-              {recommendedProducts.slice(6, 12).map((product) => (
-                <div key={product.id} className="w-56 shrink-0">
-                  <ProductCard
-                    product={{
-                      id: product.id,
-                      name: product.name,
-                      brand: product.brand,
-                      price: product.price,
-                      rating: product.rating,
-                      reviews: product.reviewCount,
-                      image: product.image,
-                      badge: product.badge,
-                    }}
-                  />
-                </div>
-              ))}
-            </div>
-          </div>
-          
-          {/* Desktop: Grid */}
-          <div className="hidden md:grid grid-cols-3 lg:grid-cols-6 gap-4">
-            {recommendedProducts.slice(6, 12).map((product) => (
-              <ProductCard
-                key={product.id}
-                product={{
-                  id: product.id,
-                  name: product.name,
-                  brand: product.brand,
-                  price: product.price,
-                  rating: product.rating,
-                  reviews: product.reviewCount,
-                  image: product.image,
-                  badge: product.badge,
-                }}
-              />
-            ))}
-          </div>
-        </div>
-      )}
-
-      {/* Product Comparison Section */}
-      {product && recommendedProducts.length > 0 && (
-        <div className="mb-12 md:mb-20">
-          <ProductComparison
-            currentProduct={{
-              id: product.product_id,
-              name: product.product_name.replace(product.brand, '').trim(),
-              brand: product.brand,
-              image: product.images[0] || product.detailed_images[0],
-              price: `$${product.sale_price}`,
-              rating: parseFloat(product.rating_avg),
-              reviewCount: parseInt(product.rating_count),
-              specialFeatures: product.tags?.special_features,
-            }}
-            similarProducts={recommendedProducts}
-          />
-        </div>
-      )}
-
-      {/* Review Section */}
-      <div className="mb-12 md:mb-20">
-        <div className="border-t border-gray-200 pt-6 md:pt-8">
-          {/* Header */}
-          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-6 md:mb-8 gap-3">
-            <h2 className="text-xl md:text-2xl font-normal">Reviews</h2>
-            <button 
-              onClick={() => navigate(`/products/${slug}/write-review`)}
-              className="w-full sm:w-auto px-4 md:px-6 py-2 md:py-2.5 border-2 border-black hover:bg-black hover:text-white transition-colors text-xs md:text-sm font-medium uppercase"
-            >
-              Write A REVIEW
-            </button>
-          </div>
-
-          {/* Rating Summary */}
-          <div className="grid md:grid-cols-2 gap-6 md:gap-8 mb-8">
-            <div>
-              <div className="flex items-center gap-4 mb-6">
-                <div className="flex items-center gap-2">
-                  <div className="flex">
-                    {[...Array(5)].map((_, i) => (
-                      <Star
-                        key={i}
-                        className={`w-5 h-5 md:w-6 md:h-6 fill-none stroke-current stroke-[1.5] ${
-                          i < Math.floor(averageRating)
-                            ? 'text-black'
-                            : i < averageRating
-                            ? 'text-black opacity-50'
-                            : 'text-gray-300'
-                        }`}
-                      />
-                    ))}
-                  </div>
-                  <span className="text-3xl md:text-4xl font-bold">{averageRating.toFixed(1)}</span>
-                </div>
-                <div className="text-sm text-gray-600">
-                  {totalReviews.toLocaleString()} Reviews
-                </div>
-              </div>
-
-              {/* Rating Distribution */}
-              <div className="space-y-2">
-                <h3 className="text-xs font-medium uppercase mb-3">RATINGS DISTRIBUTION</h3>
-                {[5, 4, 3, 2, 1].map((star) => {
-                  const count = ratingHistogram[star - 1] || 0
-                  const percentage = totalReviews > 0 ? (count / totalReviews) * 100 : 0
-                  return (
-                    <div key={star} className="flex items-center gap-3 text-xs">
-                      <span className="w-12">{star} Stars</span>
-                      <div className="flex-1 h-2 bg-gray-200 rounded-full overflow-hidden">
-                        <div
-                          className="h-full bg-black rounded-full"
-                          style={{ width: `${percentage}%` }}
-                        />
-                      </div>
-                      <span className="w-10 text-right text-gray-600">{count}</span>
-                    </div>
-                  )
-                })}
-              </div>
-            </div>
-
-            <div className="flex items-start">
-              <div className="text-center">
-                <div className="text-5xl md:text-6xl font-bold mb-2">{Math.round(recommendedRatio * 100)}%</div>
-                <p className="text-xs md:text-sm text-gray-600">
-                  would recommend this<br />product to a friend
-                </p>
-              </div>
-            </div>
-          </div>
-
-          {/* Pros & Cons / Most Helpful Reviews */}
-          {(mostHelpfulPositive || mostHelpfulNegative) && (
-            <div className="grid md:grid-cols-2 gap-4 mb-8">
-              {/* Most Helpful Positive */}
-              {mostHelpfulPositive && (
-                <div className="border border-gray-200 rounded-lg p-4 md:p-5">
-                  <div className="flex items-center justify-between mb-3">
-                    <h3 className="text-xs font-medium uppercase">Most Helpful Positive Review</h3>
-                    <div className="flex">
-                      {[...Array(5)].map((_, i) => (
-                        <Star
-                          key={i}
-                          className={`w-3 h-3 fill-none stroke-current stroke-[1.5] ${
-                            i < mostHelpfulPositive.rating
-                              ? 'text-black'
-                              : 'text-gray-300'
-                          }`}
-                        />
-                      ))}
-                    </div>
-                  </div>
-                  <h4 className="font-medium mb-2">{mostHelpfulPositive.headline}</h4>
-                  <p className="text-xs md:text-sm text-gray-700 line-clamp-3">
-                    {mostHelpfulPositive.comments}
-                  </p>
-                </div>
-              )}
-
-              {/* Most Helpful Critical */}
-              {mostHelpfulNegative && (
-                <div className="border border-gray-200 rounded-lg p-4 md:p-5">
-                  <div className="flex items-center justify-between mb-3">
-                    <h3 className="text-xs font-medium uppercase">Most Helpful Critical Review</h3>
-                    <div className="flex">
-                      {[...Array(5)].map((_, i) => (
-                        <Star
-                          key={i}
-                          className={`w-3 h-3 fill-none stroke-current stroke-[1.5] ${
-                            i < mostHelpfulNegative.rating
-                              ? 'text-black'
-                              : 'text-gray-300'
-                          }`}
-                        />
-                      ))}
-                    </div>
-                  </div>
-                  <h4 className="font-medium mb-2">{mostHelpfulNegative.headline}</h4>
-                  <p className="text-xs md:text-sm text-gray-700 line-clamp-3">
-                    {mostHelpfulNegative.comments}
-                  </p>
-                </div>
-              )}
-            </div>
-          )}
-
-          {/* Review Media Gallery */}
-          {reviewMedia.length > 0 && (
-            <div className="mb-8">
-              <div className="flex gap-2 overflow-x-auto pb-2 hide-scrollbar">
-                {reviewMedia.slice(0, 12).map((media) => (
-                  <div key={media.id} className="flex-shrink-0 w-32 h-32 md:w-40 md:h-40 bg-gray-100 rounded-lg overflow-hidden">
-                    <img
-                      src={media.uri}
-                      alt={media.caption || ''}
-                      className="w-full h-full object-cover hover:scale-105 transition-transform cursor-pointer"
-                    />
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {/* Filter & Sort */}
-          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mb-6 border-t border-b border-gray-200 py-4">
-            <div className="text-sm font-medium">
-              Filter ratings
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-xs md:text-sm text-gray-600">Sort by</span>
-              <select
-                value={sortBy}
-                onChange={(e) => setSortBy(e.target.value as 'recent' | 'helpful' | 'highest' | 'lowest')}
-                className="text-xs md:text-sm font-medium border-b-2 border-black bg-transparent outline-none cursor-pointer"
-              >
-                <option value="recent">Most recent</option>
-                <option value="helpful">Most helpful</option>
-                <option value="highest">Highest rating</option>
-                <option value="lowest">Lowest rating</option>
-              </select>
-            </div>
-          </div>
-
-          {/* Review List */}
-          <div className="space-y-6">
-            {displayReviews.map((review) => (
-              <ReviewCard key={review.review_id} review={review} />
-            ))}
-          </div>
-
-          {/* Load More */}
-          {displayedReviews < reviews.length && (
-            <div className="text-center mt-8">
-              <p className="text-sm text-gray-600 mb-4">
-                Showing {displayedReviews} of {reviews.length} reviews
-              </p>
-              <button
-                onClick={() => setDisplayedReviews(prev => Math.min(prev + 10, reviews.length))}
-                className="px-6 py-2.5 border-2 border-black hover:bg-black hover:text-white transition-colors text-sm font-medium"
-              >
-                Read more reviews
-              </button>
-            </div>
-          )}
-        </div>
-      </div>
+      {/* Recommended Products */}
+      <ProductRecommendations products={recommendedProducts} />
+      
       </div>
     </div>
   )

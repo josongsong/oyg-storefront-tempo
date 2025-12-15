@@ -19,13 +19,14 @@ export function WishlistPopup() {
       ? parsePriceString(item.price)
       : toPrice(item.price)
     
-    addToCart({
+    const cartItem = {
       productId: toProductId(item.id),
       name: item.name,
       brand: item.brand,
       price: priceValue,
       image: item.image,
-    } as any, 1)
+    }
+    addToCart(cartItem as any, 1)
     
     addToast(
       'Added to cart',

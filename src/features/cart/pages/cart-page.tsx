@@ -123,7 +123,7 @@ export function Component() {
         <div className="lg:col-span-2">
           {/* Cart Items */}
           <div className="mb-8">
-              {items.map((item) => (
+              {items.map((item: any) => (
               <CartItem
                 key={item.id}
                 item={{
@@ -131,15 +131,11 @@ export function Component() {
                   quantity: item.quantity || 1,
                   price: item.price || 0,
                   originalPrice: item.originalPrice,
-                  sku: (item as any).sku,
-                  shade: (item as any).shade,
-                  shadeOptions: (item as any).shadeOptions,
                   product: {
                     name: item.name || '',
                     brand: item.brand || '',
                     image: item.image || '',
-                  },
-                  isNew: (item as any).isNew,
+                  }
                 }}
                 onUpdateQuantity={handleUpdateQuantity}
                 onRemove={handleRemove}
