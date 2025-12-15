@@ -3,7 +3,7 @@
  */
 
 import { BasePage } from './base.page'
-import { TEST_IDS } from '../../tests/config/test-ids'
+import { TEST_IDS } from '../../config/test-ids'
 
 export class ProductPage extends BasePage {
   /**
