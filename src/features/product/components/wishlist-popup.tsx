@@ -14,11 +14,15 @@ export function WishlistPopup() {
   const navigate = useNavigate()
 
   const handleAddToCart = (item: typeof items[0]) => {
+    const priceValue = typeof item.price === 'string' 
+      ? parseFloat(item.price.replace(/[^0-9.]/g, '')) 
+      : item.price
+    
     addToCart({
-      productId: item.id as any,
+      productId: item.id,
       name: item.name,
       brand: item.brand,
-      price: (typeof item.price === 'string' ? parseFloat(item.price.replace(/[^0-9.]/g, '')) : item.price) as any,
+      price: priceValue,
       image: item.image,
     }, 1)
     

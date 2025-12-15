@@ -1,104 +1,37 @@
+import { useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { useState, useEffect } from 'react'
-import { ChevronLeft, ChevronRight, Heart, Star, Package, Truck, Store, ShoppingCart } from 'lucide-react'
-import { motion, AnimatePresence } from 'framer-motion'
+import { ChevronLeft, ChevronRight } from 'lucide-react'
 
-import { loadProductById, loadAllProducts } from '@/features/product/utils'
-import { Breadcrumb } from '@/shared/components/ui'
 import { ProductCard } from '@/features/product/components'
 import { ProductComparison, DeliveryOption, ProductImageGallery, ReviewCard } from '@/features/product/components'
-import { useCartStore } from '@/features/cart/stores'
-import { useWishlistStore } from '@/features/product/stores'
-import { useToastStore } from '@/app/stores'
-import type { ProductData, ProductListItem } from '@/features/product/types'
+import { ProductDetailLoading, ProductDetailHeader } from '@/features/product/components/detail'
+import { useProductDetail } from '@/features/product/hooks/useProductDetail'
 
 export function Component() {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
-  const { addItem } = useCartStore()
-  const { toggleItem, isInWishlist } = useWishlistStore()
-  const { addToast } = useToastStore()
-  const [product, setProduct] = useState<ProductData | null>(null)
-  const [recommendedProducts, setRecommendedProducts] = useState<ProductListItem[]>([])
-  const [isLoading, setIsLoading] = useState(true)
-  const [selectedDeliveryOption, setSelectedDeliveryOption] = useState<'free-shipping' | 'auto-replenish' | 'same-day' | 'pickup'>('auto-replenish')
-  const [displayedReviews, setDisplayedReviews] = useState(3)
+  
+  const {
+    product,
+    recommendedProducts,
+    isLoading,
+    selectedDeliveryOption,
+    setSelectedDeliveryOption,
+    quantity,
+    setQuantity,
+    isHoveringBasket,
+    bubbles,
+    handleAddToCart,
+    handleToggleWishlist,
+    isInWishlist: isInWishlistFlag,
+  } = useProductDetail(slug)
+
+  const INITIAL_REVIEWS_COUNT = 3
+  const [displayedReviews, setDisplayedReviews] = useState(INITIAL_REVIEWS_COUNT)
   const [sortBy, setSortBy] = useState<'recent' | 'helpful' | 'highest' | 'lowest'>('recent')
-  const [quantity, setQuantity] = useState(1)
-  const [isHoveringBasket, setIsHoveringBasket] = useState(false)
-  const [bubbles, setBubbles] = useState<{ id: number; x: number }[]>([])
-
-  // Load product data
-  useEffect(() => {
-    const loadData = async () => {
-      if (!slug) return
-
-      setIsLoading(true)
-      
-      // Load the specific product
-      const productData = await loadProductById(slug)
-      setProduct(productData)
-
-      // Load all products for recommendations
-      const products = await loadAllProducts()
-
-      // Get random recommended products
-      if (productData) {
-        // Shuffle products and take random 12
-        const shuffled = [...products].sort(() => Math.random() - 0.5)
-        const randomProducts = shuffled.slice(0, 12)
-        setRecommendedProducts(randomProducts)
-      }
-
-      setIsLoading(false)
-    }
-
-    loadData()
-  }, [slug])
 
   if (isLoading) {
-    return (
-      <div className="flex flex-col justify-center items-center min-h-screen bg-gradient-to-b from-white to-gray-50">
-        {/* Modern Spinner */}
-        <div className="relative mb-8">
-          {/* Outer rotating rings */}
-          <div className="relative w-24 h-24">
-            {/* Ring 1 */}
-            <div className="absolute inset-0 border-4 border-gray-100 rounded-full"></div>
-            <div 
-              className="absolute inset-0 border-4 border-transparent border-t-black rounded-full animate-spin"
-              style={{ animationDuration: '1s' }}
-            ></div>
-            
-            {/* Ring 2 - slower, opposite direction */}
-            <div 
-              className="absolute inset-2 border-3 border-transparent border-b-gray-400 rounded-full"
-              style={{ 
-                animation: 'spin 1.5s linear infinite reverse',
-              }}
-            ></div>
-            
-            {/* Center dot */}
-            <div className="absolute inset-0 flex items-center justify-center">
-              <div className="w-3 h-3 bg-black rounded-full animate-pulse"></div>
-            </div>
-          </div>
-        </div>
-        
-        {/* Loading text with dots animation */}
-        <div className="flex items-center gap-1">
-          <p className="text-base font-medium text-gray-800">Loading product</p>
-          <div className="flex gap-1">
-            <span className="w-1.5 h-1.5 bg-gray-800 rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></span>
-            <span className="w-1.5 h-1.5 bg-gray-800 rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></span>
-            <span className="w-1.5 h-1.5 bg-gray-800 rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></span>
-          </div>
-        </div>
-        
-        {/* Subtle brand message */}
-        <p className="mt-2 text-sm text-gray-500">Preparing your beauty experience</p>
-      </div>
-    )
+    return <ProductDetailLoading />
   }
 
   if (!product) {
@@ -151,34 +84,6 @@ export function Component() {
   const mostHelpfulPositive = positiveReviews[0]
   const mostHelpfulNegative = negativeReviews[0]
 
-  const handleAddToBasket = () => {
-    if (!product) return
-    
-    // Safely parse price
-    const salePrice = typeof product.sale_price === 'string' 
-      ? parseFloat(product.sale_price) 
-      : product.sale_price
-    const listPrice = product.list_price 
-      ? (typeof product.list_price === 'string' ? parseFloat(product.list_price) : product.list_price)
-      : undefined
-
-    try {
-      addItem({
-        productId: product.product_id as any,
-        name: product.product_name,
-        brand: product.brand,
-        image: product.images[0] || product.detailed_images[0] || '',
-        price: salePrice as any,
-        originalPrice: listPrice as any,
-      }, quantity)
-      
-      // Toast is already handled by cart store
-    } catch (error) {
-      console.error('Error adding to cart:', error)
-      addToast('Error adding to cart', 'error', 3000)
-    }
-  }
-
   return (
     <div className="w-full">
       <style>{`
@@ -192,17 +97,7 @@ export function Component() {
       `}</style>
       
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-8">
-      {/* Breadcrumb */}
-      <Breadcrumb
-        items={[
-          { label: 'Home', onClick: () => navigate('/') },
-          ...product.categories.slice(1).map((cat) => ({
-            label: cat,
-            onClick: () => navigate(`/products?category=${cat}`),
-          })),
-        ]}
-      />
-
+      
       {/* Main Product Section */}
       <div className="grid md:grid-cols-2 gap-4 lg:gap-6 xl:gap-8 mb-12 md:mb-20">
         {/* Left: Images - Sticky */}
@@ -210,55 +105,11 @@ export function Component() {
 
         {/* Right: Product Info - Scrollable */}
         <div className="space-y-3 md:space-y-4">
-          {/* Brand */}
-          <div>
-            <button
-              onClick={() => navigate(`/products?brand=${product.brand}`)}
-              className="text-xs md:text-sm font-medium underline underline-offset-2 hover:no-underline"
-            >
-              {product.brand}
-            </button>
-          </div>
-
-          {/* Product Name */}
-          <h1 className="text-xl md:text-2xl lg:text-3xl font-normal leading-tight">{product.product_name.replace(product.brand, '').trim()}</h1>
-
-          {/* Rating */}
-          <div className="flex flex-wrap items-center gap-2">
-            <div className="flex">
-              {[...Array(5)].map((_, i) => (
-                <Star
-                  key={i}
-                  className={`w-4 h-4 fill-none stroke-current stroke-[1.5] ${
-                    i < Math.floor(parseFloat(product.rating_avg))
-                      ? 'text-black'
-                      : 'text-gray-300'
-                  }`}
-                />
-              ))}
-            </div>
-            <span className="text-sm font-medium">{product.rating_avg}</span>
-            <button className="text-sm hover:underline">
-              ({parseInt(product.rating_count).toLocaleString()})
-            </button>
-            <button className="text-sm text-blue-600 hover:underline ml-2">
-              Ask a question
-            </button>
-            <button className="text-sm flex items-center gap-1 ml-2">
-              <Heart className="w-4 h-4" />
-              {Math.floor(Math.random() * 20)}K
-            </button>
-          </div>
-
-          {/* Tags */}
-          {product.tags.special_features && (
-            <div className="text-xs text-gray-600">
-              Highly rated by customers for:{' '}
-              <span className="text-blue-600">
-                {product.tags.special_features.slice(0, 3).join(', ')}
-              </span>
-            </div>
-          )}
+          <ProductDetailHeader
+            product={product}
+            onBrandClick={(brand) => navigate(`/products?brand=${brand}`)}
+            onCategoryClick={(cat) => navigate(`/products?category=${cat}`)}
+          />
 
           {/* Price */}
           <div>
@@ -876,7 +727,7 @@ export function Component() {
               <span className="text-xs md:text-sm text-gray-600">Sort by</span>
               <select
                 value={sortBy}
-                onChange={(e) => setSortBy(e.target.value as any)}
+                onChange={(e) => setSortBy(e.target.value as 'recent' | 'helpful' | 'highest' | 'lowest')}
                 className="text-xs md:text-sm font-medium border-b-2 border-black bg-transparent outline-none cursor-pointer"
               >
                 <option value="recent">Most recent</option>

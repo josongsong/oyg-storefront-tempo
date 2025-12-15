@@ -4,6 +4,8 @@ import { useNavigate } from 'react-router-dom'
 import { Search, Star, X } from 'lucide-react'
 
 import { loadAllProducts, searchProducts as searchProductsUtil } from '@/features/product/utils'
+import { toGlossierProduct, shuffleArray } from '@/shared/utils/product-transformer'
+
 import type { GlossierProduct } from '@/shared/types/glossier'
 import type { ProductListItem } from '@/features/product/types'
 
@@ -12,36 +14,6 @@ interface SearchOverlayProps {
   onClose: (e: React.MouseEvent) => void
   trendingSearches: string[]
   products?: GlossierProduct[]
-}
-
-// Random badges for products
-const PRODUCT_BADGES = ['LIMITED EDITION', 'COLLECTABLE', 'NEW ARRIVAL', 'BESTSELLER', null, null]
-
-// Helper function to convert ProductListItem to GlossierProduct with random badge
-function toGlossierProduct(item: ProductListItem): GlossierProduct {
-  // Randomly assign a badge (50% chance)
-  const randomBadge = PRODUCT_BADGES[Math.floor(Math.random() * PRODUCT_BADGES.length)]
-  
-  return {
-    id: item.id,
-    name: item.name,
-    brand: item.brand,
-    price: item.price,
-    rating: item.rating,
-    reviews: item.reviewCount,
-    image: item.image,
-    badge: item.badge || randomBadge || undefined,
-  }
-}
-
-// Shuffle array helper
-function shuffleArray<T>(array: T[]): T[] {
-  const newArray = [...array]
-  for (let i = newArray.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1))
-    ;[newArray[i], newArray[j]] = [newArray[j], newArray[i]]
-  }
-  return newArray
 }
 
 export function SearchOverlay({ isOpen, onClose, trendingSearches, products: propProducts }: SearchOverlayProps) {
@@ -210,7 +182,7 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
     const searchTerm = query || searchQuery.trim()
     if (searchTerm) {
       navigate(`/products?q=${encodeURIComponent(searchTerm)}`)
-      onClose({ stopPropagation: () => {} } as any)
+      onClose({ stopPropagation: () => {} } as React.MouseEvent)
       setSearchQuery('')
       setSuggestions([])
     }
@@ -350,7 +322,7 @@ export function SearchOverlay({ isOpen, onClose, trendingSearches, products: pro
                           className="group cursor-pointer"
                           onClick={() => {
                             navigate(`/products/${product.id}`)
-                            onClose({ stopPropagation: () => {} } as any)
+                            onClose({ stopPropagation: () => {} } as React.MouseEvent)
                           }}
                         >
                           <div className="relative aspect-square card-surface mb-3">

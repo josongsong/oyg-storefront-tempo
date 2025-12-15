@@ -44,7 +44,7 @@ export function useUpdateProduct() {
     },
     onError: (error) => {
       addToast('Failed to update product', 'error', 3000)
-      console.error('Update product error:', error)
+      logger.error('Update product error:', error)
     },
   })
 }
@@ -66,7 +66,7 @@ export function useDeleteProduct() {
     },
     onError: (error) => {
       addToast('Failed to delete product', 'error', 3000)
-      console.error('Delete product error:', error)
+      logger.error('Delete product error:', error)
     },
   })
 }

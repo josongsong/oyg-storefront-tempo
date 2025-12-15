@@ -10,7 +10,7 @@ export function PromoPopup() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     // 여기에 이메일 제출 로직 추가
-    console.log('Email submitted:', email)
+    logger.debug('Email submitted:', email)
     closePopup()
   }
 

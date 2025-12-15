@@ -7,8 +7,9 @@ import { LoadingSpinner } from '@/shared/components/ui/loading-spinner'
 import { FilterFacet } from '@/features/product/components'
 import { FILTER_DATA } from '@/features/product/constants/filter-data'
 import { loadAllProducts, filterByCategory, sortProducts } from '@/features/product/utils'
+import { toGlossierProduct } from '@/shared/utils/product-transformer'
+
 import type { ProductListItem } from '@/features/product/types'
-import type { GlossierProduct } from '@/shared/types/glossier'
 
 type SortOption = 'best-sellers' | 'whats-new' | 'top-rated' | 'a-z' | 'z-a' | 'price-low' | 'price-high'
 
@@ -23,21 +24,6 @@ const SORT_OPTIONS: { value: SortOption; label: string }[] = [
 ]
 
 const ITEMS_PER_PAGE_OPTIONS = [20, 40, 60, 100]
-
-// Helper function to convert ProductListItem to GlossierProduct
-function toGlossierProduct(item: ProductListItem): GlossierProduct {
-  return {
-    id: item.id,
-    name: item.name,
-    brand: item.brand,
-    price: item.price,
-    rating: item.rating,
-    reviews: item.reviewCount,
-    image: item.image,
-    badge: item.badge,
-    valueText: item.originalPrice ? `Save ${((parseFloat(item.originalPrice.replace(/[^0-9.]/g, '')) - parseFloat(item.price.replace(/[^0-9.]/g, ''))) / parseFloat(item.originalPrice.replace(/[^0-9.]/g, '')) * 100).toFixed(0)}%` : undefined,
-  }
-}
 
 export function Component() {
   const [searchParams] = useSearchParams()

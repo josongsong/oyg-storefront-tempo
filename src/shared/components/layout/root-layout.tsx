@@ -1,6 +1,7 @@
+import { useState, useEffect } from 'react'
 import { Outlet, useNavigate } from 'react-router-dom'
-import { useDocumentTitle } from '@/shared/hooks/use-document-title'
 
+import { useDocumentTitle } from '@/shared/hooks/use-document-title'
 import { Header, Footer } from '@/widgets'
 import { QuickShopModal } from '@/features/product/components'
 import { AuthPopup } from '@/features/auth/components'
@@ -9,12 +10,20 @@ import { LuckyDrawPopup } from '@/features/promotion/components'
 import { AIAgent } from '@/features/ai-assistant/components'
 import { Toast } from '@/shared/components/ui/toast'
 import { NavigationProgress } from '@/shared/components/navigation/navigation-progress'
-import { MOCK_PRODUCTS } from '@/features/product/mocks'
 import { ScrollToTop } from '@/shared/components'
+import { getProducts } from '@/features/product/api/product-provider'
+
+import type { GlossierProduct } from '@/shared/types/glossier'
 
 export function RootLayout() {
   const navigate = useNavigate()
   useDocumentTitle()
+  
+  const [products, setProducts] = useState<GlossierProduct[]>([])
+
+  useEffect(() => {
+    getProducts().then(data => setProducts(data.slice(0, 20)))
+  }, [])
 
   return (
     <div className="min-h-screen bg-white">
@@ -29,7 +38,7 @@ export function RootLayout() {
           }
         }}
         onLogoClick={() => navigate('/')}
-        products={MOCK_PRODUCTS}
+        products={products}
       />
       <main>
         <Outlet />

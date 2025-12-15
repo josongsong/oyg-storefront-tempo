@@ -211,7 +211,7 @@ export const useCartStore = create<CartState>()(
         },
         onRehydrateStorage: () => (_state, error) => {
           if (error) {
-            console.error('Failed to rehydrate cart:', error)
+            logger.error('Failed to rehydrate cart:', error)
           }
         },
       }

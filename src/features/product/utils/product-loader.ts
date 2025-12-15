@@ -1,3 +1,5 @@
+import { logger } from '@/shared/utils/logger'
+
 import type { ProductData, ProductListItem } from '@/features/product/types'
 
 // Cache for loaded products
@@ -20,11 +22,11 @@ export async function loadAllProducts(): Promise<ProductListItem[]> {
     
     const products: ProductListItem[] = await response.json()
     
-    console.log(`Loaded ${products.length} products`)
+    logger.debug(`Loaded ${products.length} products`)
     productsCache = products
     return products
   } catch (error) {
-    console.error('Failed to load products:', error)
+    logger.error('Failed to load products:', error)
     return []
   }
 }
@@ -159,21 +161,21 @@ export async function loadProductById(productId: string): Promise<ProductData | 
     const productInfo = products.find(p => p.id === productId) as (ProductListItem & { filename?: string })
     
     if (!productInfo || !productInfo.filename) {
-      console.warn(`Product not found: ${productId}`)
+      logger.warn(`Product not found: ${productId}`)
       return null
     }
     
     // Fetch the full product data using the stored filename
     const response = await fetch(`/cosmetics/data/${productInfo.filename}`)
     if (!response.ok) {
-      console.warn(`Failed to fetch product ${productId}: ${response.statusText}`)
+      logger.warn(`Failed to fetch product ${productId}: ${response.statusText}`)
       return null
     }
     
     const productData: ProductData = await response.json()
     return productData
   } catch (error) {
-    console.error('Failed to load product:', error)
+    logger.error('Failed to load product:', error)
     return null
   }
 }

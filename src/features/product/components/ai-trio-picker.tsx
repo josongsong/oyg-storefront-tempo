@@ -60,7 +60,7 @@ export function AITrioPicker({ onSelectTrio }: AITrioPickerProps) {
         }
       }
     } catch (e) {
-      console.error(e)
+      logger.error(e)
       setError('Something went wrong. Please try again.')
     } finally {
       setLoading(false)

@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react'
 import { X, Gift, Copy } from 'lucide-react'
+
 import { useLuckyDrawStore } from '@/features/promotion/stores'
+import { LUCKY_DRAW_CONFIG } from '@/features/promotion/constants/lucky-draw-config'
 
 const SEGMENTS = [
   { label: '10% OFF', value: '10% Discount Coupon', color: '#F5F5F5', textColor: '#333333' },
@@ -48,7 +50,7 @@ const Confetti = () => {
             '--angle': `${p.angle}deg`,
             '--velocity': p.velocity,
             '--rotation': `${p.rotation}deg`,
-          } as any}
+          } as React.CSSProperties}
         />
       ))}
       <style>{`
@@ -80,9 +82,8 @@ export function LuckyDrawPopup() {
     if (isSpinning || result) return
 
     setIsSpinning(true)
-    const minSpins = 5
     const randomDegree = Math.floor(Math.random() * 360)
-    const totalRotation = minSpins * 360 + randomDegree
+    const totalRotation = LUCKY_DRAW_CONFIG.MIN_SPINS * 360 + randomDegree
     const newRotation = rotation + totalRotation
 
     setRotation(newRotation)
@@ -91,7 +92,7 @@ export function LuckyDrawPopup() {
       setIsSpinning(false)
       calculateResult(newRotation)
       setShowConfetti(true)
-    }, 4000)
+    }, LUCKY_DRAW_CONFIG.SPIN_DURATION)
   }
 
   const calculateResult = (finalRotation: number) => {
@@ -117,7 +118,7 @@ export function LuckyDrawPopup() {
   }
 
   const handleCopyCoupon = () => {
-    navigator.clipboard.writeText('LUCKY2024')
+    navigator.clipboard.writeText(LUCKY_DRAW_CONFIG.COUPON_CODE)
     alert('Coupon code copied to clipboard!')
   }
 

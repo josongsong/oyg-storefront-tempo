@@ -72,7 +72,7 @@ export function NotificationCenter({ isOpen, onClose, triggerRef }: Notification
     markAsRead(notification.id)
     if (notification.link) {
       // Navigate to link if needed
-      console.log('Navigate to:', notification.link)
+      logger.debug('Navigate to:', notification.link)
     }
   }
 

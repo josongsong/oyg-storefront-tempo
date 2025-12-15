@@ -4,7 +4,9 @@
  */
 
 import type { GlossierProduct } from '@/shared/types/glossier'
-import { createGlossierProduct, createProducts as createProductsFactory } from '@/test/factories'
+import { createGlossierProduct } from '@/test/factories'
+import { logger } from '@/shared/utils/logger'
+import { shuffleArray } from '@/shared/utils/product-transformer'
 
 /**
  * 개발 모드인지 확인
@@ -49,7 +51,7 @@ async function fetchRealProducts(): Promise<GlossierProduct[]> {
     const data = await response.json()
     return data
   } catch (error) {
-    console.error('Failed to load real products, falling back to mock:', error)
+    logger.error('Failed to load real products, falling back to mock:', error)
     return generateMockProducts()
   }
 }
@@ -90,5 +92,62 @@ export async function getProductsByCategory(category: string): Promise<GlossierP
   const products = await getProducts()
   // 실제 카테고리 필드가 있다면 필터링
   return products
+}
+
+/**
+ * 추천 상품 가져오기
+ */
+export async function getRecommendedProducts(
+  productId?: string,
+  count: number = 6
+): Promise<GlossierProduct[]> {
+  const products = await getProducts()
+  
+  // productId가 있으면 해당 상품 제외
+  const filtered = productId
+    ? products.filter(p => String(p.id) !== productId)
+    : products
+  
+  // 랜덤 선택
+  return shuffleArray(filtered).slice(0, count)
+}
+
+/**
+ * 유사 상품 가져오기
+ */
+export async function getSimilarProducts(
+  category?: string,
+  count: number = 6
+): Promise<GlossierProduct[]> {
+  const products = await getProducts()
+  
+  // 카테고리 필터링 (실제 구현 시)
+  const filtered = category ? products : products
+  
+  return shuffleArray(filtered).slice(0, count)
+}
+
+/**
+ * 트렌딩 상품 가져오기
+ */
+export async function getTrendingProducts(count: number = 4): Promise<GlossierProduct[]> {
+  const products = await getProducts()
+  
+  // 리뷰 수나 평점 기준 정렬 (실제 구현 시)
+  const sorted = [...products].sort((a, b) => b.reviews - a.reviews)
+  
+  return sorted.slice(0, count)
+}
+
+/**
+ * 위시리스트 추천 상품
+ */
+export async function getWishlistSuggestions(count: number = 5): Promise<GlossierProduct[]> {
+  const products = await getProducts()
+  
+  // 높은 평점 상품 우선
+  const sorted = [...products].sort((a, b) => b.rating - a.rating)
+  
+  return sorted.slice(0, count)
 }
 

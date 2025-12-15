@@ -1,8 +1,18 @@
+import { useState, useEffect } from 'react'
+
 import { ProductCard } from '@/features/product/components'
-import { MOCK_PRODUCTS } from '@/features/product/mocks'
 import { TRENDING_CONTENT } from '@/features/home/constants'
+import { getTrendingProducts } from '@/features/product/api/product-provider'
+
+import type { GlossierProduct } from '@/shared/types/glossier'
 
 export function TrendingSection() {
+  const [products, setProducts] = useState<GlossierProduct[]>([])
+
+  useEffect(() => {
+    getTrendingProducts(4).then(setProducts)
+  }, [])
+
   return (
     <section className="py-16 px-4 md:px-8 max-w-[1600px] mx-auto">
       <div className="flex flex-col md:flex-row gap-8 items-center mb-8">
@@ -20,9 +30,9 @@ export function TrendingSection() {
         <div className="flex-3 w-full">
           <div className="overflow-x-auto hide-scrollbar pb-4">
             <div className="flex gap-4 min-w-max">
-              {MOCK_PRODUCTS.slice(0, 4).map((p, i) => (
+              {products.map((p, i) => (
                 <div key={i} className="w-[200px] md:w-[250px]">
-                  <ProductCard product={{ ...p, id: `trend-${i}` }} variant="compact" />
+                  <ProductCard product={p} variant="compact" />
                 </div>
               ))}
             </div>

@@ -5,6 +5,8 @@
 
 import type { ActionFunctionArgs } from 'react-router-dom'
 import { redirect } from 'react-router-dom'
+
+import { logger } from '@/shared/utils/logger'
 import { productApi } from './service'
 import type { ReviewSubmitData } from '@/features/product/types'
 
@@ -59,7 +61,7 @@ export async function reviewAction({ request, params }: ActionFunctionArgs) {
     // Redirect back to product page
     return redirect(`/products/${slug}`)
   } catch (error) {
-    console.error('Failed to submit review:', error)
+    logger.error('Failed to submit review:', error)
     return { error: 'Failed to submit review. Please try again.' }
   }
 }

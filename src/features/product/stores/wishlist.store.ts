@@ -77,7 +77,7 @@ export const useWishlistStore = create<WishlistState>()(
       }),
       onRehydrateStorage: () => (_state, error) => {
         if (error) {
-          console.error('Failed to rehydrate wishlist:', error)
+          logger.error('Failed to rehydrate wishlist:', error)
         }
       },
     }

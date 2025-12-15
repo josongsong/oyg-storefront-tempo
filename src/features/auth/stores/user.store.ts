@@ -56,7 +56,7 @@ export const useUserStore = create<UserState>()(
         }),
         onRehydrateStorage: () => (_state, error) => {
           if (error) {
-            console.error('Failed to rehydrate user:', error)
+            logger.error('Failed to rehydrate user:', error)
           }
         },
       }

@@ -93,7 +93,7 @@ export function Component() {
       addToast('리뷰가 성공적으로 등록되었습니다', 'success')
       navigate(`/products/${slug}`)
     } catch (error) {
-      console.error('Failed to submit review:', error)
+      logger.error('Failed to submit review:', error)
       addToast('리뷰 등록에 실패했습니다. 다시 시도해주세요.', 'error')
     }
   }

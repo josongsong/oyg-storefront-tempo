@@ -1,11 +1,23 @@
+import { useState, useEffect } from 'react'
 import { ChevronRight, Heart } from 'lucide-react'
+import { useNavigate } from 'react-router-dom'
 
 import { CartItem, OrderSummary } from '@/features/cart/components'
-import { SIMILAR_ITEMS, WISHLIST_ITEMS } from '@/features/cart/mocks'
 import { useCartStore } from '@/features/cart/stores'
 import { useWishlistStore } from '@/features/product/stores'
-import { useNavigate } from 'react-router-dom'
 import { cartMessages } from '@/features/cart/i18n'
+import { getRecommendedProducts, getWishlistSuggestions } from '@/features/product/api/product-provider'
+import { 
+  RECOMMENDATION_CONFIG, 
+  DEFAULT_PRODUCT_META, 
+  SHIPPING_CONFIG, 
+  TAX_CONFIG 
+} from '@/features/cart/constants'
+import { createCartItemId } from '@/features/cart/types'
+import { logger } from '@/shared/utils/logger'
+
+import type { GlossierProduct } from '@/shared/types/glossier'
+import type { CartItem as CartItemType } from '@/features/cart/types/cart-item'
 
 export function Component() {
   const navigate = useNavigate()
@@ -13,17 +25,30 @@ export function Component() {
   const { addItem: addToWishlist } = useWishlistStore()
   const items = getItems()
   const summary = getSummary()
+  
+  const [similarItems, setSimilarItems] = useState<GlossierProduct[]>([])
+  const [wishlistItems, setWishlistItems] = useState<GlossierProduct[]>([])
+
+  useEffect(() => {
+    Promise.all([
+      getRecommendedProducts(undefined, RECOMMENDATION_CONFIG.SIMILAR_ITEMS_COUNT),
+      getWishlistSuggestions(RECOMMENDATION_CONFIG.YOU_MAY_LIKE_COUNT)
+    ]).then(([similar, wishlist]) => {
+      setSimilarItems(similar)
+      setWishlistItems(wishlist)
+    })
+  }, [])
 
   const handleUpdateQuantity = (id: string, quantity: number) => {
-    updateQuantity(id as any, quantity)
+    updateQuantity(createCartItemId(id), quantity)
   }
 
   const handleRemove = (id: string) => {
-    removeItem(id as any)
+    removeItem(createCartItemId(id))
   }
 
   const handleMoveToWishlist = (id: string) => {
-    const item = items.find((i: any) => i.id === id)
+    const item = items.find((i): i is CartItemType => i.id === id)
     if (item) {
       addToWishlist({
         id: item.productId,
@@ -31,22 +56,22 @@ export function Component() {
         brand: item.brand,
         price: String(item.price),
         image: item.image,
-        rating: 4.5,
-        reviews: 100,
+        rating: DEFAULT_PRODUCT_META.RATING,
+        reviews: DEFAULT_PRODUCT_META.REVIEWS,
       })
     }
-    removeItem(id as any)
+    removeItem(createCartItemId(id))
   }
 
   const handleChangeShade = (id: string, _shade: string) => {
-    const currentItem = items.find((i: any) => i.id === id)
+    const currentItem = items.find((i): i is CartItemType => i.id === id)
     if (currentItem?.quantity) {
-      updateQuantity(id as any, currentItem.quantity)
+      updateQuantity(createCartItemId(id), currentItem.quantity)
     }
   }
 
   const handleApplyPromo = (code: string) => {
-    console.log('Apply promo:', code)
+    logger.debug('Apply promo:', code)
   }
 
   const handleCheckout = () => {
@@ -55,9 +80,13 @@ export function Component() {
 
   // 계산
   const subtotal = summary.subtotal
-  const shipping = subtotal >= 60 ? 0 : 10
-  const shippingDiscount = subtotal >= 60 ? 10 : 0
-  const gst = subtotal * 0.07 // 7% GST
+  const shipping = subtotal >= SHIPPING_CONFIG.FREE_SHIPPING_THRESHOLD 
+    ? 0 
+    : SHIPPING_CONFIG.STANDARD_SHIPPING_COST
+  const shippingDiscount = subtotal >= SHIPPING_CONFIG.FREE_SHIPPING_THRESHOLD 
+    ? SHIPPING_CONFIG.STANDARD_SHIPPING_COST 
+    : 0
+  const gst = subtotal * TAX_CONFIG.GST_RATE
   const total = subtotal + shipping - shippingDiscount
 
   // 빈 카트 처리
@@ -95,7 +124,7 @@ export function Component() {
         <div className="lg:col-span-2">
           {/* Cart Items */}
           <div className="mb-8">
-              {items.map((item: any) => (
+              {items.map((item) => (
               <CartItem
                 key={item.id}
                 item={{
@@ -140,12 +169,12 @@ export function Component() {
       {/* Carousels - Below cart and order summary */}
       <div>
         {/* From your wishlist */}
-        {WISHLIST_ITEMS.length > 0 && (
+        {wishlistItems.length > 0 && (
           <div className="mb-12 pb-12 border-b border-gray-200">
               <h2 className="text-xl font-medium mb-6">From your wishlist</h2>
               <div className="overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0">
                 <div className="flex gap-4 pb-2" style={{ minWidth: 'min-content' }}>
-                  {WISHLIST_ITEMS.map((item) => (
+                  {wishlistItems.map((item) => (
                     <div key={item.id} className="group cursor-pointer shrink-0 w-48">
                       <div className="relative aspect-square bg-gray-50 overflow-hidden mb-3">
                         <button className="absolute top-2 right-2 z-10 p-2 bg-white rounded-full hover:bg-gray-100">
@@ -158,7 +187,7 @@ export function Component() {
                       </div>
                       <h3 className="text-[10px] font-bold uppercase mb-1">{item.brand}</h3>
                       <p className="text-xs text-gray-900 leading-tight mb-2 line-clamp-2">{item.name}</p>
-                      <div className="text-sm font-medium mb-1">${item.price.toFixed(2)}</div>
+                      <div className="text-sm font-medium mb-1">{item.price}</div>
                       <div className="flex items-center gap-1">
                         <div className="flex">
                           {[...Array(5)].map((_, i) => (
@@ -187,18 +216,13 @@ export function Component() {
 
           <div className="overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0">
             <div className="flex gap-4 pb-2" style={{ minWidth: 'min-content' }}>
-              {SIMILAR_ITEMS.map((item) => (
+              {similarItems.map((item) => (
                 <div key={item.id} className="group cursor-pointer shrink-0 w-48">
                   <div className="relative aspect-square bg-gray-50 overflow-hidden mb-3">
                     <div className="absolute top-2 left-2 z-10 flex flex-col gap-1">
                       {item.badge && (
                         <span className="bg-white border border-black text-black text-[9px] font-bold px-2 py-1 uppercase leading-tight">
                           {item.badge}
-                        </span>
-                      )}
-                      {item.badgeSecondary && (
-                        <span className="bg-yellow-300 text-black text-[9px] font-bold px-2 py-1 uppercase leading-tight">
-                          {item.badgeSecondary}
                         </span>
                       )}
                     </div>
@@ -214,21 +238,20 @@ export function Component() {
                   <p className="text-xs text-gray-900 leading-tight mb-2 line-clamp-2">{item.name}</p>
                   <div className="flex items-center gap-2 mb-1">
                     {item.originalPrice && (
-                      <span className="text-xs text-gray-400 line-through">${item.originalPrice.toFixed(2)}</span>
+                      <span className="text-xs text-gray-400 line-through">{item.originalPrice}</span>
                     )}
-                    <span className="text-sm font-bold">${item.price.toFixed(2)}</span>
+                    <span className="text-sm font-bold">{item.price}</span>
                   </div>
                   <div className="flex items-center gap-1">
                     <div className="flex">
                       {[...Array(5)].map((_, i) => (
-                        <span key={i} className={`text-[10px] ${i < item.rating ? 'text-black' : 'text-gray-300'}`}>
+                        <span key={i} className={`text-[10px] ${i < Math.floor(item.rating) ? 'text-black' : 'text-gray-300'}`}>
                           ★
                         </span>
                       ))}
                     </div>
                     {item.reviews > 0 && <span className="text-[10px] text-gray-500">({item.reviews})</span>}
                   </div>
-                  {item.isNew && <span className="inline-block text-[9px] font-semibold text-gray-500 mt-1">NEW</span>}
                 </div>
               ))}
             </div>
